@@ -1,5 +1,7 @@
 # Uzbek–English MT: Pre-Registered Blind Human Evaluation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21822493.svg)](https://doi.org/10.5281/zenodo.21822493)
+
 Evaluation materials accompanying the paper:
 
 > Sirojiddinov, Z. Sh., & Khakimov, M. Kh. *What Single-Reference BLEU Cannot Show:
@@ -172,11 +174,12 @@ The FLORES-200 subset is redistributed under the terms of its original licence
                   (corpus, outputs, ratings, scripts)},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.21822493}
 }
 ```
 
-Replace the DOI with the one minted for this release.
+The DOI above is the *concept DOI*: it always resolves to the latest version of this
+release. Individual versions have their own DOIs (v1.0.1: 10.5281/zenodo.21822587).
 
 ---
 
