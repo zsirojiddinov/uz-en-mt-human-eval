@@ -1,0 +1,137 @@
+{
+ "main": {
+  "tag": "REAL",
+  "n_items": 216,
+  "boot_seed": 20260703,
+  "boot_n": 1000,
+  "segment_spearman": {
+   "BLEU": {
+    "rho": 0.766,
+    "ci95": [
+     0.713,
+     0.805
+    ]
+   },
+   "chrF": {
+    "rho": 0.698,
+    "ci95": [
+     0.618,
+     0.758
+    ]
+   },
+   "KKT-RS-v1": {
+    "rho": 0.223,
+    "ci95": [
+     0.08,
+     0.354
+    ]
+   },
+   "KKT-RS-v2": {
+    "rho": 0.569,
+    "ci95": [
+     0.469,
+     0.658
+    ]
+   }
+  },
+  "segment_pearson": {
+   "BLEU": 0.662,
+   "chrF": 0.699,
+   "KKT-RS-v1": 0.31,
+   "KKT-RS-v2": 0.583
+  },
+  "per_layer": {
+   "flores": {
+    "n": 108,
+    "BLEU": 0.66,
+    "chrF": 0.557,
+    "KKT-RS-v1": -0.053,
+    "KKT-RS-v2": 0.473
+   },
+   "train": {
+    "n": 72,
+    "BLEU": 0.726,
+    "chrF": 0.667,
+    "KKT-RS-v1": -0.115,
+    "KKT-RS-v2": 0.482
+   },
+   "gold": {
+    "n": 36,
+    "BLEU": 0.289,
+    "chrF": 0.302,
+    "KKT-RS-v1": 0.232,
+    "KKT-RS-v2": 0.222
+   }
+  },
+  "diff_ci": {
+   "KKT-RS-v2 − BLEU": {
+    "delta": -0.197,
+    "ci95": [
+     -0.288,
+     -0.112
+    ],
+    "excludes_0": true
+   },
+   "KKT-RS-v2 − chrF": {
+    "delta": -0.129,
+    "ci95": [
+     -0.22,
+     -0.038
+    ],
+    "excludes_0": true
+   }
+  },
+  "low_bleu_kendall": {
+   "n": 112,
+   "BLEU": 0.156,
+   "chrF": 0.018,
+   "KKT-RS-v1": -0.015,
+   "KKT-RS-v2": 0.142
+  },
+  "system_level": {
+   "s1": {
+    "n": 72,
+    "human_mazmun": 3.007,
+    "BLEU": 13.258,
+    "chrF": 47.447,
+    "KKT-RS-v1": 0.584,
+    "KKT-RS-v2": 0.62
+   },
+   "s2": {
+    "n": 72,
+    "human_mazmun": 2.986,
+    "BLEU": 12.933,
+    "chrF": 47.219,
+    "KKT-RS-v1": 0.577,
+    "KKT-RS-v2": 0.609
+   },
+   "gemini": {
+    "n": 72,
+    "human_mazmun": 4.556,
+    "BLEU": 40.989,
+    "chrF": 70.325,
+    "KKT-RS-v1": 0.579,
+    "KKT-RS-v2": 0.804
+   }
+  }
+ },
+ "sensitivity": null,
+ "consensus": {
+  "pair": {
+   "B-C": {
+    "mazmun": 0.53,
+    "ravonlik": 0.487
+   }
+  },
+  "mean_pair": {
+   "B": 0.53,
+   "C": 0.53
+  },
+  "trigger": null
+ },
+ "validation": {
+  "defective": [],
+  "n_valid": 216
+ },
+ "dry_run": false
+}

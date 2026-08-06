@@ -1,0 +1,866 @@
+{
+ "IT000": {
+  "gap_id": "flores-14",
+  "system": "gemini"
+ },
+ "IT001": {
+  "gap_id": "gold-05",
+  "system": "gemini"
+ },
+ "IT002": {
+  "gap_id": "flores-02",
+  "system": "s2"
+ },
+ "IT003": {
+  "gap_id": "flores-34",
+  "system": "s1"
+ },
+ "IT004": {
+  "gap_id": "train-00",
+  "system": "gemini"
+ },
+ "IT005": {
+  "gap_id": "flores-09",
+  "system": "gemini"
+ },
+ "IT006": {
+  "gap_id": "flores-03",
+  "system": "gemini"
+ },
+ "IT007": {
+  "gap_id": "train-08",
+  "system": "s1"
+ },
+ "IT008": {
+  "gap_id": "train-02",
+  "system": "s2"
+ },
+ "IT009": {
+  "gap_id": "train-02",
+  "system": "s1"
+ },
+ "IT010": {
+  "gap_id": "train-23",
+  "system": "s2"
+ },
+ "IT011": {
+  "gap_id": "flores-04",
+  "system": "s2"
+ },
+ "IT012": {
+  "gap_id": "flores-25",
+  "system": "gemini"
+ },
+ "IT013": {
+  "gap_id": "flores-28",
+  "system": "s2"
+ },
+ "IT014": {
+  "gap_id": "train-18",
+  "system": "s2"
+ },
+ "IT015": {
+  "gap_id": "gold-11",
+  "system": "gemini"
+ },
+ "IT016": {
+  "gap_id": "gold-06",
+  "system": "s2"
+ },
+ "IT017": {
+  "gap_id": "train-01",
+  "system": "gemini"
+ },
+ "IT018": {
+  "gap_id": "flores-00",
+  "system": "s1"
+ },
+ "IT019": {
+  "gap_id": "train-01",
+  "system": "s1"
+ },
+ "IT020": {
+  "gap_id": "flores-18",
+  "system": "s1"
+ },
+ "IT021": {
+  "gap_id": "train-01",
+  "system": "s2"
+ },
+ "IT022": {
+  "gap_id": "train-16",
+  "system": "s2"
+ },
+ "IT023": {
+  "gap_id": "train-21",
+  "system": "s2"
+ },
+ "IT024": {
+  "gap_id": "flores-08",
+  "system": "gemini"
+ },
+ "IT025": {
+  "gap_id": "flores-31",
+  "system": "gemini"
+ },
+ "IT026": {
+  "gap_id": "flores-35",
+  "system": "gemini"
+ },
+ "IT027": {
+  "gap_id": "train-08",
+  "system": "gemini"
+ },
+ "IT028": {
+  "gap_id": "gold-00",
+  "system": "gemini"
+ },
+ "IT029": {
+  "gap_id": "train-14",
+  "system": "s2"
+ },
+ "IT030": {
+  "gap_id": "gold-07",
+  "system": "s1"
+ },
+ "IT031": {
+  "gap_id": "train-00",
+  "system": "s2"
+ },
+ "IT032": {
+  "gap_id": "gold-01",
+  "system": "gemini"
+ },
+ "IT033": {
+  "gap_id": "train-03",
+  "system": "gemini"
+ },
+ "IT034": {
+  "gap_id": "flores-11",
+  "system": "gemini"
+ },
+ "IT035": {
+  "gap_id": "flores-15",
+  "system": "s1"
+ },
+ "IT036": {
+  "gap_id": "train-09",
+  "system": "gemini"
+ },
+ "IT037": {
+  "gap_id": "flores-13",
+  "system": "s2"
+ },
+ "IT038": {
+  "gap_id": "train-11",
+  "system": "gemini"
+ },
+ "IT039": {
+  "gap_id": "flores-32",
+  "system": "s2"
+ },
+ "IT040": {
+  "gap_id": "flores-06",
+  "system": "gemini"
+ },
+ "IT041": {
+  "gap_id": "gold-11",
+  "system": "s1"
+ },
+ "IT042": {
+  "gap_id": "gold-01",
+  "system": "s1"
+ },
+ "IT043": {
+  "gap_id": "flores-29",
+  "system": "s1"
+ },
+ "IT044": {
+  "gap_id": "flores-28",
+  "system": "s1"
+ },
+ "IT045": {
+  "gap_id": "train-13",
+  "system": "gemini"
+ },
+ "IT046": {
+  "gap_id": "gold-08",
+  "system": "s1"
+ },
+ "IT047": {
+  "gap_id": "flores-12",
+  "system": "s2"
+ },
+ "IT048": {
+  "gap_id": "flores-02",
+  "system": "gemini"
+ },
+ "IT049": {
+  "gap_id": "flores-01",
+  "system": "gemini"
+ },
+ "IT050": {
+  "gap_id": "gold-08",
+  "system": "s2"
+ },
+ "IT051": {
+  "gap_id": "gold-03",
+  "system": "s1"
+ },
+ "IT052": {
+  "gap_id": "flores-27",
+  "system": "gemini"
+ },
+ "IT053": {
+  "gap_id": "train-20",
+  "system": "gemini"
+ },
+ "IT054": {
+  "gap_id": "flores-16",
+  "system": "s2"
+ },
+ "IT055": {
+  "gap_id": "flores-04",
+  "system": "s1"
+ },
+ "IT056": {
+  "gap_id": "flores-35",
+  "system": "s1"
+ },
+ "IT057": {
+  "gap_id": "train-12",
+  "system": "s1"
+ },
+ "IT058": {
+  "gap_id": "flores-30",
+  "system": "gemini"
+ },
+ "IT059": {
+  "gap_id": "train-12",
+  "system": "s2"
+ },
+ "IT060": {
+  "gap_id": "flores-33",
+  "system": "s2"
+ },
+ "IT061": {
+  "gap_id": "train-22",
+  "system": "s2"
+ },
+ "IT062": {
+  "gap_id": "flores-11",
+  "system": "s1"
+ },
+ "IT063": {
+  "gap_id": "train-07",
+  "system": "s1"
+ },
+ "IT064": {
+  "gap_id": "flores-17",
+  "system": "s2"
+ },
+ "IT065": {
+  "gap_id": "train-05",
+  "system": "gemini"
+ },
+ "IT066": {
+  "gap_id": "train-15",
+  "system": "s2"
+ },
+ "IT067": {
+  "gap_id": "train-09",
+  "system": "s2"
+ },
+ "IT068": {
+  "gap_id": "train-21",
+  "system": "s1"
+ },
+ "IT069": {
+  "gap_id": "gold-11",
+  "system": "s2"
+ },
+ "IT070": {
+  "gap_id": "train-20",
+  "system": "s1"
+ },
+ "IT071": {
+  "gap_id": "flores-05",
+  "system": "gemini"
+ },
+ "IT072": {
+  "gap_id": "train-14",
+  "system": "s1"
+ },
+ "IT073": {
+  "gap_id": "flores-04",
+  "system": "gemini"
+ },
+ "IT074": {
+  "gap_id": "flores-20",
+  "system": "s1"
+ },
+ "IT075": {
+  "gap_id": "flores-15",
+  "system": "s2"
+ },
+ "IT076": {
+  "gap_id": "train-16",
+  "system": "s1"
+ },
+ "IT077": {
+  "gap_id": "flores-10",
+  "system": "s1"
+ },
+ "IT078": {
+  "gap_id": "flores-08",
+  "system": "s2"
+ },
+ "IT079": {
+  "gap_id": "gold-04",
+  "system": "s1"
+ },
+ "IT080": {
+  "gap_id": "train-04",
+  "system": "gemini"
+ },
+ "IT081": {
+  "gap_id": "flores-26",
+  "system": "gemini"
+ },
+ "IT082": {
+  "gap_id": "gold-02",
+  "system": "s2"
+ },
+ "IT083": {
+  "gap_id": "gold-05",
+  "system": "s1"
+ },
+ "IT084": {
+  "gap_id": "flores-18",
+  "system": "gemini"
+ },
+ "IT085": {
+  "gap_id": "flores-10",
+  "system": "gemini"
+ },
+ "IT086": {
+  "gap_id": "gold-10",
+  "system": "s1"
+ },
+ "IT087": {
+  "gap_id": "train-16",
+  "system": "gemini"
+ },
+ "IT088": {
+  "gap_id": "train-04",
+  "system": "s1"
+ },
+ "IT089": {
+  "gap_id": "gold-01",
+  "system": "s2"
+ },
+ "IT090": {
+  "gap_id": "flores-26",
+  "system": "s1"
+ },
+ "IT091": {
+  "gap_id": "flores-30",
+  "system": "s2"
+ },
+ "IT092": {
+  "gap_id": "flores-25",
+  "system": "s1"
+ },
+ "IT093": {
+  "gap_id": "flores-01",
+  "system": "s1"
+ },
+ "IT094": {
+  "gap_id": "train-23",
+  "system": "s1"
+ },
+ "IT095": {
+  "gap_id": "train-19",
+  "system": "s2"
+ },
+ "IT096": {
+  "gap_id": "flores-09",
+  "system": "s2"
+ },
+ "IT097": {
+  "gap_id": "gold-09",
+  "system": "s1"
+ },
+ "IT098": {
+  "gap_id": "gold-04",
+  "system": "gemini"
+ },
+ "IT099": {
+  "gap_id": "train-19",
+  "system": "s1"
+ },
+ "IT100": {
+  "gap_id": "gold-06",
+  "system": "gemini"
+ },
+ "IT101": {
+  "gap_id": "flores-07",
+  "system": "s1"
+ },
+ "IT102": {
+  "gap_id": "gold-08",
+  "system": "gemini"
+ },
+ "IT103": {
+  "gap_id": "flores-20",
+  "system": "gemini"
+ },
+ "IT104": {
+  "gap_id": "gold-10",
+  "system": "gemini"
+ },
+ "IT105": {
+  "gap_id": "flores-33",
+  "system": "gemini"
+ },
+ "IT106": {
+  "gap_id": "flores-34",
+  "system": "s2"
+ },
+ "IT107": {
+  "gap_id": "flores-06",
+  "system": "s1"
+ },
+ "IT108": {
+  "gap_id": "train-13",
+  "system": "s2"
+ },
+ "IT109": {
+  "gap_id": "flores-28",
+  "system": "gemini"
+ },
+ "IT110": {
+  "gap_id": "flores-13",
+  "system": "gemini"
+ },
+ "IT111": {
+  "gap_id": "flores-05",
+  "system": "s2"
+ },
+ "IT112": {
+  "gap_id": "flores-19",
+  "system": "gemini"
+ },
+ "IT113": {
+  "gap_id": "flores-31",
+  "system": "s1"
+ },
+ "IT114": {
+  "gap_id": "flores-30",
+  "system": "s1"
+ },
+ "IT115": {
+  "gap_id": "train-15",
+  "system": "s1"
+ },
+ "IT116": {
+  "gap_id": "train-07",
+  "system": "gemini"
+ },
+ "IT117": {
+  "gap_id": "gold-02",
+  "system": "gemini"
+ },
+ "IT118": {
+  "gap_id": "train-14",
+  "system": "gemini"
+ },
+ "IT119": {
+  "gap_id": "flores-25",
+  "system": "s2"
+ },
+ "IT120": {
+  "gap_id": "flores-17",
+  "system": "s1"
+ },
+ "IT121": {
+  "gap_id": "flores-19",
+  "system": "s2"
+ },
+ "IT122": {
+  "gap_id": "train-06",
+  "system": "gemini"
+ },
+ "IT123": {
+  "gap_id": "flores-21",
+  "system": "s1"
+ },
+ "IT124": {
+  "gap_id": "flores-20",
+  "system": "s2"
+ },
+ "IT125": {
+  "gap_id": "flores-29",
+  "system": "gemini"
+ },
+ "IT126": {
+  "gap_id": "flores-12",
+  "system": "s1"
+ },
+ "IT127": {
+  "gap_id": "gold-03",
+  "system": "s2"
+ },
+ "IT128": {
+  "gap_id": "flores-24",
+  "system": "s1"
+ },
+ "IT129": {
+  "gap_id": "train-22",
+  "system": "gemini"
+ },
+ "IT130": {
+  "gap_id": "train-17",
+  "system": "gemini"
+ },
+ "IT131": {
+  "gap_id": "flores-27",
+  "system": "s2"
+ },
+ "IT132": {
+  "gap_id": "flores-19",
+  "system": "s1"
+ },
+ "IT133": {
+  "gap_id": "train-19",
+  "system": "gemini"
+ },
+ "IT134": {
+  "gap_id": "flores-23",
+  "system": "s2"
+ },
+ "IT135": {
+  "gap_id": "flores-06",
+  "system": "s2"
+ },
+ "IT136": {
+  "gap_id": "train-10",
+  "system": "gemini"
+ },
+ "IT137": {
+  "gap_id": "flores-03",
+  "system": "s2"
+ },
+ "IT138": {
+  "gap_id": "flores-16",
+  "system": "gemini"
+ },
+ "IT139": {
+  "gap_id": "train-05",
+  "system": "s2"
+ },
+ "IT140": {
+  "gap_id": "flores-22",
+  "system": "s2"
+ },
+ "IT141": {
+  "gap_id": "train-02",
+  "system": "gemini"
+ },
+ "IT142": {
+  "gap_id": "flores-13",
+  "system": "s1"
+ },
+ "IT143": {
+  "gap_id": "train-11",
+  "system": "s1"
+ },
+ "IT144": {
+  "gap_id": "gold-09",
+  "system": "gemini"
+ },
+ "IT145": {
+  "gap_id": "train-11",
+  "system": "s2"
+ },
+ "IT146": {
+  "gap_id": "gold-05",
+  "system": "s2"
+ },
+ "IT147": {
+  "gap_id": "flores-23",
+  "system": "s1"
+ },
+ "IT148": {
+  "gap_id": "flores-16",
+  "system": "s1"
+ },
+ "IT149": {
+  "gap_id": "train-17",
+  "system": "s1"
+ },
+ "IT150": {
+  "gap_id": "flores-07",
+  "system": "s2"
+ },
+ "IT151": {
+  "gap_id": "flores-07",
+  "system": "gemini"
+ },
+ "IT152": {
+  "gap_id": "gold-07",
+  "system": "gemini"
+ },
+ "IT153": {
+  "gap_id": "train-10",
+  "system": "s2"
+ },
+ "IT154": {
+  "gap_id": "flores-35",
+  "system": "s2"
+ },
+ "IT155": {
+  "gap_id": "flores-14",
+  "system": "s1"
+ },
+ "IT156": {
+  "gap_id": "flores-00",
+  "system": "s2"
+ },
+ "IT157": {
+  "gap_id": "flores-26",
+  "system": "s2"
+ },
+ "IT158": {
+  "gap_id": "flores-32",
+  "system": "gemini"
+ },
+ "IT159": {
+  "gap_id": "train-07",
+  "system": "s2"
+ },
+ "IT160": {
+  "gap_id": "flores-31",
+  "system": "s2"
+ },
+ "IT161": {
+  "gap_id": "train-03",
+  "system": "s1"
+ },
+ "IT162": {
+  "gap_id": "train-12",
+  "system": "gemini"
+ },
+ "IT163": {
+  "gap_id": "train-21",
+  "system": "gemini"
+ },
+ "IT164": {
+  "gap_id": "flores-21",
+  "system": "gemini"
+ },
+ "IT165": {
+  "gap_id": "gold-02",
+  "system": "s1"
+ },
+ "IT166": {
+  "gap_id": "flores-21",
+  "system": "s2"
+ },
+ "IT167": {
+  "gap_id": "flores-34",
+  "system": "gemini"
+ },
+ "IT168": {
+  "gap_id": "train-18",
+  "system": "s1"
+ },
+ "IT169": {
+  "gap_id": "train-20",
+  "system": "s2"
+ },
+ "IT170": {
+  "gap_id": "train-22",
+  "system": "s1"
+ },
+ "IT171": {
+  "gap_id": "gold-00",
+  "system": "s1"
+ },
+ "IT172": {
+  "gap_id": "flores-14",
+  "system": "s2"
+ },
+ "IT173": {
+  "gap_id": "flores-18",
+  "system": "s2"
+ },
+ "IT174": {
+  "gap_id": "flores-24",
+  "system": "gemini"
+ },
+ "IT175": {
+  "gap_id": "flores-27",
+  "system": "s1"
+ },
+ "IT176": {
+  "gap_id": "flores-10",
+  "system": "s2"
+ },
+ "IT177": {
+  "gap_id": "train-06",
+  "system": "s1"
+ },
+ "IT178": {
+  "gap_id": "flores-33",
+  "system": "s1"
+ },
+ "IT179": {
+  "gap_id": "train-17",
+  "system": "s2"
+ },
+ "IT180": {
+  "gap_id": "flores-24",
+  "system": "s2"
+ },
+ "IT181": {
+  "gap_id": "train-08",
+  "system": "s2"
+ },
+ "IT182": {
+  "gap_id": "flores-22",
+  "system": "gemini"
+ },
+ "IT183": {
+  "gap_id": "train-09",
+  "system": "s1"
+ },
+ "IT184": {
+  "gap_id": "gold-09",
+  "system": "s2"
+ },
+ "IT185": {
+  "gap_id": "flores-00",
+  "system": "gemini"
+ },
+ "IT186": {
+  "gap_id": "gold-03",
+  "system": "gemini"
+ },
+ "IT187": {
+  "gap_id": "flores-05",
+  "system": "s1"
+ },
+ "IT188": {
+  "gap_id": "train-15",
+  "system": "gemini"
+ },
+ "IT189": {
+  "gap_id": "gold-04",
+  "system": "s2"
+ },
+ "IT190": {
+  "gap_id": "gold-10",
+  "system": "s2"
+ },
+ "IT191": {
+  "gap_id": "gold-07",
+  "system": "s2"
+ },
+ "IT192": {
+  "gap_id": "flores-08",
+  "system": "s1"
+ },
+ "IT193": {
+  "gap_id": "flores-03",
+  "system": "s1"
+ },
+ "IT194": {
+  "gap_id": "flores-11",
+  "system": "s2"
+ },
+ "IT195": {
+  "gap_id": "gold-06",
+  "system": "s1"
+ },
+ "IT196": {
+  "gap_id": "flores-23",
+  "system": "gemini"
+ },
+ "IT197": {
+  "gap_id": "train-00",
+  "system": "s1"
+ },
+ "IT198": {
+  "gap_id": "train-03",
+  "system": "s2"
+ },
+ "IT199": {
+  "gap_id": "flores-12",
+  "system": "gemini"
+ },
+ "IT200": {
+  "gap_id": "train-06",
+  "system": "s2"
+ },
+ "IT201": {
+  "gap_id": "train-10",
+  "system": "s1"
+ },
+ "IT202": {
+  "gap_id": "train-23",
+  "system": "gemini"
+ },
+ "IT203": {
+  "gap_id": "flores-29",
+  "system": "s2"
+ },
+ "IT204": {
+  "gap_id": "flores-22",
+  "system": "s1"
+ },
+ "IT205": {
+  "gap_id": "flores-02",
+  "system": "s1"
+ },
+ "IT206": {
+  "gap_id": "train-13",
+  "system": "s1"
+ },
+ "IT207": {
+  "gap_id": "flores-09",
+  "system": "s1"
+ },
+ "IT208": {
+  "gap_id": "flores-32",
+  "system": "s1"
+ },
+ "IT209": {
+  "gap_id": "flores-01",
+  "system": "s2"
+ },
+ "IT210": {
+  "gap_id": "train-04",
+  "system": "s2"
+ },
+ "IT211": {
+  "gap_id": "train-05",
+  "system": "s1"
+ },
+ "IT212": {
+  "gap_id": "gold-00",
+  "system": "s2"
+ },
+ "IT213": {
+  "gap_id": "flores-15",
+  "system": "gemini"
+ },
+ "IT214": {
+  "gap_id": "train-18",
+  "system": "gemini"
+ },
+ "IT215": {
+  "gap_id": "flores-17",
+  "system": "gemini"
+ }
+}

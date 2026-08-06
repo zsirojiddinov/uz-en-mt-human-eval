@@ -1,0 +1,1946 @@
+{
+ "flores-00::s1": {
+  "gap_id": "flores-00",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 5.817,
+  "chrf": 28.587,
+  "kkt_rs_v1": 0.561,
+  "kkt_rs_v2": 0.411
+ },
+ "flores-00::s2": {
+  "gap_id": "flores-00",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 5.817,
+  "chrf": 28.678,
+  "kkt_rs_v1": 0.561,
+  "kkt_rs_v2": 0.411
+ },
+ "flores-00::gemini": {
+  "gap_id": "flores-00",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 14.323,
+  "chrf": 51.992,
+  "kkt_rs_v1": 0.429,
+  "kkt_rs_v2": 0.729
+ },
+ "flores-01::s1": {
+  "gap_id": "flores-01",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 4.247,
+  "chrf": 32.786,
+  "kkt_rs_v1": 0.523,
+  "kkt_rs_v2": 0.76
+ },
+ "flores-01::s2": {
+  "gap_id": "flores-01",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 4.247,
+  "chrf": 32.786,
+  "kkt_rs_v1": 0.523,
+  "kkt_rs_v2": 0.76
+ },
+ "flores-01::gemini": {
+  "gap_id": "flores-01",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 20.149,
+  "chrf": 61.433,
+  "kkt_rs_v1": 0.656,
+  "kkt_rs_v2": 0.969
+ },
+ "flores-02::s1": {
+  "gap_id": "flores-02",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 9.314,
+  "chrf": 51.507,
+  "kkt_rs_v1": 0.594,
+  "kkt_rs_v2": 0.719
+ },
+ "flores-02::s2": {
+  "gap_id": "flores-02",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 9.314,
+  "chrf": 51.507,
+  "kkt_rs_v1": 0.594,
+  "kkt_rs_v2": 0.719
+ },
+ "flores-02::gemini": {
+  "gap_id": "flores-02",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 14.981,
+  "chrf": 65.043,
+  "kkt_rs_v1": 0.62,
+  "kkt_rs_v2": 0.945
+ },
+ "flores-03::s1": {
+  "gap_id": "flores-03",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 7.769,
+  "chrf": 37.762,
+  "kkt_rs_v1": 0.412,
+  "kkt_rs_v2": 0.85
+ },
+ "flores-03::s2": {
+  "gap_id": "flores-03",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 7.769,
+  "chrf": 37.762,
+  "kkt_rs_v1": 0.412,
+  "kkt_rs_v2": 0.85
+ },
+ "flores-03::gemini": {
+  "gap_id": "flores-03",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 8.839,
+  "chrf": 43.722,
+  "kkt_rs_v1": 0.412,
+  "kkt_rs_v2": 0.85
+ },
+ "flores-04::s1": {
+  "gap_id": "flores-04",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.828,
+  "chrf": 38.397,
+  "kkt_rs_v1": 0.562,
+  "kkt_rs_v2": 0.738
+ },
+ "flores-04::s2": {
+  "gap_id": "flores-04",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.828,
+  "chrf": 38.397,
+  "kkt_rs_v1": 0.562,
+  "kkt_rs_v2": 0.738
+ },
+ "flores-04::gemini": {
+  "gap_id": "flores-04",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 21.021,
+  "chrf": 56.196,
+  "kkt_rs_v1": 0.496,
+  "kkt_rs_v2": 0.671
+ },
+ "flores-05::s1": {
+  "gap_id": "flores-05",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.01,
+  "chrf": 33.196,
+  "kkt_rs_v1": 0.375,
+  "kkt_rs_v2": 0.5
+ },
+ "flores-05::s2": {
+  "gap_id": "flores-05",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 2.664,
+  "chrf": 32.629,
+  "kkt_rs_v1": 0.375,
+  "kkt_rs_v2": 0.5
+ },
+ "flores-05::gemini": {
+  "gap_id": "flores-05",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 19.565,
+  "chrf": 59.374,
+  "kkt_rs_v1": 0.371,
+  "kkt_rs_v2": 0.558
+ },
+ "flores-06::s1": {
+  "gap_id": "flores-06",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 4.789,
+  "chrf": 30.08,
+  "kkt_rs_v1": 0.459,
+  "kkt_rs_v2": 0.621
+ },
+ "flores-06::s2": {
+  "gap_id": "flores-06",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 4.789,
+  "chrf": 30.08,
+  "kkt_rs_v1": 0.459,
+  "kkt_rs_v2": 0.621
+ },
+ "flores-06::gemini": {
+  "gap_id": "flores-06",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 10.128,
+  "chrf": 40.654,
+  "kkt_rs_v1": 0.321,
+  "kkt_rs_v2": 0.621
+ },
+ "flores-07::s1": {
+  "gap_id": "flores-07",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 4.112,
+  "chrf": 19.867,
+  "kkt_rs_v1": 0.561,
+  "kkt_rs_v2": 0.473
+ },
+ "flores-07::s2": {
+  "gap_id": "flores-07",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 4.112,
+  "chrf": 19.867,
+  "kkt_rs_v1": 0.561,
+  "kkt_rs_v2": 0.473
+ },
+ "flores-07::gemini": {
+  "gap_id": "flores-07",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 50.31,
+  "chrf": 76.493,
+  "kkt_rs_v1": 0.491,
+  "kkt_rs_v2": 0.929
+ },
+ "flores-08::s1": {
+  "gap_id": "flores-08",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 5.604,
+  "chrf": 54.54,
+  "kkt_rs_v1": 0.296,
+  "kkt_rs_v2": 0.408
+ },
+ "flores-08::s2": {
+  "gap_id": "flores-08",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 5.604,
+  "chrf": 54.54,
+  "kkt_rs_v1": 0.296,
+  "kkt_rs_v2": 0.408
+ },
+ "flores-08::gemini": {
+  "gap_id": "flores-08",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 61.047,
+  "chrf": 81.164,
+  "kkt_rs_v1": 0.45,
+  "kkt_rs_v2": 0.625
+ },
+ "flores-09::s1": {
+  "gap_id": "flores-09",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.978,
+  "chrf": 38.11,
+  "kkt_rs_v1": 0.412,
+  "kkt_rs_v2": 0.525
+ },
+ "flores-09::s2": {
+  "gap_id": "flores-09",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.978,
+  "chrf": 38.11,
+  "kkt_rs_v1": 0.412,
+  "kkt_rs_v2": 0.525
+ },
+ "flores-09::gemini": {
+  "gap_id": "flores-09",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 34.389,
+  "chrf": 53.978,
+  "kkt_rs_v1": 0.463,
+  "kkt_rs_v2": 0.575
+ },
+ "flores-10::s1": {
+  "gap_id": "flores-10",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.705,
+  "chrf": 19.642,
+  "kkt_rs_v1": 0.348,
+  "kkt_rs_v2": 0.648
+ },
+ "flores-10::s2": {
+  "gap_id": "flores-10",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.705,
+  "chrf": 19.642,
+  "kkt_rs_v1": 0.348,
+  "kkt_rs_v2": 0.648
+ },
+ "flores-10::gemini": {
+  "gap_id": "flores-10",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 17.676,
+  "chrf": 54.392,
+  "kkt_rs_v1": 0.393,
+  "kkt_rs_v2": 0.893
+ },
+ "flores-11::s1": {
+  "gap_id": "flores-11",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.459,
+  "chrf": 15.889,
+  "kkt_rs_v1": 0.062,
+  "kkt_rs_v2": 0.3
+ },
+ "flores-11::s2": {
+  "gap_id": "flores-11",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.459,
+  "chrf": 15.889,
+  "kkt_rs_v1": 0.062,
+  "kkt_rs_v2": 0.3
+ },
+ "flores-11::gemini": {
+  "gap_id": "flores-11",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 19.157,
+  "chrf": 48.881,
+  "kkt_rs_v1": 0.4,
+  "kkt_rs_v2": 0.7
+ },
+ "flores-12::s1": {
+  "gap_id": "flores-12",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 4.593,
+  "chrf": 50.249,
+  "kkt_rs_v1": 0.501,
+  "kkt_rs_v2": 0.489
+ },
+ "flores-12::s2": {
+  "gap_id": "flores-12",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 4.593,
+  "chrf": 49.919,
+  "kkt_rs_v1": 0.501,
+  "kkt_rs_v2": 0.489
+ },
+ "flores-12::gemini": {
+  "gap_id": "flores-12",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 49.644,
+  "chrf": 68.033,
+  "kkt_rs_v1": 0.409,
+  "kkt_rs_v2": 0.597
+ },
+ "flores-13::s1": {
+  "gap_id": "flores-13",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 5.416,
+  "chrf": 34.578,
+  "kkt_rs_v1": 0.602,
+  "kkt_rs_v2": 0.689
+ },
+ "flores-13::s2": {
+  "gap_id": "flores-13",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 5.239,
+  "chrf": 34.134,
+  "kkt_rs_v1": 0.602,
+  "kkt_rs_v2": 0.689
+ },
+ "flores-13::gemini": {
+  "gap_id": "flores-13",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 23.088,
+  "chrf": 53.469,
+  "kkt_rs_v1": 0.498,
+  "kkt_rs_v2": 0.923
+ },
+ "flores-14::s1": {
+  "gap_id": "flores-14",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.173,
+  "chrf": 33.633,
+  "kkt_rs_v1": 0.188,
+  "kkt_rs_v2": 0.388
+ },
+ "flores-14::s2": {
+  "gap_id": "flores-14",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.173,
+  "chrf": 33.633,
+  "kkt_rs_v1": 0.188,
+  "kkt_rs_v2": 0.388
+ },
+ "flores-14::gemini": {
+  "gap_id": "flores-14",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 21.165,
+  "chrf": 55.118,
+  "kkt_rs_v1": 0.324,
+  "kkt_rs_v2": 0.749
+ },
+ "flores-15::s1": {
+  "gap_id": "flores-15",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.387,
+  "chrf": 26.676,
+  "kkt_rs_v1": 0.708,
+  "kkt_rs_v2": 0.808
+ },
+ "flores-15::s2": {
+  "gap_id": "flores-15",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.387,
+  "chrf": 26.676,
+  "kkt_rs_v1": 0.708,
+  "kkt_rs_v2": 0.808
+ },
+ "flores-15::gemini": {
+  "gap_id": "flores-15",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 16.391,
+  "chrf": 45.9,
+  "kkt_rs_v1": 0.562,
+  "kkt_rs_v2": 0.562
+ },
+ "flores-16::s1": {
+  "gap_id": "flores-16",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.392,
+  "chrf": 36.565,
+  "kkt_rs_v1": 0.238,
+  "kkt_rs_v2": 0.238
+ },
+ "flores-16::s2": {
+  "gap_id": "flores-16",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.392,
+  "chrf": 36.565,
+  "kkt_rs_v1": 0.238,
+  "kkt_rs_v2": 0.238
+ },
+ "flores-16::gemini": {
+  "gap_id": "flores-16",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 14.326,
+  "chrf": 67.18,
+  "kkt_rs_v1": 0.434,
+  "kkt_rs_v2": 0.609
+ },
+ "flores-17::s1": {
+  "gap_id": "flores-17",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 2.16,
+  "chrf": 18.641,
+  "kkt_rs_v1": 0.108,
+  "kkt_rs_v2": 0.17
+ },
+ "flores-17::s2": {
+  "gap_id": "flores-17",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 2.16,
+  "chrf": 18.641,
+  "kkt_rs_v1": 0.108,
+  "kkt_rs_v2": 0.17
+ },
+ "flores-17::gemini": {
+  "gap_id": "flores-17",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 3.459,
+  "chrf": 27.159,
+  "kkt_rs_v1": 0.214,
+  "kkt_rs_v2": 0.452
+ },
+ "flores-18::s1": {
+  "gap_id": "flores-18",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 2.725,
+  "chrf": 34.384,
+  "kkt_rs_v1": 0.577,
+  "kkt_rs_v2": 0.639
+ },
+ "flores-18::s2": {
+  "gap_id": "flores-18",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 2.725,
+  "chrf": 34.384,
+  "kkt_rs_v1": 0.577,
+  "kkt_rs_v2": 0.639
+ },
+ "flores-18::gemini": {
+  "gap_id": "flores-18",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 28.461,
+  "chrf": 71.016,
+  "kkt_rs_v1": 0.617,
+  "kkt_rs_v2": 0.942
+ },
+ "flores-19::s1": {
+  "gap_id": "flores-19",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.515,
+  "chrf": 29.907,
+  "kkt_rs_v1": 0.695,
+  "kkt_rs_v2": 0.483
+ },
+ "flores-19::s2": {
+  "gap_id": "flores-19",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.515,
+  "chrf": 29.907,
+  "kkt_rs_v1": 0.695,
+  "kkt_rs_v2": 0.483
+ },
+ "flores-19::gemini": {
+  "gap_id": "flores-19",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 10.353,
+  "chrf": 48.806,
+  "kkt_rs_v1": 0.551,
+  "kkt_rs_v2": 0.864
+ },
+ "flores-20::s1": {
+  "gap_id": "flores-20",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 2.759,
+  "chrf": 27.389,
+  "kkt_rs_v1": 0.661,
+  "kkt_rs_v2": 0.786
+ },
+ "flores-20::s2": {
+  "gap_id": "flores-20",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 2.759,
+  "chrf": 27.389,
+  "kkt_rs_v1": 0.661,
+  "kkt_rs_v2": 0.786
+ },
+ "flores-20::gemini": {
+  "gap_id": "flores-20",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 16.184,
+  "chrf": 59.066,
+  "kkt_rs_v1": 0.551,
+  "kkt_rs_v2": 0.876
+ },
+ "flores-21::s1": {
+  "gap_id": "flores-21",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 6.894,
+  "chrf": 42.568,
+  "kkt_rs_v1": 0.507,
+  "kkt_rs_v2": 0.495
+ },
+ "flores-21::s2": {
+  "gap_id": "flores-21",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 6.894,
+  "chrf": 42.568,
+  "kkt_rs_v1": 0.507,
+  "kkt_rs_v2": 0.495
+ },
+ "flores-21::gemini": {
+  "gap_id": "flores-21",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 29.543,
+  "chrf": 60.052,
+  "kkt_rs_v1": 0.336,
+  "kkt_rs_v2": 0.761
+ },
+ "flores-22::s1": {
+  "gap_id": "flores-22",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 4.705,
+  "chrf": 41.576,
+  "kkt_rs_v1": 0.453,
+  "kkt_rs_v2": 0.516
+ },
+ "flores-22::s2": {
+  "gap_id": "flores-22",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 4.705,
+  "chrf": 41.576,
+  "kkt_rs_v1": 0.453,
+  "kkt_rs_v2": 0.516
+ },
+ "flores-22::gemini": {
+  "gap_id": "flores-22",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 18.173,
+  "chrf": 60.737,
+  "kkt_rs_v1": 0.548,
+  "kkt_rs_v2": 0.636
+ },
+ "flores-23::s1": {
+  "gap_id": "flores-23",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 4.447,
+  "chrf": 41.024,
+  "kkt_rs_v1": 0.613,
+  "kkt_rs_v2": 0.526
+ },
+ "flores-23::s2": {
+  "gap_id": "flores-23",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 4.447,
+  "chrf": 41.024,
+  "kkt_rs_v1": 0.613,
+  "kkt_rs_v2": 0.526
+ },
+ "flores-23::gemini": {
+  "gap_id": "flores-23",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 23.387,
+  "chrf": 58.829,
+  "kkt_rs_v1": 0.403,
+  "kkt_rs_v2": 0.59
+ },
+ "flores-24::s1": {
+  "gap_id": "flores-24",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.255,
+  "chrf": 39.718,
+  "kkt_rs_v1": 0.602,
+  "kkt_rs_v2": 0.69
+ },
+ "flores-24::s2": {
+  "gap_id": "flores-24",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.255,
+  "chrf": 39.718,
+  "kkt_rs_v1": 0.602,
+  "kkt_rs_v2": 0.69
+ },
+ "flores-24::gemini": {
+  "gap_id": "flores-24",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 53.31,
+  "chrf": 72.798,
+  "kkt_rs_v1": 0.528,
+  "kkt_rs_v2": 0.953
+ },
+ "flores-25::s1": {
+  "gap_id": "flores-25",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 1.544,
+  "chrf": 30.197,
+  "kkt_rs_v1": 0.396,
+  "kkt_rs_v2": 0.283
+ },
+ "flores-25::s2": {
+  "gap_id": "flores-25",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 1.58,
+  "chrf": 29.978,
+  "kkt_rs_v1": 0.396,
+  "kkt_rs_v2": 0.283
+ },
+ "flores-25::gemini": {
+  "gap_id": "flores-25",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 16.457,
+  "chrf": 51.08,
+  "kkt_rs_v1": 0.521,
+  "kkt_rs_v2": 0.408
+ },
+ "flores-26::s1": {
+  "gap_id": "flores-26",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 2.904,
+  "chrf": 40.034,
+  "kkt_rs_v1": 0.573,
+  "kkt_rs_v2": 0.673
+ },
+ "flores-26::s2": {
+  "gap_id": "flores-26",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 2.904,
+  "chrf": 40.034,
+  "kkt_rs_v1": 0.573,
+  "kkt_rs_v2": 0.673
+ },
+ "flores-26::gemini": {
+  "gap_id": "flores-26",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 33.735,
+  "chrf": 61.264,
+  "kkt_rs_v1": 0.671,
+  "kkt_rs_v2": 0.771
+ },
+ "flores-27::s1": {
+  "gap_id": "flores-27",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 1.516,
+  "chrf": 32.325,
+  "kkt_rs_v1": 0.452,
+  "kkt_rs_v2": 0.677
+ },
+ "flores-27::s2": {
+  "gap_id": "flores-27",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 1.516,
+  "chrf": 32.325,
+  "kkt_rs_v1": 0.452,
+  "kkt_rs_v2": 0.677
+ },
+ "flores-27::gemini": {
+  "gap_id": "flores-27",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 35.272,
+  "chrf": 66.388,
+  "kkt_rs_v1": 0.693,
+  "kkt_rs_v2": 0.918
+ },
+ "flores-28::s1": {
+  "gap_id": "flores-28",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 5.965,
+  "chrf": 47.095,
+  "kkt_rs_v1": 0.368,
+  "kkt_rs_v2": 0.293
+ },
+ "flores-28::s2": {
+  "gap_id": "flores-28",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 5.965,
+  "chrf": 47.095,
+  "kkt_rs_v1": 0.368,
+  "kkt_rs_v2": 0.293
+ },
+ "flores-28::gemini": {
+  "gap_id": "flores-28",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 56.18,
+  "chrf": 71.364,
+  "kkt_rs_v1": 0.421,
+  "kkt_rs_v2": 0.596
+ },
+ "flores-29::s1": {
+  "gap_id": "flores-29",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.441,
+  "chrf": 40.736,
+  "kkt_rs_v1": 0.529,
+  "kkt_rs_v2": 0.841
+ },
+ "flores-29::s2": {
+  "gap_id": "flores-29",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.109,
+  "chrf": 39.871,
+  "kkt_rs_v1": 0.534,
+  "kkt_rs_v2": 0.847
+ },
+ "flores-29::gemini": {
+  "gap_id": "flores-29",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 29.014,
+  "chrf": 67.652,
+  "kkt_rs_v1": 0.631,
+  "kkt_rs_v2": 0.943
+ },
+ "flores-30::s1": {
+  "gap_id": "flores-30",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 1.772,
+  "chrf": 42.829,
+  "kkt_rs_v1": 0.551,
+  "kkt_rs_v2": 0.464
+ },
+ "flores-30::s2": {
+  "gap_id": "flores-30",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 1.772,
+  "chrf": 42.969,
+  "kkt_rs_v1": 0.542,
+  "kkt_rs_v2": 0.455
+ },
+ "flores-30::gemini": {
+  "gap_id": "flores-30",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 31.208,
+  "chrf": 64.882,
+  "kkt_rs_v1": 0.417,
+  "kkt_rs_v2": 0.917
+ },
+ "flores-31::s1": {
+  "gap_id": "flores-31",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 2.474,
+  "chrf": 39.826,
+  "kkt_rs_v1": 0.656,
+  "kkt_rs_v2": 0.581
+ },
+ "flores-31::s2": {
+  "gap_id": "flores-31",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 2.474,
+  "chrf": 39.826,
+  "kkt_rs_v1": 0.656,
+  "kkt_rs_v2": 0.581
+ },
+ "flores-31::gemini": {
+  "gap_id": "flores-31",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 58.848,
+  "chrf": 77.345,
+  "kkt_rs_v1": 0.619,
+  "kkt_rs_v2": 0.944
+ },
+ "flores-32::s1": {
+  "gap_id": "flores-32",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.131,
+  "chrf": 44.743,
+  "kkt_rs_v1": 0.43,
+  "kkt_rs_v2": 0.242
+ },
+ "flores-32::s2": {
+  "gap_id": "flores-32",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 2.801,
+  "chrf": 44.388,
+  "kkt_rs_v1": 0.43,
+  "kkt_rs_v2": 0.242
+ },
+ "flores-32::gemini": {
+  "gap_id": "flores-32",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 27.023,
+  "chrf": 58.834,
+  "kkt_rs_v1": 0.542,
+  "kkt_rs_v2": 0.355
+ },
+ "flores-33::s1": {
+  "gap_id": "flores-33",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 3.647,
+  "chrf": 37.904,
+  "kkt_rs_v1": 0.601,
+  "kkt_rs_v2": 0.639
+ },
+ "flores-33::s2": {
+  "gap_id": "flores-33",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 3.647,
+  "chrf": 37.904,
+  "kkt_rs_v1": 0.601,
+  "kkt_rs_v2": 0.639
+ },
+ "flores-33::gemini": {
+  "gap_id": "flores-33",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 46.27,
+  "chrf": 75.141,
+  "kkt_rs_v1": 0.663,
+  "kkt_rs_v2": 0.838
+ },
+ "flores-34::s1": {
+  "gap_id": "flores-34",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 2.753,
+  "chrf": 31.488,
+  "kkt_rs_v1": 0.625,
+  "kkt_rs_v2": 0.537
+ },
+ "flores-34::s2": {
+  "gap_id": "flores-34",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 2.753,
+  "chrf": 31.488,
+  "kkt_rs_v1": 0.625,
+  "kkt_rs_v2": 0.537
+ },
+ "flores-34::gemini": {
+  "gap_id": "flores-34",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 68.939,
+  "chrf": 77.11,
+  "kkt_rs_v1": 0.45,
+  "kkt_rs_v2": 0.95
+ },
+ "flores-35::s1": {
+  "gap_id": "flores-35",
+  "system": "s1",
+  "layer": "flores",
+  "bleu": 1.689,
+  "chrf": 34.005,
+  "kkt_rs_v1": 0.775,
+  "kkt_rs_v2": 0.875
+ },
+ "flores-35::s2": {
+  "gap_id": "flores-35",
+  "system": "s2",
+  "layer": "flores",
+  "bleu": 1.689,
+  "chrf": 34.005,
+  "kkt_rs_v1": 0.775,
+  "kkt_rs_v2": 0.875
+ },
+ "flores-35::gemini": {
+  "gap_id": "flores-35",
+  "system": "gemini",
+  "layer": "flores",
+  "bleu": 59.021,
+  "chrf": 78.626,
+  "kkt_rs_v1": 0.709,
+  "kkt_rs_v2": 0.947
+ },
+ "train-00::s1": {
+  "gap_id": "train-00",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 10.553,
+  "chrf": 58.236,
+  "kkt_rs_v1": 0.438,
+  "kkt_rs_v2": 0.938
+ },
+ "train-00::s2": {
+  "gap_id": "train-00",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 10.553,
+  "chrf": 58.236,
+  "kkt_rs_v1": 0.438,
+  "kkt_rs_v2": 0.938
+ },
+ "train-00::gemini": {
+  "gap_id": "train-00",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 100.0,
+  "chrf": 100.0,
+  "kkt_rs_v1": 0.5,
+  "kkt_rs_v2": 1.0
+ },
+ "train-01::s1": {
+  "gap_id": "train-01",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 7.692,
+  "chrf": 50.784,
+  "kkt_rs_v1": 0.713,
+  "kkt_rs_v2": 0.613
+ },
+ "train-01::s2": {
+  "gap_id": "train-01",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 7.692,
+  "chrf": 50.784,
+  "kkt_rs_v1": 0.713,
+  "kkt_rs_v2": 0.613
+ },
+ "train-01::gemini": {
+  "gap_id": "train-01",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 86.664,
+  "chrf": 89.887,
+  "kkt_rs_v1": 0.656,
+  "kkt_rs_v2": 0.969
+ },
+ "train-02::s1": {
+  "gap_id": "train-02",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 3.72,
+  "chrf": 38.513,
+  "kkt_rs_v1": 0.304,
+  "kkt_rs_v2": 0.354
+ },
+ "train-02::s2": {
+  "gap_id": "train-02",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 6.69,
+  "chrf": 39.977,
+  "kkt_rs_v1": 0.442,
+  "kkt_rs_v2": 0.354
+ },
+ "train-02::gemini": {
+  "gap_id": "train-02",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 26.221,
+  "chrf": 52.703,
+  "kkt_rs_v1": 0.436,
+  "kkt_rs_v2": 0.486
+ },
+ "train-03::s1": {
+  "gap_id": "train-03",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 14.981,
+  "chrf": 61.255,
+  "kkt_rs_v1": 0.646,
+  "kkt_rs_v2": 0.758
+ },
+ "train-03::s2": {
+  "gap_id": "train-03",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 14.981,
+  "chrf": 61.255,
+  "kkt_rs_v1": 0.646,
+  "kkt_rs_v2": 0.758
+ },
+ "train-03::gemini": {
+  "gap_id": "train-03",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 61.047,
+  "chrf": 90.247,
+  "kkt_rs_v1": 0.688,
+  "kkt_rs_v2": 1.0
+ },
+ "train-04::s1": {
+  "gap_id": "train-04",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 4.789,
+  "chrf": 47.16,
+  "kkt_rs_v1": 0.396,
+  "kkt_rs_v2": 0.521
+ },
+ "train-04::s2": {
+  "gap_id": "train-04",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 4.789,
+  "chrf": 46.342,
+  "kkt_rs_v1": 0.354,
+  "kkt_rs_v2": 0.479
+ },
+ "train-04::gemini": {
+  "gap_id": "train-04",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 18.141,
+  "chrf": 59.973,
+  "kkt_rs_v1": 0.396,
+  "kkt_rs_v2": 0.458
+ },
+ "train-05::s1": {
+  "gap_id": "train-05",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 7.2,
+  "chrf": 42.589,
+  "kkt_rs_v1": 0.66,
+  "kkt_rs_v2": 0.523
+ },
+ "train-05::s2": {
+  "gap_id": "train-05",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 7.2,
+  "chrf": 42.589,
+  "kkt_rs_v1": 0.66,
+  "kkt_rs_v2": 0.523
+ },
+ "train-05::gemini": {
+  "gap_id": "train-05",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 64.227,
+  "chrf": 83.964,
+  "kkt_rs_v1": 0.656,
+  "kkt_rs_v2": 0.969
+ },
+ "train-06::s1": {
+  "gap_id": "train-06",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 5.064,
+  "chrf": 32.353,
+  "kkt_rs_v1": 0.65,
+  "kkt_rs_v2": 0.637
+ },
+ "train-06::s2": {
+  "gap_id": "train-06",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 5.064,
+  "chrf": 32.353,
+  "kkt_rs_v1": 0.65,
+  "kkt_rs_v2": 0.637
+ },
+ "train-06::gemini": {
+  "gap_id": "train-06",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 9.425,
+  "chrf": 40.544,
+  "kkt_rs_v1": 0.512,
+  "kkt_rs_v2": 0.637
+ },
+ "train-07::s1": {
+  "gap_id": "train-07",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 23.398,
+  "chrf": 69.755,
+  "kkt_rs_v1": 0.65,
+  "kkt_rs_v2": 0.575
+ },
+ "train-07::s2": {
+  "gap_id": "train-07",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 9.552,
+  "chrf": 62.371,
+  "kkt_rs_v1": 0.556,
+  "kkt_rs_v2": 0.544
+ },
+ "train-07::gemini": {
+  "gap_id": "train-07",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 100.0,
+  "chrf": 100.0,
+  "kkt_rs_v1": 0.688,
+  "kkt_rs_v2": 1.0
+ },
+ "train-08::s1": {
+  "gap_id": "train-08",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 34.078,
+  "chrf": 55.759,
+  "kkt_rs_v1": 0.519,
+  "kkt_rs_v2": 0.831
+ },
+ "train-08::s2": {
+  "gap_id": "train-08",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 21.024,
+  "chrf": 54.101,
+  "kkt_rs_v1": 0.556,
+  "kkt_rs_v2": 0.594
+ },
+ "train-08::gemini": {
+  "gap_id": "train-08",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 49.409,
+  "chrf": 85.062,
+  "kkt_rs_v1": 0.762,
+  "kkt_rs_v2": 1.0
+ },
+ "train-09::s1": {
+  "gap_id": "train-09",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 3.22,
+  "chrf": 52.191,
+  "kkt_rs_v1": 0.71,
+  "kkt_rs_v2": 0.497
+ },
+ "train-09::s2": {
+  "gap_id": "train-09",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 3.22,
+  "chrf": 52.191,
+  "kkt_rs_v1": 0.71,
+  "kkt_rs_v2": 0.497
+ },
+ "train-09::gemini": {
+  "gap_id": "train-09",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 18.296,
+  "chrf": 61.715,
+  "kkt_rs_v1": 0.693,
+  "kkt_rs_v2": 0.931
+ },
+ "train-10::s1": {
+  "gap_id": "train-10",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 5.612,
+  "chrf": 52.158,
+  "kkt_rs_v1": 0.578,
+  "kkt_rs_v2": 0.478
+ },
+ "train-10::s2": {
+  "gap_id": "train-10",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 5.408,
+  "chrf": 51.861,
+  "kkt_rs_v1": 0.44,
+  "kkt_rs_v2": 0.478
+ },
+ "train-10::gemini": {
+  "gap_id": "train-10",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 46.006,
+  "chrf": 71.149,
+  "kkt_rs_v1": 0.679,
+  "kkt_rs_v2": 0.604
+ },
+ "train-11::s1": {
+  "gap_id": "train-11",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 5.548,
+  "chrf": 38.594,
+  "kkt_rs_v1": 0.279,
+  "kkt_rs_v2": 0.404
+ },
+ "train-11::s2": {
+  "gap_id": "train-11",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 5.548,
+  "chrf": 38.594,
+  "kkt_rs_v1": 0.279,
+  "kkt_rs_v2": 0.404
+ },
+ "train-11::gemini": {
+  "gap_id": "train-11",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 29.951,
+  "chrf": 54.972,
+  "kkt_rs_v1": 0.412,
+  "kkt_rs_v2": 0.475
+ },
+ "train-12::s1": {
+  "gap_id": "train-12",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 3.777,
+  "chrf": 45.191,
+  "kkt_rs_v1": 0.557,
+  "kkt_rs_v2": 0.37
+ },
+ "train-12::s2": {
+  "gap_id": "train-12",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 3.796,
+  "chrf": 41.806,
+  "kkt_rs_v1": 0.434,
+  "kkt_rs_v2": 0.384
+ },
+ "train-12::gemini": {
+  "gap_id": "train-12",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 57.659,
+  "chrf": 88.248,
+  "kkt_rs_v1": 0.653,
+  "kkt_rs_v2": 0.978
+ },
+ "train-13::s1": {
+  "gap_id": "train-13",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 4.729,
+  "chrf": 33.764,
+  "kkt_rs_v1": 0.375,
+  "kkt_rs_v2": 0.425
+ },
+ "train-13::s2": {
+  "gap_id": "train-13",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 4.729,
+  "chrf": 33.764,
+  "kkt_rs_v1": 0.375,
+  "kkt_rs_v2": 0.425
+ },
+ "train-13::gemini": {
+  "gap_id": "train-13",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 22.925,
+  "chrf": 50.629,
+  "kkt_rs_v1": 0.35,
+  "kkt_rs_v2": 0.65
+ },
+ "train-14::s1": {
+  "gap_id": "train-14",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 3.407,
+  "chrf": 41.392,
+  "kkt_rs_v1": 0.636,
+  "kkt_rs_v2": 0.424
+ },
+ "train-14::s2": {
+  "gap_id": "train-14",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 3.407,
+  "chrf": 41.392,
+  "kkt_rs_v1": 0.636,
+  "kkt_rs_v2": 0.424
+ },
+ "train-14::gemini": {
+  "gap_id": "train-14",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 44.803,
+  "chrf": 81.235,
+  "kkt_rs_v1": 0.647,
+  "kkt_rs_v2": 0.96
+ },
+ "train-15::s1": {
+  "gap_id": "train-15",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 6.968,
+  "chrf": 55.153,
+  "kkt_rs_v1": 0.714,
+  "kkt_rs_v2": 0.701
+ },
+ "train-15::s2": {
+  "gap_id": "train-15",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 6.968,
+  "chrf": 55.153,
+  "kkt_rs_v1": 0.714,
+  "kkt_rs_v2": 0.701
+ },
+ "train-15::gemini": {
+  "gap_id": "train-15",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 35.788,
+  "chrf": 78.87,
+  "kkt_rs_v1": 0.524,
+  "kkt_rs_v2": 0.849
+ },
+ "train-16::s1": {
+  "gap_id": "train-16",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 4.69,
+  "chrf": 44.428,
+  "kkt_rs_v1": 0.746,
+  "kkt_rs_v2": 0.534
+ },
+ "train-16::s2": {
+  "gap_id": "train-16",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 4.69,
+  "chrf": 44.428,
+  "kkt_rs_v1": 0.746,
+  "kkt_rs_v2": 0.534
+ },
+ "train-16::gemini": {
+  "gap_id": "train-16",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 14.207,
+  "chrf": 62.309,
+  "kkt_rs_v1": 0.573,
+  "kkt_rs_v2": 0.573
+ },
+ "train-17::s1": {
+  "gap_id": "train-17",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 6.111,
+  "chrf": 58.78,
+  "kkt_rs_v1": 0.777,
+  "kkt_rs_v2": 0.777
+ },
+ "train-17::s2": {
+  "gap_id": "train-17",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 5.994,
+  "chrf": 56.979,
+  "kkt_rs_v1": 0.631,
+  "kkt_rs_v2": 0.456
+ },
+ "train-17::gemini": {
+  "gap_id": "train-17",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 47.875,
+  "chrf": 79.124,
+  "kkt_rs_v1": 0.927,
+  "kkt_rs_v2": 0.927
+ },
+ "train-18::s1": {
+  "gap_id": "train-18",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 5.095,
+  "chrf": 54.2,
+  "kkt_rs_v1": 0.622,
+  "kkt_rs_v2": 0.534
+ },
+ "train-18::s2": {
+  "gap_id": "train-18",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 7.841,
+  "chrf": 55.539,
+  "kkt_rs_v1": 0.622,
+  "kkt_rs_v2": 0.534
+ },
+ "train-18::gemini": {
+  "gap_id": "train-18",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 58.807,
+  "chrf": 79.865,
+  "kkt_rs_v1": 0.469,
+  "kkt_rs_v2": 0.969
+ },
+ "train-19::s1": {
+  "gap_id": "train-19",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 4.581,
+  "chrf": 53.557,
+  "kkt_rs_v1": 0.61,
+  "kkt_rs_v2": 0.523
+ },
+ "train-19::s2": {
+  "gap_id": "train-19",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 4.329,
+  "chrf": 52.324,
+  "kkt_rs_v1": 0.582,
+  "kkt_rs_v2": 0.495
+ },
+ "train-19::gemini": {
+  "gap_id": "train-19",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 24.274,
+  "chrf": 74.043,
+  "kkt_rs_v1": 0.444,
+  "kkt_rs_v2": 0.632
+ },
+ "train-20::s1": {
+  "gap_id": "train-20",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 3.629,
+  "chrf": 37.061,
+  "kkt_rs_v1": 0.346,
+  "kkt_rs_v2": 0.334
+ },
+ "train-20::s2": {
+  "gap_id": "train-20",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 3.447,
+  "chrf": 38.085,
+  "kkt_rs_v1": 0.346,
+  "kkt_rs_v2": 0.334
+ },
+ "train-20::gemini": {
+  "gap_id": "train-20",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 20.065,
+  "chrf": 63.345,
+  "kkt_rs_v1": 0.42,
+  "kkt_rs_v2": 0.708
+ },
+ "train-21::s1": {
+  "gap_id": "train-21",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 16.355,
+  "chrf": 61.634,
+  "kkt_rs_v1": 0.708,
+  "kkt_rs_v2": 0.496
+ },
+ "train-21::s2": {
+  "gap_id": "train-21",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 16.355,
+  "chrf": 61.634,
+  "kkt_rs_v1": 0.708,
+  "kkt_rs_v2": 0.496
+ },
+ "train-21::gemini": {
+  "gap_id": "train-21",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 66.908,
+  "chrf": 79.123,
+  "kkt_rs_v1": 0.625,
+  "kkt_rs_v2": 0.938
+ },
+ "train-22::s1": {
+  "gap_id": "train-22",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 15.701,
+  "chrf": 39.231,
+  "kkt_rs_v1": 0.724,
+  "kkt_rs_v2": 0.824
+ },
+ "train-22::s2": {
+  "gap_id": "train-22",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 16.497,
+  "chrf": 39.48,
+  "kkt_rs_v1": 0.724,
+  "kkt_rs_v2": 0.824
+ },
+ "train-22::gemini": {
+  "gap_id": "train-22",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 45.149,
+  "chrf": 77.111,
+  "kkt_rs_v1": 0.609,
+  "kkt_rs_v2": 0.922
+ },
+ "train-23::s1": {
+  "gap_id": "train-23",
+  "system": "s1",
+  "layer": "train",
+  "bleu": 2.614,
+  "chrf": 48.752,
+  "kkt_rs_v1": 0.736,
+  "kkt_rs_v2": 0.724
+ },
+ "train-23::s2": {
+  "gap_id": "train-23",
+  "system": "s2",
+  "layer": "train",
+  "bleu": 1.537,
+  "chrf": 47.435,
+  "kkt_rs_v1": 0.661,
+  "kkt_rs_v2": 0.649
+ },
+ "train-23::gemini": {
+  "gap_id": "train-23",
+  "system": "gemini",
+  "layer": "train",
+  "bleu": 22.331,
+  "chrf": 70.681,
+  "kkt_rs_v1": 0.586,
+  "kkt_rs_v2": 0.911
+ },
+ "gold-00::s1": {
+  "gap_id": "gold-00",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 22.957,
+  "chrf": 66.659,
+  "kkt_rs_v1": 0.817,
+  "kkt_rs_v2": 0.917
+ },
+ "gold-00::s2": {
+  "gap_id": "gold-00",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 22.957,
+  "chrf": 66.659,
+  "kkt_rs_v1": 0.817,
+  "kkt_rs_v2": 0.917
+ },
+ "gold-00::gemini": {
+  "gap_id": "gold-00",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 100.0,
+  "chrf": 100.0,
+  "kkt_rs_v1": 0.688,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-01::s1": {
+  "gap_id": "gold-01",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 30.739,
+  "chrf": 75.745,
+  "kkt_rs_v1": 0.838,
+  "kkt_rs_v2": 0.938
+ },
+ "gold-01::s2": {
+  "gap_id": "gold-01",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 30.739,
+  "chrf": 75.745,
+  "kkt_rs_v1": 0.838,
+  "kkt_rs_v2": 0.938
+ },
+ "gold-01::gemini": {
+  "gap_id": "gold-01",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 19.358,
+  "chrf": 77.681,
+  "kkt_rs_v1": 0.688,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-02::s1": {
+  "gap_id": "gold-02",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 27.776,
+  "chrf": 59.341,
+  "kkt_rs_v1": 0.938,
+  "kkt_rs_v2": 0.938
+ },
+ "gold-02::s2": {
+  "gap_id": "gold-02",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 27.776,
+  "chrf": 59.341,
+  "kkt_rs_v1": 0.938,
+  "kkt_rs_v2": 0.938
+ },
+ "gold-02::gemini": {
+  "gap_id": "gold-02",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 26.269,
+  "chrf": 65.106,
+  "kkt_rs_v1": 0.938,
+  "kkt_rs_v2": 0.938
+ },
+ "gold-03::s1": {
+  "gap_id": "gold-03",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 80.911,
+  "chrf": 99.324,
+  "kkt_rs_v1": 0.863,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-03::s2": {
+  "gap_id": "gold-03",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 80.911,
+  "chrf": 99.324,
+  "kkt_rs_v1": 0.863,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-03::gemini": {
+  "gap_id": "gold-03",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 80.911,
+  "chrf": 99.324,
+  "kkt_rs_v1": 0.863,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-04::s1": {
+  "gap_id": "gold-04",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.027,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 0.688
+ },
+ "gold-04::s2": {
+  "gap_id": "gold-04",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.027,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 0.688
+ },
+ "gold-04::gemini": {
+  "gap_id": "gold-04",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.027,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 0.688
+ },
+ "gold-05::s1": {
+  "gap_id": "gold-05",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 80.911,
+  "chrf": 99.422,
+  "kkt_rs_v1": 0.863,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-05::s2": {
+  "gap_id": "gold-05",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 80.911,
+  "chrf": 99.422,
+  "kkt_rs_v1": 0.863,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-05::gemini": {
+  "gap_id": "gold-05",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 43.472,
+  "chrf": 90.91,
+  "kkt_rs_v1": 0.738,
+  "kkt_rs_v2": 0.938
+ },
+ "gold-06::s1": {
+  "gap_id": "gold-06",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 41.113,
+  "chrf": 63.149,
+  "kkt_rs_v1": 0.613,
+  "kkt_rs_v2": 0.875
+ },
+ "gold-06::s2": {
+  "gap_id": "gold-06",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 41.113,
+  "chrf": 63.149,
+  "kkt_rs_v1": 0.613,
+  "kkt_rs_v2": 0.875
+ },
+ "gold-06::gemini": {
+  "gap_id": "gold-06",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 41.113,
+  "chrf": 67.755,
+  "kkt_rs_v1": 0.537,
+  "kkt_rs_v2": 0.625
+ },
+ "gold-07::s1": {
+  "gap_id": "gold-07",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 50.813,
+  "chrf": 75.396,
+  "kkt_rs_v1": 0.917,
+  "kkt_rs_v2": 0.917
+ },
+ "gold-07::s2": {
+  "gap_id": "gold-07",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 50.813,
+  "chrf": 75.396,
+  "kkt_rs_v1": 0.917,
+  "kkt_rs_v2": 0.917
+ },
+ "gold-07::gemini": {
+  "gap_id": "gold-07",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 100.0,
+  "chrf": 100.0,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-08::s1": {
+  "gap_id": "gold-08",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.218,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-08::s2": {
+  "gap_id": "gold-08",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.218,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-08::gemini": {
+  "gap_id": "gold-08",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.218,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-09::s1": {
+  "gap_id": "gold-09",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.248,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-09::s2": {
+  "gap_id": "gold-09",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.248,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-09::gemini": {
+  "gap_id": "gold-09",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 75.984,
+  "chrf": 99.248,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-10::s1": {
+  "gap_id": "gold-10",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 30.739,
+  "chrf": 88.358,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-10::s2": {
+  "gap_id": "gold-10",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 30.739,
+  "chrf": 88.358,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-10::gemini": {
+  "gap_id": "gold-10",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 100.0,
+  "chrf": 100.0,
+  "kkt_rs_v1": 1.0,
+  "kkt_rs_v2": 1.0
+ },
+ "gold-11::s1": {
+  "gap_id": "gold-11",
+  "system": "s1",
+  "layer": "gold",
+  "bleu": 16.233,
+  "chrf": 40.329,
+  "kkt_rs_v1": 0.512,
+  "kkt_rs_v2": 0.562
+ },
+ "gold-11::s2": {
+  "gap_id": "gold-11",
+  "system": "s2",
+  "layer": "gold",
+  "bleu": 16.233,
+  "chrf": 40.329,
+  "kkt_rs_v1": 0.512,
+  "kkt_rs_v2": 0.562
+ },
+ "gold-11::gemini": {
+  "gap_id": "gold-11",
+  "system": "gemini",
+  "layer": "gold",
+  "bleu": 80.911,
+  "chrf": 99.152,
+  "kkt_rs_v1": 0.5,
+  "kkt_rs_v2": 1.0
+ }
+}

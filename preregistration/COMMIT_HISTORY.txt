@@ -1,0 +1,19 @@
+Pre-registratsiya va tuzatishlarning sanali commitlari
+(asl repozitoriy: uzbek-tarjimon, branch: analiz/lugat-shift-isboti)
+
+f924e6b35f51f1845ef8e6086f5ad73096ca5e83
+2026-07-03 12:15:34 +0500
+docs(prereg): RW1 tahlil-reja + baholovchi-chetlashtirish sensitivity bandi (2026-07-03)
+
+71f102d47850c77c7a2514a60e2bfc46e37dc4e4
+2026-07-03 12:34:31 +0500
+docs(prereg): tahlil-skripti muzlatish bandi (2026-07-03, analyze_human_eval.py 973eb09)
+
+cacb9c341a8a02874ed7fc4f4e946d847f24b031
+2026-07-07 18:31:23 +0500
+rw1 prereg: stopping-qoida, ko'r sanali band
+
+64c1c1aa9563c6b67e75ae7accd8a91b6c4256a2
+2026-07-14 16:20:52 +0500
+rw1 prereg: A-qisman band + erta-ishga-tushirish, ko'r
+

@@ -1,0 +1,4 @@
+CE1 72-gap LOCK (halollik protokol §2)
+Seed=72. Tanlangan: 36 FLORES + 24 train + 12 oltin = 72 gap.
+Bu gaplar BUNDAN KEYIN HECH QANDAY SOZLASH/tuning/lug'atda ISHLATILMAYDI.
+FLORES 36: TEST1-5 + flores_sentence_corpus dan TASHQARI (isbotlangan).
