@@ -1,0 +1,37 @@
+{
+ "urinishlar_xato": [],
+ "model_sorov": "gemini-3.5-flash",
+ "model_version": "",
+ "temperature": 0.0,
+ "boshi": "2026-10-16T12:32:09+05:00",
+ "oxiri": "2026-10-16T12:32:28+05:00",
+ "kirish": "llm_11.txt",
+ "kirish_sha256": "5b2baa39d77aab2066659a40abdd2a08999f873d693aa5088e828871c10680b7",
+ "sorov_sha256": "001ad624d101d966ecccd57faa8d67fba1ddfc919df387beb240f826451add73",
+ "javob": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "1. \"I look forward to returning to all my duties on Monday,\" Arias said in a statement.\n2. Even so, keep in mind that you may get winded, and be careful on steeper sections, especially during precipitation, as walking fast can quickly become dangerous.\n3. Compared to the tombs of other kings, Tutankhamun's tomb is much smaller and not worth visiting due to the lack of decorations.\n4. Fewer than a thousand cases have been recorded in humans, but some of them have resulted in death.\n5. Photons are even smaller than the things that make up atoms!\n6. Jarque had been training earlier that day in a pre-season workout in Coverciano, Italy. He had stayed at the hotel with the team prior to Sunday's scheduled match against Bologna.\n7. This article presents some thoughts on the intrinsic connection between language and culture.\n8. Apart from the fever and sore throat, I feel well and energetic enough to do my work remotely.\n9. Although similar enough for mutual understanding, the varieties of French spoken in Belgium and Switzerland differ slightly from the French spoken in France.\n10. Turkey's territory makes it the 37th largest country in the world, and it is almost equal to the combined area of Metropolitan France and the United Kingdom.\n11. Although this is a very common practice, it is prohibited by Disney: tickets are non-transferable.\n12. The Dominican Republic (Spanish: República Dominicana) is a Caribbean country occupying the eastern part of the island of Hispaniola, which it shares with Haiti.\n13. Although China has officially remained a communist country over the last decade, it has developed a market economy.\n14. This type of thinking is associated with a specific discipline or standard operating procedures.\n15. If permitted, the commissioner sets bail and formalizes the charges filed by the arresting officer. After this, the charges are entered into the state computer system that tracks the case.\n16. Antarctica is considered the coldest place on Earth and surrounds the South Pole.\n17. On some cross-border trains, checks are carried out on the moving train, and you must have a valid identity document with you when boarding one of these trains.\n18. Pregnant women with preeclampsia show signs of developing consumption coagulopathy, along with blood clotting disorders, thrombocytopathy, and a decrease in the anticoagulant and fibrinolytic potential of the blood.\n19. Participating countries present artistic and educational exhibitions in national pavilions to showcase world issues or the culture and history of their countries.\n20. A trip to Walt Disney World is like a major pilgrimage for many Americans.\n21. Fully covered in feathers, this warm-blooded predatory bird was believed to walk upright, holding up its two clawed front limbs like a Velociraptor.\n22. Even standing among thousand-year-old ruins, one can imagine the sounds and smells of long-past battles, almost hear the clatter of hooves on stone, and feel the fear rising from beneath the dungeon.\n23. An atom can be considered one of the basic building blocks of all matter.\n24. Especially if insurance covers it, consider having an eye exam at home and bringing a doctor's recommendation for submission.\n25. Different designs have different capabilities, are sensitive to different wavelengths, and have different levels of sharpness, while requiring different processing to sense input and different parameters to operate optimally.\n26. Johnson, seven points behind, is in second place with 2,243 points.\n27. You can mark the passage of time yourself by observing the repetition of a periodic phenomenon. A periodic phenomenon is something that happens over and over again on a regular basis.\n28. Unlike other primates, hominids no longer use their arms for locomotion, supporting weight, or moving through trees.\n29. Families with children are rarely seen, but some hostels allow them to stay in private rooms.\n30. As long as you hit all the notes correctly, make sure your hand is as relaxed as possible — also try to avoid making unnecessary movements with your fingers.\n31. This article attempts to provide information on the main types of corpora.\n32. A day hike ranges from less than a mile to longer distances that can be covered in a day.\n33. Architecture consists of designing and constructing buildings. A location's architecture is often a tourist attraction in its own right.\n34. The American plan was based on executing coordinated attacks from three different directions.\n35. Callejón del Beso (Alley of the Kiss). Two balconies separated by just 69 centimeters are the setting of an old legend about love.\n36. Later, the Greek historian Strabo recorded this name, which is how we know about it today. The temple was destroyed on the night Alexander the Great was born.\n37. Speed, logic, and accuracy, along with fact-finding, reapplying existing techniques, and gathering information, are the main directions of this way of thinking.\n38. A World's Fair (usually called a World Expo or simply Expo) is a major international festival of art and science.\n39. The concept of creating an automated system designed to control oil and gas well trajectories using modern information technology is considered.\n40. The flight unit leader was identified as Dilokrit Pattavee."
+      }
+     ],
+     "role": "model"
+    },
+    "finish_reason": 1,
+    "index": 0,
+    "safety_ratings": [],
+    "token_count": 0,
+    "grounding_attributions": [],
+    "avg_logprobs": 0.0
+   }
+  ],
+  "usage_metadata": {
+   "prompt_token_count": 2118,
+   "candidates_token_count": 1138,
+   "total_token_count": 6870,
+   "cached_content_token_count": 0
+  }
+ }
+}

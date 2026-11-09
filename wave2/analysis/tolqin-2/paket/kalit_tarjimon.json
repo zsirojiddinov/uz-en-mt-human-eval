@@ -1,0 +1,295 @@
+{
+ "seed": 20261016,
+ "manba": "evaluation/eval72/sentences.json",
+ "manba_sha256": "29cf6da34dbfa207a234bc08c25bd34b4171f5f5c1db9aca407c117140abf0ce",
+ "qator": {
+  "1": {
+   "toplam": "eval72",
+   "id": "flores-05"
+  },
+  "2": {
+   "toplam": "eval72",
+   "id": "flores-09"
+  },
+  "3": {
+   "toplam": "eval72",
+   "id": "flores-31"
+  },
+  "4": {
+   "toplam": "eval72",
+   "id": "flores-02"
+  },
+  "5": {
+   "toplam": "eval72",
+   "id": "flores-11"
+  },
+  "6": {
+   "toplam": "eval72",
+   "id": "train-19"
+  },
+  "7": {
+   "toplam": "eval72",
+   "id": "flores-33"
+  },
+  "8": {
+   "toplam": "eval72",
+   "id": "flores-24"
+  },
+  "9": {
+   "toplam": "eval72",
+   "id": "flores-13"
+  },
+  "10": {
+   "toplam": "eval72",
+   "id": "flores-20"
+  },
+  "11": {
+   "toplam": "eval72",
+   "id": "train-03"
+  },
+  "12": {
+   "toplam": "eval72",
+   "id": "flores-06"
+  },
+  "13": {
+   "toplam": "eval72",
+   "id": "flores-14"
+  },
+  "14": {
+   "toplam": "eval72",
+   "id": "flores-01"
+  },
+  "15": {
+   "toplam": "eval72",
+   "id": "gold-10"
+  },
+  "16": {
+   "toplam": "eval72",
+   "id": "flores-18"
+  },
+  "17": {
+   "toplam": "eval72",
+   "id": "gold-03"
+  },
+  "18": {
+   "toplam": "eval72",
+   "id": "flores-08"
+  },
+  "19": {
+   "toplam": "eval72",
+   "id": "train-08"
+  },
+  "20": {
+   "toplam": "eval72",
+   "id": "flores-04"
+  },
+  "21": {
+   "toplam": "eval72",
+   "id": "gold-01"
+  },
+  "22": {
+   "toplam": "eval72",
+   "id": "gold-00"
+  },
+  "23": {
+   "toplam": "eval72",
+   "id": "gold-11"
+  },
+  "24": {
+   "toplam": "eval72",
+   "id": "flores-28"
+  },
+  "25": {
+   "toplam": "eval72",
+   "id": "flores-15"
+  },
+  "26": {
+   "toplam": "eval72",
+   "id": "train-13"
+  },
+  "27": {
+   "toplam": "eval72",
+   "id": "flores-32"
+  },
+  "28": {
+   "toplam": "eval72",
+   "id": "flores-21"
+  },
+  "29": {
+   "toplam": "eval72",
+   "id": "flores-35"
+  },
+  "30": {
+   "toplam": "eval72",
+   "id": "flores-19"
+  },
+  "31": {
+   "toplam": "eval72",
+   "id": "flores-16"
+  },
+  "32": {
+   "toplam": "eval72",
+   "id": "train-22"
+  },
+  "33": {
+   "toplam": "eval72",
+   "id": "train-09"
+  },
+  "34": {
+   "toplam": "eval72",
+   "id": "train-14"
+  },
+  "35": {
+   "toplam": "eval72",
+   "id": "flores-27"
+  },
+  "36": {
+   "toplam": "eval72",
+   "id": "flores-07"
+  },
+  "37": {
+   "toplam": "eval72",
+   "id": "gold-04"
+  },
+  "38": {
+   "toplam": "eval72",
+   "id": "flores-25"
+  },
+  "39": {
+   "toplam": "eval72",
+   "id": "gold-08"
+  },
+  "40": {
+   "toplam": "eval72",
+   "id": "flores-23"
+  },
+  "41": {
+   "toplam": "eval72",
+   "id": "train-18"
+  },
+  "42": {
+   "toplam": "eval72",
+   "id": "gold-09"
+  },
+  "43": {
+   "toplam": "eval72",
+   "id": "train-06"
+  },
+  "44": {
+   "toplam": "eval72",
+   "id": "flores-26"
+  },
+  "45": {
+   "toplam": "eval72",
+   "id": "train-00"
+  },
+  "46": {
+   "toplam": "eval72",
+   "id": "gold-06"
+  },
+  "47": {
+   "toplam": "eval72",
+   "id": "flores-30"
+  },
+  "48": {
+   "toplam": "eval72",
+   "id": "train-02"
+  },
+  "49": {
+   "toplam": "eval72",
+   "id": "gold-07"
+  },
+  "50": {
+   "toplam": "eval72",
+   "id": "flores-00"
+  },
+  "51": {
+   "toplam": "eval72",
+   "id": "train-07"
+  },
+  "52": {
+   "toplam": "eval72",
+   "id": "gold-02"
+  },
+  "53": {
+   "toplam": "eval72",
+   "id": "train-17"
+  },
+  "54": {
+   "toplam": "eval72",
+   "id": "train-05"
+  },
+  "55": {
+   "toplam": "eval72",
+   "id": "train-21"
+  },
+  "56": {
+   "toplam": "eval72",
+   "id": "train-23"
+  },
+  "57": {
+   "toplam": "eval72",
+   "id": "train-11"
+  },
+  "58": {
+   "toplam": "eval72",
+   "id": "train-04"
+  },
+  "59": {
+   "toplam": "eval72",
+   "id": "train-15"
+  },
+  "60": {
+   "toplam": "eval72",
+   "id": "train-12"
+  },
+  "61": {
+   "toplam": "eval72",
+   "id": "train-10"
+  },
+  "62": {
+   "toplam": "eval72",
+   "id": "flores-10"
+  },
+  "63": {
+   "toplam": "eval72",
+   "id": "flores-03"
+  },
+  "64": {
+   "toplam": "eval72",
+   "id": "flores-34"
+  },
+  "65": {
+   "toplam": "eval72",
+   "id": "flores-29"
+  },
+  "66": {
+   "toplam": "eval72",
+   "id": "flores-12"
+  },
+  "67": {
+   "toplam": "eval72",
+   "id": "flores-22"
+  },
+  "68": {
+   "toplam": "eval72",
+   "id": "train-20"
+  },
+  "69": {
+   "toplam": "eval72",
+   "id": "train-01"
+  },
+  "70": {
+   "toplam": "eval72",
+   "id": "train-16"
+  },
+  "71": {
+   "toplam": "eval72",
+   "id": "gold-05"
+  },
+  "72": {
+   "toplam": "eval72",
+   "id": "flores-17"
+  }
+ }
+}

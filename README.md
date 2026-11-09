@@ -13,6 +13,10 @@ the paper: the frozen 72-sentence corpus, all 216 system outputs, the blinding
 key, the anonymized human ratings, the frozen analysis script, and the dated
 pre-registration plan with its amendments.
 
+> **Version 2.0.0 adds the second evaluation wave (TOLQIN-2, October 2026)** in [`wave2/`](wave2/README.md):
+> five systems (rule-based, Gemini, Claude, GPT, Google Translate), a second human reference, a new four-rater panel,
+> a 400-sentence held-out layer, the frozen scripts and results, and all dated amendments. Wave 1 below is unchanged.
+
 ---
 
 ## 1. What this study measures

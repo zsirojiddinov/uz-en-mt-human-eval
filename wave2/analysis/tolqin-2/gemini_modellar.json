@@ -1,0 +1,930 @@
+{
+ "olingan": "2026-10-16T12:25:07+05:00",
+ "sdk": "google-generativeai 0.8.3 list_models()",
+ "modellar": [
+  {
+   "name": "models/gemini-2.5-flash",
+   "display_name": "Gemini 2.5 Flash",
+   "version": "001",
+   "description": "Stable version of Gemini 2.5 Flash, our mid-size multimodal model that supports up to 1 million tokens, released in June of 2025.",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-pro",
+   "display_name": "Gemini 2.5 Pro",
+   "version": "2.5",
+   "description": "Stable release (June 17th, 2025) of Gemini 2.5 Pro",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-flash-preview-tts",
+   "display_name": "Gemini 2.5 Flash Preview TTS",
+   "version": "gemini-2.5-flash-exp-tts-2025-05-19",
+   "description": "Gemini 2.5 Flash Preview TTS",
+   "supported_generation_methods": [
+    "countTokens",
+    "generateContent"
+   ],
+   "input_token_limit": 8192,
+   "output_token_limit": 16384,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-pro-preview-tts",
+   "display_name": "Gemini 2.5 Pro Preview TTS",
+   "version": "gemini-2.5-pro-preview-tts-2025-05-19",
+   "description": "Gemini 2.5 Pro Preview TTS",
+   "supported_generation_methods": [
+    "countTokens",
+    "generateContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 8192,
+   "output_token_limit": 16384,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemma-4-26b-a4b-it",
+   "display_name": "Gemma 4 26B A4B IT",
+   "version": "001",
+   "description": "Gemma 4 26B A4B IT",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 262144,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemma-4-31b-it",
+   "display_name": "Gemma 4 31B IT",
+   "version": "001",
+   "description": "Gemma 4 31B IT",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 262144,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-flash-latest",
+   "display_name": "Gemini Flash Latest",
+   "version": "Gemini Flash Latest",
+   "description": "Latest release of Gemini Flash",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-flash-lite-latest",
+   "display_name": "Gemini Flash-Lite Latest",
+   "version": "Gemini Flash-Lite Latest",
+   "description": "Latest release of Gemini Flash-Lite",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-pro-latest",
+   "display_name": "Gemini Pro Latest",
+   "version": "Gemini Pro Latest",
+   "description": "Latest release of Gemini Pro",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-flash-lite",
+   "display_name": "Gemini 2.5 Flash-Lite",
+   "version": "001",
+   "description": "Stable version of Gemini 2.5 Flash-Lite, released in July of 2025",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-flash-image",
+   "display_name": "Nano Banana",
+   "version": "2.0",
+   "description": "Gemini 2.5 Flash Preview Image",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 32768,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 1.0
+  },
+  {
+   "name": "models/gemini-3-flash-preview",
+   "display_name": "Gemini 3 Flash Preview",
+   "version": "3-flash-preview-12-2025",
+   "description": "Gemini 3 Flash Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.1-pro-preview",
+   "display_name": "Gemini 3.1 Pro Preview",
+   "version": "3.1-pro-preview-01-2026",
+   "description": "Gemini 3.1 Pro Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.1-pro-preview-customtools",
+   "display_name": "Gemini 3.1 Pro Preview Custom Tools",
+   "version": "3.1-pro-preview-01-2026",
+   "description": "Gemini 3.1 Pro Preview optimized for custom tool usage",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.1-flash-lite-preview",
+   "display_name": "Gemini 3.1 Flash Lite Preview",
+   "version": "3.1-flash-lite-preview-03-2026",
+   "description": "Gemini 3.1 Flash Lite Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.1-flash-lite",
+   "display_name": "Gemini 3.1 Flash Lite",
+   "version": "3.1-flash-lite-05-2026",
+   "description": "Gemini 3.1 Flash Lite",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3-pro-image-preview",
+   "display_name": "Nano Banana Pro",
+   "version": "3.0",
+   "description": "Gemini 3 Pro Image Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 1.0
+  },
+  {
+   "name": "models/gemini-3-pro-image",
+   "display_name": "Nano Banana Pro",
+   "version": "3.0",
+   "description": "Gemini 3 Pro Image",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 1.0
+  },
+  {
+   "name": "models/nano-banana-pro-preview",
+   "display_name": "Nano Banana Pro",
+   "version": "3.0",
+   "description": "Gemini 3 Pro Image Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 1.0
+  },
+  {
+   "name": "models/gemini-3.1-flash-image-preview",
+   "display_name": "Nano Banana 2",
+   "version": "3.0",
+   "description": "Gemini 3.1 Flash Image Preview.",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 65536,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 1.0
+  },
+  {
+   "name": "models/gemini-3.1-flash-image",
+   "display_name": "Nano Banana 2",
+   "version": "3.0",
+   "description": "Gemini 3.1 Flash Image.",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 65536,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 1.0
+  },
+  {
+   "name": "models/gemini-3.1-flash-lite-image",
+   "display_name": "Nano Banana 2 Lite",
+   "version": "3.0",
+   "description": "Gemini 3.1 Flash Lite Image.",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 65536,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 1.0
+  },
+  {
+   "name": "models/gemini-nano-banana-2.1",
+   "display_name": "Nano Banana 2.1",
+   "version": "3.0",
+   "description": "Gemini Nano Banana 2.1.",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 65536,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 1.0
+  },
+  {
+   "name": "models/gemini-3.5-flash",
+   "display_name": "Gemini 3.5 Flash",
+   "version": "3.5-flash-05-2026",
+   "description": "Gemini 3.5 Flash",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.5-flash-lite",
+   "display_name": "Gemini 3.5 Flash Lite",
+   "version": "3.5-flash-lite-07-2026",
+   "description": "Gemini 3.5 Flash Lite",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-omni-flash-preview",
+   "display_name": "Gemini Omni Flash Preview",
+   "version": "001",
+   "description": "Gemini Omni Flash Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-omni-1.1-flash",
+   "display_name": "Gemini Omni 1.1 Flash",
+   "version": "001",
+   "description": "Gemini Omni 1.1 Flash ",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.5-transcribe",
+   "display_name": "Gemini 3.5 Transcribe",
+   "version": "3.5-transcribe-08-2026",
+   "description": "Gemini 3.5 Transcribe",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 98304,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.6-flash",
+   "display_name": "Gemini 3.6 Flash",
+   "version": "3.6-flash-07-2026",
+   "description": "Gemini 3.6 Flash",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.7-flash",
+   "display_name": "Gemini 3.7 Flash",
+   "version": "3.7-flash-08-2026",
+   "description": "Gemini 3.7 Flash",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.8-flash",
+   "display_name": "Gemini 3.8 Flash",
+   "version": "3.0",
+   "description": "Gemini 3.8 Flash",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-4-argon",
+   "display_name": "Gemini 4 Argon",
+   "version": "3.0",
+   "description": "Gemini 4 Argon",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/lyria-3-clip-preview",
+   "display_name": "Lyria 3 Clip Preview",
+   "version": "lyria-3-clip-preview",
+   "description": "Lyria 3 30s model Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/lyria-3-pro-preview",
+   "display_name": "Lyria 3 Pro Preview",
+   "version": "lyria-3-pro-preview",
+   "description": "Lyria 3 Pro Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/lyria-3.5",
+   "display_name": "Lyria 3.5",
+   "version": "3.5",
+   "description": "Music Generation model",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.1-flash-tts-preview",
+   "display_name": "Gemini 3.1 Flash TTS Preview",
+   "version": "3.1-flash-tts-preview",
+   "description": "Gemini 3.1 Flash TTS Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 8192,
+   "output_token_limit": 16384,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.8-flash-tts",
+   "display_name": "Gemini 3.8 Flash TTS",
+   "version": "3.8-flash-tts",
+   "description": "Gemini 3.8 Flash TTS",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 8192,
+   "output_token_limit": 16384,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.8-flash-lite-tts",
+   "display_name": "Gemini 3.8 Flash Lite TTS",
+   "version": "3.8-flash-lite-tts",
+   "description": "Gemini 3.8 Flash Lite TTS",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 8192,
+   "output_token_limit": 16384,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-robotics-er-2-preview",
+   "display_name": "Gemini Robotics-ER 2 Preview",
+   "version": "2-preview",
+   "description": "Gemini Robotics-ER 2 Preview",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens",
+    "createCachedContent",
+    "batchGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-computer-use-preview-10-2025",
+   "display_name": "Gemini 2.5 Computer Use Preview 10-2025",
+   "version": "Gemini 2.5 Computer Use Preview 10-2025",
+   "description": "Gemini 2.5 Computer Use Preview 10-2025",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/antigravity-preview-05-2026",
+   "display_name": "Antigravity Agent Preview",
+   "version": "0.1",
+   "description": "Preview release of Antigravity Agent (05-2026)",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/antigravity-preview-09-2026",
+   "display_name": "Antigravity Agent Preview",
+   "version": "0.1",
+   "description": "Preview release of Antigravity Agent (09-2026)",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/antigravity-preview-latest",
+   "display_name": "Antigravity Agent Preview Latest",
+   "version": "Antigravity Agent Preview Latest",
+   "description": "Latest preview release of Antigravity Agent",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/deep-research-max-preview-04-2026",
+   "display_name": "Deep Research Max Preview (Apr-21-2026)",
+   "version": "deepthink-exp-05-20",
+   "description": "Preview release (April 21st, 2026) of Deep Research Max",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/deep-research-preview-04-2026",
+   "display_name": "Deep Research Preview (Apr-21-2026)",
+   "version": "deepthink-exp-05-20",
+   "description": "Preview release (April 21th, 2026) of Deep Research",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/deep-research-pro-preview-12-2025",
+   "display_name": "Deep Research Pro Preview (Dec-12-2025)",
+   "version": "deepthink-exp-05-20",
+   "description": "Preview release (December 12th, 2025) of Deep Research Pro",
+   "supported_generation_methods": [
+    "generateContent",
+    "countTokens"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-embedding-001",
+   "display_name": "Gemini Embedding 001",
+   "version": "001",
+   "description": "Obtain a distributed representation of a text.",
+   "supported_generation_methods": [
+    "embedContent",
+    "countTextTokens",
+    "countTokens",
+    "asyncBatchEmbedContent"
+   ],
+   "input_token_limit": 2048,
+   "output_token_limit": 1,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/gemini-embedding-2-preview",
+   "display_name": "Gemini Embedding 2 Preview",
+   "version": "2",
+   "description": "Obtain a distributed representation of multimodal content.",
+   "supported_generation_methods": [
+    "embedContent",
+    "countTextTokens",
+    "countTokens",
+    "asyncBatchEmbedContent"
+   ],
+   "input_token_limit": 8192,
+   "output_token_limit": 1,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/gemini-embedding-2",
+   "display_name": "Gemini Embedding 2",
+   "version": "2",
+   "description": "Obtain a distributed representation of multimodal content.",
+   "supported_generation_methods": [
+    "embedContent",
+    "countTextTokens",
+    "countTokens",
+    "asyncBatchEmbedContent"
+   ],
+   "input_token_limit": 8192,
+   "output_token_limit": 1,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/aqa",
+   "display_name": "Model that performs Attributed Question Answering.",
+   "version": "001",
+   "description": "Model trained to return answers to questions that are grounded in provided sources, along with estimating answerable probability.",
+   "supported_generation_methods": [
+    "generateAnswer"
+   ],
+   "input_token_limit": 7168,
+   "output_token_limit": 1024,
+   "temperature": 0.2,
+   "max_temperature": null
+  },
+  {
+   "name": "models/veo-3.1-generate-preview",
+   "display_name": "Veo 3.1",
+   "version": "3.1",
+   "description": "Veo 3.1",
+   "supported_generation_methods": [
+    "predictLongRunning"
+   ],
+   "input_token_limit": 480,
+   "output_token_limit": 8192,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/veo-3.1-fast-generate-preview",
+   "display_name": "Veo 3.1 fast",
+   "version": "3.1",
+   "description": "Veo 3.1 fast",
+   "supported_generation_methods": [
+    "predictLongRunning"
+   ],
+   "input_token_limit": 480,
+   "output_token_limit": 8192,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/veo-3.1-lite-generate-preview",
+   "display_name": "Veo 3.1 lite",
+   "version": "3.1",
+   "description": "Veo 3.1 lite",
+   "supported_generation_methods": [
+    "predictLongRunning"
+   ],
+   "input_token_limit": 480,
+   "output_token_limit": 8192,
+   "temperature": null,
+   "max_temperature": null
+  },
+  {
+   "name": "models/gemini-3.5-transcribe-live",
+   "display_name": "Gemini 3.5 Transcribe Live",
+   "version": "3.5-transcribe-live-08-2026",
+   "description": "Gemini 3.5 Transcribe Live",
+   "supported_generation_methods": [
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-flash-native-audio-latest",
+   "display_name": "Gemini 2.5 Flash Native Audio Latest",
+   "version": "Gemini 2.5 Flash Native Audio Latest",
+   "description": "Latest release of Gemini 2.5 Flash Native Audio",
+   "supported_generation_methods": [
+    "countTokens",
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 8192,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-flash-native-audio-preview-09-2025",
+   "display_name": "Gemini 2.5 Flash Native Audio Preview 09-2025",
+   "version": "gemini-2.5-flash-preview-native-audio-dialog-2025-05-19",
+   "description": "Gemini 2.5 Flash Native Audio Preview 09-2025",
+   "supported_generation_methods": [
+    "countTokens",
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 8192,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-2.5-flash-native-audio-preview-12-2025",
+   "display_name": "Gemini 2.5 Flash Native Audio Preview 12-2025",
+   "version": "12-2025",
+   "description": "Gemini 2.5 Flash Native Audio Preview 12-2025",
+   "supported_generation_methods": [
+    "countTokens",
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 8192,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.1-flash-live-preview",
+   "display_name": "Gemini 3.1 Flash Live Preview",
+   "version": "3.1-flash-live-03-2026",
+   "description": "Gemini 3.1 Flash Live Preview",
+   "supported_generation_methods": [
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.8-live",
+   "display_name": "Gemini 3.8 Live",
+   "version": "3.1-flash-live-03-2026",
+   "description": "Gemini 3.8 Live",
+   "supported_generation_methods": [
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.8-live-extended-thinking",
+   "display_name": "Gemini 3.8 Live Extended Thinking",
+   "version": "3.1-flash-live-03-2026",
+   "description": "Gemini 3.8 Live Extended Thinking",
+   "supported_generation_methods": [
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-robotics-er-2-streaming-preview",
+   "display_name": "Gemini Robotics-ER 2 Streaming Preview",
+   "version": "2-streaming-preview",
+   "description": "Gemini Robotics-ER 2 Streaming Preview",
+   "supported_generation_methods": [
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 131072,
+   "output_token_limit": 65536,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/gemini-3.5-live-translate-preview",
+   "display_name": "Gemini 3.5 Live Translate Preview",
+   "version": "3.5-live-translate-06-2026",
+   "description": "Gemini 3.5 Live Translate Preview",
+   "supported_generation_methods": [
+    "bidiGenerateContent"
+   ],
+   "input_token_limit": 16384,
+   "output_token_limit": 32768,
+   "temperature": 1.0,
+   "max_temperature": 2.0
+  },
+  {
+   "name": "models/lyria-realtime-exp",
+   "display_name": "Lyria Realtime Experimental",
+   "version": "lyria-realtime-exp",
+   "description": "Lyria Realtime Experimental",
+   "supported_generation_methods": [
+    "bidiGenerateMusic"
+   ],
+   "input_token_limit": 1048576,
+   "output_token_limit": 65536,
+   "temperature": null,
+   "max_temperature": null
+  }
+ ]
+}

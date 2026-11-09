@@ -1,0 +1,110 @@
+{
+ "checkpoint": "2760a223ac957f30acfb18c8aa649b01cf1d75f2/checkpoints/model.ckpt",
+ "checkpoint_sha256": "e213091cde220f97b89f8bdfa750c458cfea741ad62affb455b59900210ff2af",
+ "cheklov": "wmt22-comet-da o'qitish ma'lumotida o'zbek tili yo'q",
+ "comet_versiya": "2.2.7",
+ "kirish_sha256": {
+  "a_qavat_400.json": "1e37f431c86a0b1c505655144806fbf2b37f31d445258c6a0d0b476e0604827c",
+  "eval72": "29cf6da34dbfa207a234bc08c25bd34b4171f5f5c1db9aca407c117140abf0ce",
+  "qaytgan/T1.xlsx": "dc979b4d5df945f93ff5ccf47a1d6efac50b842fbf70980a5b2f8571af05dda2",
+  "qaytgan/baho_B.xlsx": "46b6fbdd3b3d3861d7f31ac9851cb63f3d6b5aefaf4ba3581bdb2916d804a062",
+  "qaytgan/baho_C.xlsx": "92e1863aa54326cd017ac34a67a9de7fb6ed3206490c0d3c9450e2b7b5d8d228",
+  "qaytgan/baho_D.xlsx": "4763f672004c3adf31a537b71df6860a7f11253c1a12068865e139145f28d3e5"
+ },
+ "maqom": "ikkilamchi metrika (prereg §2.7)",
+ "model": "Unbabel/wmt22-comet-da",
+ "n_cheklov": null,
+ "natija": {
+  "A": {
+   "Claude": {
+    "n": 400,
+    "tizim_ball": 0.9170341663062572
+   },
+   "GPT": {
+    "n": 400,
+    "tizim_ball": 0.8977438221871853
+   },
+   "GT": {
+    "n": 400,
+    "tizim_ball": 0.8986426015198231
+   },
+   "Gemini": {
+    "n": 400,
+    "tizim_ball": 0.9010945242643357
+   },
+   "KKT": {
+    "n": 400,
+    "tizim_ball": 0.5519259095191955
+   }
+  },
+  "B": {
+   "Claude": {
+    "T1_n": 71,
+    "T1_tizim_ball": 0.8859123528843195,
+    "etalonlar": [
+     "ref_en",
+     "T1"
+    ],
+    "n": 72,
+    "ref_en_n": 72,
+    "ref_en_tizim_ball": 0.9196406230330467,
+    "uch_etalon_ortacha": 0.9029449212054411
+   },
+   "GPT": {
+    "T1_n": 71,
+    "T1_tizim_ball": 0.895132666742298,
+    "etalonlar": [
+     "ref_en",
+     "T1"
+    ],
+    "n": 72,
+    "ref_en_n": 72,
+    "ref_en_tizim_ball": 0.9026138857007027,
+    "uch_etalon_ortacha": 0.899012508491675
+   },
+   "GT": {
+    "T1_n": 71,
+    "T1_tizim_ball": 0.8801995784464017,
+    "etalonlar": [
+     "ref_en",
+     "T1"
+    ],
+    "n": 72,
+    "ref_en_n": 72,
+    "ref_en_tizim_ball": 0.9027495317988925,
+    "uch_etalon_ortacha": 0.8919680987795194
+   },
+   "Gemini": {
+    "T1_n": 71,
+    "T1_tizim_ball": 0.888702071888346,
+    "etalonlar": [
+     "ref_en",
+     "T1"
+    ],
+    "n": 72,
+    "ref_en_n": 72,
+    "ref_en_tizim_ball": 0.9061689923206965,
+    "uch_etalon_ortacha": 0.8976563711961111
+   },
+   "KKT": {
+    "T1_n": 71,
+    "T1_tizim_ball": 0.6517086411026162,
+    "etalonlar": [
+     "ref_en",
+     "T1"
+    ],
+    "n": 72,
+    "ref_en_n": 72,
+    "ref_en_tizim_ball": 0.6643209089007642,
+    "uch_etalon_ortacha": 0.6581042901509337
+   }
+  }
+ },
+ "sintetik": false,
+ "sozlama": {
+  "batch_size": 16,
+  "gpus": 0,
+  "num_workers": 1,
+  "progress_bar": false
+ }
+}

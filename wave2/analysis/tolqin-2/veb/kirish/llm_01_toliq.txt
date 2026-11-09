@@ -1,0 +1,42 @@
+Translate each numbered Uzbek sentence into English. Keep the numbering. Output only the numbered translations, one per line.
+
+1. So'ng, bir qancha yil o'tgach, 1639-yili Jeremiya Horroks ismli ingliz astronomi Venera tranzitini kuzatadi.
+2. Viza talablari va chiqimlari davlatdan davlatga farq qiladi hamda sizning davlatingiz unga ta'sir qiladi.
+3. "An'anaviy" tashrif Orlando xalqaro aeroportiga borib qo'nish, avtobusda istirohat bog'i ichida joylashgan mehmonxonaga borish, bir haftani tashqariga chiqmasdan Disney parkida o'tkazish va uyga qaytishdan iborat.
+4. Tarjima tizimlari keskin yaxshilandi va hozirda ko'pincha muayyan darajada to'g'ri tarjimalar (hamda kamdan-kam hollarda tushunarsiz) beriladi, lekin bir oz ehtiyotkorlik zarur, chunki ular hali ham hammasini noto'g'ri qabul qilgan bo'lishi mumkin.
+5. 1624-yili Gollandiyaning Ost-Indiya kompaniyasi Tayvanning janubi-g'arbiy qismida baza tashkil qilib, mahalliy don ishlab chiqarish amaliyotida transformatsiyani boshladi hamda xitoylik ishchilarni guruch hamda shakar plantatsiyalarida ishga jalb etdi .
+6. Cheksiz xilma-xilliklar bor, biroq "Disney olamiga borish" to'g'risida gap ketganda ko'pchilik shuni nazarda tutadi.
+7. Suvosti kemalari bilan muvaffaqiyat qozonganliklari sababli urushdan so'ng nemislar ularning ko'pchiligiga ega deb ishonilmaydi.
+8. Tayvanning boshlanishi 15-asrga borib taqaladi, bunda o'tib ketayotgan yevropalik dengizchilar orol nomini Ilha Formosa yoki go'zal orol deb yozib qoldirishadi.
+9. Sanskrit qanday paydo bo'lgani haqida ko'plab nazariyalar mavjud. Ulardan biri o'zlari bilan birga o'z tillarini olib kelgan Oriylarning ga'rbdan Hindistonga ko'chishi haqidadir.
+10. Maruchidor ikkinchi o'rindagi Nosani olti ochko ortda qoldirib, pillapoyaning eng yuqorisida yakunladi.
+11. So'nggi 20 yilda Sharlotta shahri chetlarida bolalarga qulay bo'lgan variantlar soni keskin oshdi.
+12. Bu juftliklar farzandlari uchun asrab olish rejasini tanlashi mumkin.
+13. Hujayra nima? Hujayra so'zi "kichik xona" ma'nosini anglatuvchi lotincha "cella" so'zidan olingan va birinchi marta po'kakning tuzilishini mikroskopik kuzatish orqali kashf qilingan.
+14. Aksar hollarda siznikiga o'xshagan sayohatlarni bron qiladigan agentdan foydalanish yaxshiroq bo'lishi mumkin.
+15. Uni o'qishni osonlashtirish, shuningdek kerakli darajada ko'proq yoki kamroq rangli qilib sozlash mumkin.
+16. Sayyohlik agentliklari 19-asrdan buyon mavjud. Sayohat agenti odatda sayyohning tabiat, madaniyat, til yoki rivojlanmagan davlatlarga tashrif bo'yicha avvalgi tajribalaridan tashqarida bo'lgan sayohat uchun yaxshi tanlovdir.
+17. Hududiy kodlar noqonuniy nusxalashga umuman ta'sir ko'rsatmaydi; diskning bitma-bit qilingan nusxasi har qanday qurilmada asl nusxasi kabi yaxshi ishlaydi.
+18. Biroq 991-yilda Ezelred bir asr oldingi Gutrum davridan beri boshqalariga qaraganda kattaroq bo'lgan Vikinglar floti bilan to'qnashdi.
+19. Jozibadorligi qisman ko'zga tashlanuvchi umumiy rivojlanishningning yo'qligidandir. Qishloqlarni yo'llar, poyezdlar va qayiqlar bog'laydi, avtomobillar esa tashqaridan yetib bora olmaydi.
+20. MySpace Qo'shma Shtatlarda foydalaniladigan uchinchi eng mashhur sayt hisoblanadi va ayni vaqtda 54 millionta profilga ega.
+21. Musobaqaning yakuniy natijalariga ko'ra, Keselovski 2250 ochko bilan Poygachilar chempionati yetakchilikni saqlab kelmoqda.
+22. 9-avgust tunida Morakot ko'zi Xitoyning Futzyan provinsiyasidan taxminan yetmish kilometr masofada edi.
+23. Ayrim kishilar tez-tez sun'iy ravishda qo'zg'atilgan ongli tushlarni ko'rish juda ham toliqtirishi mumkin deb hisoblaydi.
+24. Unga zudlik bilan tez tibbiy yordam xodimlari tomonidan yordam ko'rsatlib, mahalliy shifoxonaga yetkazildi va u keyinchalik o'sha yerda vafot etdi.
+25. Pnon Krom Siem Reapdan 12 km janubi-g'arbda. Mazkur tepalikdagi ibodatxona 9-asr oxirida, qirol Yasovorman davrida qurilgan.
+26. Barcha o'z qo'lingiz bilan bajariladigan ishlar va axborot taqdim etish bilan bog'liq amaldagi tajribamiz, o'rganishga asoslangan teleko'rsatuvlar shuni ko'rsatib turibdi.
+27. Chorshanbada Qo'shma Shtatlar Milliy basketbol uyushmasi (NBA) professional basketbol mavsumini COVID-19 ga oid xavotirlar sababli to'xtatib qo'ydi.
+28. Mutaxassis tizim xavfsizligini ta'minladi
+29. Ish bilan ta'minlovchi eng yirik sohalar professional xizmatlar, hukumat, moliya, savdo hamda turizmdir.
+30. Sikxlar garchi o'z e'tiqodlarining Hinduizm asosidagi ildizlar va an'analarga egaligini tan olsalar ham, uni hinduizmdan alohida din deb hisoblaydilar.
+31. Serengeti mintaqasii Tanzaniyadagi Serengeti Milliy bog'i, Ngorongoro qo'riqxona hududi hamda Masva Game qo'riqxonasi va Kenyadagi Maasai Mara Milliy qo'riqxonasini qamrab oladi.
+32. Namoyishchilar Milliy Kongressga taqdim qilish uchun 1,2 million imzoga ega petitsiyani to'plashga umid qilishmoqda.
+33. Bu qamoqxona AQSH qurolli kuchlari nazoratiga o'tgac, u yerda mahbuslarning qiynoqlarga solingani aniqlanganidan keyin tanilgan.
+34. Kosmik stansiya missiyasida avvalroq giroskopning yo'qolganiga qaramay, stansiya ochiq kosmosga chiqish jarayoni oxiriga qadar o'z yo'nalishini saqlab qoldi.
+35. Ham fuqarolik, ham harbiy operatsiyalar uchun texnik soz holatda saqlanmagan eski flotga ega bo'lgan Eronda aviahalokatlar tez-tez sodir bo'ladi.
+36. Immigratsiya punkti odatda samolyot, kema yoki boshqa transport vositasidan tushishdagi dastlabki to'xtatish joyidir.
+37. Park xizmati (MINAE) kutilgan yetib kelishdan bir oydan ko'proq vaqtga park ruxsatlarini bermaydi.
+38. Barqaror iste'mol modelini yaratishga yaxlit yondashuv zaruriigi asoslangan.
+39. Oaxudagi yo'lakda 6,34 duymga yetgan yog'ingarchilik miqdori "foydali" deb tavsiflandi.
+40. Ko'prikdan o'tsangiz yoki sharshara yaqinidagi egri-bugri yo'laklar bo'ylab yursangiz, ho'l bo'lishingiz kafolatlanadi.

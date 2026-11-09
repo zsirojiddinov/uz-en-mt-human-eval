@@ -1,0 +1,37 @@
+{
+ "urinishlar_xato": [],
+ "model_sorov": "gemini-3.5-flash",
+ "model_version": "",
+ "temperature": 0.0,
+ "boshi": "2026-10-16T12:29:56+05:00",
+ "oxiri": "2026-10-16T12:30:15+05:00",
+ "kirish": "llm_05.txt",
+ "kirish_sha256": "b426acfecedc5513822f459be42ff4dc4670ce7802f3e1de19c17b2c00f397d9",
+ "sorov_sha256": "eb2330f549078258e5d3d96d9a4d39f17251e956b8232082b48c885f3ccfe553",
+ "javob": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "1. Until now, due to its widespread use across the United States, AOL was able to drive and grow the IM market at its own pace.\n2. Student visas, unlike regular tourist or work visas, usually have different requirements and application processes.\n3. The research lasted for a long time.\n4. After mapping the seabed, the shipwreck was found using an ROV.\n5. Very long summer days can lead to a lack of sleep and related health problems.\n6. Chiao and Sharipov were reported to be at a safe distance from the pitch thrusters.\n7. Even so, they have a special beauty and charm during the winter, with large amounts of snow at many mountain resorts, offering activities such as skiing and snowboarding.\n8. Cuban citizens holding a US green card must visit the Ecuadorian consulate to be exempt from this requirement.\n9. The system increased its operating speed.\n10. The bus was heading toward Six Flags St. Louis park in Missouri for the band to perform at a sold-out concert.\n11. The walls and roofs of ice caves can collapse, and crevices can close up.\n12. The 800-mile Trans-Alaska Pipeline System was shut down after thousands of barrels of crude oil spilled south of Fairbanks, Alaska.\n13. A gas company official was responding to the scene after a neighbor called to report a leak.\n14. The top part of the tower was a special sacred place for the gods.\n15. Although they can sometimes be used in certain situations, taxis are generally not used by families in Charlotte.\n16. Most people reserve their spots in advance (because boats are full during peak season).\n17. When the capsule reaches Earth and enters the atmosphere at about 5 AM (ET), it is expected to be a real light show for residents of Northern California, Oregon, Nevada, and Utah.\n18. The United States Geological Survey's international earthquake map showed that there were no earthquakes in Iceland a week ago.\n19. In addition, the research includes the general architecture of knowledge-based intelligent systems, as well as theoretical information on the types and properties of rules.\n20. This original community is located in Howe Sound near Vancouver and can be easily reached using water taxis that depart on schedule from Granville Island in downtown Vancouver.\n21. Peter Costello, the Australian Treasurer who was highly likely to become the leader of the Liberal Party after Prime Minister John Howard, supported the nuclear energy industry in Australia.\n22. \"But significantly lowering the threat level does not mean the overall threat has disappeared.\"\n23. The amendment was made during this legislative session; first, the second sentence was deleted by the House of Representatives, and then it was passed by the Senate in the same form on Monday.\n24. With an estimated net worth of 2.3 billion, Betten ranked 190th among the 400 richest Americans in 2008.\n25. Since then, the Brazilian footballer has appeared in 53 matches for the club across all competitions, scoring 24 goals.\n26. High-quality brand rums available in places like this can have two problems: some of them may be counterfeit, and imported genuine ones may be more expensive than at home.\n27. This is not an inability to learn, it is a learning disorder; it \"affects 3–5 percent of all children, probably nearly 2 million American children.\"\n28. Especially if you decide to hike through the rainforest during summer, you need to beware of mosquitoes.\n29. Some atoms have an unstable nucleus, which means they tend to decay with or without a small push.\n30. In this resonance, the magnetic field and radio waves cause the atoms to emit faint radio signals.\n31. In some countries or store types, there is often at least one affordable, usually informal restaurant.\n32. Wild animals can be shy or aggressive. The environment can be cold, hot, or otherwise uncomfortable.\n33. Time is something that surrounds us, affects what we do, but is difficult to understand.\n34. If you want to see the world cheaply out of necessity, lifestyle, or hardship, there are some ways to do it.\n35. Piquet Jr. was fired after the 2009 Hungarian Grand Prix.\n36. In his role as chairman of the Subcommittee on Oversight and Investigations under the House Committee on Energy and Commerce, Stearns is investigating whether tax dollars are being used to fund abortions through Planned Parenthood.\n37. Kerala's temple festivals are very interesting to see, featuring regular grand processions of decorated elephants, temple orchestras, and other celebrations.\n38. Around 200 people gathered to protest in front of the main offices of some copyright holders in London.\n39. To do this, they had to eliminate British bases and ships in Egypt. Aside from these actions, Italian warships were not supposed to do anything else.\n40. The Sun does not have a crust you can step on like Earth does. The Sun is composed entirely of gases, fire, and plasma."
+      }
+     ],
+     "role": "model"
+    },
+    "finish_reason": 1,
+    "index": 0,
+    "safety_ratings": [],
+    "token_count": 0,
+    "grounding_attributions": [],
+    "avg_logprobs": 0.0
+   }
+  ],
+  "usage_metadata": {
+   "prompt_token_count": 1981,
+   "candidates_token_count": 1087,
+   "total_token_count": 6823,
+   "cached_content_token_count": 0
+  }
+ }
+}

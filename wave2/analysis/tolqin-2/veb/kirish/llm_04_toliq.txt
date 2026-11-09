@@ -1,0 +1,42 @@
+Translate each numbered Uzbek sentence into English. Keep the numbering. Output only the numbered translations, one per line.
+
+1. Drukgyal Dzong — Paro tumanining yuqori qismida (Phondey qishlog'ida) joylashgan vayron qilingan qal'a va buddaviylik monastiri.
+2. Hayvonlar butun yer yuzida topiladi. Ular yerni qazadi, okeanda suzadi va osmonda uchadi.
+3. Biz ko'plab yunon siyosatchilari, olimlari va musavvirlarini bilamiz. Ehtimol, bu madaniyatning eng mashhur shaxsi Yunon adabiyotining ikki shoh asarlari "Iliada" va "Odissey" dostonlarini yozgan, ko'zi ojiz afsonaviy shoir Gomerdir.
+4. Yerga tushgan taxminan 24 000 ta ma'lum meteoritdan atigi 34 ga yaqini Marsdan ekanligi tasdiqlangan.
+5. Shu bilan birga Bleyk adolatni qaror toptirishni xalaqit berishda ham aybdor deb topildi.
+6. Xalqaro bog'dorchilik ko'rgazmalari — gul ko'rgazmalari, botanik bog'lar va o'simliklar bilan bog'liq boshqa narsalarni namoyish etuvchi ixtisoslashgan tadbirlardir.
+7. "Simpsonlar"dan oldin Simon bir necha seriallarda turli lavozimlarda ishlagan.
+8. Dunyoda 5000 dan ortiq turli tillar mavjud, jumladan, ularning yigirmadan ortig'i 50 million yoki undan ko'p so'zlashuvchiga ega.
+9. Bouen oroli qayiqda suzish, piyoda yurish, do'konlar, restoranlar kabilarni taklif qiluvchi ommabop kunlik sayohat va dam olish kunlaridagi sayohat maskani.
+10. Orolda dastlab taynoslar va kariblar yashashgan. Kariblar arakakan tilida so'zlashuvchi, miloddan 10 000 yil avval kelgan odamlar bo'lgan.
+11. Quyoshga qaraganimizda biz ko'rgan tashqi qism "yorug'lik shari" fotosfera deb nomlanadi va "yorug'lik shari" degan ma'noni anglatadi.
+12. Ammo bugungi kunda taniqli grafiti musavvirlari, grafiti tadbirlar va "qonuniy" devorlar bor. Mazkur kontekstdagi grafiti suratlari ko'pincha tushunarsiz teglarga emas, balki san'at asarlariga o'xshaydi.
+13. Bu joy antiqa jihozlar, tekislangan maydonlar va suzish havzasiga ega tarixiy eski bino bo'lishi mumkin.
+14. Konsepsiya Yevropaning barcha davlatlari bir davlatning qudratli bo'lishing oldini olishga intilishlaridan iborat edi va shu tarzda milliy hukumatlar muvozanatni saqlash maqsadida o'z ittifoqlarini tez-tez o'zgartirib turardilar.
+15. Politsiya u Palermoda Provensanoning o'ng qo'li bo'lgani va tajribasi kattaroqligi bilan Provensanoning imkon qadar panada yurish siyosatini davom ettirishni ko'zlayotgan keksa avlod xo'jayinlarining hurmatini qozongani sababli Lo Pikkoloning qo'li baland kelganini aytdi.
+16. Il-76 samolyoti 1970-yillardan buyon Rossiya hamda Sovet harbiy kuchlarining asosiy komponenti bo'lib kelgan va u bilan o'tgan oyda Rossiyada jiddiy halokat yuz berdi.
+17. Agar istasangiz, mankunianlik, bostonlik, yamaykalik va sidneylikning Torontodagi restoranda kechki ovqat tanovul qilib stol atrofida o'tirishganini tasavvur qiling.
+18. Butun tuman o'zining yagona madaniy hamda tarixiy qiymati uchun YUNESKOning Butunjahon madaniy merosi ro'yxatiga kiritilgan bo'lib, uning mulkiy qiymati mamlakatning eng yuqorilaridan biridir.
+19. Yaqinlashtiruvchi linzalarning asosiy noqulayligi shundan iboratki, fokusning murakkabligi va fokus masofasiga erishish uchun talab qilingan linza elementlari soni asosiy fokusli linzalarga qaraganda ancha katta bo'ladi.
+20. Ular maslahat/avtorizatsiyalar va shikoyatlar uchun sug'urtalovchining elektron pochta manzili va xalqaro telefon raqamlarini ko'rsatishi kerak.
+21. Yaqinlashtiruvchi obyektivlarning boshqa bir kamchiligi shundaki, obyektivning maksimal diafragmasi (tezligi) odatda pastroq bo'ladi.
+22. Qirol Sejong Choson sulolasining to'rtinchi qiroli bo'lgan va eng obro'lilaridan biridir.
+23. Olim formulani isbotladi
+24. Shahar shundoqqina sharsharalar yonida joylashgan va ular asosiy diqqatga sazovor joydir, lekin bu mashhur sayyohlik manzili ham sarguzasht izlovchilarga, ham ekskursiyachilarga uzoq vaqt qolish uchun ko'plab imkoniyatlarini taqdim qiladi.
+25. Mintaqaga oid diplomatik tortishuvlar Armaniston va Ozarbayjon orasidagi aloqalarga putur yetkazishda davom etmoqda.
+26. Shimoliy Karolinadagi Sharlotta shahrining afzalliklaridan biri — oilalar uchun yuqori sifatli tanlovlarning ko'pligidir.
+27. Ish Virjiniyada olib borildi, chunki u yerda ayblovlarni qo'zg'atgan kompaniya — yetakchi internet provayder AOL joylashgan.
+28. Al Gor va general Tommi Frenks bexosdan o'zlarining sevimli sarlavhalarini (The Onion nashriga ko'ra, Gor o'zining 2000-yilgi Saylov kollegiyasidagi mag'lubiyatidan keyin u va Tipper hayotlaridagi eng yaxshi jinsiy aloqani qilishni boshlaganliklarini) aytib yuboradi.
+29. Xangi taomi yerdagi qaynoq chuqurda pishiriladi.
+30. Ovechkinning kechadagi ilk golli uzatmasi jamoaga yangi qo'shilgan Niklas Bekstormning g'alaba keltirgan goliga aylandi.
+31. Gaz va suyuq shaklidagi azot bir xil xususiyatlarga ega. Suyuq holatdagi azot zichroq bo'lishiga qaramay bari bir molekulalari bir xil.
+32. Ispanlar 3 asrga cho'zilgan mustamlakachilik davrini boshlashdi.
+33. Sanskrit qadimiy til bo'lib, Yevropada so'zlashiladigan lotin tiliga qiyoslanadi.
+34. Hind tilida qancha odam gaplashishi haqida turli taxminlar mavjud. Uning dunyoda eng keng tarqalgan ikkinchi va to'rtinchi tillar orasida ekani taxmin qilinadi.
+35. Bu tushuncha olxo'ri guli tanlov guli bo'lgan Xitoydan kelgan.
+36. Televizorda jonli tarzda berilgan sharhlar Eronning yirik manbalari sanksiyalarning ta'sir o'tkazayotganligini tan olganligining dastlabkisi edi.
+37. Ba'zi olimlarning fikriga ko'ra, Triseratoplar bo'r davrida keng tarqalgan o'simlik turidan biri sanalgan sikadlar bilan oziqlangan.
+38. Yerda 200 funt (90 kg) tosh bosadigan kishi, Ioda taxminan 36 funt (16 kg) tosh bosadi. Demak, tortishish kuchi, albatta, sizni kamroq tortadi.
+39. Mazkur nazariya Oyning geologik faoliyatdan to'liq mahrum bo'lganligi to'g'risidagi da'voga zid.
+40. Garchi suv toshqinidan keyin suv sathi atigi bir necha fut ko'tarilsa-da, rasmiylar yemirilgan qumtepalarni qayta tiklash uchun yetarli bo'ladi, deb umid qilmoqdalar.

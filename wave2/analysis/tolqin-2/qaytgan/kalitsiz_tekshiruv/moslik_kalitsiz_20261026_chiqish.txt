@@ -1,0 +1,24 @@
+baholovchilar: ['B', 'C', 'D', 'E'] | umumiy tekislangan elementlar: 319
+  B Mazmun: n=317 mean=3.41 sd=1.41 tarqalish={1: 58, 2: 17, 3: 64, 4: 93, 5: 85}
+  B Ravonlik: n=317 mean=3.32 sd=1.44 tarqalish={1: 62, 2: 25, 3: 64, 4: 82, 5: 84}
+  C Mazmun: n=319 mean=4.20 sd=0.62 tarqalish={1: 4, 2: 4, 4: 226, 5: 85}
+  C Ravonlik: n=319 mean=4.08 sd=0.58 tarqalish={1: 4, 2: 5, 3: 3, 4: 255, 5: 52}
+  D Mazmun: n=319 mean=4.72 sd=0.53 tarqalish={2: 1, 3: 10, 4: 67, 5: 241}
+  D Ravonlik: n=318 mean=4.90 sd=0.35 tarqalish={3: 6, 4: 19, 5: 293}
+  E Mazmun: n=319 mean=4.30 sd=1.21 tarqalish={1: 12, 2: 37, 3: 16, 4: 32, 5: 222}
+  E Ravonlik: n=319 mean=4.18 sd=1.47 tarqalish={1: 46, 2: 14, 3: 5, 4: 27, 5: 227}
+juftlik Spearman (Mazmun | Ravonlik):
+  B-C: 0.308 | 0.295
+  B-D: 0.352 | 0.259
+  B-E: 0.585 | 0.598
+  C-D: 0.320 | 0.188
+  C-E: 0.152 | 0.193
+  D-E: 0.367 | 0.307
+  alpha(ordinal) Mazmun BCDE: 0.198
+  alpha(ordinal) Mazmun BCD: 0.103
+  alpha(ordinal) Mazmun BC: 0.179
+  alpha(ordinal) Mazmun BCE: 0.243
+  alpha(ordinal) Ravonlik BCDE: 0.085
+  alpha(ordinal) Ravonlik BCD: -0.088
+  alpha(ordinal) Ravonlik BC: 0.164
+  alpha(ordinal) Ravonlik BCE: 0.235

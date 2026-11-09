@@ -1,0 +1,3325 @@
+{
+ "_meta": {
+  "boshi": "2026-10-16T11:53:05+05:00",
+  "daraxt_HEAD": "44fd9c8",
+  "data_md5": "e85fbe941ef4ee9ecd5575934031f41e",
+  "db_md5": "732a97a56205a00c1c28a100275782ce",
+  "kirish_sha256": {
+   "a_qavat_400.json": "1e37f431c86a0b1c505655144806fbf2b37f31d445258c6a0d0b476e0604827c",
+   "eval72/sentences.json": "29cf6da34dbfa207a234bc08c25bd34b4171f5f5c1db9aca407c117140abf0ce"
+  },
+  "kod_commit": "c9639e1",
+  "oxiri": "2026-10-16T11:53:24+05:00",
+  "services_md5": "12c8f2a211bdf424b412f68902a633aa",
+  "versiya_production": "2026.10.14-52",
+  "yol": "POST /api/translate-sentence (test_client), KKT_* yo'q"
+ },
+ "a_qavat": {
+  "dev-002": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "According to the leader researchers, this few income giving possible was the cancer of patients, a tuberculosis, HIV and the malaria Early the detection possibility in the states, safely stay such like the chest gland cancer the level in the richer states in the states from the diseases of the indicator half equal.",
+   "yol": "B-multi"
+  },
+  "dev-004": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The pilot seeming was determined is been the leader Dilokrit Pattava.",
+   "yol": "B"
+  },
+  "dev-009": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The hour 11:00 dan transition To'sib demonstrationers Uaytxolldagi a north to side the directed transport road with put.",
+   "yol": "B"
+  },
+  "dev-018": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Of Britain says that the the Guardian newspaper controls the Germany bank the 1200 used tas the three ones this implementing for of the fake company approximately.",
+   "yol": "B-multi"
+  },
+  "dev-023": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Despite the accusations, won with this area of Ma China in materic the closer connections protecting in the platform the easy victory.",
+   "yol": "A"
+  },
+  "dev-026": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The first goal rotated does not hand over the victory of new joined Niklas Bekstorm of Ovechkin in yesterday to the team to the brought goal.",
+   "yol": "B"
+  },
+  "dev-028": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The betten occupied the 2,3 with the billion been evaluated wealth in the 2008 year the 400 ta between the richest americanesses the 190-o'rinni.",
+   "yol": "A"
+  },
+  "dev-029": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It has ended the curve the art of the university and the science college in 1950, and the important donor of the this institution has been.",
+   "yol": "B-multi"
+  },
+  "dev-031": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This prison to AQSH weapon strengths control is an o'tgac, has berecognizeded there the torment of prisoners the has been poured later the has been determined.",
+   "yol": "B-multi"
+  },
+  "dev-032": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Small Pike took a 2008-yilgi the security machine in Singapore gran-pri for Fernando Alonso occurred Early in the exit later the pit-stopdan to the disaster.",
+   "yol": "B"
+  },
+  "dev-034": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The piket Bo'shatildi Jr a 2009-yilgi from the work after Hungary gran-pri.",
+   "yol": "B"
+  },
+  "dev-039": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The certain book is focused of the serial also in one part to the topic, that topic researches also a multiple the stories after.",
+   "yol": "B-multi"
+  },
+  "dev-041": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Of WNED Buffalo'dan Reading Rainbow' reading the house station the been john grant reading Rainbow to the children what for with the necessary, the … took the reading love-ing taught a — a show the children any book, Rag'batlantirdi to the reading, said.",
+   "yol": "B-multi"
+  },
+  "dev-045": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Since the fred was done to the description taking the invention through the artificial roader, the atlantika south of ocean and in the east to the now the note etilganeng is a strong tropical cyclone, and the 35 levels largely note third To'fondir from the east in the width.",
+   "yol": "B-ergash"
+  },
+  "dev-053": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "Determines if permits Komissar the pledge money, and to the imprisonment the taking ofitser put accusations officialer. The accusations are inserted work the gone observing state after the bundan to the computer system.",
+   "yol": "B-multi"
+  },
+  "dev-054": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The eshituv reviewing the work of suspicioner in the court for the rapid right the is dated, and the marking necessary.",
+   "yol": "A"
+  },
+  "dev-055": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Australianess Qo'llab-quvvatladi a g'aznachi and a head a minister john Lebiral a party the leader a rotation probably high been Piter Kastello Australia the atom energy the industry after Hovard.",
+   "yol": "B"
+  },
+  "dev-057": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If it is tijoriyer, we taking the condition it the namely, generally the has taken atom energy the resistance no, the — said a sir Kostello.",
+   "yol": "B-multi"
+  },
+  "dev-058": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Ansa than the publication, the police was in the worry several high levels is sent the be killed, they Qo'rqqan of the heirness war going away begining from the probably.",
+   "yol": "B-multi"
+  },
+  "dev-059": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The police said that it the hand of Lo Pikkolo highly has come the right hand of Palermoda Provensano the has been the possibility of Provensano an until the walking politics continued the aiming at old generation and with the experiment bigness in the shelter the respect of xo'jayinlarining with reason the has won.",
+   "yol": "B-multi"
+  },
+  "dev-061": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The apple head execution director Stiv Jobs walked the device in the stage, demonstrated the iphone'ni the gender cho'ntagidan of pants in the taken out condition.",
+   "yol": "B-multi"
+  },
+  "dev-065": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "You has developed the original copy of the law project the former meridian of Paulo time Suplifi. After the proposed law, has been changed, the currently in the hand of Robert Jefferson.",
+   "yol": "B"
+  },
+  "dev-066": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The demonstrationers to present the 1,2 owner petition hope to the national congress to the million signature to the collection in the doing.",
+   "yol": "A"
+  },
+  "dev-067": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Only much families against the moving in the struggle order that the yuridic help has asked later the known has been, the baller was the 20-mart day the meeting Ko'rfaz community in the legal center for the housing fraud sacrifices.",
+   "yol": "B-multi"
+  },
+  "dev-068": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The rents understood went away going out and from the city that they participated with the hundred given things than the baham the has begun the majority OHA representative deaf Uilson of families their pledge moneys heavier.",
+   "yol": "B-multi"
+  },
+  "dev-069": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The lokvud trust Gardensdagi rents of families moving again 40 or from it more to the possible-ness, because they being the mixeded the another of the OHA police the housing of community turarjoy properties the possible-ness with to the dependent fraud, and knew the learning.",
+   "yol": "B-multi"
+  },
+  "dev-070": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The group Mauidagi war monument canceled the 9000 person participation been designated show in the stadium, and the excuse asked from the fans.",
+   "yol": "B-multi"
+  },
+  "dev-071": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The menejment company of the group, has canceled HK Management Inc the 20-sentabrda, did not bring no initial reasons, however a day passed the logistic blamed the reasons.",
+   "yol": "B-multi"
+  },
+  "dev-079": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Left Maruchidor the second role nos (nose/cape) six points the grow, finished of the pillapoya most in the high.",
+   "yol": "B-multi"
+  },
+  "dev-080": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The two sides came a to'qnash in a big half final, Nusa brought 11 points in it to the winners.",
+   "yol": "B-multi"
+  },
+  "dev-083": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The body with Completely has been covered a feather, lifted the blood boil this predator bird the two clawed front feet like Velosiraptor has been trusted sew has walked saying in the state.",
+   "yol": "B-multi"
+  },
+  "dev-086": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The pittman did conditions the not rightness an assumption to the known time of subsequent week.",
+   "yol": "B"
+  },
+  "dev-087": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Than the words of Pittman, the pakli quantity of ice and the thickness tyulen for the hunters in the last 15 year is most the badly.",
+   "yol": "B"
+  },
+  "dev-090": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Minneapolis Star-Tribune of the owner been source saying however, about the investigation to the data the newspaper, this red lake chief 16 year-old son of Floyd Jurden of tribe has been Luis Jurden.",
+   "yol": "B-multi"
+  },
+  "dev-097": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The il-76 airplane and the main komponent of soviet military strengths has come being Russia buyon the 1970-yillardan, and it hundred gave a serious disaster in Russia with last month.",
+   "yol": "B-multi"
+  },
+  "dev-099": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "After the 800 milenesses were poured Trans-Alyaska the quvur liniya system thousand barrels the not cleaned oil in Alyaskadagi Fairbanks south, was covered.",
+   "yol": "B-ergash"
+  },
+  "dev-100": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Has been the fire management system of the electric power being cut a security a reason later the trial to the launch of klapans, and the 9-sonli Fort-Grili nasos steppe has gone away overflowing has not processed in the oil close.",
+   "yol": "B-multi"
+  },
+  "dev-104": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The given commentaries were the initial of large sources sanctions of Iran influences admited in the television in the lively manner.",
+   "yol": "B"
+  },
+  "dev-105": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "They thatly takes has not processed by Europe union Iran economy 80% external income to the oil export the financial constraints, and own takes the prohibitions to the inside.",
+   "yol": "B-multi"
+  },
+  "dev-107": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The higher leader of the country was connected Oyatulloh Ali to the rawer oil the 1979-yildagi has begun the stay before the islam revolution, and the country named the herself the freed doing necessary has been compile saying.",
+   "yol": "B-multi"
+  },
+  "dev-108": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "When the kapsula goes reaching to the earth, the hour being is being waited 5 TOs a da eastern time with, northern Kaliforniya Oregon Nevada a real light show and to the atmosphere the has entered, approximately and for Yuta population.",
+   "yol": "B-ergash"
+  },
+  "dev-112": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It moved along the western shore of northern Kaliforniya, and Nevada passed and Aydahodan the kaliforniyadan through central Oregon, illuminates the sky that was until Yuta, the — said the Stardust project a menejeri a roof Daksberi.",
+   "yol": "B-multi"
+  },
+  "dev-117": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The scientists suspected Enselad geologic active and the saturn the source saying of the handsome icy E ring probablier.",
+   "yol": "B"
+  },
+  "dev-119": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The game publisher Konami knownly did a fallujadagi the six day the game not taking outs in the japanese one of newspapers today.",
+   "yol": "B"
+  },
+  "dev-124": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "AQSH Ethiopia is emphasizing selfing the information taking and in Kenya to the famous attention the worthy places Portlatish for from the terrorists using about from the open not done source.",
+   "yol": "B"
+  },
+  "dev-127": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The al says Gor and general roof Frenks the bexosdan of owns the favorite headlines than The Onion publication, later Gor defeat of herself in 2000-yilgi election kollegiya it and in Tipper lives the goodest sexual connection doing beginings.",
+   "yol": "A"
+  },
+  "dev-129": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The artistic measure one part of campaign also is Bucharest of the city Romania capital creative of meridian and the colorful metropolis image restore again.",
+   "yol": "B"
+  },
+  "dev-130": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The city does the june of current year and between the august months in the southeast of Europe first bes the largest community art measure of world to the — cows parad the mezbonness.",
+   "yol": "A"
+  },
+  "dev-133": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Los Angeles the police administration representative Kristofer Garsiya not in the vandalizm the suspected man a crime worker than his words, the investigation is being done the property (adj) daxlsizlic according to the calfing.",
+   "yol": "B-multi"
+  },
+  "dev-134": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The material harm to read the letter a not delivered adaptation small E the o\"ni peace to the sign in the amendment order that, and the heart signs with the help of have been implemented bezatilgan black tarpaulins with.",
+   "yol": "B-multi"
+  },
+  "dev-136": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The natural factors cut, water pass the ideal environment that enables to the increase the result doing of the possible number sharply.",
+   "yol": "B-multi"
+  },
+  "dev-138": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The most O'ladi fish water a toxic in the states with reason the high level of substances.",
+   "yol": "B"
+  },
+  "dev-142": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The joint states stopped the national basketball association NBA the professional basketball season COVID-19 a ga an oid in the wednesday with reason the worries.",
+   "yol": "B"
+  },
+  "dev-144": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Thisly Anglatadi that earlier has been this division the is dug in the been based condition, by the molecular evidence the has been waited quite.",
+   "yol": "B-multi"
+  },
+  "dev-146": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The until took AOL IM the market own an actioner to the now along the joint states in a wide scale using with reason in the speed, and developed.",
+   "yol": "B-multi"
+  },
+  "dev-147": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This kelishiv reaching a freedom a mimkin entering with to the strength the nihoya.",
+   "yol": "B"
+  },
+  "dev-148": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The yahoo, and the microsoft service users were the number the AOL clients a competitor the together to the number.",
+   "yol": "B-multi"
+  },
+  "dev-154": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The due is considered falling the incident people five times observing saying this chemical in terms of to the confirmed mars the substance to the earth the tomomidan.",
+   "yol": "B"
+  },
+  "dev-155": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 24 000 tas seeming an atigi the 34 ga close to the confirmed earth fallen approximately from the known meteorit from the mars.",
+   "yol": "B"
+  },
+  "dev-157": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The earth is being courted, hundred extremely one affinity of kamyob been some stones from the 11 000 AQSH dollar to the 22 500 AQSH dollar from this gold price ten equal much.",
+   "yol": "B"
+  },
+  "dev-158": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Keselovski is coming saving 2250 points with the race championship the leadership than the ultimate results of competition.",
+   "yol": "B"
+  },
+  "dev-159": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The seven points have placed stayed Jonson 2243 points the grow with in the second role.",
+   "yol": "B"
+  },
+  "dev-162": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "AQSH expressed that the naval fleet the surishtiruv works were carried out also according to this event.",
+   "yol": "B-multi"
+  },
+  "dev-167": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The reconnaissance of devid Hedli helped and the information collection of Pakistan the laskhar-e-taiba the operation of your 10 person your weaponer personallies from the militant group to the action to the increase.",
+   "yol": "B"
+  },
+  "dev-169": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It trusted the Texas population the community security the measures of the protectioning in that mulozims accompanyingness the has been seen.",
+   "yol": "B"
+  },
+  "dev-170": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The perri, the better equipmented atigi go several places specifically in the world in this state to the surface the comesing problem against eligible to take, the — said.",
+   "yol": "B-multi"
+  },
+  "dev-171": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "We found an also, the some school young a child patient news with in the connection the has been the has been determined today, the — said a governor.",
+   "yol": "B-multi"
+  },
+  "dev-174": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The ship remainders with the help of were found the sea root ROV after the mapping.",
+   "yol": "B"
+  },
+  "dev-178": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "During the awarding is observed in Atlanta schools of test results quite the has been improved.",
+   "yol": "A"
+  },
+  "dev-181": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The ko'rsatgach was found a condition the 34 person education officials in 2013 guilty saying from Shun and again that later the been found evidence test varaqas are a hearter.",
+   "yol": "B-multi"
+  },
+  "dev-185": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The jarke practices in Italy Koverchanoda in that day first in the season busier. It has stayed the planned sunday a day a team against the boloniya\"ga before the game with in the guest room.",
+   "yol": "B"
+  },
+  "dev-187": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The bus group all the chiptas in the courted concert for the execution doing Missuridagi the six is Flags St. The louis side has gone away was a par (equal/par).",
+   "yol": "B"
+  },
+  "dev-189": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the 9-avgust night from Morakot eye Futzyan province of China approximately the seventy kilometer was in a distance.",
+   "yol": "B"
+  },
+  "dev-190": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "To'fon China to the side approximately the 11 km/soat in speed in the actioner.",
+   "yol": "A"
+  },
+  "dev-197": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The ariasdagi test gave a positive result to the light form of virus, said the president minister Rodrigo Arias.",
+   "yol": "B-multi"
+  },
+  "dev-199": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "When does not consider heat and the roof pain, stood my work from the distance performs the myself in the good that takes level, and lively am being felt.",
+   "yol": "B-ergash"
+  },
+  "dev-200": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "I am being waited all the return (acc) in the monday to my duties, the — said in Arias statement.",
+   "yol": "B-multi"
+  },
+  "dev-202": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Brought the downpours its in the remainders big part of islands to the surface, no harm was not taken news however to the now or about the floods.",
+   "yol": "B-multi"
+  },
+  "dev-203": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The oaxudagi was characteristiced a 6,34 the reached precipitation quantity beneficial saying in the pathway the duymga.",
+   "yol": "B"
+  },
+  "dev-210": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "After the gas company official Sizib an one from the adjacents in the phone reported about the has gone out, reports was to the event place.",
+   "yol": "B-ergash"
+  },
+  "dev-212": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Has not been reported about the heavy injuries, the event has been treated five people a shock however in the explosion time in place been at least against the simtomlariga.",
+   "yol": "B-multi"
+  },
+  "dev-216": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The international olympic committee voted the Berlindagi execution council the this sport types today in the meeting to insert. Reviews the necessary been another than the five sport types, the rugby, specifically, the rugby yunion, and the golf has been chosen the olympiad in the games participating for.",
+   "yol": "B"
+  },
+  "dev-217": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The sqvosh, has been brought out the karate and the threeing 2005-yil beysbol in the rolic the olympiad from the games, and tried like the softbol the sport types are the olympiad to the program to the inserting.",
+   "yol": "A"
+  },
+  "dev-221": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It said the 2012-yilgi that is conducted in London the Britainness competitors the qo'llab-quvvatlashini to the commentaries of herself the despite in the olympiad.",
+   "yol": "B"
+  },
+  "dev-224": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This was found with one Bleyk the justice the decision finding a xalaqit also guilty saying the giving.",
+   "yol": "B"
+  },
+  "dev-228": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The scientists are called flat slopes saying, the month surface was haired along Yotgan, found with shrinking the relyef forms that came in the result to the surface from the face of the month very slowness.",
+   "yol": "B-multi"
+  },
+  "dev-229": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The this ravinenesses have been found along the whole month, and has been eroded in the weather effect in the minimal level, this shows them the geologic incidents that brought to the surface the being only quite newly.",
+   "yol": "B-multi"
+  },
+  "dev-230": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The theory being from the geologic activity of this month Completely deprived in about to the claim opposite.",
+   "yol": "A"
+  },
+  "dev-240": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This problem 1-yanvar the day Obanazava of ten local rezidents a post the traditional office, and began the permanent new year otkritkas with the complaint doing the olmaganidan.",
+   "yol": "B-multi"
+  },
+  "dev-245": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Somes satisfied may not be, however to me of this difference no.",
+   "yol": "B-multi"
+  },
+  "dev-248": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This representatives than Pakistan 247-moddasiga of constitution the government and the justice to the showing of services are responsibles.",
+   "yol": "B"
+  },
+  "dev-249": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Time fell today in the morning local with the hour 10 Lar around the islam sacred city – of religion in the makka the hostel falls.",
+   "yol": "A"
+  },
+  "dev-258": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "But Anglatmaydi that the threat dropping the level sharply of the general threat no.",
+   "yol": "B-multi"
+  },
+  "dev-259": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Merilend implemented the transport administration the close to the authority existence of threat of organs the trusts the perfect does not be, than FQB demand.",
+   "yol": "B"
+  },
+  "dev-262": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Nigeria has announced Previously a week the addition planning from the summit first to AfCFTA organization.",
+   "yol": "B"
+  },
+  "dev-265": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Cosmically saved that the steppe is directed in the mission Previously despite no of giroskopning, the steppe to the open kosmos the exit process to the final until own.",
+   "yol": "B-multi"
+  },
+  "dev-266": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The chiao, and the configurer was reported the height of Sharipovlar seeming throwing from the devices in the safe distance.",
+   "yol": "B-multi"
+  },
+  "dev-268": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Was carried out the work curve, the qo'zg'atgan company has placed the accusations a — a leader internet provider AOL because there.",
+   "yol": "B-multi"
+  },
+  "dev-271": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Brazilness falling a footballer all 53 tas since O'shan in the competitions in the club row in the meeting to the field, the 24 tas have rotated to the goal author.",
+   "yol": "B-multi"
+  },
+  "dev-272": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The doctor also said that the li infecting the coincide children A H5N1 influenza virus in about the worrier in the breath in Turkey from the sicker in the feather from the news.",
+   "yol": "B-multi"
+  },
+  "dev-274": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The influenza sign lightness stay, the patients daily yumushlarini through the execution more to the people in infecting the infection the continuation doings possible, the calleded worry go.",
+   "yol": "B-multi"
+  },
+  "dev-277": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The sterns house energy using and the commerce committee a control and Surishtiruvlar the chairman of the lower committee own affiliated with as in the duty through the planned parentsness federation the abortion for the financing from the taxes, or is learning the noness.",
+   "yol": "B-multi"
+  },
+  "dev-281": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "According to the displeasedness demonstration organization workers, of Germany has come Berlin Kyoln Hamburg and like Gannover from the cities approximately the 100 000 person.",
+   "yol": "A"
+  },
+  "dev-284": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 200 person people were collected objections in London in some authorness right main ofislari front of owners approximately with to the demonstration.",
+   "yol": "B"
+  },
+  "dev-285": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The passed month was Poland ACTA the large displeasedness demonstrations in the signaturer in the country, the now of this Poland government was this agreement a ratifikation a decision a reason not doing about to the acceptance doing.",
+   "yol": "B-multi"
+  },
+  "dev-287": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Releasing the animals, and of the shafqatsizlik preventing the kingdom community is calling RSPCA Australia all the CCTV cameras the installation the demand to the animals relatively in the kushxonas in the mandatory order to demand.",
+   "yol": "B-multi"
+  },
+  "dev-289": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "CCTV gives without suspicion animals their farovonlic the prioritiest duty a strong signal with to the working people seeming about.",
+   "yol": "B"
+  },
+  "dev-290": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Jointly showed that the international earthquake map of the state geologic service has not been a week an earthquake first in Iceland.",
+   "yol": "B-multi"
+  },
+  "dev-294": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The clouds have been also an explosion a happen really, or the road brought the confusingness in about probablier took out.",
+   "yol": "B-multi"
+  },
+  "dev-297": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 100 meternesses have gone away a ship custom (adj) fertilizer to come the loads, and the mulozims poured the load of the ship initially hayiq from the submission.",
+   "yol": "B-multi"
+  },
+  "dev-299": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Was implemented in the amendment this law (practice/craft) session, was deleted first the second word by the representatives chamber, and was accepted the monday day later just like in this form by the senate.",
+   "yol": "B-multi"
+  },
+  "dev-306": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Japanness passed a dzyudochi, two karras the games the gold medal prizer Hitoshi Saito the olympiad in the 54 young from the world.",
+   "yol": "B"
+  },
+  "dev-309": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "When the games dy and the world champion Saito the former olympiad, the educational committee chairman of the whole Japan dzyudo federation has been.",
+   "yol": "B-ergash"
+  },
+  "dev-314": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Deaf famous, but the herself has emphasized the 9000 person student been modern Education in the peak of activity, and the king's with the given debate english language teacher is Glory a lesson in the education centers.",
+   "yol": "B-multi"
+  },
+  "dev-319": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "China has been a kommunist country in the last ten year in the official manner the despite, developed the market economy.",
+   "yol": "B-multi"
+  },
+  "dev-323": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "YaIMi of China bigger may be twenty years joint Shtatlarinikidan inside.",
+   "yol": "B"
+  },
+  "dev-327": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Because the bo'ron was from a long land, AQSH is being the difficult the effect an evaluation or to Karib sea probablier.",
+   "yol": "B-ergash"
+  },
+  "dev-330": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The team activity has hit it 468 tas 403 tas a goal during in the meeting.",
+   "yol": "B"
+  },
+  "dev-336": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The turk primadonnasi Sezen Aksu italian tenor with one executed Alessandro Safina and the greek xonanda greedy Aleksiu.",
+   "yol": "B"
+  },
+  "dev-338": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 13 young mototsikl drivers meeting Piter Lens Indianapolis a motor in Sidvey the avtohalokatga, died.",
+   "yol": "B-multi"
+  },
+  "dev-339": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The preparation carries out the exercise during, the lenz fell from the bicycle fell, and later the colleague hit Xaver Zayat it.",
+   "yol": "B-multi"
+  },
+  "dev-340": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The urgency showed a help to it with fast by the medical help employees, was delivered to the local hospital, and it died later in that earth.",
+   "yol": "B-multi"
+  },
+  "dev-341": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The zayat did not take an injury in the unhappy incident.",
+   "yol": "B"
+  },
+  "dev-344": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Has passed announced that the week Naked News program increases a threes new ko'rsatuv with the international language authority of the herself the news news to inform sharply in the manner.",
+   "yol": "B-multi"
+  },
+  "dev-347": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The people with hittinged the windows chairs, however the windows do not break was.",
+   "yol": "B-multi"
+  },
+  "dev-351": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "But this solution is a difficult been problem, and we go the beneficial termoyadroer reactors years for our vision much.",
+   "yol": "B-multi"
+  },
+  "dev-352": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The steel swims of the water surface combing due to the needle on.",
+   "yol": "B"
+  },
+  "dev-356": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Because the tag part of Tig' has bended was, the tig to side Og'ar seem it or this, the tekkan qirra bends a gam to the ice.",
+   "yol": "B-ergash"
+  },
+  "dev-359": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "They implemented this foton saying a be calleder the small the light particle bringing out through.",
+   "yol": "B"
+  },
+  "dev-362": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The fotons organizing the atoms also from the smaller things.",
+   "yol": "B"
+  },
+  "dev-368": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The blood goes away going out arteries saying a be calleder through the roots from the heart, and the venalar comes saying a be calleder through the roots to the heart back. The smallest roots are called kapillyars saying.",
+   "yol": "B-multi"
+  },
+  "dev-369": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The teeth of Triseratop also squeeze has taken was not only the leaves, hard branches and the roots rather extremely.",
+   "yol": "B"
+  },
+  "dev-370": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Beenly counted Sikadlar some Triseratoplar Bo'r an one with your fooder than the thought of scientists, in the period from the wide spread plant type.",
+   "yol": "B"
+  },
+  "dev-373": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "According to another scientists, this plants extremely with the poison, this with reason, the today's daily lazy and the to'tiqush the generation of dinosaurs like another animals with the poison the leaves or the fruit with the fooder the olsa-da, them any one dinosaur has eaten from probably long.",
+   "yol": "A"
+  },
+  "dev-374": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "How was of your ion pull the strength me has pulled bes? If you stand in the surface of your ion, the fewer stone has pressed bes was to the earth relatively.",
+   "yol": "A"
+  },
+  "dev-375": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "In the earth the 200 pound the 90 kg the stone is a pressing person, the 36 pounds press 16 kgs a stone the ioda approximately. Therefore, gravity the strength, fewer pulls you certainly.",
+   "yol": "B-multi"
+  },
+  "dev-376": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The sun not to the possible been shell owner you a step pressing like the earth. The sun Entirely gases, the fire found an organization and from the plasma.",
+   "yol": "B"
+  },
+  "dev-377": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The gas sparsingly go from the sun center your farring yellow.",
+   "yol": "B"
+  },
+  "dev-378": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "When we look to the sun, we is named the seen external part the light ball a fotosfera saying, and the light ball Anglatadi the calleded meaning.",
+   "yol": "B-ergash"
+  },
+  "dev-381": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "After, one how much year is an o'tgach, the 1639-yili Jeremiya Horroks name english astronomer observes the venera tranzit.",
+   "yol": "B-multi"
+  },
+  "dev-383": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Ezelred To'qnashdi a century however in 991 since the previous Gutrum period to the others compared to with the bigger been Vikinglar fleet.",
+   "yol": "B"
+  },
+  "dev-387": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The slope has been Sejong Choson fourth slope of dynasty, and from with reputations one is most.",
+   "yol": "B-multi"
+  },
+  "dev-389": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "There are theories sanskrit how about the appearing has been the multiple. From them moving one owns with one own the languages came taking the ga'rbdan of honors to India about is.",
+   "yol": "B"
+  },
+  "dev-390": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The sanskrit was ancient language, qiyosla in Europe to the so'zlashiladigan lotin language.",
+   "yol": "B-multi"
+  },
+  "dev-395": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "However the kingdom naval fleet still also to Germany naval fleet Kriegsmarine compared to was quite stronger, and spread any sent conquest fleet along the la-mansh the stone takes was.",
+   "yol": "B-multi"
+  },
+  "dev-396": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "But the kingdom had been placed the number ships of the sea fleet little probablier in the attack directions, because the admirals Cho'kib the german air attack in the result Qo'rqardi from the going away.",
+   "yol": "B-multi"
+  },
+  "dev-399": {
+   "normallashtirilgan_matn": "Italiyaning bosh maqsadlari Afrika davlatlari edi. Mazkur mamlakatlarni qo'lga kiritish uchun ularga harbiy platsdarm kerak bo'lardi, shunda qo'shinlar o'rta yer dengizi bo'ylab suzib o'tib, Afrikani bosib olishlari mumkin edi.",
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The head goals of Italy were Africa states. The military platsdarm was necessary to obtain this countries to them, the armies swam a middle the shunda along the earth sea, possibly pressed Africa taking was.",
+   "yol": "B"
+  },
+  "dev-400": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "They and from the ships the boxings necessarily were Egypt the Britain bases of this for. Italy necessarily not doing was the militant ships an another nothing the thing from this actions besides.",
+   "yol": "B"
+  },
+  "dev-403": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "They was the first world war and in the second world war from the suvosti ships in that used times very slow, was the constrained pass open the distance very.",
+   "yol": "B-multi"
+  },
+  "dev-406": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Because the suvosti ships win a success with, is not trusted owner saying after the war to the majority of germans.",
+   "yol": "B-ergash"
+  },
+  "dev-408": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Interesting, it has not been considered important saying in the ancient (adj) times very, and the majority has not been noted in the ancient (adj) kings lists.",
+   "yol": "B-multi"
+  },
+  "dev-410": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The tutanxamon with is one majority of ko'milgan things, with expensive Metallar the including, and the thousand yasalgan artifacts well have been preserved from the rare stones.",
+   "yol": "B-multi"
+  },
+  "dev-414": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "We know the multiple greek politician scientists and the musavvirs. Probably, this famousest individual two shah works of greek literature of culture the hangs and the odissey the epics written eye weak legendary poet are Gomerdir.",
+   "yol": "B"
+  },
+  "dev-417": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The india speaking in the language how much person about the various assumptions existing. Its in the world widest spread second, and is done between the fourth languages the seem assumption.",
+   "yol": "A"
+  },
+  "dev-418": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The close associated of the dialects has been considered the word number in the mother language very, or the difference does the has not been taken in the dependent manner.",
+   "yol": "B-multi"
+  },
+  "dev-419": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Was the speakers than the 340 million 500 million estimates, the 800 million close people understand takes this language.",
+   "yol": "B-multi"
+  },
+  "dev-421": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Northern Estonia has lived the huge cultural effect of Germany approximately 15-asrlarda under.",
+   "yol": "B"
+  },
+  "dev-423": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It has been based the german alphabet, and the only one õ/õ had joined a character.",
+   "yol": "B-multi"
+  },
+  "dev-426": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "But Charlz went Cambridge Triniti to the college, the antropolog learned and the archaeologist, as for the history later, the 2:2 obtained a lower the second category a level a ni.",
+   "yol": "B-multi"
+  },
+  "dev-428": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The Europe part of Turkey saying the eastern frock coat or in the bolqon half island Rumeliya, and has embraced is called the 3% area of the country.",
+   "yol": "B-multi"
+  },
+  "dev-431": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The Turkey area converts it a world a 37-eng and an almost Metropliten France and the combined to an equal large country to the field of kingdom in together.",
+   "yol": "B"
+  },
+  "dev-434": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The current daily areas of Belgium have been in the past in the composition of Luxembourg, however the 1830-yillardagi has rotated after Belgium revolution to Belgium area.",
+   "yol": "B-multi"
+  },
+  "dev-436": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Luxembourg has been the establishmenter member of berecognizeded organization the Europe union in 1957 the currently as.",
+   "yol": "B"
+  },
+  "dev-437": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Drukgyal Dzong the — in Paro high part of district in Phondey village the placed ruined done fortress and is Buddhaness monastery.",
+   "yol": "B"
+  },
+  "dev-438": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Saying, the 1649-yili has done the victory the memorying the this fortress a creation to Zabdrung Ngavang Namgyel Tibet-mo'g'ul strengths from on top in the order that.",
+   "yol": "B-multi"
+  },
+  "dev-441": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 18-asrda stayed Cambodia Thailand and between the vietnam two powerful adjacent in the siquv.",
+   "yol": "A"
+  },
+  "dev-442": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The thailandnesses suppressed several times the 18-asrda to Cambodia has entered, and the 1772-yil ruinedly has done Pnom the fen.",
+   "yol": "B-multi"
+  },
+  "dev-443": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the last years of 18-asrning the vietnamnesses did also Cambodia a conquest.",
+   "yol": "B"
+  },
+  "dev-444": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The ten eight percents of Venezuelanesses were without work, work works with the majority of has been ensured in the norasmiy economy.",
+   "yol": "B-multi"
+  },
+  "dev-449": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Each octyabr the year around almost 1, passed 5 million O'txo'r animals the Mara river for the rain from the northern hillnesses, the southern flats do side a journey.",
+   "yol": "B-multi"
+  },
+  "dev-451": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The serengeti mintaqasii Tanzania Serengeti national garden, embraces Ngorongoro the qo'riqxona area and Masva Game a qo'riqxonasi and Kenyadagi Maasai Mara the national qo'riqxonasini.",
+   "yol": "B"
+  },
+  "dev-453": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The interfaol design demands media your assumptions your evaluation the thinking the study the product in about again and through the unusual methods.",
+   "yol": "B"
+  },
+  "dev-455": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Consisting of closing the main noqulayness of linzas the shundan, the complexity of the fokus was big and a fokus the demanded linza elements the number a main fokuser the distance to achieve to the linzas compared to quite.",
+   "yol": "B-multi"
+  },
+  "dev-457": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This gives the linzas constant fokuser of closing linzas with the help of the achieved result with comparable pictures the possibility of the creating.",
+   "yol": "B"
+  },
+  "dev-458": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Closing the another of obyektivs a shortcoming is that the maximum diafragma speed of the obyektiv was lower usually.",
+   "yol": "B-ergash"
+  },
+  "dev-461": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The majority is prepared televisions to a wide masses in the yoqadigan manner.",
+   "yol": "B"
+  },
+  "dev-462": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "That this with reason you in the television seeing all the things from the high, and the side was from the owner low from sides to the cut borders.",
+   "yol": "B-multi"
+  },
+  "dev-466": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The even oldly stands thousand annual Harobalar between, and O''tib the sounds of gone away battles in a long past, and the imagination hear-ing the smells the doing, the walkings of feel an almost on the stones, and feeling the zindon lifting fear from under possible.",
+   "yol": "B-multi"
+  },
+  "dev-467": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 3,
+   "status": 200,
+   "translation": "Has however our imagination been based to the reality? Why have the palaces been built in the first turn? They did how has been designed, and the creation has been done?",
+   "yol": "B-savol"
+  },
+  "dev-468": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "To that period the special been arrogance Muxloe fortress than the real fortress, more the strongness increased house is.",
+   "yol": "B-multi"
+  },
+  "dev-470": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "When begins being built a lord 1480-yillarda by Gastings, the country has been peaceful relatively, and the defense Izg'ib has been demanded lookers only the walked small against the to'dalariga.",
+   "yol": "B-ergash"
+  },
+  "dev-472": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The concept consisting of was of Europe all one states powerful of state your being to prevent the before from the aspirations, and the national governments kept changeing the balance a storage own the unions Frequently in this manner in the order that.",
+   "yol": "B-multi"
+  },
+  "dev-476": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "Its muddao famous being was the desired than the story, to the substitute exchange. G'azablanganly announces efeslics the name of Gerostrat is not noted never.",
+   "yol": "B"
+  },
+  "dev-477": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The history worker noted later the greek Strabon this name in this manner we today from it our aware. The worshiper ruinedly has been done great Aleksandr to the world in the come night.",
+   "yol": "A"
+  },
+  "dev-479": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Correctly presses seem all of notes, the remedy of your hand forms all a trust a — an also the bo'shashganligiga, with your fingers the due not been actions much to the not doing of the try.",
+   "yol": "B-multi"
+  },
+  "dev-480": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "You fewer tire the yourself a possibility until in this manner. The unutmang, like the pianino the addition for the strength the keyboard big strength with the hitting the need no.",
+   "yol": "B"
+  },
+  "dev-482": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The sufism being a — this ultimate a reality, a divineness spiritual trust an aware or from the god in the consciousness manner, understanding ownness, the god with in communication being the existence is of desire.",
+   "yol": "B-multi"
+  },
+  "dev-483": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The belief doer is a divine borliq/ma'bud, or the ma'budlarga been directly the experiment, the feeling searches or the concept internal.",
+   "yol": "B-multi"
+  },
+  "dev-487": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Sikxlar although own roots Hinduizm of believes in based on, and admit the owner-ness to the traditions, and it calculate a religion saying the hinduizmdan the special.",
+   "yol": "B-multi"
+  },
+  "dev-497": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The jarrohs Ko'knor the morfin that was taken from urug'i extracts, and the mingdevona were to the data the owner the skopolaminni that was taken from the urug'idan own to the inside about the taken various peacefuler tools.",
+   "yol": "B-multi"
+  },
+  "dev-498": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "They to stop the white-ing the sicks from the gangrena for the storage the amputation doing, the also, the blood turniket, and was the skilled arterial press in the use.",
+   "yol": "B-multi"
+  },
+  "dev-501": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It has been developed or the skills of the moving a help a john to the without experience folders to the constraineds giving in the order that 1970-yillarda by Smit.",
+   "yol": "B"
+  },
+  "dev-503": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The herself well well has been for example, in the school does not read with the stereotip qaraladigan racial to littler belonging saying to the known children race of owns the oid about the stereotip after the has heard in the school does not read to the putting inclined.",
+   "yol": "A"
+  },
+  "dev-504": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The myspace is considered the famousest website in the joint states using third, and the coincide in time to the 54 millions profile owner.",
+   "yol": "B-multi"
+  },
+  "dev-505": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "These websites, won a high attention specifically, in the education institutions.",
+   "yol": "B"
+  },
+  "dev-508": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It facilitating the reading, the also or fewer coloredly did in the necessary level more adjustment possible.",
+   "yol": "B-multi"
+  },
+  "dev-510": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "To this learn is not incompetentness, this study activity influences to the break-ing this all the 3–5 percent of children, 2 million americanesses probably, almost to the children.",
+   "yol": "B-multi"
+  },
+  "dev-511": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The yo'liqqan children tormented an attention to ADD reading like the busiers to the things to gather, but they takes a game play or the favorite multfilmlarini watching or the words a rest the attention my very belgilarisiz writing like to the things.",
+   "yol": "B-multi"
+  },
+  "dev-512": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "These children encounter comes usually much to the problems, participates because they the consciousness custom (adj) methods with the rag'batlantira for the olmaganlics Rag'batlantirish in the order that in the qaltis behaviors of owns, enter to the quarrels, and oppose to the authority.",
+   "yol": "B-multi"
+  },
+  "dev-513": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "ADD understands do not take such pronunciation doing or their matureness level different seem or why that another held equalers with to the relations affects because their another children owns why such.",
+   "yol": "B-multi"
+  },
+  "dev-516": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "When took the original, waking the period study, and knowledge did big shifts to give relatively in the been approach.",
+   "yol": "B-ergash"
+  },
+  "dev-517": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The another Gominidlar a drift the primatlardan in the difference manner, or does not use the weight elevation or trees betweens in the transition from the more hands.",
+   "yol": "B-multi"
+  },
+  "dev-518": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The hand of the shimpanze does and the foot palms a dimension a reflection and from the long-ness aspect this bo'g'imda of the same hand in the time of walking to lift weight.",
+   "yol": "B"
+  },
+  "dev-521": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The some people Frequently the qo'zg'atilgan consciousness noons vision in the artificial manner very, and calculates tiring possible saying.",
+   "yol": "B-multi"
+  },
+  "dev-527": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The a card game term east took Britainnesses the tenth army of italians the head engineer Genaral Lastuchchini the cook to the hand.",
+   "yol": "B"
+  },
+  "dev-529": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The modern swordness sport pulled a study in the university from the taking students, the multiple played professional and the olympiad to the games in the levels.",
+   "yol": "B-multi"
+  },
+  "dev-532": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "During the custom (adj) round ten eights deeply played, the players usually start a pathway from the first deep, and finish in the ten eighth.",
+   "yol": "B-multi"
+  },
+  "dev-534": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The game played pass on, and is wrapped in around pass shorten does deep, is given green saying a name.",
+   "yol": "B-multi"
+  },
+  "dev-539": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The travelers focuse a visit ordering the better visions to the various attention of possible certain state to the worthy addresses or just only to one area.",
+   "yol": "B"
+  },
+  "dev-545": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The plan of the america has been based the accordance wither alsos from the threes various direction to the action to the increase.",
+   "yol": "B"
+  },
+  "dev-546": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The general To'sib a john Kadvalder any addition the tools Bordentaundagi begins a chalg'ituvchi an attack to put against the english garnizon.",
+   "yol": "B"
+  },
+  "dev-548": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 2400 humanities cut the main attack strength nine miles a north from Trenton from the river, the one has been been Grin a hand an one Sallivan a hand a close attack start after under and again under to the dawn naming in the order that to the two group.",
+   "yol": "B-multi"
+  },
+  "dev-550": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Owner must be the two minutes working taking the possible been first degree middle a runer athlete certainly, to the distance very to the big speed, however what must be developed also a robustness the has been.",
+   "yol": "B-multi"
+  },
+  "dev-551": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the winter time the kross running, the high part of the body the goodest preparation is a gimnastic exercises for with the together, running for the season.",
+   "yol": "B-multi"
+  },
+  "dev-554": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The middle running to the distance relatively the cheap sport type the bo'lsa-da, engaging in it with for how much mistaken concepts in the equipment necessary-ness blizzard necessary much.",
+   "yol": "A"
+  },
+  "dev-557": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "All mainly calculate was the atom an one saying of substances construction from the bricks.",
+   "yol": "B"
+  },
+  "dev-559": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The nucleus takes a — neutrons and the protons own twos not in the leasts to the inside.",
+   "yol": "B"
+  },
+  "dev-564": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The tushkunlik, was determined a fear and a panic the suffering the tooler doing in the research from the waist pain in the limiters the pain and disabledness in in the middle of to the relation.",
+   "yol": "B"
+  },
+  "dev-566": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The traper negatively was demanded a chronic pain differences the noqulayness feeling keeping separating of the pain was accepted the help to the activity participants and from the custom (adj) physical action the nuqtai-nazaridan more.",
+   "yol": "B"
+  },
+  "dev-568": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Looking to the organism demand, the complexity go the diverse structures of various been eyes.",
+   "yol": "B-multi"
+  },
+  "dev-569": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The various constructions various processing each kind owner, each kind owner, this with one they to the opportunity to the wave long-ness relatively sezuvchan and various sharplyness the level entering feeling for, and demands the various numbers in the optimal level work for.",
+   "yol": "B-multi"
+  },
+  "dev-570": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The population given geographic area in within is one organisms collection in known types.",
+   "yol": "B"
+  },
+  "dev-571": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Of Populatsiya all is called they a monomorfic saying the special the representatives to one exact feature relatively in the same been conditions.",
+   "yol": "B"
+  },
+  "dev-576": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The this nomadic riot continues or of walkings each one 17 days almost.",
+   "yol": "B"
+  },
+  "dev-577": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "What is the cell? The cell has been discovered through the mikroskopic observation that the word of the po'kakning is compiled the small room meaning an anglatuvchi taken and the first time latin cella from the word.",
+   "yol": "A"
+  },
+  "dev-583": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The tornados Qo'porib the trees with the root throws, Sug'urib the taxtas from the buildings takes, and flies the automobiles to the sky. Continues the strongest two percent of tornados from the three hour more.",
+   "yol": "B-multi"
+  },
+  "dev-584": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 133 m/ses reach 300 milya/soats this terrible bo'ronlarda the speed of wind 480 km/soatgacha.",
+   "yol": "B"
+  },
+  "dev-588": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The ochko'zlik with one was and a xudbinlic we always, and the nature gratitude of the partnership, brings a majority each benefit in the seeing state xudbins trying in a short period future always more the benefit.",
+   "yol": "B-multi"
+  },
+  "dev-593": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 3,
+   "status": 200,
+   "translation": "The animals found an organization much from the cells. They eat the things, and the digestion does them in the insides. The majority move take animals.",
+   "yol": "B"
+  },
+  "dev-595": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The animals hundred is found a whole earth. They digs the earth, swims in the ocean, and Uchadi in the sky.",
+   "yol": "B"
+  },
+  "dev-598": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If you look a mikroskop to the alive creatures under, they see small squares the organization founding and from the balls.",
+   "yol": "B-multi"
+  },
+  "dev-599": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Observed understanding a biolog Robert Huk a tree po'kagidagi the small squares through the mikroskop.",
+   "yol": "B"
+  },
+  "dev-600": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "They went away resembling to the rooms. It was the dead cells the observed initial human.",
+   "yol": "B"
+  },
+  "dev-602": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The gas and in the liquid form the nitrogen to the same features owner. In the liquid state the nitrogen despite the denser being all one molecules is the same.",
+   "yol": "A"
+  },
+  "dev-606": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Time has kept wrapping these surroundings, we has doesed an effect to the performing works, but the understanding difficult been thing is.",
+   "yol": "B-multi"
+  },
+  "dev-607": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Time has been researched thousand years the mobayida religious philosophical and by the scholars.",
+   "yol": "B"
+  },
+  "dev-608": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "We accept the time the road that takes event sequence from the future through the current time to the past as.",
+   "yol": "B"
+  },
+  "dev-609": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Time we the events continuous-ness the long-ness how our comparison is also.",
+   "yol": "B"
+  },
+  "dev-610": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "Through the periodic observation the transition yourself your marking of time possible that of the incident is repeated. The periodic incident — in this regular manner again and again to the happen is a being thing.",
+   "yol": "B-multi"
+  },
+  "dev-617": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Another went away moving one tribe – new Zelandiyadan Maori tribe in the chatem islands, and go was.",
+   "yol": "B-multi"
+  },
+  "dev-623": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the state, taking this previous entrepreneur-ness behavior states and the achieved achievements to the memory to the people the new shifts, and helped for the local churches to the new directions to the open being.",
+   "yol": "B-multi"
+  },
+  "dev-626": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The rapidness, this thinking the main direction is of manner a logic and accuracy, this with one facts detection, the existing techniques an application, an information collection again.",
+   "yol": "B"
+  },
+  "dev-627": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "There is one correct answer most important factor of manner of this thinking this only. You only the twos answer, the namely are correct, or think about the noto'g'ri.",
+   "yol": "B"
+  },
+  "dev-628": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This one type thought certain science Tartib-qoidalar or a standard with dependent.",
+   "yol": "B"
+  },
+  "dev-632": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "Between this abilities the goal understanding of others is extremely important. Gives the fuzzier the possibility of the solving of this physical actions probablier.",
+   "yol": "B"
+  },
+  "dev-636": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The magnet was a field and a radio the thin radio of wave atoms the signals a reason in this rezonans to the submission.",
+   "yol": "B"
+  },
+  "dev-640": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The asinxron gives a connection consideration the time and to the others the reaction to express.",
+   "yol": "B"
+  },
+  "dev-642": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "Limiting the fewer is work hours adaptation possible has been time the bundan besides in the condition. Bremer, 1998.",
+   "yol": "B"
+  },
+  "dev-647": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "All own with your hand is performing works, and presenting the information with the dependent actual our experiment, beenly based keeps showing Teleko'rsatuvlar this to learn.",
+   "yol": "B-multi"
+  },
+  "dev-648": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the manner, has not participated this of wes our majority ourselves never, or that knowledge not applying process, or data are watching the giver teleko'rsatuvlarni about the experiment.",
+   "yol": "B-multi"
+  },
+  "dev-652": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Has been noted above, bes the eskimo the word optimal word in the joint states the bo'lsa-da, it in the multiple uSAness not been arktika peoples, Especially, the discriminater is considered a word in Canada.",
+   "yol": "B-multi"
+  },
+  "dev-654": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The root population of Greenland name the herself Inuit Glenlandiyada Kalaaleq a — Kalaallit a — Greenlandness saying in Canada in muchness.",
+   "yol": "B"
+  },
+  "dev-655": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The crime generally existingly not and an outside fifties badly in the intention being in Greenland. There are no areas in the even cities also the qo'pol.",
+   "yol": "B"
+  },
+  "dev-658": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Not sleeping of the summer very the long days in enough level, and they may come taking with to the dependent health problems.",
+   "yol": "B-multi"
+  },
+  "dev-660": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The san-fransisko seeming the economy in the world level the touristness address with the dependent bo'lsa-da, its economy diverse is.",
+   "yol": "B-multi"
+  },
+  "dev-661": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Work with the ensurer largest fields is professional services, the government, the trade and the tourism is a finance.",
+   "yol": "B-multi"
+  },
+  "dev-665": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Walt Disney World to the park the travel doing majority for the americanesses is like a big pilgrimage.",
+   "yol": "B"
+  },
+  "dev-666": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The traditional visit went Orlando to the international airport landing, in the bus the rest garden inside to the placed guest room the going, Disney consisting of a week a transfer to besides the does not go out in the park and to the house from the returning.",
+   "yol": "B-multi"
+  },
+  "dev-667": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Endless diversenessesly go, the word meant a majority this however to the disney world the going about the has gone away.",
+   "yol": "B-multi"
+  },
+  "dev-668": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Dayly is considered Ebay an onlayn is courted a chiptas part Park-hopper the chiptas or like Craigslist through the auxiion websites much using much.",
+   "yol": "B"
+  },
+  "dev-669": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This very despite the wide spread work being, conducted it the chiptas that were prohibitioned by Disney to the others is not.",
+   "yol": "B-multi"
+  },
+  "dev-677": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The plan hold this has compiled in the memory, southern Africa also such not a stable country all the adjacent states the bo'lsa-da.",
+   "yol": "B-multi"
+  },
+  "dev-678": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The visa demands do and the chiqims a difference from the state to the state, and your state affects to it.",
+   "yol": "B-multi"
+  },
+  "dev-680": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The viktoriya waterfall — in the western part of Zimbabwe, Livingstoun city of Zambia and in Botswana close along the border is a placed town.",
+   "yol": "B"
+  },
+  "dev-681": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The city beside has placed a shundoqqina waterfalls, and they to the main attention the worthy place is, but this famous touristness address presents also a sarguzasht the multiple opportunities to the seekers, also to the excursioners the long time to stay.",
+   "yol": "B-multi"
+  },
+  "dev-683": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Pass from the bridge, or the waterfall close walk along the egri-bugri pathways, the ho'l your being a guaranteer.",
+   "yol": "B-multi"
+  },
+  "dev-686": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The another is not worth compared to the Tutanxamon grave a visit to the graves of shahs quite small and with the few of decorations to order.",
+   "yol": "B"
+  },
+  "dev-690": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The pnon from Krom Siem Reap the 12 km the janubi-g'arbda. The this hillness worshiper 9-asr at the end, the slope has been built in Yasovorman period.",
+   "yol": "A"
+  },
+  "dev-691": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The g'amgin environment of the worshiper is worth and the Tonlesap lake view to the hillness to go out.",
+   "yol": "B"
+  },
+  "dev-693": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "To the worshiper to enter Angkor chipta necessary, takes this with reason your passport with the yourself the coming unutmang to Tonlesap in the going.",
+   "yol": "A"
+  },
+  "dev-696": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The city sacred is counted the three yakkaxudolic religions a — a jewishness, a christianness and for the islam religions, and the spiritual religious cultural center serves as.",
+   "yol": "B-multi"
+  },
+  "dev-698": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In Quddus the jo'shqin, and the gavjum trade shops, the caves and the restorans with one multiple historical arxeologic, and the cultural places also go.",
+   "yol": "B-multi"
+  },
+  "dev-702": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "AQSH to be the grin owner Cuba citizens goings the card from this demand to Ecuador consullic free necessary.",
+   "yol": "A"
+  },
+  "dev-704": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The travels if you are a yourself for the bigger groups cheaper, this with reason or only with your person friend, the another with acquaintanced people, tries corresponding a price a to'rt-olti a humanity group to the person head better being for to the creation.",
+   "yol": "B-multi"
+  },
+  "dev-707": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Thisly was lifted sew a tog a background to the northern three hill of Machu-Pikchu much in the conditions to the multiple pictures of vayronas.",
+   "yol": "B"
+  },
+  "dev-709": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The stone has been laid staircases to the big part of road, and the steel performs the kabels support beer handle duty in the sloper sections.",
+   "yol": "B-multi"
+  },
+  "dev-710": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Such was stuffed your breath the bo'lsa-da, considers staying the possible-ness, and sewer in the parts, Especially, the precipitation time be a caution, the walking dangerous may be because in fast.",
+   "yol": "B-multi"
+  },
+  "dev-711": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The small cave was above, it through the transition necessary, it very low and only quite narrow.",
+   "yol": "B-multi"
+  },
+  "dev-712": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 1835-yilda Charliz Darvin like the has done, the wild life of Galapagos is implemented and to the attention the worthy places watching in the boat in the wonderful manner.",
+   "yol": "B-multi"
+  },
+  "dev-714": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The majority To'lgan was people own the places the tied does because a season boats the beforehand the peak the has gone out.",
+   "yol": "B"
+  },
+  "dev-715": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "You forms the order done agent a diverse the owner Galapagos specialist a trust about the ships to the good knowledge the seem.",
+   "yol": "B"
+  },
+  "dev-717": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The spanishes have been the northern Chile Inka dominantness the 16-asrda before the coming under, as for Araukanlar Mapuche central, and the residence has done in the southern Chile.",
+   "yol": "B-multi"
+  },
+  "dev-718": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The mapuche Entirely Chile an until spanish speaker has not gone away absorbing the last america the root population an one to the independence the erishguniga to the administration from the groups, and was.",
+   "yol": "B-multi"
+  },
+  "dev-719": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Chile has been left the 1810-yilda the independence announced despite Napaleon wars Spain during several year the central government boshqaruvisiz, was not achieved solving 1818-yilgacha from the spanishes on top to the victory.",
+   "yol": "B-multi"
+  },
+  "dev-720": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The dominikan republic keeping occupying Karib sea country is Republica Dominicana a – Haiti with the eastern part of the been Hispaniola island in the spanish.",
+   "yol": "B"
+  },
+  "dev-721": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The white sandy beaches the ancientest Europe city has placed one part of Santo Domingo in the been america and from the tog landshafts besides, in the country the currently.",
+   "yol": "B"
+  },
+  "dev-722": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "Taynoslar in the island initially, and Kariblar have lived. Kariblar the wording in the arakakan language, the 10 000 years have been first the come people from the milod.",
+   "yol": "B-multi"
+  },
+  "dev-726": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It serves a now central field as, and the tunu-kun is conducted things in it always very much.",
+   "yol": "B-multi"
+  },
+  "dev-728": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The callejon O'pish del Beso the hiyoboni. The atigi the love in about the old legend place is 69 santimetrs keeping separating two balkons.",
+   "yol": "A"
+  },
+  "dev-730": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The bouen island swim in the boat, the walking, proposing shops, a popular day travel pedestrian the restorans likes, and resting in the days the travel place.",
+   "yol": "B-multi"
+  },
+  "dev-731": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This original has placed a community the vancouver close in Xau-Saund, and reaching in the vancouver center according to the table the leaving water taxes with the help of the easy-ness with to it from Granvil island possible.",
+   "yol": "B-multi"
+  },
+  "dev-737": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The park-ruxsatnomalarini obtaining directly from Renjer station possible, but they does not accept the credit cards.",
+   "yol": "B-multi"
+  },
+  "dev-738": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The park service waitedly reached MINAE does not give the park permissions the coming from one month more to the time.",
+   "yol": "B"
+  },
+  "dev-744": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "In the kuk islands any also the city no, however they found 15 tas an organization from the various islands. The mains to Raroton and are Aitutaki islands.",
+   "yol": "B-multi"
+  },
+  "dev-745": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The currently in the developed states the lyux is a to'shak, and the breakfast has reached with a provision an art the level.",
+   "yol": "B-multi"
+  },
+  "dev-746": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The alal-oqibat, B&B Lar Basically two main things the bed, and the competitioning takes through the breakfast.",
+   "yol": "B-multi"
+  },
+  "dev-748": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The breakfast may take the seasonal lazzatli sweets of the region or the specific food of the mezbon own to the inside.",
+   "yol": "B"
+  },
+  "dev-749": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This place may be unique equipment, aligned fields an owner historical old building and swim the havza.",
+   "yol": "B"
+  },
+  "dev-751": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Driving your automobile from the bigger vehicles in the difference manner, with the order, acquaintance probably, already, and its know the constraints.",
+   "yol": "B-multi"
+  },
+  "dev-753": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Shortly does the has said, own from your machine to the use journey the wonderful method of exit, however rarely its herself the tent the doing possible.",
+   "yol": "A"
+  },
+  "dev-755": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In some guest rooms the bug iron roads and the ocean layners from the gold period the stayed heritage first the existing second world war, 19 or 20-asr the heads.",
+   "yol": "B-multi"
+  },
+  "dev-759": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The g'aram-g'aram money To'xtab-to'xtab go a tourist in much of this guest rooms, thought the vision along the possible world the flight implementing about.",
+   "yol": "B-multi"
+  },
+  "dev-763": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The couchsurfing found the january of the 2004-yilning the computer programer case Fenton a cheap flight in the mother to Iceland, has been organized plunders a place finds to stay later the olmaganidan.",
+   "yol": "B-multi"
+  },
+  "dev-766": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The child families rarely the vision possible, somely permits but Hostellar in their personal rooms the stay.",
+   "yol": "B-multi"
+  },
+  "dev-767": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The Beijing city of Xotiy does a 2022-yildagi a mezbonness the winter olympiad to the games, this as for it, and the mezbonness converts summery, also the winter olympiad to the games to the done first city.",
+   "yol": "B-multi"
+  },
+  "dev-768": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Beijing being covered the launch and the ceremonies, and the top does a closed arenalardagi a mezbonness the ice in on to the competitions.",
+   "yol": "B-multi"
+  },
+  "dev-769": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The another ski measures be 220 kms 140 miles a far Zangjiakouda placed Taizicheng from Beijing approximately in the ski area.",
+   "yol": "B"
+  },
+  "dev-772": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The worshiper festivals vision of stretcher very interesting, in them is the regular ceremonial walking of bezatilgan elephants, the worshiper orchestra was and an another celebrations.",
+   "yol": "B-multi"
+  },
+  "dev-773": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The world fair is called a worldwide ko'rgazmasi Ekspo saying a — this large international art usually or just, and the science festival is.",
+   "yol": "B-multi"
+  },
+  "dev-774": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The participant to demonstrate the history the states world problems or own the states culture and national pavilionlarda the art, and present the educational ko'rgazmalarni.",
+   "yol": "B-multi"
+  },
+  "dev-775": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The international gardener demonstrating the specialized measures are a ko'rgazmalari a — a flower ko'rgazmalari, botanic gardens and plants with a dependent another things.",
+   "yol": "B"
+  },
+  "dev-780": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Some middle the cameras 6 ga in the format is a 6 sm, the aniqrog'i, the 56 gas use 56 mms from the negative format.",
+   "yol": "B-multi"
+  },
+  "dev-786": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The wild animals shy or aggressive may be. The environment noqulay may be cold hot or in a different manner.",
+   "yol": "B"
+  },
+  "dev-787": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the world the 5000 dan more various languages the existing including, their twenty more 50 million or from it much to the wording owner.",
+   "yol": "A"
+  },
+  "dev-788": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "To the oral words compared to the been written words understanding easier is also. This, Especially, tushunarli the pronunciation doing much in the conditions to the difficult been states relevant.",
+   "yol": "B"
+  },
+  "dev-789": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The peoples smoothly speak only much in the english language, and Especially, the even you the constrained knowledge your expectation possible — between the youth even more.",
+   "yol": "B-multi"
+  },
+  "dev-790": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If the imagination do that the man (unit of weight)ness, sitting desire, the bostonness, Jamaicaness and in Torontodagi restoran of Sydneyness the dinner tanovul does around the table.",
+   "yol": "B-multi"
+  },
+  "dev-794": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "There is one affordable restoran in some states or in the shop types often norasmiy been at least.",
+   "yol": "B"
+  },
+  "dev-795": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Your insurance polis took and an insurance a copy from the contact data of do, the yourself with comes taking.",
+   "yol": "B-multi"
+  },
+  "dev-796": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "They Maslahat, and for the complaints the electronic post address of sug'urtalovchining and the international phone numbers demonstration necessary.",
+   "yol": "B-multi"
+  },
+  "dev-800": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The moose saying an elk, and aggressively not the nature is called, but any feel a danger, protects the herself.",
+   "yol": "B-multi"
+  },
+  "dev-801": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The humans do not look a dangerous animal to the moose probablier as, they may put the close goings and owns a danger very under.",
+   "yol": "B-multi"
+  },
+  "dev-802": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The alkogoler my insidenesses in the norm are your inside. The alkogol variously affects to the various people, and very the important is your norm cognition.",
+   "yol": "B"
+  },
+  "dev-803": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The more of the liver being injured an oid long period consequences from the limit due to the alcoholicness to the surface to the comesing health, and the even seeing, and also own may take the death to the inside. When illegally is consumed working my brought out alcoholic insidenesses, the danger grows probablier.",
+   "yol": "B-multi"
+  },
+  "dev-804": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "My illegal alcoholic insidenesses dangerously mixed, the even takes a small dozasi a reason being the possible been metan own the including, also to the seeing or to the death to the inside.",
+   "yol": "B-multi"
+  },
+  "dev-806": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Especially, the insurance covers if it is, thinks see your eye in the house from the examination the transfer and to hand over the doctor recommendation carrying out about.",
+   "yol": "B-multi"
+  },
+  "dev-807": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This like being in the places the existing been high quality brend your rums twos problem being possible their somes the hearter, and the import done reals more expensive may be than the house.",
+   "yol": "B-multi"
+  },
+  "dev-808": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The coffee was a world an one most much from the courting products, you find possible own its types probably, in your region much.",
+   "yol": "B-multi"
+  },
+  "dev-813": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The travel pulled daytime pedestrian from one mile from the fewer distance embraces pressing the possible been longer distances one daily.",
+   "yol": "B"
+  },
+  "dev-816": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The 200 gas closely go working the stood touristness organizations in the international scale. Their majority independent activity conducts.",
+   "yol": "B"
+  },
+  "dev-819": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the travel done your time, and taking the condition the been multiple things existing from it before to the consideration.",
+   "yol": "B-multi"
+  },
+  "dev-820": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "When you do a travel, your house of things wait does not be through. Behavior, will stand a law (practice/craft), a food, a tirbandness, a place, the standards, do language and others you a residence a difference from the doesing earth in the known level.",
+   "yol": "B-ergash"
+  },
+  "dev-822": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "There is buyon a 19-asrdan the touristness agencies. The travel agent usually the nature of tourist, the culture, language or to the not developed states according to the visit from the previous experiments outside for the been travel is a good option.",
+   "yol": "B"
+  },
+  "dev-823": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Although the majority agencies if it is to the ready take the most custom (adj) orders, and the agents have specialized some types of travel, in the known quantity a budget much or to the been designated addresses.",
+   "yol": "B-multi"
+  },
+  "dev-824": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The most better may be the travels that resembled in conditions to yours the armor from the doesing agent the use.",
+   "yol": "B"
+  },
+  "dev-825": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Whether reviews that the website, has done is ifed it is, an agent how the travels an advertisement whether in the shop peshtaxta.",
+   "yol": "B-multi"
+  },
+  "dev-826": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If you desire the world a necessity, the residence manner a cheap road with the vision this some methods of doing existing or with reason the challenge.",
+   "yol": "B"
+  },
+  "dev-830": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The immigration point in falling initial stopping the place is an airplane, a ship usually or from another vehicle.",
+   "yol": "B"
+  },
+  "dev-831": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Is implemented some inspections in the transchegaraviy trains in the moving train, and the confirmer must be the personally suiter your document from this trains to one has gone out in your side.",
+   "yol": "B-multi"
+  },
+  "dev-835": {
+   "normallashtirilgan_matn": "Shunday qonunga ega ko'plab davlatlarda, ro'yxatdan o'tkazish ishlarini mahalliy mehmonxonalar amalga oshiradilar (albatta, so'rab oling).",
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Such implement an owner multiple registering the works local guest rooms to the law in the states, certainly, asks.",
+   "yol": "B-multi"
+  },
+  "dev-837": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The architecture designing the buildings, and consisting of the build. The place architecture often is considered the special touristness address to the herself.",
+   "yol": "B-multi"
+  },
+  "dev-838": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The buildings to watch only much very beautiful, and the high buildings the visible view watching beautiful may be or from the rational placed window.",
+   "yol": "B-multi"
+  },
+  "dev-840": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The multiple take of the pueblolarning how much-ness the seeming in a long distance to the consideration, you stood Albukerke or yous Fega a travel the does not do, the night finds will not take the significant part of the life.",
+   "yol": "B-multi"
+  },
+  "dev-842": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Be the aware this earth the small city alls a stateness each for the not been visitors rotation always, and not the good places.",
+   "yol": "B-multi"
+  },
+  "dev-844": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The pleasant not seeing waller is descriptions, and the aji-buji writing graphite has berecognizeded as.",
+   "yol": "B-multi"
+  },
+  "dev-845": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The majority people, sprinkledly Bo'yoqlar this with the help of a public from the modern incident a long bo'lsa-da, probably, and the harm with connects a deliverer youth to a particular property.",
+   "yol": "B-multi"
+  },
+  "dev-846": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "There are legal walls but the today's daily the prominent graphite musavvirs, the graphite measures and. The this context graphite pictures not the touch understand often, resembles rather to the art works.",
+   "yol": "B"
+  },
+  "dev-847": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The bumerang the study whetherer the popular skill is throwing the — multiple tourists.",
+   "yol": "B"
+  },
+  "dev-848": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If the comer intends to learn the bumerangni name to the da your hand back, the ngiz, the trust forms returning for the suitable bumerangga to your owner-ness.",
+   "yol": "B-multi"
+  },
+  "dev-850": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The xangi food is cooked an earth boil in the deep.",
+   "yol": "B"
+  },
+  "dev-854": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The metrorail saying around Keyptaun to the trafficer two class of trains the owner MetroPlus the first class, and is called, and the metro saying the third class, and is called.",
+   "yol": "B-multi"
+  },
+  "dev-857": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Especially the load elevation of others a — never, cutting the international borders (acc) during your sumkas your qochirma from the eye.",
+   "yol": "B-multi"
+  },
+  "dev-859": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This turn takes the expectation also own to the inside, the seeker may be used because the narkotic substances from the dogs the desired an ogohlantirishlarsiz in the time.",
+   "yol": "B-multi"
+  },
+  "dev-865": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Sayer the marked misfortune, the Fir'avn curse, Montezuma revenge and their multiple friends in this manner.",
+   "yol": "B"
+  },
+  "dev-871": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If you the night in open air are a conducter, the ngiz, the snake, collect the bed chayon from likes to be preserved, or takes To'r a belanchak.",
+   "yol": "B-multi"
+  },
+  "dev-873": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Own was your time in your house in the breath your taker, to the yourself to look, and specific any expense several addition minutes the thing to cook.",
+   "yol": "B-multi"
+  },
+  "dev-876": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Diversely live if drink to the culture in the owner city, the yourself Frequently does not keep going in the neighborhoods alls, or go to the eyeliders.",
+   "yol": "B-multi"
+  },
+  "dev-882": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "From the northern deaf Sharlotta advantages of city one — for the families is the muchness of high quality options.",
+   "yol": "B"
+  },
+  "dev-883": {
+   "normallashtirilgan_matn": "Boshqa hududlarning aholisi bu yerga ko'chib o'tish sababi etib ko'pincha butun oila uchun qulay ekanligini ko'rsatadi va mehmonlar ko'p hollarda bolalar bilan zavqlanish oson deb biladilar.",
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The population of another areas did moving the reason here shows the convenient seeming often for the whole family, and the guests know children with enjoying easy saying much in the conditions.",
+   "yol": "B-multi"
+  },
+  "dev-884": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The Sharlotta city increased the convenient been variants number in the last 20 year in the outsides to the children sharply.",
+   "yol": "B"
+  },
+  "dev-885": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The use is not used Sharlotdagi families although in the certain states sometimes the possible bo'lsa-da, side usually from the taxes.",
+   "yol": "B"
+  },
+  "dev-887": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The antarktika earth surface is considered the coldest place, and keeps wrapping the southern pole.",
+   "yol": "B-multi"
+  },
+  "dev-888": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The visit of travelers costs, the demand is done the physical robustness, may open only in the summery noyabr-fevral for months to the action, and Basically a yarimorol, the islands limit and with Ross sea.",
+   "yol": "B-multi"
+  },
+  "dev-890": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Internal Antarctica this — 2–3 kilometerness ice with is a covered abandoned plateau.",
+   "yol": "B"
+  },
+  "dev-893": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "This thick ice cracks To'ldirilgan, and the flags with have been designated has been squeezed blacken. The fuel pulled and materials with the help of the sleds in it only, moving in the specialized tractors possible.",
+   "yol": "B-multi"
+  },
+  "dev-894": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "These are not very quick, the road corresponds Transantarktik a long turn this with reason to the flat mountainness to go from the mountains surroundings the taking.",
+   "yol": "B-multi"
+  },
+  "dev-895": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The winter time to the happen the widest spread reason of being unhappy incidents is sirpanchiq roads, the pathways are considered the pathwayer and Especially staircases pedestrians.",
+   "yol": "B-multi"
+  },
+  "dev-909": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The media companies claimed the looker preventing the forness, speaking about the goal the lie in the regular manner of this.",
+   "yol": "B-multi"
+  },
+  "dev-910": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The areaer well works codes an effect does not show the bitma-bit of the disk to the illegal copying generally the done copy in any device like the original copy.",
+   "yol": "B"
+  },
+  "dev-916": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This category side has carried out some appendices, the user smartfonini objects, the even in the real life this signs or another objects in on in the outside languages the been written texts, and takes translates.",
+   "yol": "B-multi"
+  },
+  "dev-917": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The translation systems were improved sharply, and the correct translations understand is given the currently often in a certain level and rarely, the caution accepted may be necessary, because they also everything a noto'g'ri but one little still.",
+   "yol": "B-multi"
+  },
+  "dev-918": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The this category was an one – this Google Translate from the famousest appendices, it gives the necessary language data has been downloaded an oflayn translating the possibility later.",
+   "yol": "B-multi"
+  },
+  "dev-924": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "From this services the use, is implemented often, from the majority phones free calling through the possible been free phone numbers.",
+   "yol": "B"
+  },
+  "dev-925": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "To the custom (adj) pictureness the rules to the video to take also relevant, rather from it also are more.",
+   "yol": "B"
+  },
+  "dev-927": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If you has used from the drone, the ngiz, the permission givenness check from first what and how permissions or an addition the litsenziyas taking was demanded to the picture to take.",
+   "yol": "B-multi"
+  },
+  "dev-928": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The even badly the thought is a drone flying the almost all time in this area of yours the illegal bo'lmasa-da, in the airport close or on the crowd.",
+   "yol": "B"
+  },
+  "dev-933": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The student visas were the owner a custom (adj) touristness various demands and an application or from the work visas in the difference manner, usually handing over to the processes.",
+   "yol": "B"
+  },
+  "dev-941": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The easiest method charxlaing is your skills writing with the engaging in a — any famous travel blog own about the travel in the website of start.",
+   "yol": "B"
+  },
+  "dev-950": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "When takes generally, you proposed your help, rotated the docks, the yaxtas have cleaned Odamlr, the dreg tried shipers with to the connection to the enteringing the news distribute.",
+   "yol": "B-ergash"
+  },
+  "dev-955": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The turk air road airline is implementing begins in the 30 state of Africa the 39 ta the flight the 2014-yildan to the address.",
+   "yol": "B"
+  },
+  "dev-958": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If you southernly intends to do Completely a flight Yarimshar along, the ngiz, the noness of transokean directions was flights and the address option the constrained due to.",
+   "yol": "B-multi"
+  },
+  "dev-960": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "However the Star Alliance airline, say the eastern part of the LATAM Oneworld flight been southern peaceful ocean Santyago from Chile until Taiti from the flight besides, embraces all.",
+   "yol": "B-multi"
+  },
+  "dev-963": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The qo'llab-quvvatlovi of Armenia was created with a new republic. But nothing did not admit a reputation a state — an even Armenia also it a picture.",
+   "yol": "B"
+  },
+  "dev-964": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "To the region continues oid diplomatic tortishuvs Armenia and Azerbaijan in between to the connections in the defect delivery.",
+   "yol": "A"
+  },
+  "dev-966": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The worldwide cultural heritage of UNESCO to the list has been inserted was of the whole district herself single cultural and for the historical value, its from the highs one is property (adj) value of the country most.",
+   "yol": "B-multi"
+  },
+  "dev-968": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "They has taken the worldwide cultural heritage of UNESCO a place from the list.",
+   "yol": "B"
+  },
+  "dev-969": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The centuries unevenly, have built the person terasalarni a caution with sew a shundoqqina the sea hill an until during on the landshafts to the clifves.",
+   "yol": "B"
+  },
+  "dev-970": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The attractiveness to the part eye is from the be throwner noness of general rivojlanishningning. The roads, connect the villages trains and boats, the automobiles reached as for from besides the blizzard does not take.",
+   "yol": "B"
+  },
+  "dev-971": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Enough similar does Belgium the french language types that are spoken in Switzerland a difference although for the mutual understanding the bo'lsa-da, and in France from the speaking french language one little.",
+   "yol": "B"
+  },
+  "dev-974": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Was the hand silkiting the friender a sign in the multiple parts of world, the greeting expresses the calleded meaning.",
+   "yol": "B-multi"
+  },
+  "dev-979": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The travelers forming water or an another thing illyuziya the mirages the vision in the scorching heat of possible day.",
+   "yol": "B"
+  },
+  "dev-980": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If the tourist walk the expensive strength and the stayed water a mirage to the useless in the expensed condition the go away, this dangerous may be.",
+   "yol": "B-multi"
+  },
+  "dev-981": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The even cold may be the hottest deserts also in the night very. The gipotermiya Tug'diradi a hot kiyimlarsiz a danger in the reality.",
+   "yol": "B"
+  },
+  "dev-982": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Especially, decide write the time tropical forest betweens a walk to stroll, the caution must be from the mosquitos.",
+   "yol": "B-multi"
+  },
+  "dev-985": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The thousand fewer states have been noted in the humans, but their somes have been a reason to the death.",
+   "yol": "B-multi"
+  },
+  "dev-987": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The suddenly high, it Fordlar a role bo'shatuvchi or in this level to the flat plateaus, and the valleys for Norway special is.",
+   "yol": "B-multi"
+  },
+  "dev-991": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The walls of ice caves fall falling and the rooves, and the cracks may be covered.",
+   "yol": "B-multi"
+  },
+  "dev-992": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The large parts tested from the outside of glaciers, falls to the low, sometimes Irg'ib as for to the longer, or the duma goes away.",
+   "yol": "B-multi"
+  },
+  "dev-994": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Such bes the bo'lsa-da, they during the winter to own the beauty and to the charm owner, the multiple blacken was in the tog stations in a large quantity, and proposes the busiers in the ski threeing and like the snouboard.",
+   "yol": "B-multi"
+  },
+  "dev-997": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "All in the conditions you to the airline directly the phone through the doing the armor your doing necessary.",
+   "yol": "A"
+  }
+ },
+ "eval72": {
+  "flores-00": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The white tutun that is going out in television news from the factory has been described.",
+   "yol": "B"
+  },
+  "flores-01": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This concept has come the olxo'ri flower the option flower from been China.",
+   "yol": "B"
+  },
+  "flores-02": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Before the simpsonlar\"dan Simon has worked in several serials in the various positions.",
+   "yol": "B"
+  },
+  "flores-03": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The hill part of tower for the gods was a specific sacred place.",
+   "yol": "B"
+  },
+  "flores-04": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The archipelago is not an ice condition and in the lakes to you.",
+   "yol": "B"
+  },
+  "flores-05": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Is being accused buyon O'shan in Adekoya Edinburgh Sherif court in killing the son.",
+   "yol": "B"
+  },
+  "flores-06": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The spanishes started the colonialism period that stretched to 3 centuries.",
+   "yol": "B"
+  },
+  "flores-07": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "May choose the plan of the protecting for these pair-ness children.",
+   "yol": "B"
+  },
+  "flores-08": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This four year of Martelli is in inside a fifth CEPidir.",
+   "yol": "B"
+  },
+  "flores-09": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This month sea under thinner and in the mountain earths is thicker.",
+   "yol": "B"
+  },
+  "flores-10": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The water roads may be a good topic internal for the vacation.",
+   "yol": "B"
+  },
+  "flores-11": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Parisnesses are a xudbin qo'pol, and the dimog'dorligi with has berecognizeded.",
+   "yol": "B-multi"
+  },
+  "flores-12": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The hydrogen ions electronics take the been thrown protons are one reason hydrogen atoms proton, and the composition found from one electronic.",
+   "yol": "B-multi"
+  },
+  "flores-13": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The Tibet buddhism is based Buddha to the educationers, has been expanded but with the mahayana road of the love and with the multiple methods of the india yoga.",
+   "yol": "B-multi"
+  },
+  "flores-14": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Also the citizenship, was Aviahalokatlar Frequently a happen also for the military operations in the technical good state to the not been preserved old fleet in the owner been Iran.",
+   "yol": "B"
+  },
+  "flores-15": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the desert the safe stay the oid book and the journals wide spread, however to the war areas the oid publications is few.",
+   "yol": "B"
+  },
+  "flores-16": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "It taking however, from them the opportunities, the responsibility, from the development phase besides the been obligations the responsibility the so'ralmasligi necessary, the — added say.",
+   "yol": "B-multi"
+  },
+  "flores-17": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "If you do a kindness one little, the external appearance G'oyib we of Parisnesses sharply in the moment was.",
+   "yol": "B-multi"
+  },
+  "flores-18": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "53 young Kuomos began the governorness activity in this head of year, and the passed month with one gender the marriage legaler law signaturer.",
+   "yol": "B-multi"
+  },
+  "flores-19": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Some atoms have the stable not been nucleus, this as for their small impetus with, or Anglatadi the tendency to the without impetus decomposition.",
+   "yol": "B-multi"
+  },
+  "flores-20": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Was noted in the statement, Turkey the shunigdek, the Europe states take from the return refused ISHID militants the qo'riqlashni own to the homeland the responsibility.",
+   "yol": "B-multi"
+  },
+  "flores-21": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Frequently use from the lotin language in the religious ceremonies, the italian language is considered the daily that is used in state work by the majority of working humans language.",
+   "yol": "B-multi"
+  },
+  "flores-22": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The herself of Avtoulov has been taken away that day a hour 12:00 GMT a da from the incident place approximately.",
+   "yol": "B"
+  },
+  "flores-23": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Went of Tayvan begining the 15-asrga buckled, goes away passing Europeness the sea workers island name Ilha Formosa in this case, or the beautiful island wrote saying leave.",
+   "yol": "B-multi"
+  },
+  "flores-24": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The water surface was enough an atigi several futs the officials eroded qumtepalarni although after the water flood the ko'tarilsa-da, again to restore, are hoping saying.",
+   "yol": "B-multi"
+  },
+  "flores-25": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This does not take the mountaineering method the tog ski or the mountaineering with dependent, but them own usually inside, they is implemented sew in the courtyards, and the hard ski demands and the etiklarni.",
+   "yol": "B-multi"
+  },
+  "flores-26": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "This is called children wild or wild saying. Was left some wild children people limiter put some of the child such of the child heavy mind of parentses usually their parentses by in the conditions, or has been hundred translating a reason the physical zaiflashuvidan.",
+   "yol": "B"
+  },
+  "flores-27": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Did AQSH the gymnastics federation this until the braves described level a crime how by Larri Nassar sacrifices time Qo'llab-quvvatlaydi is not determined continued the clearness inserting independent inspection so much, and any essential, and the due accepts the shifts.",
+   "yol": "B-multi"
+  },
+  "flores-28": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "This with forces one blog conducting the students in around about the world even more with the knowledge to the being. The interesting-ing necessity students of contentmenting in the masses with the understanding and to the interesting being the inspirationer Toto 2004.",
+   "yol": "A"
+  },
+  "flores-29": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The 1624-yili organized a base Ost-Indiya company of Netherlands in the janubi-g'arbiy part of Tayvan, the local grain began working the transformation bringing out in the practice, and Chinaness attract did the workers a rice and in the sugar plantations to the work.",
+   "yol": "B-multi"
+  },
+  "flores-30": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Britain Tug'dirib an even neyral also a danger to the ships, preventing the international water areas miner to any whole ocean parts of ship in the order that of the entering.",
+   "yol": "B-multi"
+  },
+  "flores-31": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 2,
+   "status": 200,
+   "translation": "The military actions were one second world northern Atlantika of war to the attention from the possessor been last examples of this most. The americanesses to help the humans to Britain, and tries the materials through Atlantika ocean to move.",
+   "yol": "A"
+  },
+  "flores-32": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "However this not the experiments Exclusively, and the experiment — one possible been, or the oriyentir was several hypothesis, the placement of your for example and for the scientific research, and is used the test is serving the observations the transfer an exception for the doing.",
+   "yol": "B-multi"
+  },
+  "flores-33": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 3,
+   "status": 200,
+   "translation": "Well sees Otselotlar a small animals eat. If the possibility, they the monkeys, the snakes, are gnawers, and hold the birds. The otselot almost all of hunting animals to the herself compared to is quite small.",
+   "yol": "B"
+  },
+  "flores-34": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "To the busiers in the places the example as the ov are a doing, the fish hunting, taking to the picture, watching the birds, the visit ordering to the gardens, and bringing the ecosystem in about the data study possible.",
+   "yol": "B-multi"
+  },
+  "flores-35": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Northern India is used and of Pakistan internal in the areas from the yogurt usually in the curries in the southern India, and the another of the subkontinentning the kokos milk widely is applied a some coast in the bo'yi areas.",
+   "yol": "B-multi"
+  },
+  "gold-00": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The specialist taught the model.",
+   "yol": "B"
+  },
+  "gold-01": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The scientists learned the regional differences.",
+   "yol": "B"
+  },
+  "gold-02": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The system increased work the speed.",
+   "yol": "B"
+  },
+  "gold-03": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The algorithm finds the average value.",
+   "yol": "B"
+  },
+  "gold-04": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The system groups the users.",
+   "yol": "B"
+  },
+  "gold-05": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The specialist ensured the system security.",
+   "yol": "B"
+  },
+  "gold-06": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The model determines the word category.",
+   "yol": "B"
+  },
+  "gold-07": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The model classified the description.",
+   "yol": "B"
+  },
+  "gold-08": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The scientist proved the formula.",
+   "yol": "B"
+  },
+  "gold-09": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The company developed the product.",
+   "yol": "B"
+  },
+  "gold-10": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The model analyzes the natural language.",
+   "yol": "B"
+  },
+  "gold-11": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Research continued a long period.",
+   "yol": "B"
+  },
+  "train-00": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Language natural also, artificial also may be.",
+   "yol": "B"
+  },
+  "train-01": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The giperlipidemiya uterus pathogenesis of miyomasining and in the clinical passing is an important syllable.",
+   "yol": "B"
+  },
+  "train-02": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The whole approach has been based the stable consumption model a zaruriigi to create.",
+   "yol": "B"
+  },
+  "train-03": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In this article the bronchitis treatment long and is a difficult process.",
+   "yol": "B"
+  },
+  "train-04": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The gynecological diseases of adolescent girls demand an attention the special.",
+   "yol": "B"
+  },
+  "train-05": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The surgery practice location of metastases, the volume looking is chosen and to the number.",
+   "yol": "B"
+  },
+  "train-06": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Alning threes main goal has been shown in the education.",
+   "yol": "B"
+  },
+  "train-07": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The political speech always has held an important role in the humanity history.",
+   "yol": "B"
+  },
+  "train-08": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Data has been tried in this article about the main types of corpora to give.",
+   "yol": "B"
+  },
+  "train-09": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Language is stated thoughts in this article and about the organic dependence of culture a little.",
+   "yol": "B"
+  },
+  "train-10": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "From the modern information technologies in the fbydalangan condition the oil, and the gas wells are reviewed the trajectories the mo'ljallangan automated system the creating concept for managing.",
+   "yol": "B-multi"
+  },
+  "train-11": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The significance traditional education quality new method of increase of research with the demonstration is dependent.",
+   "yol": "B"
+  },
+  "train-12": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Implicitly separater a circuit, and the high order approximation the stable algorithm of solution has been developed with the help of the hydrodynamic example.",
+   "yol": "B-multi"
+  },
+  "train-13": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "Specifically, the external trade honey, the inflation, the investments logistics is a muammotari, and Energetikxavfsizlikyoritiladi.",
+   "yol": "B-multi"
+  },
+  "train-14": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The article Andijan state medicine institute students review and the students adolescents the populyatsion features of the blood pressure in the example and the youth in in the middle of.",
+   "yol": "B"
+  },
+  "train-15": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The strategic significance of logistics has been emphasized in the globalization condition this countries to develop the economy.",
+   "yol": "B"
+  },
+  "train-16": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The historical scientific heritage of the Fizika-texnika institute, converting important discoveries in this article specifically, and to the digital content of is worked, and to the modern ilmiy-ta'limiy resources integrating the problems is learned them.",
+   "yol": "B-multi"
+  },
+  "train-17": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the goal to process in this article the hybrid energy supply data sources of sources and based on the lot the monitoring data collection and the use technology of application, the application field and the data project of base has been developed.",
+   "yol": "B-multi"
+  },
+  "train-18": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The bundan besides, research knowledge the base the been based intellectual systems general architecture, and the rule types take the theoretical data own and about the features to the inside.",
+   "yol": "B-multi"
+  },
+  "train-19": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "With the preeclampsia the ached fetuser in the women is to the blood break-ing of become soft, the trombotsitopatiya, and consuming the anticoagulant of your law and with the decrease of fibrinolytic potential the development signs of koagulopatiyasining the together existing.",
+   "yol": "B-multi"
+  },
+  "train-20": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The belly space the necessary-ness of accepting has been determined the danger factors, the resuscitation necessity than the literature, the hernia in the correction time for the surgery complications and after the repair again.",
+   "yol": "B"
+  },
+  "train-21": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "This article free thinking language the interesting-ing increase, in learning, to participate the sensitivity and in the lessons active advanced, focuses innovative and to the interactive methods.",
+   "yol": "B-multi"
+  },
+  "train-22": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "In the model of air mass speed it, is V, and the o'zgaruvchanligi has been considered in W directions according to the fazoviy-vaqt, this gives as for be polluted of substances moving the iarayonlarini the more exact characterization possibility in the atmosphere.",
+   "yol": "B-multi"
+  },
+  "train-23": {
+   "normallashtirilgan_matn": null,
+   "sentence_count": 1,
+   "status": 200,
+   "translation": "The treatment tartib- rules eliminating each kind an etiotropic a – a qo'zg'atuvchi the factor the virus bacterias, the simptomatic eliminating a treatment a danger tug'diruvchi the symptoms to the life, the obstructive bronchitis is recommended a treatment and the bronxiolitda in the hospital.",
+   "yol": "B-multi"
+  }
+ }
+}

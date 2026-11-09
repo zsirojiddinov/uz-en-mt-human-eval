@@ -1,0 +1,578 @@
+[
+ {
+  "id": "flores-00",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 7,
+  "uz": "Televizion xabarlarda zavoddan chiqayotgan oq tutun tasvirlangan.",
+  "ref_en": "Television reports show white smoke coming from the plant."
+ },
+ {
+  "id": "flores-01",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "Bu tushuncha olxo'ri guli tanlov guli bo'lgan Xitoydan kelgan.",
+  "ref_en": "The concept came from China where plum blossoms were the flower of choice."
+ },
+ {
+  "id": "flores-02",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "\"Simpsonlar\"dan oldin Simon bir necha seriallarda turli lavozimlarda ishlagan.",
+  "ref_en": "Before The Simpsons Simon had worked on several shows in various positions."
+ },
+ {
+  "id": "flores-03",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "Minoraning tepa qismi xudolar uchun maxsus muqaddas joy edi.",
+  "ref_en": "The top of the tower was special sanctuary for the god."
+ },
+ {
+  "id": "flores-04",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 7,
+  "uz": "Arxipelag va ko'llarda sizga yaxta shart bo'lmaydi.",
+  "ref_en": "In the archipelagos and lakes you do not necessarily need a yacht."
+ },
+ {
+  "id": "flores-05",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "O'shandan buyon Adekoya Edinburg Sherif sudida o'g'lini o'ldirganlikda ayblanmoqda.",
+  "ref_en": "Adekoya has since been in Edinburgh Sheriff Court charged with murdering her son."
+ },
+ {
+  "id": "flores-06",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 7,
+  "uz": "Ispanlar 3 asrga cho'zilgan mustamlakachilik davrini boshlashdi.",
+  "ref_en": "The Spaniards started the colonization period which lasted for three centuries."
+ },
+ {
+  "id": "flores-07",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "Bu juftliklar farzandlari uchun asrab olish rejasini tanlashi mumkin.",
+  "ref_en": "These couples may choose to make an adoption plan for their baby."
+ },
+ {
+  "id": "flores-08",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 7,
+  "uz": "Bu Martellining to'rt yil ichidagi beshinchi CEPidir.",
+  "ref_en": "It is Martelly's fifth CEP in four years."
+ },
+ {
+  "id": "flores-09",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "Bu Oy dengizi ostida yupqaroq va tog'li yerlarda qalinroqdir.",
+  "ref_en": "It is thinner under the maria and thicker under the highlands."
+ },
+ {
+  "id": "flores-10",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "Ichki suv yo'llari ta'til uchun yaxshi mavzu bo'lishi mumkin.",
+  "ref_en": "Inland waterways can be a good theme to base a holiday around."
+ },
+ {
+  "id": "flores-11",
+  "layer": "flores",
+  "length_bin": "short",
+  "uz_word_count": 7,
+  "uz": "Parijliklar xudbin, qo'pol va dimog'dorligi bilan tanilgan.",
+  "ref_en": "Parisians have a reputation for being egocentric, rude and arrogant."
+ },
+ {
+  "id": "flores-12",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 16,
+  "uz": "Vodorod ionlari elektronlari olib tashlangan protonlardir (sababi vodorod atomlari bitta proton va bitta elektrondan tarkib topgan).",
+  "ref_en": "Hydrogen ions are protons that had their electrons stripped off them (since Hydrogen atoms consist of one proton and one electron)."
+ },
+ {
+  "id": "flores-13",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 17,
+  "uz": "Tibet buddizmi Budda ta'limotlariga asoslanadi, lekin muhabbatning mahayana yo'li bilan va hind yogasining ko'plab uslublari bilan kengaytirilgan.",
+  "ref_en": "The Tibetan Buddhism is based on the teachings of Buddha, but were extended by the mahayana path of love and by a lot of techniques from Indian Yoga."
+ },
+ {
+  "id": "flores-14",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 19,
+  "uz": "Ham fuqarolik, ham harbiy operatsiyalar uchun texnik soz holatda saqlanmagan eski flotga ega bo'lgan Eronda aviahalokatlar tez-tez sodir bo'ladi.",
+  "ref_en": "Air accidents are common in Iran, which has an aging fleet that is poorly maintained both for civil and military operations."
+ },
+ {
+  "id": "flores-15",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 15,
+  "uz": "Sahroda omon qolishga oid kitob va jurnallar keng tarqalgan, biroq urush hududlariga oid nashrlar kam.",
+  "ref_en": "Books and magazines dealing with wilderness survival are common, but publications dealing with war zones are few."
+ },
+ {
+  "id": "flores-16",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 18,
+  "uz": "U \"biroq, ulardan imkoniyatlari, javobgarligi, rivojlanish bosqichidan tashqari bo'lgan majburiyatlarni zimmasiga olish so'ralmasligi kerak\", — deya qo'shimcha qildi.",
+  "ref_en": "He added that \"they should not, however, be asked to take on obligations that go beyond their development stage, responsibility and capabilities.\""
+ },
+ {
+  "id": "flores-17",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 14,
+  "uz": "Agar siz bir oz iltifot qilsangiz, parijliklarning keskin tashqi qiyofasi biz zumda g'oyib bo'ladi.",
+  "ref_en": "Parisians' abrupt exteriors will rapidly evaporate if you display some basic courtesies."
+ },
+ {
+  "id": "flores-18",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 18,
+  "uz": "53 yoshli Kuomo shu yilning boshida gubernatorlik faoliyatini boshladi va o'tgan oy bir jinsli nikohni legallashtiruvchi qonunni imzoladi.",
+  "ref_en": "Cuomo, 53, began his governorship earlier this year and signed a bill last month legalizing same-sex marriage."
+ },
+ {
+  "id": "flores-19",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 17,
+  "uz": "Ayrim atomlar turg'un bo'lmagan yadroga ega, bu esa ularning kichkina turtki bilan yoki turtkisiz parchalanishga moyilligini anglatadi.",
+  "ref_en": "Some atoms have unstable nuclei which means that they tend to break apart with little or no nudging."
+ },
+ {
+  "id": "flores-20",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 17,
+  "uz": "Bayonotda qayd etilishicha, Turkiya, shunigdek, Yevropa davlatlari yurtiga qaytarishdan bosh tortgan ISHID jangarilarini qo'riqlashni o'z zimmasiga oladi.",
+  "ref_en": "Turkey would also take over guarding captured ISIS fighters which, the statement said, European nations have refused to repatriate."
+ },
+ {
+  "id": "flores-21",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 18,
+  "uz": "Lotin tilidan diniy marosimlarda tez-tez foydalanilsa, italyan tili davlat ishida ishlaydigan insonlarning ko'pchiligi tomonidan foydalaniladigan kundalik til hisoblanadi.",
+  "ref_en": "Italian is also the everyday language used by most of those who work in the state while Latin is often used in religious ceremonies."
+ },
+ {
+  "id": "flores-22",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 13,
+  "uz": "Avtoulovning o'zi o'sha kuni hodisa joyidan taxminan soat 12:00 GMT da olib ketilgan.",
+  "ref_en": "The vehicle itself was taken away from the scene of the accident at approximately 1200 GMT on the same day."
+ },
+ {
+  "id": "flores-23",
+  "layer": "flores",
+  "length_bin": "medium",
+  "uz_word_count": 20,
+  "uz": "Tayvanning boshlanishi 15-asrga borib taqaladi, bunda o'tib ketayotgan yevropalik dengizchilar orol nomini Ilha Formosa yoki go'zal orol deb yozib qoldirishadi.",
+  "ref_en": "Taiwan beginning start way back in 15th century where European sailors passing by record the island’s name as Ilha Formosa, or beautiful island."
+ },
+ {
+  "id": "flores-24",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 22,
+  "uz": "Garchi suv toshqinidan keyin suv sathi atigi bir necha fut ko'tarilsa-da, rasmiylar yemirilgan qumtepalarni qayta tiklash uchun yetarli bo'ladi, deb umid qilmoqdalar.",
+  "ref_en": "Although the water level will only rise a few feet after the flood, officials are hoping it will be enough to restore eroded sandbars downstream."
+ },
+ {
+  "id": "flores-25",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 27,
+  "uz": "Bu odatda alpinizm uslubidagi tog' chang'isi yoki alpinizm bilan bog'liq, lekin ularni o'z ichida olmaydi, ular tik sahnlarda amalga oshiriladi va qattiq chang'i va etiklarni talab qiladi.",
+  "ref_en": "It is related to but usually not involving alpine style ski touring or mountaineering, the latter ones done in steep terrain and requiring much stiffer skis and boots."
+ },
+ {
+  "id": "flores-26",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 34,
+  "uz": "Buday bolalar \"vahshiy\" yoki yovvoyi deb ataladi. Ba'zi vahshiy bolalar odamlar (odatda ularning ota-onalari) tomonidan cheklab qo'yilgan; ba'zi hollarda bolaning bunday tashlab ketilishiga ota-onalarning bolaning og'ir aqliy yoki jismoniy zaiflashuvidan yuz o'girishlari sabab bo'lgan.",
+  "ref_en": "Such children are called \"feral\" or wild. Some feral children have been confined by people (usually their own parents); in some cases this child abandonment was due to the parents' rejection of a child's severe intellectual or physical impairment."
+ },
+ {
+  "id": "flores-27",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 34,
+  "uz": "AQSH gimnastika federatsiyasi Larri Nassar qurbonlari tomonidan shu qadar jasurlarcha tasvirlangan darajadagi jinoyat qanday qilib shuncha payt aniqlanmay davom etganiga oydinlik kiritadigan mustaqil tekshiruvni qo'llab-quvvatlaydi hamda har qanday zaruriy va tegishli o'zgarishlarni qabul qiladi.",
+  "ref_en": "USA Gymnastics supports an independent investigation that may shine light on how abuse of the proportion described so courageously by the survivors of Larry Nassar could have gone undetected for so long and embraces any necessary and appropriate changes."
+ },
+ {
+  "id": "flores-28",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 25,
+  "uz": "Shu bilan birga, blog yuritish \"talabalarni atrofidagi olam haqida yanada bilimli bo'lishga majburlaydi\". Ommadagi qiziqishni qanoatlantirish zarurati talabalarni fahmli hamda qiziqarli bo'lishga ilhomlantiradi (Toto, 2004).",
+  "ref_en": "Also blogging \"forces students to become more savvy about the world around them.\" The need to feed the interest of the audience inspires students to be clever and interesting (Toto, 2004)."
+ },
+ {
+  "id": "flores-29",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 28,
+  "uz": "1624-yili Gollandiyaning Ost-Indiya kompaniyasi Tayvanning janubi-g'arbiy qismida baza tashkil qilib, mahalliy don ishlab chiqarish amaliyotida transformatsiyani boshladi hamda xitoylik ishchilarni guruch hamda shakar plantatsiyalarida ishga jalb etdi .",
+  "ref_en": "In 1624,Dutch East India Company establishes a base in southwestern Taiwan, initiating a transformation in aboriginal grain production practices and employing Chinese laborers to work on its rice and sugar plantations."
+ },
+ {
+  "id": "flores-30",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 21,
+  "uz": "Britaniya hattoki neyral kemalarga ham xavf tug'dirib, har qanday kemaning butun okean qismlariga kirishining oldini olish maqsadida xalqaro suv hududlarini minalashtirdi.",
+  "ref_en": "Britain mined international waters to prevent any ships from entering entire sections of ocean, causing danger to even neutral ships."
+ },
+ {
+  "id": "flores-31",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 30,
+  "uz": "Buning eng e'tiborga molik bo'lgan so'nggi misollaridan biri Ikkinchi jahon urushining Shimoliy Atlantika harbiy harakatlari bo'ldi. Amerikaliklar Britaniyaga yordam berish uchun insonlar va materiallarni Atlantika okeani orqali ko'chirishga harakat qilayotgandi.",
+  "ref_en": "One of the most noteworthy recent examples of this was the North Atlantic campaign of WWII. The Americans were trying to move men and materials across the Atlantic Ocean to help Britain."
+ },
+ {
+  "id": "flores-32",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 34,
+  "uz": "Biroq bu faqatgina tajribalar emas va tajriba — bu mumkin bo'lgan bir yoki bir nechta gipoteza, masalaning qo'yilishi va ilmiy tadqiqotlar uchun oriyentir bo'lib ham xizmat qiluvchi kuzatuvlarni o'tkazishni istisno qilish uchun foydalaniluvchi testdir.",
+  "ref_en": "It isn’t alone though, experimentation, and an experiment is a test that is used to eliminate one or more of the possible hypotheses, asking questions, and making observations also guide scientific research."
+ },
+ {
+  "id": "flores-33",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 25,
+  "uz": "Otselotlar kichik hayvonlarni yeyishni yaxshi ko'radi. Agar imkoni bo'lsa, ular maymunlar, ilonlar, kemiruvchilar va qushlarni tutishadi. Otselot ovlaydigan hayvonlarning deyarli barchasi o'ziga qaraganda ancha kichik.",
+  "ref_en": "Ocelots like to eat small animals. They will catch monkeys, snakes, rodents and birds if they can. Almost all of the animals that the ocelot hunts are far smaller than it is."
+ },
+ {
+  "id": "flores-34",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 23,
+  "uz": "Joylardagi mashg'ulotlarga misol sifatida ov qilish, baliq ovlash, suratga olish, qushlarni tomosha qilish, bog'larga tashrif buyurish va ekotizim haqidagi ma'lumotlarni o'rganishni keltirish mumkin.",
+  "ref_en": "Examples of on-site activities include hunting, fishing, photography, bird watching, and visiting parks and studying information about the ecosystem."
+ },
+ {
+  "id": "flores-35",
+  "layer": "flores",
+  "length_bin": "long",
+  "uz_word_count": 23,
+  "uz": "Shimoliy Hindiston hamda Pokistonning ichki hududlarida yogurtdan odatda karrilarda foydalaniladi; Janubiy Hindistonda hamda subkontinentning boshqa ayrim qirg'oq bo'yi hududlarida kokos suti keng qo'llaniladi.",
+  "ref_en": "In inland regions of Northern India and Pakistan, yogurt is commonly used in curries; in Southern India and some other coastal regions of the subcontinent, coconut milk is commonly used."
+ },
+ {
+  "id": "train-00",
+  "layer": "train",
+  "length_bin": "short",
+  "uz_word_count": 7,
+  "uz": "Til tabiiy ham, sun'iy ham bo'lishi mumkin.",
+  "ref_en": "Language can be both natural and artificial."
+ },
+ {
+  "id": "train-01",
+  "layer": "train",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "Giperlipidemiya bachadon miyomasining patogenezi va klinik kechishida muhim bo'g'indir.",
+  "ref_en": "Hyperlipidemia is an important link in the pathogenesis and clinical course of uterine fibroids."
+ },
+ {
+  "id": "train-02",
+  "layer": "train",
+  "length_bin": "short",
+  "uz_word_count": 8,
+  "uz": "Barqaror iste'mol modelini yaratishga yaxlit yondashuv zaruriigi asoslangan.",
+  "ref_en": "The study substantiates the need for a comprehensive approach to forming a sustainable consumption model."
+ },
+ {
+  "id": "train-03",
+  "layer": "train",
+  "length_bin": "short",
+  "uz_word_count": 8,
+  "uz": "Ushbu maqolada bronxitni davolash uzoq va qiyin jarayondir.",
+  "ref_en": "In this article, treatment of Bronchitis is a long and difficult process."
+ },
+ {
+  "id": "train-04",
+  "layer": "train",
+  "length_bin": "short",
+  "uz_word_count": 8,
+  "uz": "O'smir qizlarning ginekologik kasalliklari alohida e'tibor talab qiladi.",
+  "ref_en": "Gynecological morbidity among adolescent girls deserves special attention."
+ },
+ {
+  "id": "train-05",
+  "layer": "train",
+  "length_bin": "short",
+  "uz_word_count": 9,
+  "uz": "Jarrohlik amaliyoti metastazlarning joylashuvi, hajmi va soniga qarab tanlanadi.",
+  "ref_en": "The surgical procedure is selected depending on the location, size and number of metastases."
+ },
+ {
+  "id": "train-06",
+  "layer": "train",
+  "length_bin": "short",
+  "uz_word_count": 6,
+  "uz": "Ta'limda Alning uchta asosiy maqsadi ko'rsatilgan.",
+  "ref_en": "Three main purposes of Al in education have been outlined."
+ },
+ {
+  "id": "train-07",
+  "layer": "train",
+  "length_bin": "short",
+  "uz_word_count": 8,
+  "uz": "Siyosiy nutq insoniyat tarixida doimo muhim o'rin tutgan.",
+  "ref_en": "Political speech has always played an important role in human history."
+ },
+ {
+  "id": "train-08",
+  "layer": "train",
+  "length_bin": "medium",
+  "uz_word_count": 10,
+  "uz": "Ushbu maqolada korpuslarning asosiy turlari haqida ma'lumotlar berishga harakat qilingan.",
+  "ref_en": "This article attempts to provide information about the main types of corpora."
+ },
+ {
+  "id": "train-09",
+  "layer": "train",
+  "length_bin": "medium",
+  "uz_word_count": 12,
+  "uz": "Ushbu maqolada til va madaniyatning uzviy bog'liqligi to'g'risida biroz fikrlar bayon etiladi.",
+  "ref_en": "This article presents some thoughts on the interdependence of language and culture."
+ },
+ {
+  "id": "train-10",
+  "layer": "train",
+  "length_bin": "medium",
+  "uz_word_count": 18,
+  "uz": "Zamonaviy axborot texnologiyalaridan fbydalangan holda neft va gaz quduqlari trayektoriyalarini boshqarishga mo'ljallangan avtomatlashtirilgan tizim yaratish konsepsiyasi ko'rib chiqiladi.",
+  "ref_en": "The concept of developing an automated system for managing the trajectories of oil and gas wells through the use of modem information technologies is examined."
+ },
+ {
+  "id": "train-11",
+  "layer": "train",
+  "length_bin": "medium",
+  "uz_word_count": 11,
+  "uz": "Tadqiqotning ahamiyati an'anaviy ta'lim sifatini oshirishning yangi usulini ko'rsatish bilan bog'liqdir.",
+  "ref_en": "The value of the study is associated with indicating a new way to improve the quality of traditional education."
+ },
+ {
+  "id": "train-12",
+  "layer": "train",
+  "length_bin": "medium",
+  "uz_word_count": 15,
+  "uz": "Oshkormas ayirmali sxema va yuqori tartibli approksimatsiya yordamida gidrodinamik masalani yechishning turg'un algoritmi ishlab chiqilgan.",
+  "ref_en": "A stable algorithm for solving the hydrodynamic problem using an implicit difference scheme and high-order approximation is developed."
+ },
+ {
+  "id": "train-13",
+  "layer": "train",
+  "length_bin": "medium",
+  "uz_word_count": 10,
+  "uz": "Xususan, tashqi savdo balansi, inflyatsiya, investitsiyalar, logistika muammotari va energetikxavfsizlikyoritiladi.",
+  "ref_en": "Special focus is given to Uzbekistan's foreign trade balance, inflation trends, investment dynamics, logistical disruptions, and energy security"
+ },
+ {
+  "id": "train-14",
+  "layer": "train",
+  "length_bin": "medium",
+  "uz_word_count": 19,
+  "uz": "Maqola Andijon Davlat tibbiyot instituti o'quvchilari va talabalari misolida o'smirlar va yoshlar o'rtasidagi qon bosimining populyatsion xususiyatlarini ko'rib chiqadi.",
+  "ref_en": "The article examines population characteristics of blood pressure among adolescents and young adults, using pupils and students from Andijan State Medical Institute as an example."
+ },
+ {
+  "id": "train-15",
+  "layer": "train",
+  "length_bin": "medium",
+  "uz_word_count": 11,
+  "uz": "Globallashuv sharoitida ushbu mamlakatlar iqtisodiyotini rivojlantirish uchun logistikaning strategik ahamiyati ta'kidlangan.",
+  "ref_en": "The strategic importance of logistics for the development of the economics of these countries in the context of globalization is emphasized."
+ },
+ {
+  "id": "train-16",
+  "layer": "train",
+  "length_bin": "long",
+  "uz_word_count": 24,
+  "uz": "Mazkur maqolada Fizika-texnika institutining tarixiy ilmiy merosi, xususan, muhim kashfiyotlar va ishlanmalarning raqamli kontentga aylantirilishi va ularni zamonaviy ilmiy-ta'limiy resurslarga integratsiya qilish masalalari o'rganiladi.",
+  "ref_en": "This article discusses the digitization of the scientific heritage of the Institute of Physics and Technology, focusing on its historically significant discoveries and developments."
+ },
+ {
+  "id": "train-17",
+  "layer": "train",
+  "length_bin": "long",
+  "uz_word_count": 31,
+  "uz": "Shu maqsadda ushbu maqolada gibrid energiya ta'minoti manbalarining ma'lumotlar manbalari va loT asosida monitoring ma'lumotlarini yig'ish va ishlov berish uchun ilovaning foydalanish texnologiyasi, qo'llanilish sohasi va ma'lumotlar bazasining loyihasi ishlab chiqilgan.",
+  "ref_en": "For this purpose, this article develops a project of the application technology, scope and database for collecting and processing monitoring data based on data sources of hybrid energy supply sources and loT."
+ },
+ {
+  "id": "train-18",
+  "layer": "train",
+  "length_bin": "long",
+  "uz_word_count": 21,
+  "uz": "Bundan tashqari, tadqiqot bilimlar bazasiga asoslangan intellektual tizimlar umumiy arxitekturasini hamda qoidalar turlari va xususiyatlari haqida nazariy ma'lumotlarni o'z ichiga oladi.",
+  "ref_en": "In addition, the research includes the general architecture of intellectual systems based on the knowledge base and theoretical information about the types and properties of rules."
+ },
+ {
+  "id": "train-19",
+  "layer": "train",
+  "length_bin": "long",
+  "uz_word_count": 24,
+  "uz": "Preeklampsiya bilan og'rigan homilador ayollarda qon ivishining buzilishi, trombotsitopatiya va qonning antikoagulyant va fibrinolitik salohiyatining pasayishi bilan birgalikda iste'mol qilish koagulopatiyasining rivojlanishi belgilari mavjud.",
+  "ref_en": "Pregnant women with preeclampsia have signs of impaired blood clotting, the development of thrombocytopathy and coagulopathy of consumption in combination with a decrease in the anticoagulant and fibrinolytic potential of the blood."
+ },
+ {
+  "id": "train-20",
+  "layer": "train",
+  "length_bin": "long",
+  "uz_word_count": 22,
+  "uz": "Adabiyotlarga ko'ra, qorin bo'shlig'i churrasini tuzatish paytida jarrohlik asoratlari uchun xavf omillari, reanimatsiya zarurati va ta'mirdan keyin qayta qabul qilish zarurligi aniqlangan.",
+  "ref_en": "Risk factors for surgical complications of ventral hernia repair, the need for intensive care and rehospitalization after repair were identified from the literature."
+ },
+ {
+  "id": "train-21",
+  "layer": "train",
+  "length_bin": "long",
+  "uz_word_count": 22,
+  "uz": "Ushbu maqola til o'rganishga qiziqishni oshirish, erkin fikrlash, sezgirlik va darslarda faol ishtirok etish uchun ilg'or, innovatsion va interaktiv usullarga e'tibor qaratadi.",
+  "ref_en": "This article focuses on advanced, innovative, and interactive methods to increase interest in language learning, open-mindedness, sensitivity, and active participation in lessons."
+ },
+ {
+  "id": "train-22",
+  "layer": "train",
+  "length_bin": "long",
+  "uz_word_count": 25,
+  "uz": "Modelda havo massasi tezligining u, v va w yo'nalishlarida fazoviy-vaqt bo'yicha o'zgaruvchanligi hisobga olingan, bu esa atmosferada ifloslantiruvchi moddalarning ko'chishi iarayonlarini aniqroq tavsiflash imkonini beradi.",
+  "ref_en": "The model takes into account the spatiotemporal variability of air mass velocity in the u, V, and w directions, which allows for a more accurate description of the processes of pollutant transfer in the atmosphere."
+ },
+ {
+  "id": "train-23",
+  "layer": "train",
+  "length_bin": "long",
+  "uz_word_count": 30,
+  "uz": "Davolash tartib- qoidalari har xil: etiotropik – qo'zg'atuvchi omilni (virusli bakteriyalarni) bartaraf etish, simptomatik davolash hayotga xavf tug'diruvchi simptomlarni bartaraf etish, obstruktiv bronxit va bronxiolitda kasalxonada davolanish tavsiya etiladi. yoki",
+  "ref_en": "Treatment procedures are different: etiotropic - elimination of the causative factor (virus or bacteria), symptomatic treatment - elimination of life-threatening symptoms, in case of obstructive bronchitis and bronchiolitis, hospital treatment is recommended."
+ },
+ {
+  "id": "gold-00",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 3,
+  "uz": "Mutaxassis modelni o'rgatdi",
+  "ref_en": "The specialist trained the model"
+ },
+ {
+  "id": "gold-01",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 4,
+  "uz": "Olimlar mintaqaviy farqlarni o'rganishdi",
+  "ref_en": "The scientists studied the regional differences"
+ },
+ {
+  "id": "gold-02",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 4,
+  "uz": "Tizim ishlash tezligini oshirdi",
+  "ref_en": "The system increased the processing speed"
+ },
+ {
+  "id": "gold-03",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 4,
+  "uz": "Algoritm o'rtacha qiymatni topadi",
+  "ref_en": "The algorithm finds the average value"
+ },
+ {
+  "id": "gold-04",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 3,
+  "uz": "Tizim foydalanuvchilarni guruhlaydi",
+  "ref_en": "The system groups the users"
+ },
+ {
+  "id": "gold-05",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 4,
+  "uz": "Mutaxassis tizim xavfsizligini ta'minladi",
+  "ref_en": "The specialist ensured the system security"
+ },
+ {
+  "id": "gold-06",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 4,
+  "uz": "Model so'z turkumini aniqlaydi",
+  "ref_en": "The model determines the part of speech"
+ },
+ {
+  "id": "gold-07",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 3,
+  "uz": "Model tasvirni tasnifladi",
+  "ref_en": "The model classified the image"
+ },
+ {
+  "id": "gold-08",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 3,
+  "uz": "Olim formulani isbotladi",
+  "ref_en": "The scientist proved the formula"
+ },
+ {
+  "id": "gold-09",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 4,
+  "uz": "Kompaniya mahsulotni ishlab chiqdi",
+  "ref_en": "The company developed the product"
+ },
+ {
+  "id": "gold-10",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 5,
+  "uz": "Model tabiiy tilni tahlil qiladi",
+  "ref_en": "The model analyzes natural language"
+ },
+ {
+  "id": "gold-11",
+  "layer": "gold",
+  "length_bin": "short",
+  "uz_word_count": 5,
+  "uz": "Tadqiqot uzoq muddat davom etdi",
+  "ref_en": "The research lasted a long time"
+ }
+]

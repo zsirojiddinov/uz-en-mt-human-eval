@@ -1,0 +1,2538 @@
+{
+ "1_T1_ga_nisbatan": {
+  "bosh_gap": [
+   "train-21"
+  ],
+  "eng_yaqin_ikki_bleu": [
+   "GPT",
+   "GT"
+  ],
+  "eng_yaqin_ikki_chrf2": [
+   "GPT",
+   "GT"
+  ],
+  "n_gap": 71,
+  "tizim": {
+   "Claude": {
+    "aynan_norm": 3,
+    "aynan_xom": 1,
+    "bleu": 36.123416088644625,
+    "chrf2": 63.66824352496986,
+    "n": 71
+   },
+   "GPT": {
+    "aynan_norm": 6,
+    "aynan_xom": 6,
+    "bleu": 46.46319070506468,
+    "chrf2": 71.29221757692609,
+    "n": 71
+   },
+   "GT": {
+    "aynan_norm": 3,
+    "aynan_xom": 2,
+    "bleu": 37.316134397146506,
+    "chrf2": 65.01814263401758,
+    "n": 71
+   },
+   "Gemini": {
+    "aynan_norm": 4,
+    "aynan_xom": 4,
+    "bleu": 37.128231425352546,
+    "chrf2": 64.30939211086611,
+    "n": 71
+   },
+   "KKT": {
+    "aynan_norm": 1,
+    "aynan_xom": 1,
+    "bleu": 4.206633450258596,
+    "chrf2": 42.48205919366411,
+    "n": 71
+   }
+  }
+ },
+ "2_FLORES_moslik": {
+  "A-qavat (400)": {
+   "n": 400,
+   "tizim": {
+    "Claude": {
+     "aynan_norm": 27,
+     "aynan_xom": 20,
+     "deyarli_jami": 32
+    },
+    "GPT": {
+     "aynan_norm": 7,
+     "aynan_xom": 6,
+     "deyarli_jami": 7
+    },
+    "GT": {
+     "aynan_norm": 7,
+     "aynan_xom": 4,
+     "deyarli_jami": 7
+    },
+    "Gemini": {
+     "aynan_norm": 4,
+     "aynan_xom": 3,
+     "deyarli_jami": 4
+    },
+    "KKT": {
+     "aynan_norm": 0,
+     "aynan_xom": 0,
+     "deyarli_jami": 0
+    }
+   }
+  },
+  "B-FLORES (36)": {
+   "n": 36,
+   "tizim": {
+    "Claude": {
+     "aynan_norm": 2,
+     "aynan_xom": 0,
+     "deyarli_jami": 2
+    },
+    "GPT": {
+     "aynan_norm": 0,
+     "aynan_xom": 0,
+     "deyarli_jami": 0
+    },
+    "GT": {
+     "aynan_norm": 0,
+     "aynan_xom": 0,
+     "deyarli_jami": 0
+    },
+    "Gemini": {
+     "aynan_norm": 0,
+     "aynan_xom": 0,
+     "deyarli_jami": 0
+    },
+    "KKT": {
+     "aynan_norm": 0,
+     "aynan_xom": 0,
+     "deyarli_jami": 0
+    }
+   }
+  },
+  "mezon": "aynan: norm_tok bo'yicha teng; deyarli: aynan YOKI (gap-chrF2 >= 95 VA gap-BLEU exp >= 90)"
+ },
+ "3_tizim_ichida_rho": {
+  "manba": "natija/tahlil_natija.json H4 ASOSIY 71, «tizim ichida: X»",
+  "tizim": {
+   "Claude": {
+    "beqaror": false,
+    "ci95": [
+     -0.3584387662990896,
+     0.14308778173139428
+    ],
+    "n": 71,
+    "noyob_gap": 71,
+    "spearman": -0.1094132923529904
+   },
+   "GPT": {
+    "beqaror": false,
+    "ci95": [
+     -0.24994716061481712,
+     0.27425620871222256
+    ],
+    "n": 71,
+    "noyob_gap": 71,
+    "spearman": -0.006526518894412453
+   },
+   "GT": {
+    "beqaror": false,
+    "ci95": [
+     -0.29773485811177564,
+     0.19771138324373685
+    ],
+    "n": 71,
+    "noyob_gap": 71,
+    "spearman": -0.06313069986009343
+   },
+   "Gemini": {
+    "beqaror": false,
+    "ci95": [
+     -0.12666999752051414,
+     0.3586392198983612
+    ],
+    "n": 71,
+    "noyob_gap": 71,
+    "spearman": 0.1159392928428154
+   },
+   "KKT": {
+    "beqaror": false,
+    "ci95": [
+     0.326588026633569,
+     0.7137166660183705
+    ],
+    "n": 71,
+    "noyob_gap": 71,
+    "spearman": 0.5457469168962422
+   }
+  }
+ },
+ "4_alfa": {
+  "element_toplami": "ASOSIY 71 (355 element)",
+  "matritsa": {
+   "B,C (D siz)": {
+    "KKT": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.5456716616486375,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.6820523057510697,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.3815164089023011,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3815164089023011,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": -0.12347588885580918,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.23206638926784606,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.14973801046898516,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.6233905404524416,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "hammasi": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.16131721170676516,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.09978314457282378,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.3209263919471532,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3683013664531174,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.1981440978068446,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.1713612675180204,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.1610547879447234,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.09808623201092403,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "neyron": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.1922888098410167,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.08565867906515856,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.29215834835227894,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3496166117238426,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.2054836880659765,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.16238218624417056,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.16323074194352127,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.16474536525714722,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    }
+   },
+   "B,C,D": {
+    "KKT": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.2024041416114084,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3499998684445942,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.22649356321154546,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.22649356321154546,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.05216716381297759,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.15117041010994714,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.0009378144331579907,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3204102096979753,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "hammasi": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.08883218503681656,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.15070854917496734,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.15424264717939584,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.2211720131037298,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.1150611870018956,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.07930923555846325,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.027970845384859166,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.1448869431325004,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "neyron": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.013302994157299075,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.20887973240349011,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.1249169505150054,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.21063256057530166,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.044674143128824895,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.13582657936032394,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.04310477325082984,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.19220657477417014,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    }
+   },
+   "B,C,D,E": {
+    "KKT": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.15180417407837643,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.2347488765853767,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": 0.010573626169956052,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.022213854108918074,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.14213730314517636,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.0054160482209117955,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.06247685867065955,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.20292821074001255,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "hammasi": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.1943971456439716,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.04682960229593669,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": 2.6918121831420727e-05,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.08759046107517166,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.20324708498005406,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.08530551526891372,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.1389708187585702,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.05942383970481746,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "neyron": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.003946215594960556,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.1579351677382601,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.018619653092851518,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.13018802705073673,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.02579248983029414,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.09249311837028529,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.043803531108485005,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.11201707731091082,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    }
+   },
+   "B,D (C siz)": {
+    "KKT": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.6965465920733724,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.8098374673124866,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.3815164089023011,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3815164089023011,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": -0.37704562257776786,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.6214249571396384,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.45847322202730223,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.741562980030722,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "hammasi": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.028399466556852104,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3092710264123173,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.21840683627708035,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3683013664531174,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": -0.07317632297337462,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3453918212646516,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.2779462582842138,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.4211648567563919,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "neyron": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.05439409579898569,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3563119747317698,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.1585211547577181,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.3496166117238426,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": -0.1634650317197368,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.40642315667800943,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.38708013529651586,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.5062827707467425,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    }
+   },
+   "B,E": {
+    "KKT": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.1263064695789653,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.02320641021280445,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": 0.3858253588516747,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.4015006107136625,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.3510403347439278,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.6132027071453963,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.09913985353912536,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.4646538409884502,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4
+       ]
+      }
+     }
+    },
+    "hammasi": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.38647610398621357,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.36468850391222507,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": 0.06724231548231008,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.044207247587935816,
+       "element": 55,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.30343854479626986,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.3222894541071337,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.24285390436242782,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.36052422084948477,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "neyron": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.1577800422850637,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.30126289698292275,
+       "element": 144,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.10064509240722219,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.2447116010993715,
+       "element": 44,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": -0.2079001265671665,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.2607823966533829,
+       "element": 284,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.3454028835864089,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.2509825978621465,
+       "element": 96,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    }
+   },
+   "C,D (B siz)": {
+    "KKT": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.3329368097048705,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.33983546375539464,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": NaN,
+       "element": 11,
+       "qiymatlar": [
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": NaN,
+       "element": 11,
+       "qiymatlar": [
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.5048200650950019,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.09049610781921702,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.3952397209714328,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.25961435083645124,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "hammasi": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.13977342607261534,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.7115453209209541,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": 0.0,
+       "element": 55,
+       "qiymatlar": [
+        3,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": NaN,
+       "element": 55,
+       "qiymatlar": [
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.047353068509823903,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.45184018537190695,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.04463191646259368,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.6259761776788584,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "neyron": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.3151793063495898,
+       "element": 144,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.8321844204626374,
+       "element": 144,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": 0.0,
+       "element": 44,
+       "qiymatlar": [
+        3,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": NaN,
+       "element": 44,
+       "qiymatlar": [
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": -0.11168040002020985,
+       "element": 284,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.5799907447627177,
+       "element": 284,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.19178981937602635,
+       "element": 96,
+       "qiymatlar": [
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.7871843364111692,
+       "element": 96,
+       "qiymatlar": [
+        4,
+        5
+       ]
+      }
+     }
+    }
+   },
+   "C,E": {
+    "KKT": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.48043326345213133,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.6916880013654207,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        4
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.16507177033492826,
+       "element": 11,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.23057069113851458,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.06203697555971888,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.1327385434284949,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.05329318271651173,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.6260927268103502,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "hammasi": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.046138529316000154,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.16492257381962072,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.04803697350867164,
+       "element": 55,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.05817609342798269,
+       "element": 55,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.08313431159480111,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.014588186296997652,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.02067159887129466,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.04602315412171176,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "neyron": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.44116432132892536,
+       "element": 144,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.7335325919320614,
+       "element": 144,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.011624869383490166,
+       "element": 44,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.011624869383490166,
+       "element": 44,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": -0.2591001990696393,
+       "element": 284,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.4353219877842358,
+       "element": 284,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.3634110060247504,
+       "element": 96,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.5393371538240781,
+       "element": 96,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    }
+   },
+   "D,E": {
+    "KKT": {
+     "flores": {
+      "mazmun": {
+       "alfa": -0.6470320711177364,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.7646423475849244,
+       "element": 36,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": -0.16507177033492826,
+       "element": 11,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.23057069113851458,
+       "element": 11,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": -0.20529474835165806,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.5431335589039921,
+       "element": 71,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": -0.37655592787135994,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.7365397283875545,
+       "element": 24,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "hammasi": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.35438550778553146,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.17786731329582872,
+       "element": 180,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": 0.24630301808929922,
+       "element": 55,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.05817609342798269,
+       "element": 55,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.3589992028694926,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.14980034369247142,
+       "element": 355,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.3200550274730959,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.11325061834462813,
+       "element": 120,
+       "qiymatlar": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    },
+    "neyron": {
+     "flores": {
+      "mazmun": {
+       "alfa": 0.0694830274926963,
+       "element": 144,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": 0.03544377323420078,
+       "element": 144,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "gold": {
+      "mazmun": {
+       "alfa": 0.650722339675828,
+       "element": 44,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.011624869383490166,
+       "element": 44,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "hammasi": {
+      "mazmun": {
+       "alfa": 0.12050389520142357,
+       "element": 284,
+       "qiymatlar": [
+        2,
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.010926399452160895,
+       "element": 284,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      }
+     },
+     "train": {
+      "mazmun": {
+       "alfa": 0.10058654312439097,
+       "element": 96,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      },
+      "ravonlik": {
+       "alfa": -0.07996411483253585,
+       "element": 96,
+       "qiymatlar": [
+        3,
+        4,
+        5
+       ]
+      }
+     }
+    }
+   }
+  },
+  "nan_kataklar": [
+   "C,D (B siz) · hammasi · gold · ravonlik: qiymatlar [5]",
+   "C,D (B siz) · KKT · gold · mazmun: qiymatlar [5]",
+   "C,D (B siz) · KKT · gold · ravonlik: qiymatlar [5]",
+   "C,D (B siz) · neyron · gold · ravonlik: qiymatlar [5]"
+  ],
+  "nan_sabab": "α aniqlanmaydi: juftlangan baholarda bitta qiymat — kutilgan nomuvofiqlik De = 0 (0/0); katak bo'sh emas, ta'rif bo'yicha hisoblanmaydi"
+ },
+ "5_oz_4_5": {
+  "baholovchi": {
+   "B": {
+    "bleu_1ref": 47.88166223589185,
+    "chrf2_1ref": 72.6222212030449,
+    "n": 101,
+    "tizim_n": {
+     "Claude": 23,
+     "GPT": 20,
+     "GT": 22,
+     "Gemini": 30,
+     "KKT": 6
+    }
+   },
+   "C": {
+    "bleu_1ref": 40.43232850983826,
+    "chrf2_1ref": 70.54121808187878,
+    "n": 109,
+    "tizim_n": {
+     "Claude": 22,
+     "GPT": 22,
+     "GT": 22,
+     "Gemini": 22,
+     "KKT": 21
+    }
+   },
+   "D": {
+    "bleu_1ref": 43.110993809621085,
+    "chrf2_1ref": 70.00546394037983,
+    "n": 277,
+    "tizim_n": {
+     "Claude": 59,
+     "GPT": 61,
+     "GT": 62,
+     "Gemini": 59,
+     "KKT": 36
+    }
+   },
+   "E": {
+    "bleu_1ref": 48.797371838065835,
+    "chrf2_1ref": 73.08915572245519,
+    "n": 259,
+    "tizim_n": {
+     "Claude": 65,
+     "GPT": 64,
+     "GT": 56,
+     "Gemini": 66,
+     "KKT": 8
+    }
+   }
+  },
+  "izoh": "baholovchi bali butun son, shuning uchun ≥ 4,5 = 5; ASOSIY 71"
+ },
+ "6_faktlar": {
+  "a_55_gap": {
+   "comet": "comet_qoshimcha.py: T1 etaloni yo'q gap T1 ballidan tashlanadi (T1_n = 71)",
+   "gap": "train-21",
+   "haqiqiy_signatura_bleu": "nrefs:var|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0",
+   "haqiqiy_signatura_chrf": "nrefs:var|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+   "r3_dagi_qiymat": "None (T1 etaloni yo'q)",
+   "sacrebleu": "_cache_references: «lines = [x for x in refs if x is not None]» — None tashlanadi; shu gap 1 etalon (asl) bilan; bo'sh satr ham, asl takrori ham EMAS",
+   "tekshiruv_statistika_teng": true
+  },
+  "b_gap_bleu_smoothing": "sacrebleu.sentence_bleu(h, refs, smooth_method='exp') — smooth_value None, use_effective_order True (sacreBLEU 2.6.0 sukutlari); korpus-BLEU ham smooth:exp (signatura)",
+  "c_darvoza": "prereg §2.5 (c): «ketma-ket bir xil (adequacy, fluency) juftligi qatori ≥ 12 bo'lsa belgilanadi»; tahlil.darvoza: c_belgi = eng >= 12 — 12 ning o'zi belgilanadi (13 dan emas)",
+  "d_etalon_aynan": {
+   "T1_aynan_soni": {
+    "Claude": 3,
+    "GPT": 6,
+    "GT": 3,
+    "Gemini": 4,
+    "KKT": 1
+   },
+   "max_tizim": "GPT"
+  },
+  "e_iyul_2_38_2_35": "ombordan topilmadi (asosiy ombordagi tahlil va baholash papkalari, git tarixi, Desktop hujjatlari) — manba kerak"
+ },
+ "maqom": "natijadan keyingi, taqrizga javob, 2026-10-29; tasdiqlovchi emas"
+}

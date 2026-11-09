@@ -1,0 +1,37 @@
+{
+ "urinishlar_xato": [],
+ "model_sorov": "gemini-3.5-flash",
+ "model_version": "",
+ "temperature": 0.0,
+ "boshi": "2026-10-16T12:28:25+05:00",
+ "oxiri": "2026-10-16T12:28:55+05:00",
+ "kirish": "llm_01.txt",
+ "kirish_sha256": "e3459dbe2c0ed9bf0316189828a42f004658e44a652f9cef0f039423fc07154a",
+ "sorov_sha256": "6518c6dbcb9185ff6dd7e00d2f886ed9b3766d05fdb5c5fb29967ea5fc1eb231",
+ "javob": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "1. Then, several years later, in 1639, an English astronomer named Jeremiah Horrocks observed the transit of Venus.\n2. Visa requirements and costs vary from country to country, and your nationality affects them.\n3. A \"traditional\" visit consists of landing at Orlando International Airport, taking a bus to an on-site hotel, spending a week at the Disney park without going outside, and returning home.\n4. Translation systems have improved dramatically and now often provide reasonably accurate translations (and rarely incomprehensible ones), but some caution is needed because they may still get everything wrong.\n5. In 1624, the Dutch East India Company established a base in southwestern Taiwan, initiating a transformation in local grain production practices and employing Chinese workers on rice and sugar plantations.\n6. There are endless variations, but this is what most people mean when talking about \"going to Disney World\".\n7. Because of their success with submarines, it is not believed that the Germans possessed many of them after the war.\n8. The history of Taiwan dates back to the 15th century, when passing European sailors recorded the island's name as Ilha Formosa, or beautiful island.\n9. There are many theories about how Sanskrit originated. One of them is about the migration of the Aryans from the west to India, bringing their language with them.\n10. Maroochydore finished at the top of the ladder, six points ahead of second-placed Noosa.\n11. Over the last 20 years, the number of child-friendly options in the suburbs of Charlotte has increased dramatically.\n12. These couples can choose an adoption plan for their child.\n13. What is a cell? The word cell is derived from the Latin \"cella\", meaning \"small room\", and was first discovered through microscopic observation of cork structure.\n14. In most cases, it might be better to use an agent who books trips similar to yours.\n15. It can be adjusted to make it easier to read, as well as to be more or less colorful as needed.\n16. Travel agencies have existed since the 19th century. A travel agent is usually a good choice for a trip that is outside the traveler's previous experience with nature, culture, language, or visits to developing countries.\n17. Region codes have no effect at all on illegal copying; a bit-for-bit copy of the disc will work on any device just as well as the original.\n18. However, in 991, Aethelred faced a Viking fleet larger than any other since the time of Guthrum a century earlier.\n19. The appeal is partly due to the absence of noticeable overall development. Roads, trains, and boats connect the villages, while cars cannot reach them from the outside.\n20. MySpace is considered the third most popular site used in the United States and currently has 54 million profiles.\n21. According to the final results of the race, Keselowski maintains the lead in the Drivers' Championship with 2,250 points.\n22. On the night of August 9, the eye of Morakot was approximately seventy kilometers from China's Fujian province.\n23. Some people believe that experiencing frequently artificially induced lucid dreams can be very exhausting.\n24. He was immediately provided medical care by paramedics and taken to a local hospital, where he later died.\n25. Phnom Krom is 12 km southwest of Siem Reap. This hilltop temple was built in the late 9th century, during the reign of King Yasovarman.\n26. All our practical experience with DIY projects and information presentation, along with educational television shows, demonstrate this.\n27. On Wednesday, the National Basketball Association (NBA) of the United States suspended its professional basketball season due to concerns over COVID-19.\n28. The specialist ensured system security.\n29. The largest employing sectors are professional services, government, finance, trade, and tourism.\n30. Although Sikhs acknowledge that their faith has roots and traditions based in Hinduism, they consider it a separate religion from Hinduism.\n31. The Serengeti region encompasses the Serengeti National Park, Ngorongoro Conservation Area, and Maswa Game Reserve in Tanzania, and the Maasai Mara National Reserve in Kenya.\n32. Demonstrators hope to collect a petition with 1.2 million signatures to submit to the National Congress.\n33. This prison became known after it came under the control of the US armed forces and it was revealed that prisoners were tortured there.\n34. Despite the earlier loss of a gyroscope during the space station mission, the station maintained its orientation until the end of the spacewalk.\n35. Plane crashes occur frequently in Iran, which has an old fleet that is not properly maintained for both civil and military operations.\n36. An immigration checkpoint is usually the first stop upon disembarking from an airplane, ship, or other vehicle.\n37. The Park Service (MINAE) does not issue park permits more than one month in advance of expected arrival.\n38. The necessity of a holistic approach to creating a sustainable consumption model is substantiated.\n39. Rainfall reaching 6.34 inches on a trail in Oahu was described as \"beneficial.\"\n40. If you cross the bridge or walk along the winding paths near the waterfall, you are guaranteed to get wet."
+      }
+     ],
+     "role": "model"
+    },
+    "finish_reason": 1,
+    "index": 0,
+    "safety_ratings": [],
+    "token_count": 0,
+    "grounding_attributions": [],
+    "avg_logprobs": 0.0
+   }
+  ],
+  "usage_metadata": {
+   "prompt_token_count": 2071,
+   "candidates_token_count": 1151,
+   "total_token_count": 9640,
+   "cached_content_token_count": 0
+  }
+ }
+}

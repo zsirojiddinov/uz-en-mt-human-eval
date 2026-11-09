@@ -1,0 +1,44 @@
+{
+ "T1_T2_chrf_ortacha": null,
+ "kirish_sha256": {
+  "T1": "dc979b4d5df945f93ff5ccf47a1d6efac50b842fbf70980a5b2f8571af05dda2"
+ },
+ "mezon": {
+  "aynan_min": 18,
+  "farq_min": 12.0
+ },
+ "n_gap": {
+  "T1": 71
+ },
+ "tarjimon": {
+  "T1": {
+   "BAYROQ": false,
+   "aynan_soni": {
+    "Claude": 3,
+    "GPT": 6,
+    "GT": 3,
+    "Gemini": 4,
+    "KKT": 1
+   },
+   "aynan_ulush": {
+    "Claude": 0.04225352112676056,
+    "GPT": 0.08450704225352113,
+    "GT": 0.04225352112676056,
+    "Gemini": 0.056338028169014086,
+    "KKT": 0.014084507042253521
+   },
+   "bayroq_a_aynan>=18": false,
+   "bayroq_b_farq>=12": false,
+   "chrf_ortacha": {
+    "Claude": 66.30979994282481,
+    "GPT": 73.2088936599115,
+    "GT": 66.85517325113945,
+    "Gemini": 67.70221025486627,
+    "KKT": 43.04822683368174
+   },
+   "eng_yaqin": "GPT",
+   "farq_1_2": 5.506683405045223,
+   "ikkinchi": "Gemini"
+  }
+ }
+}

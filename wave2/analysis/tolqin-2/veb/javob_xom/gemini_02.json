@@ -1,0 +1,37 @@
+{
+ "urinishlar_xato": [],
+ "model_sorov": "gemini-3.5-flash",
+ "model_version": "",
+ "temperature": 0.0,
+ "boshi": "2026-10-16T12:28:55+05:00",
+ "oxiri": "2026-10-16T12:29:16+05:00",
+ "kirish": "llm_02.txt",
+ "kirish_sha256": "5e365dcd9bfbfe4e0804822517c35468e8f57dec86f69d38bda5e4d0cd3276ac",
+ "sorov_sha256": "33c7ef2ada51f57fe482c4a6d72a642e2a4dca1424e564538742ff4b6689924c",
+ "javob": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "1. Karno is a famous but controversial English teacher who taught at the \"Modern Education\" and \"King's Glory\" learning centers, which he claimed had 9,000 students at the peak of his career.\n2. In this way, you tire yourself as little as possible. Remember, just like on a piano, there is no need to strike the keyboard with great force for extra power.\n3. Shortly after 11:00, protesters blocked the northbound traffic lane on Whitehall.\n4. Squash, karate, and roller sports are sports that sought inclusion in the Olympic program, much like baseball and softball, which were dropped from the Olympic Games in 2005.\n5. Its remnants brought heavy rains to much of the islands, but no reports of damage or flooding have been received so far.\n6. In the 18th century, the Thais invaded Cambodia several times and destroyed Phnom Penh in 1772.\n7. MetroRail operates two classes of trains around Cape Town: MetroPlus (also called First Class) and Metro (also called Third Class).\n8. Last week, Naked News announced that it was dramatically expanding its international language scope for news reporting with three new shows.\n9. It is said that in 1649, Zhabdrung Ngawang Namgyal built this fortress to commemorate his victory over the Tibetan-Mongol forces.\n10. Of course, a top-class middle-distance runner capable of breaking two minutes must possess great speed, but endurance must be developed no matter what.\n11. China's GDP could become larger than that of the United States within twenty years.\n12. Unwanted wall paintings and scribbles are known as graffiti.\n13. Ultimately, B&Bs can mostly compete through two main things: bed and breakfast.\n14. This is Martelli's fifth CEP in four years.\n15. Scientists have long suspected Enceladus to be geologically active and the likely source of Saturn's icy E ring.\n16. The main assault force of 2,400 men crossed the river nine miles north of Trenton and then split into two groups, one under Greene and the other under Sullivan, to launch an attack near dawn.\n17. Tibetan Buddhism is based on the teachings of the Buddha, but expanded through the Mahayana path of love and many techniques of Indian yoga.\n18. The native people of Greenland call themselves Inuit in Canada, and Kalaaleq (plural — Kalaallit) in Greenland, meaning Greenlander.\n19. These websites gained significant attention, particularly in educational institutions.\n20. Blood leaves the heart through vessels called arteries and returns to the heart through vessels called veins. The smallest vessels are called capillaries.\n21. While conducting a training session, Lenz fell off his bicycle and was then hit by his colleague Javier Zayat.\n22. The present-day territory of Belgium was part of Luxembourg in the past, but became Belgian territory after the Belgian Revolution of the 1830s.\n23. The two sides faced off in the grand semi-final, where Nusa scored 11 points for the winners.\n24. Following a test of the fire control system, a power outage caused safety valves to open, spilling crude oil near Pump Station No. 9 at Fort Greely.\n25. Considering how remote many of the pueblos are, you won't find much nightlife without traveling to Albuquerque or Santa Fe.\n26. For example, children who identified with a racial minority stereotyped as \"doing poorly in school\" tended to perform worse in school after hearing about the stereotype associated with their race.\n27. No serious injuries were reported, but at least five people who were at the scene during the explosion were treated for symptoms of shock.\n28. The expert trained the model.\n29. Above is a small cave through which one must pass; it is very low and quite narrow.\n30. The band canceled a show scheduled for 9,000 people at War Memorial Stadium in Maui and apologized to their fans.\n31. According to estimates, it has between 340 million and 500 million speakers, and nearly 800 million people can understand this language.\n32. Interestingly, it was not considered very important in ancient times and was not recorded in most ancient king lists.\n33. However, the Royal Navy was still much stronger than the German Navy (\"Kriegsmarine\") and could crush any invasion fleet sent across the English Channel.\n34. Although San Francisco's economy is tied to its status as a world-class tourist destination, its economy is diverse.\n35. During his time with the team, he scored 403 goals in 468 matches.\n36. Some apps in this category can even translate text written in foreign languages on real-life signs or other objects when the user points their smartphone toward them.\n37. Italy's main targets were African countries. To conquer these countries, they needed a military staging ground so that troops could sail across the Mediterranean and invade Africa.\n38. They are listed as UNESCO World Cultural Heritage sites.\n39. David Headley's reconnaissance and information gathering helped 10 gunmen from the Pakistani militant group Lashkar-e-Taiba execute the operation.\n40. Many buildings can be very beautiful to look at as tall structures, or it can be wonderful to enjoy the view visible through their thoughtfully placed windows."
+      }
+     ],
+     "role": "model"
+    },
+    "finish_reason": 1,
+    "index": 0,
+    "safety_ratings": [],
+    "token_count": 0,
+    "grounding_attributions": [],
+    "avg_logprobs": 0.0
+   }
+  ],
+  "usage_metadata": {
+   "prompt_token_count": 2137,
+   "candidates_token_count": 1174,
+   "total_token_count": 7405,
+   "cached_content_token_count": 0
+  }
+ }
+}

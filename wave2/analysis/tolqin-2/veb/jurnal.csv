@@ -1,0 +1,79 @@
+tizim,fayl,boshlanish,tugash,izoh
+gemini,gemini_01.txt,2026-10-16T12:28:25+05:00,2026-10-16T12:28:55+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_02.txt,2026-10-16T12:28:55+05:00,2026-10-16T12:29:16+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_03.txt,2026-10-16T12:29:16+05:00,2026-10-16T12:29:36+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_04.txt,2026-10-16T12:29:36+05:00,2026-10-16T12:29:56+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_05.txt,2026-10-16T12:29:56+05:00,2026-10-16T12:30:15+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_06.txt,2026-10-16T12:30:15+05:00,2026-10-16T12:30:37+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_07.txt,2026-10-16T12:30:37+05:00,2026-10-16T12:31:07+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_08.txt,2026-10-16T12:31:07+05:00,2026-10-16T12:31:26+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_09.txt,2026-10-16T12:31:26+05:00,2026-10-16T12:31:47+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_10.txt,2026-10-16T12:31:47+05:00,2026-10-16T12:32:09+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_11.txt,2026-10-16T12:32:09+05:00,2026-10-16T12:32:28+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+gemini,gemini_12.txt,2026-10-16T12:32:28+05:00,2026-10-16T12:32:43+05:00,API; model gemini-3.5-flash; model_version ; temperature 0; finish 1
+claude,claude_01.txt,2026-10-16T14:59:52+05:00,2026-10-16T15:00:33+05:00,Claude Code sessiya e946b868-b000-487d-a9b6-3f3f5f6ae409; model claude-opus-5-5; transkript e946b868-b000-487d-a9b6-3f3f5f6ae409.jsonl
+claude,claude_02.txt,2026-10-16T15:03:02+05:00,2026-10-16T15:03:39+05:00,Claude Code sessiya 5b232be2-10fe-4fab-bcb2-0bf46baead75; model claude-opus-5-5; transkript 5b232be2-10fe-4fab-bcb2-0bf46baead75.jsonl
+claude,claude_03.txt,2026-10-16T15:04:20+05:00,2026-10-16T15:04:43+05:00,Claude Code sessiya b885bed3-8460-4219-91c9-fa37789e985e; model claude-opus-5-5; transkript b885bed3-8460-4219-91c9-fa37789e985e.jsonl
+claude,claude_04.txt,2026-10-16T15:05:38+05:00,2026-10-16T15:06:05+05:00,Claude Code sessiya b94f129f-feac-4d00-bc41-9a3e4d6ffa5f; model claude-opus-5-5; transkript b94f129f-feac-4d00-bc41-9a3e4d6ffa5f.jsonl
+claude,claude_05.txt,2026-10-16T15:05:40+05:00,2026-10-16T15:06:08+05:00,Claude Code sessiya 2333e3f6-977f-49ed-8e66-d48a243cfaf5; model claude-opus-5-5; transkript 2333e3f6-977f-49ed-8e66-d48a243cfaf5.jsonl
+claude,claude_06.txt,2026-10-16T15:05:41+05:00,2026-10-16T15:06:10+05:00,Claude Code sessiya 8089fec4-93d4-4a70-a8a6-4f3b96cf5d4b; model claude-opus-5-5; transkript 8089fec4-93d4-4a70-a8a6-4f3b96cf5d4b.jsonl
+claude,claude_07.txt,2026-10-16T15:05:43+05:00,2026-10-16T15:06:09+05:00,Claude Code sessiya 3de4060f-2b6a-4a43-b233-2f16c00398ff; model claude-opus-5-5; transkript 3de4060f-2b6a-4a43-b233-2f16c00398ff.jsonl
+claude,claude_08.txt,2026-10-16T15:05:44+05:00,2026-10-16T15:06:10+05:00,Claude Code sessiya 00c715cc-2a66-4e9f-b9a9-634660017003; model claude-opus-5-5; transkript 00c715cc-2a66-4e9f-b9a9-634660017003.jsonl
+claude,claude_09.txt,2026-10-16T15:05:45+05:00,2026-10-16T15:06:11+05:00,Claude Code sessiya a0cc9cf5-eea7-4e50-9d93-59e8c214ca1b; model claude-opus-5-5; transkript a0cc9cf5-eea7-4e50-9d93-59e8c214ca1b.jsonl
+claude,claude_10.txt,2026-10-16T15:05:47+05:00,2026-10-16T15:06:13+05:00,Claude Code sessiya aff68864-4e87-4185-a206-a757313a2c41; model claude-opus-5-5; transkript aff68864-4e87-4185-a206-a757313a2c41.jsonl
+claude,claude_11.txt,2026-10-16T15:05:48+05:00,2026-10-16T15:06:17+05:00,Claude Code sessiya 218461a8-7996-41fc-9a16-cd9994fef0c1; model claude-opus-5-5; transkript 218461a8-7996-41fc-9a16-cd9994fef0c1.jsonl
+claude,claude_12.txt,2026-10-16T15:05:50+05:00,2026-10-16T15:06:08+05:00,Claude Code sessiya da23d510-9847-4d44-928d-f13238800ea7; model claude-opus-5-5; transkript da23d510-9847-4d44-928d-f13238800ea7.jsonl
+gpt,gpt_01.txt,,2026-10-16T15:11:24+05:00,veb; clipboard (veb_saqla.sh); bayt 5312
+gpt,gpt_02.txt,,2026-10-16T15:12:37+05:00,veb; clipboard (veb_saqla.sh); bayt 5231
+gpt,gpt_03.txt,,2026-10-16T15:13:10+05:00,veb; clipboard (veb_saqla.sh); bayt 5650
+gpt,gpt_03.txt,,2026-10-16T15:14:09+05:00,veb; clipboard (veb_saqla.sh); bayt 5650
+gpt,gpt_04.txt,,2026-10-16T15:15:15+05:00,veb; clipboard (veb_saqla.sh); bayt 5526
+gpt,gpt_05.txt,,2026-10-16T15:15:26+05:00,veb; clipboard (veb_saqla.sh); bayt 5019
+gpt,gpt_06.txt,,2026-10-16T15:15:48+05:00,veb; clipboard (veb_saqla.sh); bayt 5075
+gpt,gpt_07.txt,,2026-10-16T15:19:02+05:00,veb; clipboard (veb_saqla.sh); bayt 4891
+gpt,gpt_08.txt,,2026-10-16T15:19:11+05:00,veb; clipboard (veb_saqla.sh); bayt 5144
+gpt,gpt_09.txt,,2026-10-16T15:19:24+05:00,veb; clipboard (veb_saqla.sh); bayt 5522
+gpt,gpt_10.txt,,2026-10-16T15:19:35+05:00,veb; clipboard (veb_saqla.sh); bayt 5692
+gpt,gpt_11.txt,,2026-10-16T15:19:44+05:00,veb; clipboard (veb_saqla.sh); bayt 5324
+gpt,gpt_12.txt,,2026-10-16T15:19:54+05:00,veb; clipboard (veb_saqla.sh); bayt 3894
+gt,gt_01.txt,,2026-10-16T15:24:17+05:00,veb; clipboard (veb_saqla.sh); bayt 3476
+gt,gt_02.txt,,2026-10-16T15:24:48+05:00,veb; clipboard (veb_saqla.sh); bayt 3352
+gt,gt_03.txt,,2026-10-16T15:25:18+05:00,veb; clipboard (veb_saqla.sh); bayt 3017
+gt,gt_01_matnrejim.txt,,2026-10-16T15:33:12+05:00,tuzatish 3: gt_01.txt (matn rejimi; 23/25 qator) -> gt_01_matnrejim.txt qayta nomlandi; tahlilga kirmaydi; gt_01 Documents rejimida qayta olinadi
+gt,gt_02_matnrejim.txt,,2026-10-16T15:33:12+05:00,tuzatish 3: gt_02.txt (matn rejimi; 23/25 qator) -> gt_02_matnrejim.txt qayta nomlandi; tahlilga kirmaydi; gt_02 Documents rejimida qayta olinadi
+gt,gt_03_matnrejim.txt,,2026-10-16T15:33:12+05:00,tuzatish 3: gt_03.txt (matn rejimi; 23/25 qator) -> gt_03_matnrejim.txt qayta nomlandi; tahlilga kirmaydi; gt_03 Documents rejimida qayta olinadi
+gt,gt_01.txt,,2026-10-16T15:42:52+05:00,veb Documents (gt_doc_ol.sh); yuklangan Malaka ishi 07 (1).docx (docx) sha256 c1d68c74e2fd3d5bc5a2dc0f083d8bd0f23d08d60c900a454a7c18f7fa2b85a3 -> javob_xom/gt_01.docx; bayt 98677
+gt,gt_01.txt,,2026-10-16T15:43:14+05:00,RAD: gt_01.txt allaqachon bor — yozilmadi (gt_doc_ol.sh; manba LRE_manuscript_EN (1).docx sha256 abe9ad3e3b609a570e19dd56425b9ab4376547b603b1542388a4c169d9392cea)
+gt,gt_01.txt,,2026-10-16T15:43:46+05:00,RAD: gt_01.docx allaqachon bor — yozilmadi (gt_doc_ol.sh; manba LRE_manuscript_EN (1).docx sha256 abe9ad3e3b609a570e19dd56425b9ab4376547b603b1542388a4c169d9392cea)
+gt,gt_01.txt,,2026-10-16T15:44:02+05:00,RAD: gt_01.docx allaqachon bor — yozilmadi (gt_doc_ol.sh; manba LRE_manuscript_EN (1).docx sha256 abe9ad3e3b609a570e19dd56425b9ab4376547b603b1542388a4c169d9392cea)
+gt,gt_01.txt,,2026-10-16T15:44:20+05:00,RAD: gt_01.docx allaqachon bor — yozilmadi (gt_doc_ol.sh; manba LRE_manuscript_EN (1).docx sha256 abe9ad3e3b609a570e19dd56425b9ab4376547b603b1542388a4c169d9392cea)
+gt,gt_01.txt,,2026-10-16T15:53:29+05:00,izoh: 15:42:52 dagi gt_01 (javob_xom/gt_01.docx sha256 c1d68c74…) GT tarjimasi EMAS — Downloads dagi begona shaxsiy hujjat (gt_doc_ol.sh eski versiyasi eng yangi .docx ni olgan); gt_01.txt va javob_xom/gt_01.docx hozir repoda yo'q; tahlilga kirmaydi; gt_doc_ol.sh endi faqat gt_NN* nomli faylni oladi
+gt,gt_01..19.docx,,2026-10-16T15:53:29+05:00,GT Documents .txt ni qabul qilmadi — Tuzatish 3 bo'yicha .docx (gt_docx.py; veb/kirish/gt_NN.docx; sha256 veb/kirish/gt_docx_sha256.json; qaytish 19/19 bayt-aynan)
+gt,gt_01.txt,,2026-10-16T16:36:31+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_01.docx (docx) sha256 2780c2139f8b3efd49a7f370495e8c3011d9ad7f00f0164d8bcb3879f578efc0 -> javob_xom/gt_01.docx; bayt 3272
+gt,gt_02.txt,,2026-10-16T16:36:31+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_02.docx (docx) sha256 0b4078f63ef87c0c0ea07155784c70b96c22c7b3bf3dca176187eabfd51a6d33 -> javob_xom/gt_02.docx; bayt 3190
+gt,gt_03.txt,,2026-10-16T16:36:32+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_03.docx (docx) sha256 20b9d22ddaeb52dbd5bd4c97433625f695d8acb7dc23853736968f34f95897ef -> javob_xom/gt_03.docx; bayt 2888
+gt,gt_04.txt,,2026-10-16T16:36:32+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_04.docx (docx) sha256 367153ada5c9876614f89fa133f1449715dc2ae38bd619cea6341ce455f5c61e -> javob_xom/gt_04.docx; bayt 3142
+gt,gt_05.txt,,2026-10-16T16:36:32+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_05.docx (docx) sha256 cc46397788d29c7282040706e704bab23d7b92432c5334525de642e99e2f519d -> javob_xom/gt_05.docx; bayt 3422
+gt,gt_06.txt,,2026-10-16T16:36:32+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_06.docx (docx) sha256 9b127fedb69fa1d115799daaf5b9432fa9e575cf0ea374def76c9709316dacc3 -> javob_xom/gt_06.docx; bayt 3382
+gt,gt_07.txt,,2026-10-16T16:36:32+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_07.docx (docx) sha256 bf16467d835229166e6af57e8281ca3f9bb348efafd2c8ed83819b821f51ef07 -> javob_xom/gt_07.docx; bayt 2572
+gt,gt_08.txt,,2026-10-16T16:36:32+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_08.docx (docx) sha256 23f913d58bd47ef516c7c7ec56af36f4bf4625ab1b1ddd5fd05bc8b5c10ff825 -> javob_xom/gt_08.docx; bayt 3293
+gt,gt_09.txt,,2026-10-16T16:36:33+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_09.docx (docx) sha256 616c8791e35b86d4aa3c0745090a62d2a2839bf6bdd2a4e4942a7e176a4e0d91 -> javob_xom/gt_09.docx; bayt 3010
+gt,gt_10.txt,,2026-10-16T16:36:33+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_10.docx (docx) sha256 a1b21038373e4068091ae8239473d886957ebf873eb873fe799bc6ffc2c8ce20 -> javob_xom/gt_10.docx; bayt 2823
+gt,gt_11.txt,,2026-10-16T16:36:33+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_11.docx (docx) sha256 8b1da5eb32645bb6d578e8fbc4fec6da743a4dae5deeab50bd3c3056a089f020 -> javob_xom/gt_11.docx; bayt 3014
+gt,gt_12.txt,,2026-10-16T16:36:33+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_12.docx (docx) sha256 30f43bed6a89a234bce51c0f9e8a97d2b66c3cd96861b2008824be695cc1edbd -> javob_xom/gt_12.docx; bayt 3091
+gt,gt_13.txt,,2026-10-16T16:36:33+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_13.docx (docx) sha256 573fe2530c34a28b0ae8b48469658b6b75e40570616089726c9d915668867264 -> javob_xom/gt_13.docx; bayt 3375
+gt,gt_14.txt,,2026-10-16T16:36:33+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_14.docx (docx) sha256 d5ad14a1cbe9d95c37b4cd63dbcafec6f5c8c8b14124ab7c2e9a25cf96b361a3 -> javob_xom/gt_14.docx; bayt 3331
+gt,gt_15.txt,,2026-10-16T16:36:34+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_15.docx (docx) sha256 7b8ac3d651a649238bd8f657e0040547f4ed11280daef5ab2647431129404208 -> javob_xom/gt_15.docx; bayt 3140
+gt,gt_16.txt,,2026-10-16T16:36:34+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_16.docx (docx) sha256 0e5abdb1c86050adbb2c4874ff5ed2da430d248c2247230cb507c518a79f6066 -> javob_xom/gt_16.docx; bayt 3322
+gt,gt_17.txt,,2026-10-16T16:36:34+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_17.docx (docx) sha256 72d78d03897d8068b0d98159667beb9f4688edb87ff5f514a020b2e123b691c7 -> javob_xom/gt_17.docx; bayt 3328
+gt,gt_18.txt,,2026-10-16T16:36:34+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_18.docx (docx) sha256 33dc1e237c9735b927e7088f6639cf4073aa73ccc42eb8608d28168a23567c48 -> javob_xom/gt_18.docx; bayt 2850
+gt,gt_19.txt,,2026-10-16T16:36:34+05:00,veb Documents (gt_doc_ol.sh); yuklangan gt_19.docx (docx) sha256 e26290455c62c163df91ba74e07cdc1fc42f0ae5b2d702b4b0a545fbff335965 -> javob_xom/gt_19.docx; bayt 2630
+gt,gt_01..19.txt,,2026-10-16T16:44:36+05:00,GT 2026-10-16; translate.google.com rejim «Документы» (.docx yuklash; Download translation; gt_doc_ol.sh 16:36:31..16:36:34); brauzer Chrome; interfeys ru; model tanlovi: ko'rinmadi — Документы sahifasida Быстрый/Расширенный tanlovi yo'q (foydalanuvchi 16:42 da gt_19.docx yuklangan holatda tekshirgan); sahifa ostida «Технологии облачного перевода Google» yozuvi; versiya qayd etib bo'lmaydi; skrinshot veb/gt_rejim.png — hali yo'q (Desktop'da 16:42 dagi fayl topilmadi)
+gpt,gpt_01..12.txt,,2026-10-16T16:44:36+05:00,ChatGPT web; tarif «Go» (chap pastda); interfeysdagi model yorlig'i: yo'q — sarlavhada faqat «ChatGPT»; model tanlagichi yo'q (foydalanuvchi 16:43 da yangi chat oynasida tekshirgan); versiya: ko'rsatilmagan; rejim «Chat» («Work» emas); «Think» tugmasi tarjimalarda bosilmagan; foydalanuvchi bildirishicha Go tarifida yagona model «Luna» — interfeysda ko'rsatilmagan; versiya raqami noma'lum; tarjimalar 2026-10-16 15:11:24..15:19:54; skrinshot veb/gpt_model.png — hali yo'q
+gpt,gpt_01..12.txt,,2026-10-16T16:50:26+05:00,tasdiq: «Think» tugmasi tarjimalarda bosilmagan — foydalanuvchi tasdiqladi (oldingi qatordagi «bosilmagan» qiymati)
+oglish,O1,,2026-10-16T16:50:26+05:00,ko'r baholash og'ishi O1 (2026-10-16; vaqti aniq qayd etilmagan): ~10 qator GPT javobi terminal nusxasi orqali rejalashtiruvchi chatiga tushdi. Rejalashtiruvchi baholovchi emas; bu matnlar hech qanday qarorda ishlatilmaydi
+oglish,O2,,2026-10-16T16:50:26+05:00,ko'r baholash og'ishi O2 (2026-10-16; vaqti aniq qayd etilmagan): GT matn rejimidagi tarjima (chiqarilgan gt_01–03_matnrejim) skrinshotda rejalashtiruvchiga ko'rindi. Rejalashtiruvchi baholovchi emas; bu matnlar hech qanday qarorda ishlatilmaydi
+gt,gt_takror,,2026-10-16T17:31:01+05:00,2026-10-16 17:25–17:27 da GT foydalanuvchi tomonidan qayta tarjima qilindi (18 fayl: gt_01–18.docx; yana «gt» papkasida 19 nusxa 17:28); gt_19.docx 16:37 da qayta yuklangan (bir xil). Bu fayllar muzlatilgan javoblar o'rnini bosmaydi; ochilmaydi; tahlilga kirmaydi; repoga qo'yilmaydi. sha256 (ochmasdan): 38/38 javob_xom/gt_NN.docx bilan bayt-aynan; ~/Documents/tolqin2_gt_takror_ishlatilmaydi/ ga ko'chirildi (mv -n); ro'yxat veb/gt_takror_sha256.json
+rejim,gt+gpt,,2026-10-16T17:31:01+05:00,GT va GPT rejim holati 16:42–16:43 da foydalanuvchi tomonidan ekranda tekshirildi; skrinshot faylga saqlanmadi; holat jurnal matnida qayd etilgan
+comet,comet_qoshimcha.py,2026-10-20T15:07:41+05:00,2026-10-20T15:12:43+05:00,COMET o'rnatish (bitta urinish; <= 45 daqiqa): alohida venv ~/.venvs/tolqin2_comet (Python 3.9.6) — loyiha .venv iga tegilmadi; 15:07:41 birinchi buyruq pip'ni ishga tushirmadi (macOS da `timeout` yo'q — exit 127; pip yurmagan); 15:08:31–15:09:18 pip install unbabel-comet — muvaffaqiyatli (unbabel-comet 2.2.7; torch 2.8.0; sacrebleu 2.6.0; keyin smoke uchun openpyxl 3.1.5); 15:09:53–15:11:53 model Unbabel/wmt22-comet-da yuklandi (snapshot 2760a223ac957f30acfb18c8aa649b01cf1d75f2; model.ckpt sha256 e213091cde220f97b89f8bdfa750c458cfea741ad62affb455b59900210ff2af); 1-sinov predict(gpus=0) ValueError (multiprocessing_context num_workers=0 bilan — macOS); 15:12:22–15:12:43 2-sinov num_workers=1: 3 sintetik juft 0.9769 / 0.8961 / 0.3344; takror bayt-aynan. Holat: O'RNATILDI — comet_qoshimcha.py (ikkilamchi)
+oglish,O3,,2026-10-21T11:43:56+05:00,"smoke-test og'ishi O3 (2026-10-20): smoke-testda terminal mavjud etalon bilan haqiqiy tizim chiqishlarining o'xshashlik sonlarini ko'rdi (ball emas); yozilmadi, qarorda ishlatilmaydi. Qoida: smoke-test faqat sintetik ma'lumotda"

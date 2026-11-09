@@ -1,0 +1,34 @@
+Translate each numbered Uzbek sentence into English. Keep the numbering. Output only the numbered translations, one per line.
+
+1. Boshqalarning yukini ko'tarish — Hech qachon, ayniqsa, xalqaro chegaralarni kesib o'tish vaqtida sumkalaringizni ko'zdan qochirmang.
+2. Pittman sharoitlar keyingi haftaning ma'lum vaqtigacha o'nglanmasligini taxmin qildi.
+3. Xoh veb-sayt, xoh do'kon peshtaxtasida bo'lsin, agent qanday sayohatlarni reklama qilayotganini ko'rib chiqing.
+4. Xalqaro miqyosda 200 ga yaqin ishlab turgan sayyohlik tashkilotlari bor. Ularning aksariyati mustaqil faoliyat yuritadi.
+5. Noqonuniy spirtli ichimliklar xavfli aralashmalar, jumladan, hatto kichik dozasi ham ko'rlikka yoki o'limga sabab bo'lishi mumkin bo'lgan metanolni o'z ichiga oladi.
+6. Agar sayyoh qimmatli kuchi va qolgan suvni bekorga sarflagan holda sarob ketidan yursa, bu xavfli bo'lishi mumkin.
+7. Biroq Star Alliance aviakompaniyasi, LATAM Oneworld reysi bo'lgan janubiy Tinch okeanining sharqiy qismi Santyago de Chilidan Taitigacha reysidan tashqari, barchasini qamrab oladi.
+8. Insonlar losga ehtimoliy xavfli hayvon sifatida qaramasa, ular juda yaqin borishlari hamda o'zlarini xavf ostiga qo'yishlari mumkin.
+9. Sahroda omon qolishga oid kitob va jurnallar keng tarqalgan, biroq urush hududlariga oid nashrlar kam.
+10. Kunning jaziramasida sayohatchilar suv (yoki boshqa narsalar) illyuziyasini hosil qiluvchi saroblarni ko'rishi mumkin.
+11. Model tabiiy tilni tahlil qiladi
+12. Olimlar yassi qiyaliklar deb ataladigan, oy yuzasi bo'ylab sochilib yotgan, aftidan oyning juda sekinlik bilan kichrayishi natijasida yuzaga kelgan relyef shakllarini topishdi.
+13. Guruhning menejment kompaniyasi, HK Management Inc., 20-sentabrda bekor qilganida, hech qanday dastlabki sabablarni keltirmadi, biroq bir kun o'tib logistik sabablarni aybladi.
+14. Quyosh markazidan uzoqlashganingiz sari gaz siyraklashib boradi.
+15. Quddusda jo'shqin hamda gavjum savdo do'konlar, kafelar va restoranlar bilan birga, ko'plab tarixiy, arxeologik hamda madaniy joylar ham bor.
+16. Turk primadonnasi Sezen Aksu italyan tenori Alessandro Safina va yunon xonandasi Haris Aleksiu bilan birga ijro etdi.
+17. Ibodatxonaga kirish uchun Angkor chiptasi kerak, shu sababli Tonlesapga borishda pasportingizni o'zingiz bilan olib kelishni unutmang.
+18. Joylardagi mashg'ulotlarga misol sifatida ov qilish, baliq ovlash, suratga olish, qushlarni tomosha qilish, bog'larga tashrif buyurish va ekotizim haqidagi ma'lumotlarni o'rganishni keltirish mumkin.
+19. Ayrim mehmonxonalarda bug' temir yo'llari hamda okean laynerlari oltin davridan qolgan meros mavjud; Ikkinchi jahon urushidan avval, 19 yoki 20-asr boshlaridagi.
+20. Sayohatchilarning tashrifi qimmatga tushadi, jismoniy chidamlilikni talab etiladi, faqat yozgi noyabr-fevral oylarida amalga oshishi mumkin hamda asosan yarimorol, orollar va Ross dengizi bilan cheklanadi.
+21. Tabiiy omillar kesishib, suv o'tlari sonining keskin ko'payishiga imkon beradigan ideal muhitni hosil qilishi mumkin.
+22. Ayrimlar rozi bo'lmasliklari mumkin, biroq menga buning farqi yo'q.
+23. Ochko'zlik va xudbinlik doimo biz bilan birga bo'ladi va hamkorlikning tabiati shuki, ko'pchilik foyda ko'radigan holatda xudbinlarcha harakat qilish qisqa muddatli istiqbolda har doim ko'proq foyda keltiradi.
+24. Tutanxamon bilan birga ko'milgan narsalarning ko'pchiligi, jumladan qimmatli metallar va nodir toshlardan yasalgan minglab artefaktlar yaxshi saqlanib qolgan.
+25. Siz buyurtma qilgan agent turli-tuman kemalar haqida yaxshi bilimga ega Galapagos mutaxassisi ekaniga ishonch hosil qiling.
+26. General Jon Kadvalder har qanday qo'shimcha vositalarni to'sib qo'yish uchun Bordentaundagi ingliz garnizoniga qarshi chalg'ituvchi hujum boshlaydi.
+27. Agarda qo'lingizga qaytib keluvchi bumerangni otishni o'rganmoqchi bo'lsangiz, qaytishi uchun mos bumerangga egaligingizga ishonch hosil qiling.
+28. Shunday qonunga ega ko'plab davlatlarda, roʻyxatdan oʻtkazish ishlarini mahalliy mehmonxonalar amalga oshiradilar (albatta, so'rab oling).
+29. Viktoriya sharsharasi — Zimbabvening g'arbiy qismida, Zambiyaning Livingstoun shahri va Botsvana yaqinidagi chegara bo'ylab joylashgan shaharchadir.
+30. U hozir markaziy maydon sifatida xizmat qiladi va unda tunu-kun doimo juda ko'p narsalar o'tkaziladi.
+31. Mazkur xizmatlardan foydalanish, ko'pincha, aksariyat telefonlardan bepul qo'ng'iroq qilish mumkin bo'lgan bepul telefon raqamlari orqali amalga oshiriladi.
+32. Mukofotlash vaqtida Atlanta maktablarida test natijalarining ancha yaxshilangani kuzatildi.

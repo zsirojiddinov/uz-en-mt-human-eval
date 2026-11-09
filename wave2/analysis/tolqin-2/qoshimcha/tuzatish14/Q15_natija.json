@@ -1,0 +1,258 @@
+{
+ "1_juftlashgan_71": {
+  "izoh": "95 % persentil, juftlashgan gap bootstrap; nuqtaviy qiymat = Q13 1a (assert)",
+  "n": 71,
+  "tizim": {
+   "Claude": {
+    "asl": 56.641054330015095,
+    "asl+T1": 67.17669554719411,
+    "ci95": [
+     7.509815375749661,
+     13.7257309384217
+    ],
+    "delta": 10.53564121717902
+   },
+   "GPT": {
+    "asl": 40.942978001966566,
+    "asl+T1": 63.25751773310233,
+    "ci95": [
+     18.020007351618673,
+     26.59738931765961
+    ],
+    "delta": 22.314539731135767
+   },
+   "GT": {
+    "asl": 47.993540001167126,
+    "asl+T1": 61.4419704412027,
+    "ci95": [
+     10.134144566998758,
+     16.721307678725466
+    ],
+    "delta": 13.448430440035573
+   },
+   "Gemini": {
+    "asl": 44.136583450238966,
+    "asl+T1": 57.75577702328969,
+    "ci95": [
+     10.326846449475322,
+     17.23012224075014
+    ],
+    "delta": 13.619193573050723
+   },
+   "KKT": {
+    "asl": 6.552969187315424,
+    "asl+T1": 7.952774722580667,
+    "ci95": [
+     0.8206349442107893,
+     2.0903352141164584
+    ],
+    "delta": 1.3998055352652434
+   }
+  }
+ },
+ "2_kendall_W": {
+  "izoh": "B, C, D; ASOSIY 71; har tizim ichida gap tartibi; o'rtacha rang, bog'lanish tuzatishi; gap bootstrap 95 %",
+  "tizim": {
+   "Claude": {
+    "mazmun": {
+     "W": 0.5252971346629248,
+     "chiqarilgan_yoq_katak": 1,
+     "ci95": [
+      0.42549748892970135,
+      0.6150800863234414
+     ],
+     "n": 70
+    },
+    "ravonlik": {
+     "W": 0.44348573177431905,
+     "chiqarilgan_yoq_katak": 1,
+     "ci95": [
+      0.3534891520536928,
+      0.5235855581577475
+     ],
+     "n": 70
+    }
+   },
+   "GPT": {
+    "mazmun": {
+     "W": 0.4091656517332726,
+     "chiqarilgan_yoq_katak": 0,
+     "ci95": [
+      0.31837578922642273,
+      0.4964650249151256
+     ],
+     "n": 71
+    },
+    "ravonlik": {
+     "W": 0.40640174829316006,
+     "chiqarilgan_yoq_katak": 0,
+     "ci95": [
+      0.32555403168481517,
+      0.477792654922104
+     ],
+     "n": 71
+    }
+   },
+   "GT": {
+    "mazmun": {
+     "W": 0.4627994207440116,
+     "chiqarilgan_yoq_katak": 0,
+     "ci95": [
+      0.3669888733011838,
+      0.5517344604742325
+     ],
+     "n": 71
+    },
+    "ravonlik": {
+     "W": 0.3686236694175338,
+     "chiqarilgan_yoq_katak": 1,
+     "ci95": [
+      0.2797628567161814,
+      0.4547726837975182
+     ],
+     "n": 70
+    }
+   },
+   "Gemini": {
+    "mazmun": {
+     "W": 0.5066508391273432,
+     "chiqarilgan_yoq_katak": 1,
+     "ci95": [
+      0.4247343218102771,
+      0.5864216665929864
+     ],
+     "n": 70
+    },
+    "ravonlik": {
+     "W": 0.41476148175853633,
+     "chiqarilgan_yoq_katak": 1,
+     "ci95": [
+      0.3366520501481177,
+      0.4863477820291849
+     ],
+     "n": 70
+    }
+   },
+   "KKT": {
+    "mazmun": {
+     "W": 0.6805269056884153,
+     "chiqarilgan_yoq_katak": 0,
+     "ci95": [
+      0.5797922309107221,
+      0.7642437041255802
+     ],
+     "n": 71
+    },
+    "ravonlik": {
+     "W": 0.5721591965780175,
+     "chiqarilgan_yoq_katak": 0,
+     "ci95": [
+      0.4711934229090912,
+      0.6511376269449676
+     ],
+     "n": 71
+    }
+   }
+  }
+ },
+ "3_alfa_tekshiruv": [
+  {
+   "hisoblangan": 0.8153875037548814,
+   "holat": "K2011 ordinal (4×12, yo'q qiymatlar)",
+   "kutilgan": "0,815",
+   "otdi": true
+  },
+  {
+   "hisoblangan": 1.0,
+   "holat": "to'liq kelishuv, 3 baholovchi",
+   "kutilgan": "1",
+   "otdi": true
+  },
+  {
+   "hisoblangan": 1.0,
+   "holat": "to'liq kelishuv, 2 baholovchi + bo'sh katak",
+   "kutilgan": "1",
+   "otdi": true
+  },
+  {
+   "hisoblangan": NaN,
+   "holat": "juftlangan baholarda bitta qiymat",
+   "kutilgan": "nan",
+   "otdi": true
+  },
+  {
+   "hisoblangan": 0.842911877394636,
+   "holat": "m < 2 birlik tashlanadi",
+   "kutilgan": "0.842912",
+   "otdi": true
+  }
+ ],
+ "4_etalon_tekshir_mezoni": {
+  "T1_only_BLEU_GPT_minus_GT": 9.147056307918177,
+  "T1_only_BLEU_GPT_minus_Gemini": 9.334959279712137,
+  "T1_only_korpus_BLEU": {
+   "Claude": 36.123416088644625,
+   "GPT": 46.46319070506468,
+   "GT": 37.316134397146506,
+   "Gemini": 37.128231425352546,
+   "KKT": 4.206633450258596
+  },
+  "chrf_ortacha": {
+   "Claude": 66.30979994282481,
+   "GPT": 73.2088936599115,
+   "GT": 66.85517325113945,
+   "Gemini": 67.70221025486627,
+   "KKT": 43.04822683368174
+  },
+  "eng_yaqin": "GPT",
+  "etalon_tekshir_farq_1_2": 5.506683405045223,
+  "farq_1_2": 5.506683405045223,
+  "ikkinchi": "Gemini",
+  "izoh": "ikki kattalik turli: (i) o'rtacha gap-chrF, hyp = T1; (ii) korpus BLEU, hyp = tizim, ref = T1. chrF bo'yicha ikkinchi eng yaqin tizim — Gemini (GT emas)",
+  "metrika": "o'rtacha gap-chrF2 (sacreBLEU CHRF sukut: char_order 6, word_order 0, beta 2), 71 gap",
+  "signatura": "nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.6.0",
+  "yonalish": "hyp = T1 tarjimasi, ref = tizim chiqishi (etalon_tekshir.py: chrf.sentence_score(T[x][i], [ch[t][i]]))"
+ },
+ "5_ilmiy_qatlam_moslik": {
+  "etalon": "ref_en (inlibrary.uz nashr etilgan inglizcha annotatsiya, gap darajasida)",
+  "mezon": "aynan: norm_tok bo'yicha teng; deyarli: aynan YOKI (gap-chrF2 >= 95 VA gap-BLEU exp >= 90)",
+  "n": 24,
+  "tizim": {
+   "Claude": {
+    "aynan_norm": 3,
+    "aynan_xom": 3,
+    "deyarli_jami": 3
+   },
+   "GPT": {
+    "aynan_norm": 3,
+    "aynan_xom": 3,
+    "deyarli_jami": 3
+   },
+   "GT": {
+    "aynan_norm": 3,
+    "aynan_xom": 3,
+    "deyarli_jami": 3
+   },
+   "Gemini": {
+    "aynan_norm": 1,
+    "aynan_xom": 1,
+    "deyarli_jami": 1
+   },
+   "KKT": {
+    "aynan_norm": 0,
+    "aynan_xom": 0,
+    "deyarli_jami": 0
+   }
+  }
+ },
+ "6_bajarilmagan": "3-band: krippendorff PyPI paketi bilan solishtirish bajarilmadi — paketni o'rnatish sessiyada ruxsat etilmadi (2026-11-07). O'rniga Krippendorff (2011) nashr etilgan namunasi (ordinal α = 0,815) va sintetik holatlar bilan tekshirildi.",
+ "maqom": "natijadan keyingi, taqriz-asosli (2-davr taqrizlari, 2026-11-06); EXPLORATORY; natija/ va etalon/ o'zgarmagan",
+ "muhit": {
+  "numpy": "1.26.4",
+  "python": "3.9.6",
+  "sacrebleu": "2.6.0",
+  "scipy": "1.13.1"
+ },
+ "qayta_tanlash": 10000,
+ "seed": 20261106
+}

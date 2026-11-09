@@ -1,0 +1,2175 @@
+{
+ "seed": 20261016,
+ "elementlar": {
+  "E001": {
+   "tizim": "KKT",
+   "id": "flores-07"
+  },
+  "E002": {
+   "tizim": "GT",
+   "id": "train-13"
+  },
+  "E003": {
+   "tizim": "GT",
+   "id": "gold-04"
+  },
+  "E004": {
+   "tizim": "KKT",
+   "id": "train-07"
+  },
+  "E005": {
+   "tizim": "Gemini",
+   "id": "flores-06"
+  },
+  "E006": {
+   "tizim": "Claude",
+   "id": "train-00"
+  },
+  "E007": {
+   "tizim": "GT",
+   "id": "flores-08"
+  },
+  "E008": {
+   "tizim": "Gemini",
+   "id": "train-08"
+  },
+  "E009": {
+   "tizim": "Gemini",
+   "id": "flores-10"
+  },
+  "E010": {
+   "tizim": "GPT",
+   "id": "flores-03"
+  },
+  "E011": {
+   "tizim": "GT",
+   "id": "flores-10"
+  },
+  "E012": {
+   "tizim": "Gemini",
+   "id": "flores-25"
+  },
+  "E013": {
+   "tizim": "KKT",
+   "id": "gold-00"
+  },
+  "E014": {
+   "tizim": "Gemini",
+   "id": "train-07"
+  },
+  "E015": {
+   "tizim": "Gemini",
+   "id": "train-13"
+  },
+  "E016": {
+   "tizim": "KKT",
+   "id": "flores-28"
+  },
+  "E017": {
+   "tizim": "GT",
+   "id": "flores-28"
+  },
+  "E018": {
+   "tizim": "GT",
+   "id": "flores-05"
+  },
+  "E019": {
+   "tizim": "GT",
+   "id": "train-06"
+  },
+  "E020": {
+   "tizim": "Claude",
+   "id": "flores-17"
+  },
+  "E021": {
+   "tizim": "GPT",
+   "id": "train-03"
+  },
+  "E022": {
+   "tizim": "GT",
+   "id": "flores-29"
+  },
+  "E023": {
+   "tizim": "Gemini",
+   "id": "gold-00"
+  },
+  "E024": {
+   "tizim": "KKT",
+   "id": "flores-23"
+  },
+  "E025": {
+   "tizim": "GPT",
+   "id": "flores-16"
+  },
+  "E026": {
+   "tizim": "Gemini",
+   "id": "train-02"
+  },
+  "E027": {
+   "tizim": "KKT",
+   "id": "flores-02"
+  },
+  "E028": {
+   "tizim": "KKT",
+   "id": "train-06"
+  },
+  "E029": {
+   "tizim": "GPT",
+   "id": "flores-13"
+  },
+  "E030": {
+   "tizim": "Claude",
+   "id": "flores-13"
+  },
+  "E031": {
+   "tizim": "GPT",
+   "id": "gold-06"
+  },
+  "E032": {
+   "tizim": "KKT",
+   "id": "gold-09"
+  },
+  "E033": {
+   "tizim": "Claude",
+   "id": "train-12"
+  },
+  "E034": {
+   "tizim": "GT",
+   "id": "train-20"
+  },
+  "E035": {
+   "tizim": "GPT",
+   "id": "train-22"
+  },
+  "E036": {
+   "tizim": "GPT",
+   "id": "flores-35"
+  },
+  "E037": {
+   "tizim": "GPT",
+   "id": "train-06"
+  },
+  "E038": {
+   "tizim": "GPT",
+   "id": "flores-19"
+  },
+  "E039": {
+   "tizim": "Gemini",
+   "id": "flores-33"
+  },
+  "E040": {
+   "tizim": "GPT",
+   "id": "flores-23"
+  },
+  "E041": {
+   "tizim": "KKT",
+   "id": "flores-04"
+  },
+  "E042": {
+   "tizim": "GT",
+   "id": "train-12"
+  },
+  "E043": {
+   "tizim": "Gemini",
+   "id": "train-16"
+  },
+  "E044": {
+   "tizim": "Gemini",
+   "id": "train-04"
+  },
+  "E045": {
+   "tizim": "KKT",
+   "id": "train-21"
+  },
+  "E046": {
+   "tizim": "Claude",
+   "id": "flores-00"
+  },
+  "E047": {
+   "tizim": "GPT",
+   "id": "flores-30"
+  },
+  "E048": {
+   "tizim": "KKT",
+   "id": "train-02"
+  },
+  "E049": {
+   "tizim": "Gemini",
+   "id": "flores-15"
+  },
+  "E050": {
+   "tizim": "Gemini",
+   "id": "train-20"
+  },
+  "E051": {
+   "tizim": "Gemini",
+   "id": "flores-35"
+  },
+  "E052": {
+   "tizim": "Claude",
+   "id": "flores-15"
+  },
+  "E053": {
+   "tizim": "Claude",
+   "id": "flores-09"
+  },
+  "E054": {
+   "tizim": "GPT",
+   "id": "train-01"
+  },
+  "E055": {
+   "tizim": "Gemini",
+   "id": "flores-20"
+  },
+  "E056": {
+   "tizim": "Claude",
+   "id": "flores-08"
+  },
+  "E057": {
+   "tizim": "GT",
+   "id": "gold-09"
+  },
+  "E058": {
+   "tizim": "Claude",
+   "id": "flores-28"
+  },
+  "E059": {
+   "tizim": "Claude",
+   "id": "flores-20"
+  },
+  "E060": {
+   "tizim": "GT",
+   "id": "gold-03"
+  },
+  "E061": {
+   "tizim": "GPT",
+   "id": "gold-02"
+  },
+  "E062": {
+   "tizim": "Claude",
+   "id": "train-13"
+  },
+  "E063": {
+   "tizim": "Gemini",
+   "id": "train-22"
+  },
+  "E064": {
+   "tizim": "KKT",
+   "id": "train-12"
+  },
+  "E065": {
+   "tizim": "GT",
+   "id": "flores-07"
+  },
+  "E066": {
+   "tizim": "GT",
+   "id": "flores-22"
+  },
+  "E067": {
+   "tizim": "KKT",
+   "id": "gold-11"
+  },
+  "E068": {
+   "tizim": "KKT",
+   "id": "flores-17"
+  },
+  "E069": {
+   "tizim": "GT",
+   "id": "gold-07"
+  },
+  "E070": {
+   "tizim": "KKT",
+   "id": "flores-19"
+  },
+  "E071": {
+   "tizim": "GPT",
+   "id": "flores-07"
+  },
+  "E072": {
+   "tizim": "GPT",
+   "id": "gold-10"
+  },
+  "E073": {
+   "tizim": "GT",
+   "id": "train-07"
+  },
+  "E074": {
+   "tizim": "Gemini",
+   "id": "flores-02"
+  },
+  "E075": {
+   "tizim": "GPT",
+   "id": "flores-02"
+  },
+  "E076": {
+   "tizim": "KKT",
+   "id": "flores-08"
+  },
+  "E077": {
+   "tizim": "Gemini",
+   "id": "flores-24"
+  },
+  "E078": {
+   "tizim": "KKT",
+   "id": "train-19"
+  },
+  "E079": {
+   "tizim": "GT",
+   "id": "flores-23"
+  },
+  "E080": {
+   "tizim": "Claude",
+   "id": "train-08"
+  },
+  "E081": {
+   "tizim": "Gemini",
+   "id": "flores-14"
+  },
+  "E082": {
+   "tizim": "Gemini",
+   "id": "flores-19"
+  },
+  "E083": {
+   "tizim": "Gemini",
+   "id": "flores-00"
+  },
+  "E084": {
+   "tizim": "Claude",
+   "id": "train-16"
+  },
+  "E085": {
+   "tizim": "GPT",
+   "id": "flores-21"
+  },
+  "E086": {
+   "tizim": "GPT",
+   "id": "flores-10"
+  },
+  "E087": {
+   "tizim": "GPT",
+   "id": "flores-33"
+  },
+  "E088": {
+   "tizim": "GT",
+   "id": "gold-06"
+  },
+  "E089": {
+   "tizim": "Gemini",
+   "id": "train-01"
+  },
+  "E090": {
+   "tizim": "GPT",
+   "id": "flores-06"
+  },
+  "E091": {
+   "tizim": "Gemini",
+   "id": "flores-28"
+  },
+  "E092": {
+   "tizim": "Claude",
+   "id": "gold-08"
+  },
+  "E093": {
+   "tizim": "Gemini",
+   "id": "train-23"
+  },
+  "E094": {
+   "tizim": "Gemini",
+   "id": "flores-01"
+  },
+  "E095": {
+   "tizim": "GT",
+   "id": "gold-11"
+  },
+  "E096": {
+   "tizim": "KKT",
+   "id": "flores-11"
+  },
+  "E097": {
+   "tizim": "Claude",
+   "id": "train-20"
+  },
+  "E098": {
+   "tizim": "KKT",
+   "id": "flores-34"
+  },
+  "E099": {
+   "tizim": "Gemini",
+   "id": "gold-08"
+  },
+  "E100": {
+   "tizim": "Claude",
+   "id": "gold-07"
+  },
+  "E101": {
+   "tizim": "GT",
+   "id": "train-03"
+  },
+  "E102": {
+   "tizim": "Gemini",
+   "id": "train-11"
+  },
+  "E103": {
+   "tizim": "GPT",
+   "id": "train-02"
+  },
+  "E104": {
+   "tizim": "KKT",
+   "id": "train-04"
+  },
+  "E105": {
+   "tizim": "Claude",
+   "id": "gold-09"
+  },
+  "E106": {
+   "tizim": "Claude",
+   "id": "train-15"
+  },
+  "E107": {
+   "tizim": "GT",
+   "id": "flores-24"
+  },
+  "E108": {
+   "tizim": "GPT",
+   "id": "flores-20"
+  },
+  "E109": {
+   "tizim": "GPT",
+   "id": "flores-17"
+  },
+  "E110": {
+   "tizim": "GT",
+   "id": "flores-06"
+  },
+  "E111": {
+   "tizim": "GT",
+   "id": "flores-26"
+  },
+  "E112": {
+   "tizim": "KKT",
+   "id": "flores-29"
+  },
+  "E113": {
+   "tizim": "GT",
+   "id": "flores-14"
+  },
+  "E114": {
+   "tizim": "GPT",
+   "id": "gold-01"
+  },
+  "E115": {
+   "tizim": "Gemini",
+   "id": "flores-30"
+  },
+  "E116": {
+   "tizim": "Claude",
+   "id": "train-22"
+  },
+  "E117": {
+   "tizim": "GT",
+   "id": "flores-27"
+  },
+  "E118": {
+   "tizim": "Claude",
+   "id": "flores-02"
+  },
+  "E119": {
+   "tizim": "Claude",
+   "id": "flores-19"
+  },
+  "E120": {
+   "tizim": "Claude",
+   "id": "flores-30"
+  },
+  "E121": {
+   "tizim": "KKT",
+   "id": "train-00"
+  },
+  "E122": {
+   "tizim": "Gemini",
+   "id": "flores-26"
+  },
+  "E123": {
+   "tizim": "KKT",
+   "id": "flores-22"
+  },
+  "E124": {
+   "tizim": "Gemini",
+   "id": "flores-18"
+  },
+  "E125": {
+   "tizim": "Gemini",
+   "id": "flores-11"
+  },
+  "E126": {
+   "tizim": "GPT",
+   "id": "train-00"
+  },
+  "E127": {
+   "tizim": "Claude",
+   "id": "gold-00"
+  },
+  "E128": {
+   "tizim": "KKT",
+   "id": "flores-18"
+  },
+  "E129": {
+   "tizim": "Gemini",
+   "id": "gold-01"
+  },
+  "E130": {
+   "tizim": "Claude",
+   "id": "flores-29"
+  },
+  "E131": {
+   "tizim": "Claude",
+   "id": "train-18"
+  },
+  "E132": {
+   "tizim": "Claude",
+   "id": "flores-06"
+  },
+  "E133": {
+   "tizim": "GT",
+   "id": "train-17"
+  },
+  "E134": {
+   "tizim": "KKT",
+   "id": "flores-09"
+  },
+  "E135": {
+   "tizim": "KKT",
+   "id": "flores-24"
+  },
+  "E136": {
+   "tizim": "Gemini",
+   "id": "train-17"
+  },
+  "E137": {
+   "tizim": "GT",
+   "id": "flores-17"
+  },
+  "E138": {
+   "tizim": "GT",
+   "id": "flores-32"
+  },
+  "E139": {
+   "tizim": "GT",
+   "id": "train-09"
+  },
+  "E140": {
+   "tizim": "GPT",
+   "id": "train-21"
+  },
+  "E141": {
+   "tizim": "GT",
+   "id": "train-14"
+  },
+  "E142": {
+   "tizim": "GPT",
+   "id": "gold-03"
+  },
+  "E143": {
+   "tizim": "KKT",
+   "id": "flores-25"
+  },
+  "E144": {
+   "tizim": "Gemini",
+   "id": "train-09"
+  },
+  "E145": {
+   "tizim": "KKT",
+   "id": "gold-06"
+  },
+  "E146": {
+   "tizim": "Gemini",
+   "id": "train-18"
+  },
+  "E147": {
+   "tizim": "Gemini",
+   "id": "flores-16"
+  },
+  "E148": {
+   "tizim": "Gemini",
+   "id": "gold-06"
+  },
+  "E149": {
+   "tizim": "Claude",
+   "id": "flores-10"
+  },
+  "E150": {
+   "tizim": "GPT",
+   "id": "train-10"
+  },
+  "E151": {
+   "tizim": "Claude",
+   "id": "flores-04"
+  },
+  "E152": {
+   "tizim": "KKT",
+   "id": "train-01"
+  },
+  "E153": {
+   "tizim": "GPT",
+   "id": "train-13"
+  },
+  "E154": {
+   "tizim": "GT",
+   "id": "flores-25"
+  },
+  "E155": {
+   "tizim": "Gemini",
+   "id": "flores-27"
+  },
+  "E156": {
+   "tizim": "GT",
+   "id": "train-23"
+  },
+  "E157": {
+   "tizim": "GPT",
+   "id": "flores-28"
+  },
+  "E158": {
+   "tizim": "Gemini",
+   "id": "train-12"
+  },
+  "E159": {
+   "tizim": "Gemini",
+   "id": "flores-07"
+  },
+  "E160": {
+   "tizim": "KKT",
+   "id": "gold-03"
+  },
+  "E161": {
+   "tizim": "Claude",
+   "id": "train-05"
+  },
+  "E162": {
+   "tizim": "Gemini",
+   "id": "flores-12"
+  },
+  "E163": {
+   "tizim": "GT",
+   "id": "flores-11"
+  },
+  "E164": {
+   "tizim": "Claude",
+   "id": "train-14"
+  },
+  "E165": {
+   "tizim": "Claude",
+   "id": "train-07"
+  },
+  "E166": {
+   "tizim": "Gemini",
+   "id": "gold-11"
+  },
+  "E167": {
+   "tizim": "Gemini",
+   "id": "flores-21"
+  },
+  "E168": {
+   "tizim": "GPT",
+   "id": "flores-31"
+  },
+  "E169": {
+   "tizim": "KKT",
+   "id": "gold-07"
+  },
+  "E170": {
+   "tizim": "KKT",
+   "id": "train-08"
+  },
+  "E171": {
+   "tizim": "KKT",
+   "id": "train-09"
+  },
+  "E172": {
+   "tizim": "Claude",
+   "id": "train-10"
+  },
+  "E173": {
+   "tizim": "Claude",
+   "id": "flores-23"
+  },
+  "E174": {
+   "tizim": "GPT",
+   "id": "flores-15"
+  },
+  "E175": {
+   "tizim": "Claude",
+   "id": "flores-26"
+  },
+  "E176": {
+   "tizim": "KKT",
+   "id": "flores-12"
+  },
+  "E177": {
+   "tizim": "GT",
+   "id": "flores-19"
+  },
+  "E178": {
+   "tizim": "KKT",
+   "id": "train-05"
+  },
+  "E179": {
+   "tizim": "Claude",
+   "id": "flores-27"
+  },
+  "E180": {
+   "tizim": "GT",
+   "id": "flores-02"
+  },
+  "E181": {
+   "tizim": "Gemini",
+   "id": "flores-29"
+  },
+  "E182": {
+   "tizim": "KKT",
+   "id": "train-13"
+  },
+  "E183": {
+   "tizim": "GPT",
+   "id": "flores-00"
+  },
+  "E184": {
+   "tizim": "Gemini",
+   "id": "train-00"
+  },
+  "E185": {
+   "tizim": "Claude",
+   "id": "gold-01"
+  },
+  "E186": {
+   "tizim": "Gemini",
+   "id": "gold-07"
+  },
+  "E187": {
+   "tizim": "KKT",
+   "id": "train-17"
+  },
+  "E188": {
+   "tizim": "Gemini",
+   "id": "flores-23"
+  },
+  "E189": {
+   "tizim": "Claude",
+   "id": "train-19"
+  },
+  "E190": {
+   "tizim": "GT",
+   "id": "train-18"
+  },
+  "E191": {
+   "tizim": "KKT",
+   "id": "flores-35"
+  },
+  "E192": {
+   "tizim": "GPT",
+   "id": "train-16"
+  },
+  "E193": {
+   "tizim": "Claude",
+   "id": "flores-11"
+  },
+  "E194": {
+   "tizim": "KKT",
+   "id": "flores-16"
+  },
+  "E195": {
+   "tizim": "Gemini",
+   "id": "train-05"
+  },
+  "E196": {
+   "tizim": "GPT",
+   "id": "train-15"
+  },
+  "E197": {
+   "tizim": "Gemini",
+   "id": "gold-10"
+  },
+  "E198": {
+   "tizim": "GPT",
+   "id": "flores-29"
+  },
+  "E199": {
+   "tizim": "Claude",
+   "id": "flores-35"
+  },
+  "E200": {
+   "tizim": "Claude",
+   "id": "train-01"
+  },
+  "E201": {
+   "tizim": "GT",
+   "id": "gold-10"
+  },
+  "E202": {
+   "tizim": "Claude",
+   "id": "gold-03"
+  },
+  "E203": {
+   "tizim": "GT",
+   "id": "gold-05"
+  },
+  "E204": {
+   "tizim": "Claude",
+   "id": "train-02"
+  },
+  "E205": {
+   "tizim": "KKT",
+   "id": "flores-03"
+  },
+  "E206": {
+   "tizim": "KKT",
+   "id": "flores-26"
+  },
+  "E207": {
+   "tizim": "GPT",
+   "id": "flores-24"
+  },
+  "E208": {
+   "tizim": "GPT",
+   "id": "flores-08"
+  },
+  "E209": {
+   "tizim": "Claude",
+   "id": "flores-22"
+  },
+  "E210": {
+   "tizim": "GPT",
+   "id": "train-05"
+  },
+  "E211": {
+   "tizim": "Gemini",
+   "id": "train-15"
+  },
+  "E212": {
+   "tizim": "KKT",
+   "id": "train-15"
+  },
+  "E213": {
+   "tizim": "Gemini",
+   "id": "flores-05"
+  },
+  "E214": {
+   "tizim": "Claude",
+   "id": "flores-25"
+  },
+  "E215": {
+   "tizim": "Gemini",
+   "id": "train-03"
+  },
+  "E216": {
+   "tizim": "GT",
+   "id": "flores-16"
+  },
+  "E217": {
+   "tizim": "Gemini",
+   "id": "gold-09"
+  },
+  "E218": {
+   "tizim": "KKT",
+   "id": "train-22"
+  },
+  "E219": {
+   "tizim": "Claude",
+   "id": "train-06"
+  },
+  "E220": {
+   "tizim": "Claude",
+   "id": "flores-03"
+  },
+  "E221": {
+   "tizim": "GT",
+   "id": "flores-31"
+  },
+  "E222": {
+   "tizim": "KKT",
+   "id": "flores-10"
+  },
+  "E223": {
+   "tizim": "Claude",
+   "id": "flores-05"
+  },
+  "E224": {
+   "tizim": "GT",
+   "id": "gold-08"
+  },
+  "E225": {
+   "tizim": "GT",
+   "id": "flores-03"
+  },
+  "E226": {
+   "tizim": "Gemini",
+   "id": "gold-02"
+  },
+  "E227": {
+   "tizim": "KKT",
+   "id": "train-18"
+  },
+  "E228": {
+   "tizim": "GPT",
+   "id": "train-12"
+  },
+  "E229": {
+   "tizim": "KKT",
+   "id": "flores-15"
+  },
+  "E230": {
+   "tizim": "Gemini",
+   "id": "flores-32"
+  },
+  "E231": {
+   "tizim": "KKT",
+   "id": "flores-05"
+  },
+  "E232": {
+   "tizim": "KKT",
+   "id": "flores-00"
+  },
+  "E233": {
+   "tizim": "GT",
+   "id": "gold-02"
+  },
+  "E234": {
+   "tizim": "Claude",
+   "id": "train-23"
+  },
+  "E235": {
+   "tizim": "GT",
+   "id": "flores-18"
+  },
+  "E236": {
+   "tizim": "GT",
+   "id": "flores-34"
+  },
+  "E237": {
+   "tizim": "KKT",
+   "id": "train-16"
+  },
+  "E238": {
+   "tizim": "GT",
+   "id": "flores-09"
+  },
+  "E239": {
+   "tizim": "KKT",
+   "id": "flores-06"
+  },
+  "E240": {
+   "tizim": "GPT",
+   "id": "flores-01"
+  },
+  "E241": {
+   "tizim": "GT",
+   "id": "gold-01"
+  },
+  "E242": {
+   "tizim": "Claude",
+   "id": "train-11"
+  },
+  "E243": {
+   "tizim": "GT",
+   "id": "flores-35"
+  },
+  "E244": {
+   "tizim": "Gemini",
+   "id": "flores-08"
+  },
+  "E245": {
+   "tizim": "Gemini",
+   "id": "gold-03"
+  },
+  "E246": {
+   "tizim": "GPT",
+   "id": "train-20"
+  },
+  "E247": {
+   "tizim": "Gemini",
+   "id": "gold-04"
+  },
+  "E248": {
+   "tizim": "GPT",
+   "id": "flores-32"
+  },
+  "E249": {
+   "tizim": "Gemini",
+   "id": "flores-31"
+  },
+  "E250": {
+   "tizim": "GT",
+   "id": "train-10"
+  },
+  "E251": {
+   "tizim": "GT",
+   "id": "flores-04"
+  },
+  "E252": {
+   "tizim": "Claude",
+   "id": "train-09"
+  },
+  "E253": {
+   "tizim": "Gemini",
+   "id": "train-14"
+  },
+  "E254": {
+   "tizim": "KKT",
+   "id": "flores-21"
+  },
+  "E255": {
+   "tizim": "GPT",
+   "id": "flores-18"
+  },
+  "E256": {
+   "tizim": "Claude",
+   "id": "gold-10"
+  },
+  "E257": {
+   "tizim": "GPT",
+   "id": "train-23"
+  },
+  "E258": {
+   "tizim": "KKT",
+   "id": "flores-20"
+  },
+  "E259": {
+   "tizim": "GPT",
+   "id": "flores-05"
+  },
+  "E260": {
+   "tizim": "GT",
+   "id": "train-02"
+  },
+  "E261": {
+   "tizim": "GPT",
+   "id": "train-18"
+  },
+  "E262": {
+   "tizim": "GPT",
+   "id": "flores-34"
+  },
+  "E263": {
+   "tizim": "GPT",
+   "id": "flores-14"
+  },
+  "E264": {
+   "tizim": "KKT",
+   "id": "flores-13"
+  },
+  "E265": {
+   "tizim": "GT",
+   "id": "flores-13"
+  },
+  "E266": {
+   "tizim": "Gemini",
+   "id": "flores-34"
+  },
+  "E267": {
+   "tizim": "Claude",
+   "id": "flores-24"
+  },
+  "E268": {
+   "tizim": "GT",
+   "id": "train-21"
+  },
+  "E269": {
+   "tizim": "GPT",
+   "id": "train-09"
+  },
+  "E270": {
+   "tizim": "KKT",
+   "id": "gold-04"
+  },
+  "E271": {
+   "tizim": "GPT",
+   "id": "gold-09"
+  },
+  "E272": {
+   "tizim": "GPT",
+   "id": "flores-09"
+  },
+  "E273": {
+   "tizim": "GT",
+   "id": "train-08"
+  },
+  "E274": {
+   "tizim": "Claude",
+   "id": "flores-18"
+  },
+  "E275": {
+   "tizim": "Gemini",
+   "id": "train-19"
+  },
+  "E276": {
+   "tizim": "Claude",
+   "id": "flores-14"
+  },
+  "E277": {
+   "tizim": "Gemini",
+   "id": "flores-22"
+  },
+  "E278": {
+   "tizim": "KKT",
+   "id": "train-23"
+  },
+  "E279": {
+   "tizim": "GPT",
+   "id": "train-07"
+  },
+  "E280": {
+   "tizim": "Claude",
+   "id": "gold-04"
+  },
+  "E281": {
+   "tizim": "KKT",
+   "id": "gold-05"
+  },
+  "E282": {
+   "tizim": "GPT",
+   "id": "gold-07"
+  },
+  "E283": {
+   "tizim": "Claude",
+   "id": "train-17"
+  },
+  "E284": {
+   "tizim": "GT",
+   "id": "flores-01"
+  },
+  "E285": {
+   "tizim": "GPT",
+   "id": "gold-05"
+  },
+  "E286": {
+   "tizim": "KKT",
+   "id": "flores-32"
+  },
+  "E287": {
+   "tizim": "Claude",
+   "id": "flores-34"
+  },
+  "E288": {
+   "tizim": "KKT",
+   "id": "train-10"
+  },
+  "E289": {
+   "tizim": "Claude",
+   "id": "flores-21"
+  },
+  "E290": {
+   "tizim": "KKT",
+   "id": "flores-33"
+  },
+  "E291": {
+   "tizim": "GT",
+   "id": "train-19"
+  },
+  "E292": {
+   "tizim": "Claude",
+   "id": "flores-32"
+  },
+  "E293": {
+   "tizim": "GT",
+   "id": "train-01"
+  },
+  "E294": {
+   "tizim": "KKT",
+   "id": "train-20"
+  },
+  "E295": {
+   "tizim": "Claude",
+   "id": "flores-31"
+  },
+  "E296": {
+   "tizim": "Claude",
+   "id": "flores-12"
+  },
+  "E297": {
+   "tizim": "Gemini",
+   "id": "flores-09"
+  },
+  "E298": {
+   "tizim": "KKT",
+   "id": "gold-02"
+  },
+  "E299": {
+   "tizim": "GT",
+   "id": "flores-30"
+  },
+  "E300": {
+   "tizim": "Claude",
+   "id": "flores-01"
+  },
+  "E301": {
+   "tizim": "KKT",
+   "id": "train-03"
+  },
+  "E302": {
+   "tizim": "GPT",
+   "id": "flores-26"
+  },
+  "E303": {
+   "tizim": "GPT",
+   "id": "flores-12"
+  },
+  "E304": {
+   "tizim": "Claude",
+   "id": "gold-02"
+  },
+  "E305": {
+   "tizim": "KKT",
+   "id": "train-11"
+  },
+  "E306": {
+   "tizim": "Gemini",
+   "id": "flores-04"
+  },
+  "E307": {
+   "tizim": "GPT",
+   "id": "gold-00"
+  },
+  "E308": {
+   "tizim": "GPT",
+   "id": "train-14"
+  },
+  "E309": {
+   "tizim": "Gemini",
+   "id": "train-21"
+  },
+  "E310": {
+   "tizim": "KKT",
+   "id": "gold-10"
+  },
+  "E311": {
+   "tizim": "Gemini",
+   "id": "flores-03"
+  },
+  "E312": {
+   "tizim": "Claude",
+   "id": "flores-16"
+  },
+  "E313": {
+   "tizim": "GPT",
+   "id": "train-08"
+  },
+  "E314": {
+   "tizim": "GPT",
+   "id": "gold-08"
+  },
+  "E315": {
+   "tizim": "Gemini",
+   "id": "train-06"
+  },
+  "E316": {
+   "tizim": "GPT",
+   "id": "flores-27"
+  },
+  "E317": {
+   "tizim": "KKT",
+   "id": "flores-14"
+  },
+  "E318": {
+   "tizim": "GT",
+   "id": "train-22"
+  },
+  "E319": {
+   "tizim": "GT",
+   "id": "flores-21"
+  },
+  "E320": {
+   "tizim": "GPT",
+   "id": "train-04"
+  },
+  "E321": {
+   "tizim": "KKT",
+   "id": "flores-30"
+  },
+  "E322": {
+   "tizim": "Claude",
+   "id": "flores-33"
+  },
+  "E323": {
+   "tizim": "Claude",
+   "id": "gold-11"
+  },
+  "E324": {
+   "tizim": "GPT",
+   "id": "flores-04"
+  },
+  "E325": {
+   "tizim": "KKT",
+   "id": "gold-01"
+  },
+  "E326": {
+   "tizim": "GPT",
+   "id": "flores-22"
+  },
+  "E327": {
+   "tizim": "Claude",
+   "id": "train-21"
+  },
+  "E328": {
+   "tizim": "GT",
+   "id": "flores-15"
+  },
+  "E329": {
+   "tizim": "Claude",
+   "id": "train-04"
+  },
+  "E330": {
+   "tizim": "GT",
+   "id": "train-16"
+  },
+  "E331": {
+   "tizim": "GT",
+   "id": "train-04"
+  },
+  "E332": {
+   "tizim": "Claude",
+   "id": "gold-05"
+  },
+  "E333": {
+   "tizim": "GT",
+   "id": "flores-00"
+  },
+  "E334": {
+   "tizim": "Claude",
+   "id": "train-03"
+  },
+  "E335": {
+   "tizim": "GPT",
+   "id": "flores-25"
+  },
+  "E336": {
+   "tizim": "GT",
+   "id": "flores-20"
+  },
+  "E337": {
+   "tizim": "KKT",
+   "id": "flores-01"
+  },
+  "E338": {
+   "tizim": "KKT",
+   "id": "flores-31"
+  },
+  "E339": {
+   "tizim": "GT",
+   "id": "train-11"
+  },
+  "E340": {
+   "tizim": "GT",
+   "id": "train-05"
+  },
+  "E341": {
+   "tizim": "GT",
+   "id": "train-00"
+  },
+  "E342": {
+   "tizim": "GT",
+   "id": "flores-33"
+  },
+  "E343": {
+   "tizim": "Gemini",
+   "id": "flores-13"
+  },
+  "E344": {
+   "tizim": "KKT",
+   "id": "flores-27"
+  },
+  "E345": {
+   "tizim": "Gemini",
+   "id": "gold-05"
+  },
+  "E346": {
+   "tizim": "GPT",
+   "id": "train-19"
+  },
+  "E347": {
+   "tizim": "Gemini",
+   "id": "train-10"
+  },
+  "E348": {
+   "tizim": "GPT",
+   "id": "train-17"
+  },
+  "E349": {
+   "tizim": "GT",
+   "id": "flores-12"
+  },
+  "E350": {
+   "tizim": "KKT",
+   "id": "train-14"
+  },
+  "E351": {
+   "tizim": "Gemini",
+   "id": "flores-17"
+  },
+  "E352": {
+   "tizim": "GPT",
+   "id": "flores-11"
+  },
+  "E353": {
+   "tizim": "Claude",
+   "id": "flores-07"
+  },
+  "E354": {
+   "tizim": "GPT",
+   "id": "gold-04"
+  },
+  "E355": {
+   "tizim": "Claude",
+   "id": "gold-06"
+  },
+  "E356": {
+   "tizim": "GT",
+   "id": "gold-00"
+  },
+  "E357": {
+   "tizim": "GT",
+   "id": "train-15"
+  },
+  "E358": {
+   "tizim": "GPT",
+   "id": "train-11"
+  },
+  "E359": {
+   "tizim": "GPT",
+   "id": "gold-11"
+  },
+  "E360": {
+   "tizim": "KKT",
+   "id": "gold-08"
+  }
+ },
+ "tartib": {
+  "B": "R1",
+  "C": "R2",
+  "D": "R1",
+  "E": "R2"
+ },
+ "R1": [
+  "E122",
+  "E016",
+  "E187",
+  "E301",
+  "E149",
+  "E207",
+  "E135",
+  "E042",
+  "E117",
+  "E070",
+  "E315",
+  "E209",
+  "E323",
+  "E252",
+  "E199",
+  "E062",
+  "E344",
+  "E305",
+  "E241",
+  "E023",
+  "E212",
+  "E012",
+  "E219",
+  "E294",
+  "E223",
+  "E060",
+  "E316",
+  "E092",
+  "E029",
+  "E181",
+  "E359",
+  "E285",
+  "E043",
+  "E080",
+  "E105",
+  "E100",
+  "E006",
+  "E131",
+  "E249",
+  "E166",
+  "E175",
+  "E144",
+  "E299",
+  "E056",
+  "E116",
+  "E192",
+  "E349",
+  "E044",
+  "E051",
+  "E179",
+  "E152",
+  "E090",
+  "E201",
+  "E157",
+  "E097",
+  "E020",
+  "E183",
+  "E172",
+  "E295",
+  "E306",
+  "E167",
+  "E307",
+  "E024",
+  "E139",
+  "E265",
+  "E143",
+  "E284",
+  "E310",
+  "E185",
+  "E351",
+  "E224",
+  "E107",
+  "E076",
+  "E313",
+  "E188",
+  "E069",
+  "E099",
+  "E173",
+  "E259",
+  "E280",
+  "E204",
+  "E010",
+  "E230",
+  "E318",
+  "E019",
+  "E013",
+  "E037",
+  "E073",
+  "E022",
+  "E227",
+  "E003",
+  "E260",
+  "E053",
+  "E317",
+  "E049",
+  "E322",
+  "E165",
+  "E091",
+  "E077",
+  "E194",
+  "E036",
+  "E102",
+  "E088",
+  "E282",
+  "E093",
+  "E235",
+  "E276",
+  "E243",
+  "E309",
+  "E041",
+  "E120",
+  "E274",
+  "E084",
+  "E098",
+  "E281",
+  "E296",
+  "E352",
+  "E279",
+  "E113",
+  "E314",
+  "E014",
+  "E290",
+  "E064",
+  "E065",
+  "E220",
+  "E240",
+  "E340",
+  "E251",
+  "E027",
+  "E196",
+  "E205",
+  "E231",
+  "E110",
+  "E271",
+  "E245",
+  "E200",
+  "E142",
+  "E335",
+  "E145",
+  "E103",
+  "E226",
+  "E121",
+  "E168",
+  "E191",
+  "E339",
+  "E268",
+  "E059",
+  "E206",
+  "E275",
+  "E320",
+  "E264",
+  "E293",
+  "E034",
+  "E174",
+  "E267",
+  "E169",
+  "E237",
+  "E327",
+  "E148",
+  "E039",
+  "E171",
+  "E278",
+  "E163",
+  "E198",
+  "E333",
+  "E177",
+  "E038",
+  "E015",
+  "E137",
+  "E257",
+  "E303",
+  "E353",
+  "E134",
+  "E126",
+  "E026",
+  "E095",
+  "E018",
+  "E236",
+  "E001",
+  "E287",
+  "E218",
+  "E336",
+  "E203",
+  "E292",
+  "E005",
+  "E304",
+  "E302",
+  "E108",
+  "E160",
+  "E050",
+  "E074",
+  "E082",
+  "E266",
+  "E125",
+  "E250",
+  "E040",
+  "E232",
+  "E045",
+  "E025",
+  "E114",
+  "E354",
+  "E228",
+  "E180",
+  "E357",
+  "E072",
+  "E263",
+  "E057",
+  "E151",
+  "E008",
+  "E030",
+  "E329",
+  "E133",
+  "E254",
+  "E312",
+  "E047",
+  "E239",
+  "E176",
+  "E078",
+  "E156",
+  "E255",
+  "E111",
+  "E256",
+  "E355",
+  "E210",
+  "E009",
+  "E197",
+  "E048",
+  "E319",
+  "E300",
+  "E288",
+  "E186",
+  "E222",
+  "E089",
+  "E270",
+  "E075",
+  "E248",
+  "E247",
+  "E079",
+  "E164",
+  "E311",
+  "E161",
+  "E358",
+  "E071",
+  "E094",
+  "E211",
+  "E261",
+  "E081",
+  "E244",
+  "E066",
+  "E342",
+  "E334",
+  "E328",
+  "E347",
+  "E297",
+  "E055",
+  "E158",
+  "E061",
+  "E298",
+  "E154",
+  "E356",
+  "E035",
+  "E115",
+  "E112",
+  "E046",
+  "E337",
+  "E011",
+  "E004",
+  "E213",
+  "E338",
+  "E269",
+  "E085",
+  "E033",
+  "E184",
+  "E101",
+  "E140",
+  "E208",
+  "E258",
+  "E346",
+  "E104",
+  "E058",
+  "E130",
+  "E052",
+  "E063",
+  "E262",
+  "E118",
+  "E032",
+  "E324",
+  "E170",
+  "E054",
+  "E233",
+  "E291",
+  "E178",
+  "E067",
+  "E190",
+  "E119",
+  "E132",
+  "E283",
+  "E221",
+  "E289",
+  "E242",
+  "E330",
+  "E321",
+  "E021",
+  "E136",
+  "E195",
+  "E141",
+  "E083",
+  "E331",
+  "E031",
+  "E308",
+  "E147",
+  "E272",
+  "E127",
+  "E216",
+  "E193",
+  "E007",
+  "E332",
+  "E234",
+  "E146",
+  "E129",
+  "E326",
+  "E345",
+  "E202",
+  "E123",
+  "E325",
+  "E106",
+  "E150",
+  "E343",
+  "E162",
+  "E215",
+  "E028",
+  "E086",
+  "E153",
+  "E225",
+  "E253",
+  "E350",
+  "E273",
+  "E286",
+  "E068",
+  "E214",
+  "E017",
+  "E217",
+  "E229",
+  "E002",
+  "E124",
+  "E238",
+  "E189",
+  "E246",
+  "E128",
+  "E182",
+  "E109",
+  "E096",
+  "E360",
+  "E155",
+  "E341",
+  "E087",
+  "E277",
+  "E159",
+  "E348",
+  "E138"
+ ],
+ "R2": [
+  "E175",
+  "E094",
+  "E048",
+  "E312",
+  "E105",
+  "E004",
+  "E216",
+  "E236",
+  "E270",
+  "E032",
+  "E148",
+  "E206",
+  "E321",
+  "E207",
+  "E161",
+  "E193",
+  "E274",
+  "E065",
+  "E071",
+  "E137",
+  "E075",
+  "E203",
+  "E077",
+  "E160",
+  "E086",
+  "E051",
+  "E185",
+  "E237",
+  "E297",
+  "E335",
+  "E322",
+  "E035",
+  "E187",
+  "E337",
+  "E102",
+  "E293",
+  "E152",
+  "E263",
+  "E310",
+  "E115",
+  "E138",
+  "E114",
+  "E231",
+  "E150",
+  "E234",
+  "E242",
+  "E111",
+  "E334",
+  "E343",
+  "E200",
+  "E047",
+  "E336",
+  "E338",
+  "E198",
+  "E174",
+  "E098",
+  "E262",
+  "E001",
+  "E267",
+  "E292",
+  "E189",
+  "E355",
+  "E195",
+  "E100",
+  "E280",
+  "E222",
+  "E192",
+  "E178",
+  "E253",
+  "E349",
+  "E091",
+  "E273",
+  "E271",
+  "E214",
+  "E067",
+  "E090",
+  "E258",
+  "E042",
+  "E078",
+  "E118",
+  "E149",
+  "E101",
+  "E357",
+  "E346",
+  "E158",
+  "E275",
+  "E259",
+  "E083",
+  "E202",
+  "E135",
+  "E103",
+  "E284",
+  "E141",
+  "E188",
+  "E315",
+  "E221",
+  "E167",
+  "E358",
+  "E059",
+  "E039",
+  "E359",
+  "E023",
+  "E205",
+  "E196",
+  "E144",
+  "E264",
+  "E012",
+  "E049",
+  "E162",
+  "E124",
+  "E173",
+  "E133",
+  "E076",
+  "E073",
+  "E176",
+  "E246",
+  "E129",
+  "E156",
+  "E040",
+  "E136",
+  "E302",
+  "E215",
+  "E177",
+  "E134",
+  "E037",
+  "E121",
+  "E319",
+  "E109",
+  "E128",
+  "E224",
+  "E347",
+  "E081",
+  "E348",
+  "E108",
+  "E250",
+  "E320",
+  "E123",
+  "E017",
+  "E006",
+  "E168",
+  "E360",
+  "E350",
+  "E096",
+  "E325",
+  "E269",
+  "E197",
+  "E016",
+  "E356",
+  "E279",
+  "E229",
+  "E052",
+  "E019",
+  "E226",
+  "E172",
+  "E186",
+  "E208",
+  "E286",
+  "E218",
+  "E311",
+  "E055",
+  "E170",
+  "E169",
+  "E294",
+  "E038",
+  "E126",
+  "E093",
+  "E113",
+  "E241",
+  "E062",
+  "E257",
+  "E008",
+  "E281",
+  "E099",
+  "E028",
+  "E204",
+  "E036",
+  "E088",
+  "E084",
+  "E345",
+  "E021",
+  "E031",
+  "E046",
+  "E251",
+  "E342",
+  "E025",
+  "E352",
+  "E344",
+  "E074",
+  "E180",
+  "E309",
+  "E095",
+  "E228",
+  "E120",
+  "E132",
+  "E092",
+  "E066",
+  "E296",
+  "E240",
+  "E220",
+  "E183",
+  "E330",
+  "E106",
+  "E256",
+  "E043",
+  "E298",
+  "E182",
+  "E317",
+  "E029",
+  "E331",
+  "E007",
+  "E326",
+  "E057",
+  "E265",
+  "E288",
+  "E069",
+  "E249",
+  "E013",
+  "E307",
+  "E030",
+  "E210",
+  "E056",
+  "E179",
+  "E005",
+  "E314",
+  "E053",
+  "E276",
+  "E155",
+  "E209",
+  "E063",
+  "E340",
+  "E283",
+  "E285",
+  "E131",
+  "E085",
+  "E044",
+  "E272",
+  "E354",
+  "E164",
+  "E301",
+  "E151",
+  "E119",
+  "E064",
+  "E181",
+  "E112",
+  "E332",
+  "E184",
+  "E219",
+  "E002",
+  "E024",
+  "E243",
+  "E153",
+  "E166",
+  "E061",
+  "E245",
+  "E125",
+  "E033",
+  "E139",
+  "E010",
+  "E351",
+  "E289",
+  "E341",
+  "E299",
+  "E146",
+  "E104",
+  "E070",
+  "E313",
+  "E009",
+  "E211",
+  "E247",
+  "E278",
+  "E223",
+  "E041",
+  "E191",
+  "E324",
+  "E117",
+  "E261",
+  "E287",
+  "E127",
+  "E068",
+  "E080",
+  "E353",
+  "E201",
+  "E225",
+  "E268",
+  "E254",
+  "E277",
+  "E159",
+  "E143",
+  "E087",
+  "E323",
+  "E255",
+  "E107",
+  "E110",
+  "E089",
+  "E165",
+  "E230",
+  "E333",
+  "E308",
+  "E232",
+  "E248",
+  "E145",
+  "E306",
+  "E305",
+  "E163",
+  "E328",
+  "E266",
+  "E054",
+  "E130",
+  "E015",
+  "E058",
+  "E300",
+  "E014",
+  "E295",
+  "E194",
+  "E260",
+  "E122",
+  "E027",
+  "E303",
+  "E190",
+  "E327",
+  "E072",
+  "E157",
+  "E082",
+  "E045",
+  "E239",
+  "E011",
+  "E316",
+  "E147",
+  "E329",
+  "E060",
+  "E140",
+  "E154",
+  "E318",
+  "E079",
+  "E171",
+  "E142",
+  "E235",
+  "E034",
+  "E026",
+  "E244",
+  "E238",
+  "E217",
+  "E339",
+  "E022",
+  "E199",
+  "E212",
+  "E050",
+  "E018",
+  "E227",
+  "E213",
+  "E116",
+  "E282",
+  "E233",
+  "E252",
+  "E304",
+  "E003",
+  "E290",
+  "E291",
+  "E097",
+  "E020"
+ ]
+}

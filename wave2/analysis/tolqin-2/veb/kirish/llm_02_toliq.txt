@@ -1,0 +1,42 @@
+Translate each numbered Uzbek sentence into English. Keep the numbering. Output only the numbered translations, one per line.
+
+1. Karno mashhur, lekin o'zi ta'kidlaganidek faoliyatining cho'qqisida 9000 nafar talabasi bo'lgan "Modern Education" va "King's Glory" ta'lim markazlarida dars bergan munozarali ingliz tili o'qituvchisidir.
+2. Shu tarzda, siz o'zingizni imkon qadar kamroq toliqtirasiz. Unutmang, pianinodagi singari qo'shimcha kuch uchun klaviaturani katta kuch bilan urishga hojat yo'q.
+3. Soat 11:00 dan o'tishi bilan namoyishchilar Uaytxolldagi shimol tomonga yo'nalgan transport yo'lini to'sib qo'ydilar.
+4. Sqvosh, karate va rolikda uchish 2005-yil Olimpiada o'yinlaridan chiqarib yuborilgan beysbol va softbol singari Olimpiada dasturiga kiritilishiga harakat qilgan sport turlaridir.
+5. Uning qoldiqlari orollarning katta qismida jalalarni yuzaga keltirdi, biroq hozirgacha hech qanday zarar yoki toshqinlar haqida xabarlar olinmadi.
+6. 18-asrda taylandliklar Kambodjaga bir necha marotaba bostirib kirgan va 1772-yil Pnom Fenni vayron qilgan.
+7. MetroRail Keyptaun atrofida qatnovchi poyezdlarning ikki sinfiga ega: MetroPlus (Birinchi sinf deb ham ataladi) va Metro (Uchinchi sinf deb ham ataladi).
+8. o'tgan hafta Naked News dasturi uchta yangi ko'rsatuv bilan o'zining xalqaro til vakolatini yangiliklarni xabar qilishga keskin ravishda oshirishini e'lon qildi.
+9. Aytishlaricha, 1649-yili Zabdrung Ngavang Namgyel Tibet-mo'g'ul kuchlariga ustidan g'alabasini xotirlash maqsadida mazkur qal'ani bunyod etgan.
+10. Albatta, ikki daqiqani ishlab olishi mumkin bo'lgan birinchi darajali o'rta masofaga yuguruvchi sportchi juda katta tezlikka ega bo'lishi lozim, biroq nima bo'lganda ham chidamlilik rivojlantirilishi kerak.
+11. Xitoyning YaIMi yigirma yil ichida Qo'shma Shtatlarinikidan kattaroq bo'lishi mumkin.
+12. Xush ko'rilmaydigan devoriy tasvirlar va aji-buji yozuvlar grafiti sifatida tanilgan.
+13. Alal-oqibat, B&B lar asosan ikki asosiy narsa: yotoq va nonushta orqali raqobatlasha oladi.
+14. Bu Martellining to'rt yil ichidagi beshinchi CEPidir.
+15. Olimlar Enseladni geologik faol va Saturn muzli E halqasining ehtimoliy manbasi deb gumon qilib kelishgan.
+16. 2400 kishilik asosiy hujum kuchi Trentondan to'qqiz mil shimoldagi daryodan kesib o'tib, so'ng biri Grin qo'l ostida hamda yana biri Sallivan qo'l ostida tong otishiga yaqin hujum boshlash maqsadida ikki guruhga bo'lingan.
+17. Tibet buddizmi Budda ta'limotlariga asoslanadi, lekin muhabbatning mahayana yo'li bilan va hind yogasining ko'plab uslublari bilan kengaytirilgan.
+18. Grenlandiyaning tub aholisi o'zini Kanadada Inuit, Glenlandiyada Kalaaleq (ko'plikda — Kalaallit) — grenlandiyalik deb ataydilar.
+19. Bu veb-saytlar, xususan, ta'lim muassasalarida yuqori e'tibor qozondi.
+20. Qon arteriyalar deb ataluvchi tomirlar orqali yurakdan chiqib ketadi va venalar deb ataluvchi tomirlar orqali yurakka qaytib keladi. Eng kichik tomirlar kapillyarlar deb ataladi.
+21. Tayyorgarlik mashqini olib borayotgan vaqtida, Lenz velosipeddan yiqilib tushdi va keyin hamkasbi Xaver Zayat uni urib yubordi.
+22. Belgiyaning hozirgi kundagi hududlari o'tmishda Lyuksemburgning tarkibida bo'lgan, biroq 1830-yillardagi Belgiya inqilobidan so'ng Belgiya hududiga aylangan.
+23. Ikki taraf katta yarim finalda to'qnash keldi, unda Nusa g'oliblarga 11 ochko keltirdi.
+24. Olovni boshqarish tizimi sinovidan keyin elektr quvvatining uzilishi xavfsizlik klapanlarning ochilishiga sabab bo'lgan va 9-sonli Fort-Grili nasos stansiyasi yaqinida ishlov berilmagan neft toshib ketgan.
+25. Ko'plab pueblolarning qanchalik uzoq masofada ekanligini inobatga olsak, siz Albukerke yoki Santa Fega sayohat qilmasdan turib, tungi hayotning sezilarli qismini topa olmaysiz.
+26. Masalan, o'zini "maktabda yaxshi o'qimaydi" stereotipi bilan qaraladigan irqiy ozchilikka mansub deb bilgan bolalar o'zlarining irqiga oid stereotip haqida eshitganidan so'ng maktabda yaxshi o'qimay qo'yishga moyil bo'lgan.
+27. Og'ir jarohatlar to'g'risida xabar berilmagan, biroq portlash paytida voqea joyida bo'lgan kamida besh kishi shok simtomlariga qarshi davolangan.
+28. Mutaxassis modelni o'rgatdi
+29. Yuqorida kichik g'or bo'lib, u orqali o'tish lozim, u juda past va anchagina tor.
+30. Guruh Mauidagi Urush yodgorligi stadionida 9000 kishi qatnashishi belgilangan shouni bekor qildi va muxlislaridan uzr so'radi.
+31. Hisob-kitoblarga ko'ra, so'zlovchilari 340 milliondan 500 milliongacha bo'lib, 800 millionga yaqin odam bu tilni tushuna oladi.
+32. Qizig'I, u qadimgi vaqtlarda juda muhim deb hisoblanmagan hamda ko'pchilik qadimgi podshohlar ro'yxatlarida qayd etilmagan.
+33. Biroq Qirollik harbiy-dengiz floti hali ham Germaniya harbiy-dengiz flotiga ("Kriegsmarine") qaraganda ancha kuchliroq edi va La-Mansh bo'ylab yuborilgan har qanday istilo flotini yanchib tashlay olar edi.
+34. San-Fransisko iqtisodiyoti uning dunyo darajasidagi sayyohlik manzili ekanligi bilan bog'liq bo'lsa-da, uning iqtisodi xilma-xildir.
+35. Jamoadagi faoliyati davomida u 468 ta uchrashuvda 403 ta gol urgan.
+36. Ushbu toifadagi ba'zi ilovalar, foydalanuvchi smartfonini obyektlar tomon olib borganda, hatto real hayotdagi mazkur belgilar yoki boshqa obyektlar ustidagi chet tillarida yozilgan matnlarni ham tarjima qila oladi.
+37. Italiyaning bosh maqsadlari Afrika davlatlari edi. Mazkur mamlakatlarni qoʻlga kiritish uchun ularga harbiy platsdarm kerak bo'lardi, shunda qo'shinlar o'rta yer dengizi bo'ylab suzib o'tib, Afrikani bosib olishlari mumkin edi.
+38. Ular YUNESKOning Butunjahon madaniy merosi ro'yxatidan joy olgan.
+39. Devid Hedlining razvedkasi hamda axborot yig'ishi Pokistonning "Laskhar-e-Taiba" jangari guruhidan 10 nafar qurollangan shaxsning operatsiyasini amalga oshirishga yordam berdi.
+40. Ko'pgina binolar tomosha qilish uchun juda chiroyli va baland binolar yoki oqilona joylashtirilgan derazasidan ko'rinadigan manzarani tomosha qilish go'zal bo'lishi mumkin.

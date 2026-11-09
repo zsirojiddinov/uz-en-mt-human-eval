@@ -1,0 +1,261 @@
+{
+  "sikl": "tolqin-2",
+  "sana": "2026-10-16",
+  "branch": "tolqin-2",
+  "holat": "davom",
+  "kirish": [
+    "evaluation/corpus/_flores_cache/flores200_dataset.tar.gz",
+    "analysis/yoqish-2/uzun.json",
+    "analysis/yoqish-2/held_out.json",
+    "database/oov_florescl.json",
+    "evaluation/eval72/sentences.json",
+    "analysis/_konvensiya/kod_holat.py",
+    "analysis/echo1_skan.json",
+    "analysis/merge-1008/surat.py",
+    "analysis/imlo-2/surat.py",
+    "analysis/sinov-4/toplam.jsonl",
+    "analysis/sinov-5/toplam.jsonl"
+  ],
+  "elon": {
+    "services": "tegilmaydi",
+    "db": "tegilmaydi",
+    "db_oxiri": null
+  },
+  "langar": {
+    "db_md5": "732a97a56205a00c1c28a100275782ce",
+    "pytest": "2598 passed, 1 xfailed",
+    "commit_boshi": "f87f31b",
+    "commit_oxiri": null,
+    "tracer": null,
+    "kod_commit": "f87f31b",
+    "services_md5": "12c8f2a211bdf424b412f68902a633aa",
+    "data_md5": "e85fbe941ef4ee9ecd5575934031f41e"
+  },
+  "bosqichlar": [
+    {
+      "nom": "prereg",
+      "commit": "712f7df",
+      "natija": "analysis/tolqin-2/prereg.md sha256 6d117be354684af7977cfa59f8bafd74f7d31ba4a5863b25d9161dac363f5e1d"
+    },
+    {
+      "nom": "A-qavat 400 (FLORES dev, seed 20261016)",
+      "commit": "44fd9c8",
+      "natija": "a_qavat.py -> a_qavat_400.json sha256 1e37f431c86a0b1c505655144806fbf2b37f31d445258c6a0d0b476e0604827c; manba flores200_dataset.tar.gz sha256 b8b0b767…44011f6, dev/uzn_Latn.dev 08175c04…c7d7, dev/eng_Latn.dev 51a25f52…ba0a (997 qator); chiqarildi 50 (YOQISH-2: uzun.json qator == held_out.json matn), pool 947, tanlandi 400; ekspozitsiya (oov_florescl.json 78 so'z): aynan 29 gap, prefiks 75 gap; 09:21 dan keyingi commitlarda (va a450ccb..f87f31b) dev kaliti 0"
+    },
+    {
+      "nom": "KKT chiqishlari (c9639e1)",
+      "commit": "9a05396",
+      "natija": "kkt_chiqish.py -> kkt_chiqish.json sha256 5771549a026680a10167a226cd52cadb5c0e648807928176095452266628fb3a; c9639e1..HEAD services/data/database farq YO'Q (alohida checkout kerak emas); services_md5 12c8f2a2 · db_md5 732a97a5 = production M9 (2026.10.14-52); yo'l POST /api/translate-sentence, KKT_* yo'q (B sukut); 2026-10-16 11:53:05..11:53:24 +05:00; a_qavat 400/400, eval72 72/72, status 200 hammasi; ikki yurish (_meta siz) bayt-aynan; neyron tizimlarga murojaat yo'q"
+    },
+    {
+      "nom": "tuzatish 1 — chiqishlar olinishidan oldin",
+      "commit": "4e7ac03",
+      "natija": "analysis/tolqin-2/tuzatish_1.md sha256 62362d04b6ca126310738f5855b392ad00481cf66772a0b4843b64e2ecb6891b; bu commitgacha neyron tizimga murojaat yo'q"
+    },
+    {
+      "nom": "veb kirish to'plamlari",
+      "commit": "a311706",
+      "natija": "veb_paket.py -> veb/kirish/llm_01..12 (40, oxirgisi 32) + gt_01..19 (25, oxirgisi 22), aralash seed 20261016; veb/kalit.json sha256 0efc7461f7692293496edffd5589436b0701b51d184d5710c9d67d4be8ec4c35; 5 000 belgi: gt 0/19 oshadi (max 3 895), llm 11/12 oshadi (max 6 192) — hajm o'zgartirilmadi"
+    },
+    {
+      "nom": "javob tuzilmasi va tekshiruv skripti",
+      "commit": "633e38a",
+      "natija": "veb/javob/ (bo'sh, .gitkeep), veb/jurnal.csv (sarlavha: tizim,fayl,boshlanish,tugash,izoh), tekshir_javob.py (qator soni, 1…N raqamlar, bo'sh qator; matn chop etilmaydi) — sintetik sinov 6 holat to'g'ri; Claude papkasi ~/tarjima_claude/ (repo tashqarisida): KORSATMA.md sha256 b6b3c3103432f0d96e9700f3aef2bade46b425b5586041272709b127b9cfb393 + llm_01..12 (kalit.json sha256 bilan aynan)"
+    },
+    {
+      "nom": "Gemini model tanlovi (chiqishdan oldin)",
+      "commit": "f692603",
+      "natija": "gemini_model.md sha256 7cb9d176b4efa4a9126a254875423f4c01c6718f2fa5b56f6808ade8b783f92a: models/gemini-3.5-flash (version 3.5-flash-05-2026, stable), temperature 0, max_output_tokens 32768; ro'yxat gemini_modellar.json (2026-10-16T12:25:07+05:00, 63 model). Oldingi urinish 12:08 (gemini-2.5-flash) 429 spending cap bilan rad etilgan — chiqish yo'q"
+    },
+    {
+      "nom": "Gemini chiqishlari (API)",
+      "commit": "466e166",
+      "natija": "gemini_ol.py: models/gemini-3.5-flash, temperature 0, max_output_tokens 32768; llm_01..12 alohida so'rov, 2026-10-16 12:28:25..12:32:43 +05:00, qayta urinish 0; finish_reason 1 (STOP) 12/12; tekshir_javob.py 12/12 OK, yetishmagan raqam 0; xom JSON veb/javob_xom/; javobda model_version maydoni yo'q (SDK 0.8.3 to_dict qaytarmadi) — so'ralgan identifikator qayd"
+    },
+    {
+      "nom": "veb yordamchi skriptlar",
+      "commit": "93de5d7",
+      "natija": "veb/jurnal.csv qator oxirlari LF (mazmun o'zgarmagan; ishchi nusxada CRLF 12 -> 0, git blob core.autocrlf=input bilan allaqachon LF edi); veb/kirish/llm_01..12_toliq.txt = prompt (tuzatish 1, aynan) + bo'sh qator + llm_NN.txt (veb_toliq.py; javob_xom gemini_NN.json sorov_sha256 bilan 12/12 aynan); veb_saqla.sh <tizim> <NN> (clipboard -> veb/javob, jurnal, tekshir_javob; ustiga yozmaydi); claude_yigish.sh (~/tarjima_claude/javob_NN.txt -> veb/javob/claude_NN.txt, transkriptdan model va vaqt -> jurnal, tekshir_javob); sinov — repo nusxasida soxta pbpaste/HOME bilan"
+    },
+    {
+      "nom": "tuzatish 3 — GT Documents rejimi (GT chiqishlari davom ettirilishidan oldin)",
+      "commit": "1bb5b62",
+      "natija": "analysis/tolqin-2/tuzatish_3.md sha256 8a98fad1a8aafd5b8844decca961a62eba506b432bea47951ca4d23423163e15: GT = translate.google.com Documents rejimi (.txt yuklash, qabul qilinmasa bayt-aynan .docx), natija Download translation; 19 to'plam shu usulda, gt_01–03 qayta; matn rejimidagi gt_01–03 (23/25 qator) -> gt_NN_matnrejim.txt, tahlilga kirmaydi. Tashxis veb/moslik.md (veb_moslik.py gpt: 12/12 OK, dublikat 0; GT: har faylda 2 juft qo'shni gap birlashgan, yo'qolgan 0, umumiy belgi topilmadi)"
+    },
+    {
+      "nom": "GT Documents yordamchi, veb_saqla tuzatish",
+      "commit": "d46b1b4",
+      "natija": "gt_doc_ol.sh <NN>: ~/Downloads dagi eng yangi .txt/.docx -> veb/javob_xom/gt_NN.<ext> (mv -n, ko'chiriladi) -> veb/javob/gt_NN.txt (.txt bayt-aynan; .docx word/document.xml paragraflari, \\n); kirish faylining o'zi rad; javob/xom mavjud bo'lsa yozmaydi va jurnalga RAD qatori; tekshir_javob. veb_saqla.sh: mv -n + «RAD: allaqachon bor» jurnalga. tekshir_javob.py sukut rejimida *_matnrejim.txt o'tkazib yuboriladi. veb/javob/gt_01..03.txt (matn rejimi, 23/25) -> gt_NN_matnrejim.txt (untracked fayl, oddiy qayta nomlash), jurnal.csv ga 3 izoh qatori. jurnal.csv: claude 12, gpt 13 (gpt_03 ikki marta — foydalanuvchi birinchisini o'chirgan, moslik.md), gt matn rejimi 3 + izoh 3. Sinov — repo nusxasida soxta YUKLAMA papkasi bilan (docx, txt, bo'sh, kirish fayli, mavjud nishon, 23 qator, NN chegarasi)"
+    },
+    {
+      "nom": "Claude va GPT javoblari (veb, 2026-10-16)",
+      "commit": "f4831a7",
+      "natija": "veb/javob/claude_01..12.txt (Claude Code sessiyalari, claude_yigish.sh; model claude-opus-5-5; 14:59:52..15:06:17) + gpt_01..12.txt (ChatGPT veb, veb_saqla.sh; 15:11:24..15:19:54) + gt_01..03_matnrejim.txt (tahlilga kirmaydi, tuzatish 3); jami 27 fayl, nom+sha256 yig'ma sha256 4f5bc4f97c652510ad060fd28295d611cf74f28e8d77aa2a21236a3c53055891; tekshir_javob.py 24/24 OK (matnrejim'siz); CR 0; moslik.md (1bb5b62) gpt 12/12 OK. GPT model skrinshoti veb/gpt_model.png — YO'Q (topilmadi)"
+    },
+    {
+      "nom": "GT kirish .docx (Tuzatish 3)",
+      "commit": "4f412e2",
+      "natija": "GT Documents .txt ni qabul qilmadi -> gt_docx.py: veb/kirish/gt_01..19.docx (har qator bitta paragraf, matn bayt-aynan, styles yo'q, zip vaqti qat'iy — qayta yasash bayt-aynan); qaytish tekshiruvi 19/19 (25/25 x18, 22/22) xml.etree bilan va macOS textutil bilan ham 19/19 bayt-aynan; gt_docx_sha256.json sha256 1c852e597e5344d809c9da2fc9e45dddd4ff5488728c34452aa0999225aebe75. gt_doc_ol.sh: faqat gt_NN* nomli fayl (15:42:52 da eski versiya Downloads dagi begona .docx ni olgan — jurnalda izoh, tahlilga kirmaydi), kirish gt_NN.docx ning o'zi rad; soxta tarjima .docx (oddiy va Google'ga o'xshash ko'p run/rPr/proofErr/bookmark/sectPr) bilan 3/3 bayt-aynan qatorlarga aylandi"
+    },
+    {
+      "nom": "GT javoblari (Документы, 19/19)",
+      "commit": "2b62cb0",
+      "natija": "veb/javob/gt_01..19.txt + veb/javob_xom/gt_01..19.docx (38 fayl, yig'ma sha256 1f1a32bbf114f885add39c5267695cb22d0f37686ee282f4c72595282483d2ac); translate.google.com «Документы», Chrome, interfeys ru, model tanlovi ko'rinmadi; 2026-10-16 16:36:31..16:36:34 (gt_doc_ol.sh); 472/472 qator (18x25 + 22), bo'sh 0, tekshir_javob 19/19 OK; xom sha256 = jurnal 19/19; kirish .docx = gt_docx_sha256.json 19/19; veb_moslik.py gt: 19/19 OK (o'z jufti 74,8–84,0, eng yaqin boshqa <= 19,6), dublikat 0. Bir kunlik qoida: gemini 12:28:25–12:32:43, claude 14:59:52–15:06:17, gpt 15:11:24–15:19:54, gt 16:36:31–16:36:34 — hammasi 2026-10-16. GPT: ChatGPT web, Go, model yorlig'i yo'q, versiya ko'rsatilmagan. Skrinshotlar gt_rejim.png, gpt_model.png — YO'Q (keyingi bosqich: saqlanmaydi, holat jurnalda)"
+    },
+    {
+      "nom": "og'ishlar, rejim qaydlari, GT takror karantini",
+      "commit": "d0c8b73",
+      "natija": "jurnal.csv: «Think» bosilmagan — foydalanuvchi tasdig'i; ko'r baholash og'ishlari O1 (~10 qator GPT javobi rejalashtiruvchi chatiga) va O2 (GT matn rejimi skrinshotda) — rejalashtiruvchi baholovchi emas, qarorda ishlatilmaydi; rejim qaydi (16:42–16:43 ekranda, skrinshot saqlanmadi). GT takror: 17:25–17:27 qayta tarjima 18 fayl + gt_19.docx 16:37 + «gt» papkasi 19 nusxa = 38 fayl, sha256 bo'yicha 38/38 javob_xom bilan bayt-aynan (ochilmagan); ~/Documents/tolqin2_gt_takror_ishlatilmaydi/ (repo tashqarisida); veb/gt_takror_sha256.json sha256 a7d930aefd2e311587e4b903ac36c60b478e2c699d4ebec09133d398454627fd; Downloads'da gt_* qolmadi"
+    },
+    {
+      "nom": "ekspozitsiya-2 rejasi (natijadan oldin)",
+      "commit": "5d5f2a9",
+      "natija": "ekspozitsiya_2_reja.md sha256 c95e85405f4f722a0f326fb23b8ad6ac6e5cee5b56caa771ab09ef7c00bcc054: normallashtirish, aniq/yaqin moslik (5-gram Jaccard >= 0,5 yoki 8+ so'zli umumiy ketma-ketlik), qamrov (gap to'plamlari, git log --all -p, FLORES umuman), qaror qoidasi (prereg ustun; sezgirlik tahlili qo'shimcha)"
+    },
+    {
+      "nom": "ekspozitsiya-2",
+      "commit": "3e0ae5d",
+      "natija": "ekspozitsiya_2.py -> ekspozitsiya_2.json sha256 a8dda687879bdd03076a96344de38a3cfa9f9fc32f82f1d3d929c9deafb130d6, ekspozitsiya_2.md sha256 b33e22d36efa86f688e6d0f0659583ebea45fc12f943017b3017a0f7ba3544ff. A-qavat 400: ekspozitsiya 0 (nomlangan to'plamlar, ishchi daraxtlar 105 694 fayl / 9 722 noyob, git 16 011 obyekt, 1 645 commit xabari). eval72: 72/72 repoda; 2 119/2 477/2 597/3 301 da 36 (train 24 + gold 12), FLORES 36 faqat natija fayllarida; birinchi: gold 5a7c272 2026-06-02, train 17ee420 2026-06-10, flores 1a4a11f 2026-06-16; data/rules 2 fayl (gold-02 aniq, train-18 yaqin), database 1 (train-23 yaqin), test_asos fixture 2 (train-05/11, 06/13/18); commit xabarlari 0. FLORES umuman: aniq 679 (dev 50 = YOQISH-2 held_out, devtest 629), yaqin 5. Qaror: asosiy tahlil o'zgarmaydi; A sezgirlik kerak emas; B sezgirlik 36/36 ajratmasi; skript bir marta yurildi (2026-10-20); commit oldidan D1 uchun faqat yo'l literallari qayta yozildi (chiqarilgan/toifa prefikslari SIKL nomidan va yo'l bo'lagidan; nisbiy yo'llarda natija aynan) — qayta yurilmadi; kirish +5 fayl (echo1_skan.json, merge-1008/surat.py, imlo-2/surat.py, sinov-4/5 toplam.jsonl)"
+    },
+    {
+      "nom": "ekspozitsiya-2 yakuni, tuzatish 4",
+      "commit": "7bed184",
+      "natija": "qayta yurish: farq faqat git.blob_korildi 16011->16032 va commit_xabar_korildi 1645->1646 (3e0ae5d qo'shilgani), topilmalar aynan; ekspozitsiya_2_db.py -> ekspozitsiya_2_db.json sha256 96ba792955cd2316d99dd2b01242ff684f1e6f28fd3ecf0310a59a76120978f2: 21 noyob SQLite (production 732a97a5 bilan) A 0 / eval72 0, ijobiy nazorat 5/5; ~/baho_claude A 0, eval72 yaqin 2 (train-14, train-20), baho_gemini/gpt 0; c9639e1 ajdodi: 5e5524f, 2424d18, b269281 HA, 9c7d77e, 5da78fc YO'Q; tuzatish_4.md sha256 e14e91668f76bfa4855018811c0a229e2bb575532c1cd0b059dea6883db68ace (ekspozitsiya natijasidan keyin, tizim ballaridan oldin): da'volar A ga; B tavsifiy (B-KKT 36, B-FLORES 36); A vs B-FLORES eksplorativ; rule data topilmalari; FLORES ochiqligi cheklovi"
+    },
+    {
+      "nom": "tahlil skripti muzlatildi",
+      "commit": "1d29166",
+      "natija": "tahlil.py sha256 d867e101063325483e26da641abb9e9ae9eec6d22454c6d9cbac99d840e3b718 (prereg §4 + tuzatish 1/3/4/5; commitdan keyin o'zgarmaydi — o'zgarsa sanali tuzatish); tuzatish_5.md sha256 df53a4c39f8639d28e16f3936dc16af06f3496f2c5e74f6a74f28d2f0e5d7ac6 (T tartibi seed 20261016; qatlamlar ikkala ajratma, gold beqaror; kelishuv faqat Spearman + α ordinal; ekspozitsiya aynan+prefiks; skript paketlardan oldin). Smoke-test (sintetik, scratchpad, repoga kirmagan): o'tdi — 14 jadval, bo'sh 0; darvoza yo'li (avtopilot/teng/to'liqsiz) to'g'ri; Krippendorff α ordinal Krippendorff 2011 misolida 0,815 aynan; BLEU yeterli-statistika = corpus_score (1 va 3 etalon). COMET o'rnatilmagan — chiqarib tashlanadi. Tizim javoblari o'qilmagan, ball hisoblanmagan"
+    },
+    {
+      "nom": "tarjimon paketlari T1/T2",
+      "commit": "7cdda2e",
+      "natija": "paket_tarjimon.py sha256 71e2054d496d16fe86637e6c5d946ee97a39886ef2c059ae97e23da75108fc70: eval72 72 gap, seed 20261016 (tuzatish 5 band 1), T1 va T2 tartibi bir xil; paketda faqat № + o'zbekcha manba (etalon/ID/qavat 0); qaytish tekshiruvi xlsx+docx 2/2, qayta yasash bayt-aynan; qaytariladigan fayl tarjima_TX.xlsx -> qabulda qaytgan/TX.xlsx (tahlil.py). sha256: paket/T1/YORIQNOMA.md ab0f095c4b28a5601efd63b34bb0a05624ecf1d49bfc7f63ee7da775a745e723; paket/T1/tarjima_T1.docx 75c1a74f42a5a277292f6a06be38d66391fd1a1cb109e888d1e610226de0f0c6; paket/T1/tarjima_T1.xlsx 4b95ca3d6dff6727df393cf35489342f9dfac07cc74a4d60c9477f14ca8ee45b; paket/T2/YORIQNOMA.md 8faa3284f30c72b53cd2736d845b220754051007f9c3012fa0957907278c7efd; paket/T2/tarjima_T2.docx 6c848e766843bf1d8c993b3deaba90cf4cd7f9d40a29a3cb3510f78c50379f6e; paket/T2/tarjima_T2.xlsx fbb590ccd211947422db3468d5f81cdd432cdca4ff53d236dedeac9d915b3f38; paket/kalit_tarjimon.json 2b29f2f6d9ff02f526c52b91a7be607f7f0c226f680bbdb8b7aad9d74130388f"
+    },
+    {
+      "nom": "COMET (qo'shimcha)",
+      "commit": "4d67147",
+      "natija": "comet_qoshimcha.py sha256 6c11058578f8988a4aa12382a4b699b19df4ffa3a87dc4e6f8f236a30e351680 (muzlatiladi; run-once; tahlil.py dan KEYIN; natija/comet_natija.json): Unbabel/wmt22-comet-da (ckpt sha256 e213091c…f2af), unbabel-comet 2.2.7 alohida venv ~/.venvs/tolqin2_comet; A 5×400 FLORES etalon; B 5×72 ref_en, T1, T2 alohida + o'rtacha; ikkilamchi metrika; cheklov — o'qitish ma'lumotida o'zbek tili yo'q. O'rnatish urinishi jurnal.csv da (15:07:41–15:12:43). Sinov: 3 sintetik juft 0,977/0,896/0,334, takror aynan; smoke (sintetik, n=5, scratchpad) o'tdi"
+    },
+    {
+      "nom": "paket mustahkamlash, qabul.py",
+      "commit": "1214067",
+      "natija": "paket_tarjimon.py sha256 788e67d669480f94b01f0d5c47600f4dccf18fb0eee6a10a8141700c5889a1ab: xlsx varaqlari parolsiz himoyalangan (ochiq: Tarjima ustuni C2:C73; Deklaratsiya B3,B4,B6,B7,B8), core.xml modified qat'iy — qayta yasash bayt-aynan; tartib/matn o'zgarmagan (kalit_tarjimon.json aynan). qabul.py sha256 35eed7e503b99e7d369542120d9fbbb676dc3568ca18154efdfac5c31e030a53 (muzlatiladi): tarjimon — Manba NFC dan keyin asl bilan aynan, Tarjima 72/72, normallashtirish faqat Tarjima da (NFC, “”„‟«» -> \", ‘’‚‛ -> ', NBSP -> bo'shliq, bosh/oxir) — soni qaytgan/qabul_jurnal.csv ga; baho — Element to'plami kalit bilan aynan, baholar o'zgarmaydi, tartib saqlanadi, matn/tartib farqi va darvozalar (tahlil.darvoza) jurnalga; xom nusxa qaytgan/xom/, --almashtir -> qaytgan/arxiv/. Sinov (scratchpad nusxasi): buzilgan Manba RAD, bo'sh Tarjima RAD, takror RAD, almashtir OK; baho matn/tartib farqi aniqlandi; tahlil.py chiqishni o'qiydi. Paket sha256: paket/T1/YORIQNOMA.md ab0f095c4b28a5601efd63b34bb0a05624ecf1d49bfc7f63ee7da775a745e723; paket/T1/tarjima_T1.docx 75c1a74f42a5a277292f6a06be38d66391fd1a1cb109e888d1e610226de0f0c6; paket/T1/tarjima_T1.xlsx af8a7a08fb6c0b72ef9c2e64c08857fbba04136d1e3d471d6e75d9d5eabea2c0; paket/T2/YORIQNOMA.md 8faa3284f30c72b53cd2736d845b220754051007f9c3012fa0957907278c7efd; paket/T2/tarjima_T2.docx 6c848e766843bf1d8c993b3deaba90cf4cd7f9d40a29a3cb3510f78c50379f6e; paket/T2/tarjima_T2.xlsx f1b67b03b91585b3e1c25af3bb2155a87fd9716e9c9ff161ba93c081ec29fb9f; paket/kalit_tarjimon.json 2b29f2f6d9ff02f526c52b91a7be607f7f0c226f680bbdb8b7aad9d74130388f"
+    },
+    {
+      "nom": "baholovchi paketlari R1/R2",
+      "commit": "aeca30d",
+      "natija": "paket_baho.py sha256 b787d6e5a00d86407e4e2b642dc9cbe10eefef1cadbf678d157b36e9a1a5afbc: 360 element (5 tizim × eval72 72; har tizim 72); seed 20261016 bitta RNG ketma-ket: neytral ID E001–E360, R1, R2 tartiblari; R1 -> B, D; R2 -> C, E (prereg §2.5); Yo'riqnoma A1:A31 = rater_A.xlsx matni aynan (sha256 e3c4c800… tekshirildi), A33 «  - Tizimni taxmin qilmang.» (prereg §2.5 bandi); Baholash: Element | O'zbekcha gap | Inglizcha tarjima | Mazmun (1-5) | Ravonlik (1-5) (1-to'lqin tuzilishi), D2:E361 butun 1–5 validatsiya, ochiq; qolgani himoyalangan; 0-tekshiruv: tizim/qavat/ID tashqi 0, matn ichida tizim nomi 0; kalitga mos 4/4; qayta yasash bayt-aynan. kalit_baho.json paketga kirmaydi (tahlil.py formati). sha256: paket/baholovchi/baho_B.xlsx fb4bfc4f93c4d650b14df6c08f7c4ea374d45b05f00072ed8a3c8b57cdf4b76d; paket/baholovchi/baho_C.xlsx f84b61216e29c584c5dd5267d39b3d5b3e74e0bb7ee8d248d3dc5ab7a65d2642; paket/baholovchi/baho_D.xlsx fb4bfc4f93c4d650b14df6c08f7c4ea374d45b05f00072ed8a3c8b57cdf4b76d; paket/baholovchi/baho_E.xlsx f84b61216e29c584c5dd5267d39b3d5b3e74e0bb7ee8d248d3dc5ab7a65d2642; paket/kalit_baho.json f310de57db0ac1bf75a77c3ad7c1cf3b4a3f4ce64f18224110ef956f7f627239"
+    },
+    {
+      "nom": "tuzatish 6",
+      "commit": "a9c7d0d",
+      "natija": "tuzatish_6.md sha256 38ebea9c7d38b61aa7279603e4998c7d7129f09fa53726b5abf16e28a8866d84 (ma'lumotdan oldin): A COMET o'rnatildi — ikkilamchi, comet_qoshimcha.py, tahlil.py dan keyin; B tarjimon xlsx himoyasi + qabul.py normallashtirish qoidalari; C baholovchi paketlari tuzilishi, «Tizimni taxmin qilmang» bandi A33, qabul tartibi"
+    },
+    {
+      "nom": "held-out xesh ro'yxati (main hook uchun)",
+      "commit": "558164d",
+      "natija": "held_out_hash.py sha256 d5c6686bcd21e16e2d26105b60b7c75d8fa09485fc8f824a7353a145fcaf46ee -> held_out_hash.json sha256 a24a8ef3a75088a64dd269209fc155ca8db3b461024cbbff47ddad9c82546789; normallashtirish ekspozitsiya_2.py norm_tok (import, ta'rifi faylda); gap xeshi + 8 so'zli oyna xeshi (sha256); matn yo'q (nazorat gapidan tashqari); qattiq = a_qavat_400 400 + FLORES dev 997 + nazorat 1: gap 998, oyna 10705; kirish = eval72 72 + FLORES devtest 1012: gap 1048 (eval72 ∩ devtest 36), oyna 11658; qattiq ∩ kirish: gap 0, oyna 1; nazorat 4 to'plamda gap/oyna 0; hook sinovi 10/10"
+    },
+    {
+      "nom": "tuzatish 7 — gold-00",
+      "commit": "1e8c1a9",
+      "natija": "tuzatish_7.md sha256 5becc25dab5c0c3e47923b3b5899a26a6309c6a05a1829f7ff4bac08a2e3288f (ma'lumotdan va tarqatishdan oldin): yo'riqnoma o'zgarmaydi, gold-00 paketlarda qoladi; mexanik tekshiruv — 5 tizimdan 3 tasi gold-00 da yo'riqnoma namunasiga teng (aynan va chrF>=90); tahlil.py birinchi va yagona sanali o'zgarish: eski sha256 d867e101063325483e26da641abb9e9ae9eec6d22454c6d9cbac99d840e3b718 -> yangi 56522a2b0aed1261feb9a6138351f07c1db8f80213a1a08430b2e58f36870e16; P1 va inson baholariga tayanadigan jadvallar ASOSIY 71 / SEZGIRLIK 72; H1 va avtomatik metrikalar o'zgarmaydi; smoke-test 23 jadval, bo'sh 0. MANIFEST shu bosqich uchun keyingi commitda yozildi (1e8c1a9 da tekshiruv yiqilgani sabab)"
+    },
+    {
+      "nom": "tuzatish 7a — P1 72 ga qaytarildi",
+      "commit": "bc7197e",
+      "natija": "tahlil.py sha256 56522a2b…0e16 -> e3c36ead544567d461ded320b503413743b15e15829b13b7a7c5f5afe5178db1: P1 (B2) faqat 72 (prereg; kodi 1d29166 bilan aynan), H2–H9 ASOSIY 71 / SEZGIRLIK 72, H1 va avtomatik 72/400; 1-to'lqin taqqoslash hisobi qo'shilmaydi; sabab — rejalashtiruvchi ko'rsatmasidagi xato (P1 avtomatik). tuzatish_7.md sha256 dd11e9890f77707283b45e28f7867f7f12d9d5bf951a514de7012bf63efc175f (7a bo'limi). Smoke-test 22 jadval, bo'sh 0"
+    },
+    {
+      "nom": "tarqatish to'plamlari, jurnal",
+      "commit": "3fab948",
+      "natija": "tarqatish.py sha256 37ca4573a704c962cb6aa8cc19f9217b7b1153b68937b909828f3439d9ec57d1 -> ~/Downloads/TOLQIN2_tarqatish/{T1,T2,B,C,D,E}.zip (repo tashqarisida): tarjimon = tarjima_TX.xlsx + YORIQNOMA_tarjimon.pdf (YORIQNOMA.md); baholovchi = baho_X.xlsx + YORIQNOMA_baholovchi.pdf («Yo'riqnoma» varag'i aynan); PDF matni (pdfminer) manba bilan aynan 6/6; xlsx paketdagi bilan bayt-aynan 6/6; 0-tekshiruv: fayl soni 2, kalit/json 0, gap ID 0, qavat yorlig'i 0 (baholovchida 1 ta «train» — yo'riqnomadagi «o'rgat=train» fe'li, yorliq emas), tizim nomi xlsx da 0 (tarjimon YORIQNOMA taqiq ro'yxatida 5 vosita nomi — ataylab). tarqatish_jurnali.csv (sana ustunlari bo'sh). zip sha256: T1 84eddf0b71913ab89375160092001070f5ccc37e270ee952c143f6e8699c5521; T2 7b1fbd03654e4d1e39fc4bb49acd0a1ac580e23d8fcc3e4b615f2238220e7e46; B 276d92dd95b4a982b6be61bb02238bf65f1df960f3a4194a0716bfafb57dec50; C b6d32af5c16c0dc693936fddac302ce71870e660268b969ab253b40acfd99dad; D bacf00ce0eee4e578b32044df8b7e2108b60209e922439d0df001669970fb5a0; E 1fc694aec55fd4ef565e636b04867422cf5322e4e155c15732108e7fb5073f6a"
+    },
+    {
+      "nom": "tuzatish 8 — etalon mustaqilligi",
+      "commit": "8f1c1433cdbfd8eadc5caadfd47fa0866eb751b4",
+      "natija": "tuzatish_8.md sha256 cbf5dcfc7b656f833572e05d768681409ed06a4342fb6467e23828aae636852f; etalon_tekshir.py sha256 17ce8799d81f93436767dfdfde95219c570c37e57586ac84025c128ae3880cc1 (muzlatiladi, run-once, etalon/etalon_tekshir.json; qabul.py dan keyin, tahlil.py dan oldin); bayroq (a) aynan >=18/72 yoki (b) farq >=12; oqibat oldindan. YORIQNOMA.md +1 jumla: paket/T1/YORIQNOMA.md dfc9b84fea158637ec82afb0ecfedd2b3eb1291f86637ad795c7ffc599fcf0e5, paket/T2/YORIQNOMA.md 7240f94312618ce3aa61ba76ae331e087f5762c2115b24092b74dd16a9f3193d; xlsx/docx bayt-aynan; T1.zip 3fef74da7afcaad586afe10f026fb59b88dd4ec84bd9191247a2edbb082520b8, T2.zip 615501ef6d42346df5663e8c95a072c2654c1a0d2bb19d654f3b7e850d9e4e9d (eski — Downloads/TOLQIN2_tarqatish/eski/); tarqatish.py ROL argumenti. Smoke-test o'tdi (bayroq HA/yo'q, run-once)"
+    },
+    {
+      "nom": "O3, tarqatish — B, D",
+      "commit": "a4bd792",
+      "natija": "veb/jurnal.csv +1 qator (oglish O3; qoida: smoke-test faqat sintetik ma'lumotda), sha256 f0f8d8b9ac8939183a2b76702265d38205dc7f657084843e62a2e025a878321b; tarqatish_jurnali.csv: B, D berilgan_sana 2026-10-21, sha256 e147f56344b7345c064b59175bad3a5db721b6286408633240f3e9cfdb220300; Downloads/TOLQIN2_tarqatish/{eski, T1/, T2/} -> _eskirgan_ishlatilmaydi/ (o'chirilmadi; T1/, T2/ eski zip bilan bayt-aynan)"
+    },
+    {
+      "nom": "Q1 qabul — B, C, D, E, T1 (prereg §3 (7))",
+      "commit": "38a0202",
+      "natija": "qabul.py (muzlatilgan, o'zgartirilmagan) 2026-10-26T19:42+05:00; kirish ~/Downloads (qabul papkasi yo'q): baho_B (1).xlsx 6c721e0c…bab8 -> OK, darvoza (a) O'TMADI (E159, E219 ikkala shkala bo'sh), (b)-(e) belgisiz; baho_C (1).xlsx ce00983e…bc5e -> OK, (a)(b) o'tdi, (c) belgi (13); baho_D (1).xlsx 3d0ab310…3ad1 -> OK, (a) O'TMADI (E019 fluency bo'sh), (c) belgi (19); baho_E.xlsx d2f285b5…c505 -> RAD: sarlavha paketdagidek emas («[AI]»); tarjima_T1 (1) (1).xlsx c611bb87…bcdd -> RAD: Tarjima bo'sh № 55. ~/Downloads/baho_{B,C}.xlsx, baho_D.xlsx (to'ldirilmagan paket nusxalari) qabul qilinmadi. qaytgan/qabul_jurnal.csv, qaytgan/xom/ (5), qaytgan/baho_{B,C,D}.xlsx. tahlil.py yurmagan, natija/ yo'q"
+    },
+    {
+      "nom": "tuzatish 9 — prereg'da qoidasi yo'q holatlar (NATIJADAN KEYINGI)",
+      "commit": "dcb7190",
+      "natija": "tuzatish_9.md sha256 687928dd1d7eaa1fe006624802550f9f5335ab3b305595c9eee649b6cc706b74; E asosiy inson tahlilidan chiqariladi (fayl o'zini «[AI]» deb belgilagan, generatorda yo'q; E bilan sezgirlik mexanizmi BELGILANMAGAN); tahlildan oldin ko'rilgan narsalar (kalitsiz taqsimot) qayd; T1 deklaratsiyasi imzosiz — cheklov. (b) D, (c) bo'sh kataklar, (d) T1 № 55, (e) T2 — prereg qoidasi bor, tuzatish yozilmadi. tahlil.py/qabul.py tegilmagan, natija/ yo'q"
+    },
+    {
+      "nom": "Q1c — jurnal, chiqarilgan E, tadqiqotchi tahriri qaydi",
+      "commit": "0774fc4",
+      "natija": "qaytgan/chiqarilgan.json: E (tuzatish 9 (a)); qaytgan/tadqiqotchi_tahriri/ — 2026-10-27 da tadqiqotchi saqlagan B, D, E (d4acdb70…302d, aadd7420…9522, ca8a0fa4…010d) + README: ma'lumot sifatida ishlatilmaydi; xabar orqali olingan B E159, D E019 qiymatlari hujjatsiz — tahlilga kiritilmadi (tadqiqotchi qarori 2026-10-27); tarqatish_jurnali.csv: C, E, T1 berilgan 2026-10-20..21 (aniq kun yo'q), T2 berilmagan (qidiruv 2026-10-27 da yopildi). Ma'lumot = 2026-10-26 asl qaytarmalar (xom/). Muddat §3: D = 2026-11-04, uzaytirilgan 2026-11-11 (T2 yo'q -> uzaytirish muqarrar). tahlil.py/qabul.py tegilmagan, natija/ yo'q"
+    },
+    {
+      "nom": "tuzatish 10 — T1 71/72, T2 yo'q, B/D juftlik chiqarish, E bilan sezgirlik, muddatdan oldin (NATIJADAN KEYINGI)",
+      "commit": "165e895",
+      "natija": "tuzatish_10.md sha256 244a5c48c21060b1acba0ea6294e3c0720acfe746c59d692288b2f2f250a13d0; bandlar (a) T1 71/72, (b) T2 yo'q — ko'p etalon = asl + T1, (g) B E159/E219, D E019 «yo'q ma'lumot», (d) E chiqarilgan + «E bilan» sezgirlik bitta yurishda, (h) kalitsiz moslik (qaytgan/kalitsiz_tekshiruv/, qayta hisob bayt-aynan), (i) §3 muddatidan oldin; og'ishlar: §2.4, §2.5(a), §3, §4, tuzatish 5.6, tuzatish 8 §2. Skriptlar: tahlil.py aaf37cda525c194fe0d59f456421cd55e7852ec9a6b0b6146f6f1f68daffa20c (2-o'zgarish), qabul.py 8a4ff76100ae6ebdee3fd2f64e5a34a4b91186daaa8dae58d023f5b7fc466966, etalon_tekshir.py 99d43bb9f2239282bf51e24b47bf06473ffe59b93172de27c0ab19fb26003eb3, comet_qoshimcha.py c6e58e9031cc7bc4bca9665c1b831b02529dc3f72a75d52c60c9671e01c975c3. Smoke-test sintetik (scratchpad): to'liq kirishda eski bilan bayt-aynan (yangi kalitlardan tashqari)"
+    },
+    {
+      "nom": "Q2 — bir-shotli tahlil (prereg §3 (9); tuzatish 10 (i): muddatdan oldin)",
+      "commit": "93111a5",
+      "natija": "2026-10-27: qabul.py T1 -> qaytgan/T1.xlsx dc979b4d…dda2 (71/72; xom nusxasi T1__T1__… bayt-aynan takror — qabul.py xom/ dan o'qilgani uchun); etalon_tekshir.py -> etalon/etalon_tekshir.json a6c03c11…002b (T1 bayroq yo'q: aynan max 6/71, farq 5,5); tahlil.py -> natija/tahlil_natija.json 24ff6007…d0, .md 11455407…b8d (22 jadval, bo'sh 2 = H9 LLM-hakam, fayl yo'q); comet_qoshimcha.py -> natija/comet_natija.json 062bd1f6…a4d4. Har biri bir marta. Asosiy B, C, D; «E bilan» B, C, D, E. P1 Δ (asl+T1 − 1ref): KKT 1,37 · Claude 10,29 · Gemini 13,33 · GT 13,14 · GPT 21,76. H7 α asosiy (71): adequacy 0,115, fluency −0,079"
+    },
+    {
+      "nom": "Q3 — xom/ dublikati, qo'shimcha tahlil (NATIJADAN KEYINGI, QO'SHIMCHA; prereg'da yo'q)",
+      "commit": "6e978cd",
+      "natija": "xom/T1__T1__tarjima_T1 (1) (1).xlsx o'chirildi — sha256 c611bb87f795ce1ecacb06729891dda89f1d0de47b07ae9f2461eee64b29bcdd, xom/T1__tarjima_T1 (1) (1).xlsx bilan bayt-aynan; sabab: Q2 da qabul.py T1 ni xom/ dagi nusxadan qayta o'qib, uni yana xom/ ga «T1__» prefiksi bilan yozgan (93111a5). qoshimcha_tahlil.py 92001398f9c43864eb30875106ccbc815adde5608f6418dd451cd32b02acba66 (tadqiqotchi so'rovi 2026-10-27; tahlil.py ga tegmaydi, natija/ ni faqat o'qiydi): qoshimcha/qoshimcha_natija.json 12b1a9ea9812c1ca03b01a2c9a148230119c947beba793e2720a79ca05e3e315, .md 5e68cd39dd9e5b785a3a01742f4df812e1f01c74b1a335d61575d27246ff8c81. Bootstrap 1000, seed 20261027, gap bo'yicha. α nuqtaviy = tahlil.py H7 (assert). Asosiy α mazmun 0,115 [0,025; 0,196], ravonlik −0,079 [−0,157; −0,003]; KKT har baholovchida eng past (mazmun va ravonlik)"
+    },
+    {
+      "nom": "Q6 — B-qavat tizim × qatlam, Claude ustunligi (NATIJADAN KEYINGI, EKSPLORATIV; prereg'da yo'q)",
+      "commit": "fbf4143",
+      "natija": "tadqiqotchi so'rovi 2026-10-28; qoshimcha/qatlam_ustunlik.py 70606e0a60362a46d8ad0656045054e582a5cd706f51a82e25984880d88f22ff -> qoshimcha/qatlam_ustunlik.json 33779a24b35dae6796505b7cd77d62c7bdfdeebb325cc6af5f575f71678e85da, .md 44fa17a2a45058a93e5426f6e087b22a60823b07908ea76132d890bbdcf85254. B1 natija/tahlil_natija.json dan o'qiladi (nuqtaviy qiymatlar assert bilan teng); ustunlik va CI yangi hisob; natija/ ga tegilmagan. Bootstrap seed 20261028, qatlam ichida gap bo'yicha; BLEU 1000, chrF2 300. Claude − o'rtacha(Gemini, GPT, GT), BLEU 1 etalon: flores +22,05, train −5,39; flores − train 27,43 [20,02; 34,36]; 8 CI ning hech biri noldan o'tmaydi. Sabab ajratilmaydi"
+    },
+    {
+      "nom": "Q5 — ikki to'lqinni solishtirish, iyul RW1 · oktyabr (NATIJADAN KEYINGI, QO'SHIMCHA; prereg'da yo'q)",
+      "commit": "22d06ee",
+      "natija": "tadqiqotchi so'rovi 2026-10-28. 0-band: natija/tahlil_natija.md sha256 1145540c73b7e5d7675c3179e5da6ea687fec63333da78b485b34c39843dfb8d = git show 93111a5 (aynan). qoshimcha/tolqinlar_solishtirish.py 08d8fa52f7814a3137ceb1967339822dc4bdec0812869c902ffc1ce3fd00e048 -> .json d60e6081b074aa08ccd4eee5b59f9ff96e41cce0f7eab92ca3ef2f213557c0ba, .md f9d5ba33e30d32b573e702e5bfced52633d2d12442ce37666ffb9097c7dbc500. Iyul manbasi evaluation/eval72/ (faqat o'qish; worktree nusxasi asosiy ombor bilan sha256 aynan, 7 fayl); iyul va oktyabr baholovchilari boshqa odamlar (tadqiqotchi). Assert: okt KKT/Gemini MT = B1 1ref; okt guruh α = H7 SEZGIRLIK 72 (B,C,D va B,C,D,E). Iyul B–C ρ 0,530/0,487 = RW1 hisoboti. KKT iyul s1 = okt bayt-aynan 11/72 (hammasi gold). Baholovchi daraja/kasb ombor yozuvlarida yo'q; «7.5/7.0» README topilmadi; prereg §2.5 «B, C — 1-to'lqindan» tadqiqotchi bayonoti bilan mos emas (tuzatilmadi). natija/ ga tegilmagan"
+    },
+    {
+      "nom": "tuzatish 11 — baholovchilar guruhi (NATIJADAN KEYINGI; tadqiqotchi bayonoti 2026-10-28)",
+      "commit": "87ffe69",
+      "natija": "tuzatish_11.md sha256 7ec4a57ad7cb6d1888d2a9b59a31cb68dee8f16ed4131e7d3d3b62ee8d904624; (a) prereg §2.5 «B, C — 1-to'lqindan» bajarilmagan — to'rt baholovchi iyul bilan umumiy emas, harflar qayta ishlatilgan; (b) B IELTS 9 ingliz tili o'qituvchisi · C IELTS 7 dasturchi · D TOEFL C1 iqtisodchi · E IELTS 6,5 rus tili o'qituvchisi — manba tadqiqotchi bayonoti, omborda yozuv yo'q; (c) sanalar Q5 jadvalidan; (d) «kamida biri o'qituvchi» bajarilgan (B); «IELTS ≥ 7,0» har biriga deb o'qilsa E bajarmaydi, D aniqlanmaydi. Skriptlarga tegilmagan"
+    },
+    {
+      "nom": "Q9 — tuzatish 11 ga sanali qo'shimcha: D ning sertifikati (tadqiqotchi bayonoti 2026-10-29)",
+      "commit": "05be41d",
+      "natija": "tuzatish_11.md sha256 b08062cf3279129f3f2ae2eab4e2e06740eb9124bb539e59f7edc4138201f020 (oldingi 7ec4a57ad7cb6d1888d2a9b59a31cb68dee8f16ed4131e7d3d3b62ee8d904624); faqat oxiriga qo'shimcha, eski matn o'zgarmagan. D: «TOEFL C1» -> «CEFR C1 sertifikati» ((b), (d), «Maqolada»); (d) hukmi o'zgarmagan — D uchun «aniqlanmaydi»"
+    },
+    {
+      "nom": "Q10 — taqriz uchun qo'shimcha hisoblar va faktlar; tuzatish 12 (NATIJADAN KEYINGI)",
+      "commit": "9b80484",
+      "natija": "qoshimcha/taqriz_qoshimcha.py 33352808db55037d7cd731acb6d7fd9fa0c9c475474665273758bb972aab792d -> .json a01b971aea0864a3ed6db9f01587e62c01a346be75cbf1645f0ab895eaa96b39, .md b8470d54d2aa134464b1b87d4c5bd590cae55171f376c61a4616c6c23f94305a; tuzatish_12.md 302c1d48a3a283ebd8ebeeeb139f120fb395a4d91cf9bdd5c5353da3a227684d. Skript commitdan oldin uch marta yurdi (2-chisi nan kataklar sababini qo'shish, 3-chisi indeks_qur qattiq-yo'l tekshiruvi uchun 6(e) matnini o'zgartirish; barcha raqamlar 1-yurish bilan aynan; deterministik, bootstrap yo'q). Assert: T1 aynan = etalon_tekshir; α B,C,D va B,C,D,E = H7 ASOSIY. T1 ga eng yaqin: GPT (BLEU 46,46), GT (37,32). FLORES aynan A-qavat: Claude 27/400 (deyarli 32), B-FLORES Claude 2/36. 55-gap = train-21, None -> 1 etalon; haqiqiy signatura nrefs:var. (c)-darvoza ≥ 12. etalon aynan 6 = GPT. Iyul 2,38/2,35 topilmadi. Xronologiya: (a), (b), (g), (d) to'ldirilishi, (i) — kalitsiz hisobdan (2026-10-26) KEYIN (2026-10-27) -> tuzatish 12. natija/ ga tegilmagan"
+    },
+    {
+      "nom": "Q11 — qo'lyozma v1.2 qoldiqlari: 2-rasm (NATIJADAN KEYINGI; tadqiqotchi so'rovi 2026-10-29)",
+      "commit": "91d92ce",
+      "natija": "qoshimcha/fig2_bleu_adequacy.py sha256 e91249721fe4ccc90beb950ae15b8c5f12755a9d46488488115a464196d4eee9 (muhit ~/.venvs/tolqin2_rasm: sacrebleu 2.6.0, openpyxl 3.1.5, numpy 1.26.4, matplotlib 3.9.4); rasm/fig2_bleu_adequacy.png 41f417a56463b428e3dc33cf60394f17ee8f39c308ff35311e04b419f4b2b4e1 (300 dpi), rasm/fig2_bleu_adequacy.json 42309e152af9c7ec67fbb0c49728f6d2ce6c6bf76361ca6d62d0b399eb201038; ASOSIY 71, x gap-BLEU_1ref, y B,C,D mazmun o'rtachasi; ρ va CI Q10 3-band (= H4) dan, qayta hisoblangan ρ assert bilan teng; yangi statistika yo'q; ikki yurish bayt-aynan. 1-2 bandlar (tuzatishlar jadvali, B–D ρ, iyul KKT α) faqat o'qish — tolqinlar_solishtirish.json dan, omborga yozilmadi"
+    },
+    {
+      "nom": "Q13 — taqriz-asosli sezgirlik tahlillari; tuzatish 13 (NATIJADAN KEYINGI, EXPLORATORY)",
+      "commit": "df873b4",
+      "natija": "qoshimcha/tuzatish13/t13.py 5d46c5d160b002e05e29a1633bb038335021df7269a253194eef4cb8be81cd92 -> Q13_natija.json 264b682c8a672d4d9aaf16193cb7d50a38eef668c1ab6812376fb5c974a75b39, .md 0aeeccfb354ff11ff9aeb39fbb62b4b884ec1bcac0b364e9e70c4b4de2d392f9; tuzatish_13.md c1aeeec4116d9617cb582cc3226450651494944895a4f41864ef254c846e4fd8. Muhit ~/.venvs/tolqin2_comet (sacrebleu 2.6.0, numpy 1.26.4, scipy 1.13.1); seed 20261106, 10 000. Ikki yurish bayt-aynan. Assert: T1 aynan = etalon_tekshir; P1 Δ = B2; α = H7 ASOSIY; ρ = H4 ASOSIY; juftlik = H6 SEZGIRLIK; natija/, etalon/ sha256 oldin va keyin. T1 sezgirligi (71): asl+T1 neyron tartibi Claude > GPT > GT > Gemini; aynan T1 gaplari 7 noyob (GPT 6) — ularsiz (64) tartib o'zgarmaydi; leave-one-out 0/71 o'zgarish. P1 99 % Bonferroni: 5 tizimda 0 oraliqdan tashqarida. BCa α mazmun 0,115 [0,031; 0,204], ravonlik −0,079 [−0,151; 0,002]. Pooled neyron ρ −0,019 [−0,196; 0,159]; η² neyron 0,005, 5 tizim 0,299. natija/ ga tegilmagan"
+    },
+    {
+      "nom": "Q14/Q15 — yozuv tuzatishlari va taqriz-asosli tahlillar; tuzatish 14 (NATIJADAN KEYINGI, EXPLORATORY)",
+      "commit": null,
+      "natija": "qoshimcha/tuzatish14/t14.py d600719a1ffd6ed3b298ea65cb4bc2a7fe92e5a4a76508a20045be49d3f602e6, test_alfa.py 697b28f587f8ef0a1b464e4b6056c33012f7a6cc0947aedf1a286e892390c4cb -> Q15_natija.json a83a04ce181bed2ee0c273f27fbaeba706e7363daed8ab66df6f0757dc89b2a2, .md f2b3774097b922332e3a948aa28c63071556d1e19ef1e00b323f8a605edfd647; tuzatish_14.md a3fb3cf21e083c7f790cb369736b5032348e6e4d98d210611b52e55512e3bea6. Yozuv: Claude = Claude Code (tuzatish 1, veb/jurnal.csv); partiyalar 472 aralash, 40×12 / 25×19, qatlamlar aralash; train etalonlari inlibrary.uz (ochiq) nashr etilgan annotatsiyalar; etalon_tekshir farq_1_2 = gap-chrF2 (hyp T1) GPT − Gemini 5,51. Tahlil: 71 gap juftlashgan Δ 95 % (Q13 1a ga teng, assert); Kendall W tizim ichida 0,37–0,68; α K2011 namunasi 0,815 aynan; ilmiy qatlam aynan: KKT 0, Gemini 1, Claude 3, GPT 3, GT 3 /24. krippendorff paketi bilan solishtirish bajarilmadi (o'rnatish ruxsat etilmadi). Ikki yurish bayt-aynan; natija/, etalon/ sha256 oldin va keyin; natija/ ga tegilmagan"
+    }
+  ],
+  "qaror": {
+    "mezon": "analysis/tolqin-2/prereg.md",
+    "natija": null,
+    "hukm": null
+  }
+}

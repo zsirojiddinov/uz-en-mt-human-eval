@@ -1,0 +1,37 @@
+{
+ "urinishlar_xato": [],
+ "model_sorov": "gemini-3.5-flash",
+ "model_version": "",
+ "temperature": 0.0,
+ "boshi": "2026-10-16T12:29:16+05:00",
+ "oxiri": "2026-10-16T12:29:36+05:00",
+ "kirish": "llm_03.txt",
+ "kirish_sha256": "ad2611a9be4f90ec3f44eeea894f885db702e3fa7fe5b0ee4b29278190f1a703",
+ "sorov_sha256": "f54c28f61d37d692c997aa8ea9e82a3f2a7746f9b1c4e6cea77bcc452a6ac95d",
+ "javob": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "1. Residents of other regions often cite convenience for the whole family as the reason for moving here, and visitors frequently find it easy to enjoy time with children.\n2. Even if it is not illegal in your area, flying a drone near an airport or over a crowd is almost always a bad idea.\n3. Submarines were used in World War I and World War II; at that time, they were very slow, and their firing range was very limited.\n4. This article focuses on advanced, innovative, and interactive methods to increase interest in language learning, independent thinking, sensitivity, and active participation in class.\n5. Despite these allegations, Ma easily won on a platform advocating closer ties with mainland China.\n6. However, these are not just experiments, and an experiment is a test used to exclude one or more possible hypotheses, serve as a formulation of a problem, and guide scientific research through observation.\n7. This event of a chemically confirmed Martian substance falling to Earth is considered to be the fifth time observed by humans.\n8. We perceive time as a sequence of events moving from the future through the present into the past.\n9. In this way, many of us watch television shows that inform us about a process or experience in which we ourselves will never participate or apply that knowledge.\n10. The company developed the product.\n11. In all cases, you must make a booking by calling the airline directly.\n12. Hyperlipidemia is an important link in the pathogenesis and clinical course of uterine leiomyoma.\n13. The study found that depression, fear, and anxiety mediate the relationship between pain and disability in back pain sufferers.\n14. Thus, Delhi Belly, Pharaoh's Curse, Montezuma's Revenge, and many of their friends.\n15. Time is also how we compare the duration (length) of events.\n16. If you show a little courtesy, the stern exterior of Parisians disappears in an instant.\n17. Britain even posed a threat to neutral ships, mining international waters to prevent any ship from accessing entire sections of the ocean.\n18. They include financial restrictions and bans imposed by the European Union on crude oil exports, from which the Iranian economy derives 80% of its foreign revenue.\n19. The strategic importance of logistics for developing the economies of these countries in the context of globalization was emphasized.\n20. The original version of the bill was drafted by former Mayor of São Paulo Marta Suplicy. The proposed law, after being amended, is now in the hands of Roberto Jefferson.\n21. Participants in regular activity required more support regarding negative perceptions of pain, distinguishing differences in chronic pain from discomfort caused by routine physical exertion.\n22. These close-up lenses allow you to create images comparable to results achieved using fixed focal length lenses.\n23. These scarps are found all over the Moon and are minimally eroded by weathering, indicating that the geological events that formed them occurred relatively recently.\n24. Park permits can be obtained directly from the Ranger station, but they do not accept credit cards.\n25. This also includes waiting in line, as drug-sniffing dogs may be used at any time without warning.\n26. Hydrogen ions are protons stripped of their electrons (because hydrogen atoms consist of one proton and one electron).\n27. Japanese judoka and two-time Olympic gold medalist Hitoshi Saito passed away at the age of 54.\n28. This is usually associated with, but does not include, ski mountaineering or mountaineering; they are performed on steep terrain and require rigid skis and boots.\n29. No physical damage was done to the sign; the modification was carried out using black tarps decorated with peace and heart symbols to alter the \"O\"s to read a lowercase \"e\".\n30. According to the story, his intention was to become famous at any cost. The outraged Ephesians declared that Herostratus's name should never be recorded.\n31. For this purpose, this article develops the application technology, field of application, and database design for collecting and processing monitoring data based on IoT and data sources of hybrid power supply sources.\n32. The hearing must also set a date for the suspect's right to a speedy trial.\n33. \"If it is commercialized, we must adopt it. That is, overall, there is no opposition to nuclear energy,\" Mr. Costello said.\n34. Much of the trail is paved with stone steps, and on steeper sections, steel cables serve as supportive handrails.\n35. Britain's The Guardian newspaper states that a German bank controlled about a third of the 1,200 shell companies used to carry this out.\n36. This is compacted snow with thick crevasses filled and marked with flags. It can only be navigated using specialized tractors pulling sleds loaded with fuel and materials.\n37. At the time of his death, former Olympic and world champion Saito was the chairman of the training committee of the All Japan Judo Federation.\n38. In Northern India and inland regions of Pakistan, yogurt is typically used in curries; in Southern India and some other coastal areas of the subcontinent, coconut milk is widely used.\n39. In essence, the Renaissance brought about major changes in the approach to learning and education.\n40. Written words are also easier to understand than spoken words. This is especially true in cases where clear pronunciation is often difficult."
+      }
+     ],
+     "role": "model"
+    },
+    "finish_reason": 1,
+    "index": 0,
+    "safety_ratings": [],
+    "token_count": 0,
+    "grounding_attributions": [],
+    "avg_logprobs": 0.0
+   }
+  ],
+  "usage_metadata": {
+   "prompt_token_count": 2201,
+   "candidates_token_count": 1152,
+   "total_token_count": 7082,
+   "cached_content_token_count": 0
+  }
+ }
+}

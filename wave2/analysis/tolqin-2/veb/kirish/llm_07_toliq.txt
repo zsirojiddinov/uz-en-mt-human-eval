@@ -1,0 +1,42 @@
+Translate each numbered Uzbek sentence into English. Keep the numbering. Output only the numbered translations, one per line.
+
+1. Chatem orollarida boshqa bir qabila – Yangi Zelandiyadan ko'chib ketgan Maori qabilasi ham bor edi.
+2. Avtoulovning o'zi o'sha kuni hodisa joyidan taxminan soat 12:00 GMT da olib ketilgan.
+3. Kichik Pike 2008-yilgi Singapur gran-prisida Fernando Alonso uchun xavfsizlik mashinasini olib chiqishda erta pit-stopdan keyin halokatga uchradi.
+4. Ijarachilar ular bilan yuz bergan narsalarni baham ko'ra boshlaganlarida ishtirok etgan oilalarning ko'pchiligi OHA vakili Karolin Uilson ularning garov pullarini og'irlaganini va shahardan chiqib ketganini angladilar.
+5. Angliyalik biolog Robert Huk daraxt po'kagidagi kichkina kvadratchalarni mikroskop orqali kuzatdi.
+6. Lekin bu yechimi qiyin bo'lgan muammo va biz foydali termoyadroviy reaktorlarni ko'rishimiz uchun ko'p yillar bor.
+7. Televizion xabarlarda zavoddan chiqayotgan oq tutun tasvirlangan.
+8. U nemis alifbosiga asoslangan hamda birgina "Õ/õ" belgisi qo'shilgan edi.
+9. Algoritm o'rtacha qiymatni topadi
+10. Bayonotda qayd etilishicha, Turkiya, shunigdek, Yevropa davlatlari yurtiga qaytarishdan bosh tortgan ISHID jangarilarini qo'riqlashni o'z zimmasiga oladi.
+11. Bulutlar haqiqatan ham portlash sodir bo'lgan yoki yo'ligi haqidagi ehtimoliy chalkashlikni keltirib chiqardi.
+12. Siyosiy nutq insoniyat tarixida doimo muhim o'rin tutgan.
+13. Asinxron aloqa mulohaza hamda boshqalarga reaksiya bildirish uchun vaqtni beradi.
+14. Ogoh bo'ling: bu yerdagi kichik shahar barlari shtatlik bo'lmagan tashrif buyuruvchilar aylanishi uchun har doim ham yaxshi joylar emas.
+15. Arxipelag va ko'llarda sizga yaxta shart bo'lmaydi.
+16. Machu-Pikchuning shimoliy uchidan tepaga ko'tarilgan mazkur tik tog' ko'p hollarda vayronalarning ko'plab suratlariga fon bo'ladi.
+17. Aksar holatlarda baliqlar suvdagi toksik moddalarning yuqori darajasi sababli o'ladi.
+18. Vaqt ming yillar mobayida diniy, falsafiy hamda allomalar tarafidan tadqiq qilingan.
+19. Boshqa olimlarning ta'kidlashicha, ushbu o'simliklar o'ta zaharli, shu sababli, bugungi kunda yalqov va to'tiqush (dinozavrlarning avlodi) kabi boshqa hayvonlar zaharli barglar yoki meva bilan oziqlana olsa-da, ularni biror bir dinozavr yegani ehtimoldan uzoq.
+20. Jinoyat va chet elliklarga yomon niyatda bo'lish Grenlandiyada umuman mavjud emas. Hatto shaharlarda ham "qo'pol hududlar" yo'q.
+21. Lotin tilidan diniy marosimlarda tez-tez foydalanilsa, italyan tili davlat ishida ishlaydigan insonlarning ko'pchiligi tomonidan foydalaniladigan kundalik til hisoblanadi.
+22. Ushbu bolalar odatda ko'p muammolarga duch keladi, chunki ular o'zlarining ongini odatiy usullar bilan rag'batlantira olmaganliklari uchun rag'batlantirish maqsadida "qaltis xatti-harakatlarda ishtirok etishadi, janjallarga kirishishadi va hokimiyatga qarshi chiqishadi".
+23. Loslar (elk deb ham ataladi) tabiatan tajovuzkor emas, ammo biror xatar sezsa, o'zini himoya qiladi.
+24. Ariasdagi test virusning yengil shakliga ijobiy natija berdi, dedi prezident vaziri Rodrigo Arias.
+25. Qish paytida kross yugurish, tananing yuqori qismi uchun gimnastik mashqlar bilan birgalikda, yugurish mavsumi uchun eng yaxshi tayyorgarlikdir.
+26. Shuningdek, "Bugun ayrim maktab yoshidagi bolalar bemor bilan aloqada bo'lgani aniqlanganidan xabar topdik", — dedi gubernator.
+27. ADD boshqa tengdoshlar bilan munosabatlarga ta'sir qiladi, chunki boshqa bolalar ularning o'zlarini nega bunday tutishini yoki nega bunday talaffuz qilishini yoxud ularning yetuklik darajasi boshqacha ekanini tushuna olmaydilar.
+28. Ular buni "foton" deb ataluvchi mayda yorug'lik zarrasini chiqarish orqali amalga oshirishdi.
+29. Ushbu holatda, oldingi tadbirkorlik xatti-harakati holatlari hamda erishilgan yutuqlarni yodga olish insonlarga yangi o'zgarishlar va mahalliy cherkovlar uchun yangi yo'nalishlarga ochiq bo'lishiga yordam berdi.
+30. U "biroq, ulardan imkoniyatlari, javobgarligi, rivojlanish bosqichidan tashqari bo'lgan majburiyatlarni zimmasiga olish so'ralmasligi kerak", — deya qo'shimcha qildi.
+31. Suv yuzasining tarangligi tufayli po'lat igna uning ustida suzadi.
+32. Har yili oktyabr atrofida qariyb 1,5 million o'txo'r hayvonlar yomg'ir uchun shimoliy tepaliklardan Mara daryosini kechib o'tib, janubiy tekisliklar tomon safar qiladi.
+33. Nonushta mintaqaning mavsumiy lazzatli shirinliklarini yoxud mezbonning maxsus ovqatini o'z ichiga olishi mumkin.
+34. U tajribasiz buklovchilarga yoxud harakatlanish ko'nikmalari cheklanganlarga ko'mak berish maqsadida 1970-yillarda Jon Smit tomonidan ishlab chiqilgan.
+35. E'tiqod qiluvchi ilohiy borliq/ma'bud yoki ma'budlarga bo'lgan bevosita tajriba, ichki his yoki tushunchani izlaydi.
+36. o'yin o't ustida o'ynaladi va chuqurcha atrofidagi o'tlar qisqaroq qilib o'rilib, yashil deb nom beriladi.
+37. Ioning tortish kuchi meni qanday tortgan bo'lar edi? Agar siz Ioning sathida tursangiz, yerdagiga nisbatan kamroq tosh bosgan bo'lar edingiz.
+38. Bu muammo 1-yanvar kuni o'nlab mahalliy rezidentlarning Obanazava pochta idorasiga an'anaviy va doimiy Yangi yil otkritkalarini olmaganidan shikoyat qilishi bilan boshlandi.
+39. Bu vakillar Pokiston Konstitutsiyasining 247-moddasiga ko'ra hukumat va adliya xizmatlarning ko'rsatilishiga mas'uldirlar.
+40. Kuk orollarida birorta ham shahar yo'q, biroq ular 15 ta turli orollardan tashkil topgan. Asosiylari Rarotonga va Aitutaki orollaridir.

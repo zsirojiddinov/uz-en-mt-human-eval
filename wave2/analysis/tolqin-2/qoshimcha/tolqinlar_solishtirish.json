@@ -1,0 +1,1087 @@
+{
+ "baho": {
+  "iyul B": {
+   "gemini": {
+    "mazmun": 4.125,
+    "ravonlik": 4.152777777777778
+   },
+   "s1": {
+    "mazmun": 3.5972222222222223,
+    "ravonlik": 3.6805555555555554
+   },
+   "s2": {
+    "mazmun": 3.5555555555555554,
+    "ravonlik": 3.5833333333333335
+   }
+  },
+  "iyul C": {
+   "gemini": {
+    "mazmun": 4.986111111111111,
+    "ravonlik": 5.0
+   },
+   "s1": {
+    "mazmun": 2.4166666666666665,
+    "ravonlik": 1.6388888888888888
+   },
+   "s2": {
+    "mazmun": 2.4166666666666665,
+    "ravonlik": 1.6388888888888888
+   }
+  },
+  "okt B": {
+   "Gemini": {
+    "mazmun": 4.084507042253521,
+    "ravonlik": 3.9295774647887325
+   },
+   "KKT": {
+    "mazmun": 1.8472222222222223,
+    "ravonlik": 1.7222222222222223
+   }
+  },
+  "okt C": {
+   "Gemini": {
+    "mazmun": 4.319444444444445,
+    "ravonlik": 4.194444444444445
+   },
+   "KKT": {
+    "mazmun": 4.083333333333333,
+    "ravonlik": 3.9305555555555554
+   }
+  },
+  "okt D": {
+   "Gemini": {
+    "mazmun": 4.819444444444445,
+    "ravonlik": 4.972222222222222
+   },
+   "KKT": {
+    "mazmun": 4.444444444444445,
+    "ravonlik": 4.694444444444445
+   }
+  },
+  "okt E": {
+   "Gemini": {
+    "mazmun": 4.916666666666667,
+    "ravonlik": 4.902777777777778
+   },
+   "KKT": {
+    "mazmun": 2.5,
+    "ravonlik": 1.7638888888888888
+   }
+  }
+ },
+ "baholovchilar": {
+  "iyul B": {
+   "daraja": "qayd yo'q",
+   "kasb": "qayd yo'q",
+   "qaytish": "qayd yo'q (returns/rater_B_filled.xlsx: docProps modified 2026-07-09T13:15:54Z; omborga 2026-07-14, 0ab3ee2)",
+   "tarqatish": "qayd yo'q (rater_B.xlsx yaratilgan 2026-07-02, b37a4da)"
+  },
+  "iyul C": {
+   "daraja": "qayd yo'q",
+   "kasb": "qayd yo'q",
+   "qaytish": "2026-07-06 qabul (rw1_prereg_analysis_plan.md, 2026-07-07 tuzatishi); docProps modified 2026-07-04T16:41:34Z; omborga 2026-07-07, d54be48",
+   "tarqatish": "qayd yo'q (rater_C.xlsx yaratilgan 2026-07-02, b37a4da)"
+  },
+  "okt B": {
+   "daraja": "qayd yo'q",
+   "kasb": "qayd yo'q",
+   "qaytish": "kelgan fayl mtime 2026-10-26T17:17:28+05:00; qabul 2026-10-26T19:42 (qabul_jurnal.csv)",
+   "tarqatish": "2026-10-21"
+  },
+  "okt C": {
+   "daraja": "qayd yo'q",
+   "kasb": "qayd yo'q",
+   "qaytish": "kelgan fayl mtime 2026-10-21T17:37:58+05:00; qabul 2026-10-26T19:42",
+   "tarqatish": "2026-10-20..21 (aniq kun qayd etilmagan)"
+  },
+  "okt D": {
+   "daraja": "qayd yo'q",
+   "kasb": "qayd yo'q",
+   "qaytish": "kelgan fayl mtime 2026-10-26T19:18:20+05:00; qabul 2026-10-26T19:42",
+   "tarqatish": "2026-10-21"
+  },
+  "okt E": {
+   "daraja": "qayd yo'q",
+   "kasb": "qayd yo'q",
+   "qaytish": "kelgan fayl mtime 2026-10-22T14:12:04+05:00; qabul.py RAD 2026-10-26T19:42 (chiqarilgan, tuzatish 9/10 (d))",
+   "tarqatish": "2026-10-20..21 (aniq kun qayd etilmagan)"
+  }
+ },
+ "baholovchilar_izoh": "iyul va oktyabr baholovchilari BOSHQA odamlar (tadqiqotchi, 2026-10-28)",
+ "baholovchilar_izohlar": [
+  "Ombordagi yagona daraja yozuvi: iyul A-rol o'rnini bosgan baholovchi — «ingliz tili o'qituvchisi, IELTS 7.0», QISMAN 127/216, asosiy tahlilga kirmagan (rw1_prereg_analysis_plan.md, 2026-07-11 tuzatishi; rw1_report.md).",
+  "«7.5 / 7.0» yozilgan README omborda (asosiy va kkt_tolqin2, git tarixi bilan) topilmadi.",
+  "prereg §2.5: «4 to'liq (B, C — 1-to'lqindan; D, E — yangi; kamida biri ingliz tili o'qituvchisi; IELTS ≥ 7,0)» — bu talab, yozuv emas; tadqiqotchi 2026-10-28: iyul va oktyabr baholovchilari boshqa odamlar — prereg matni bilan mos emas, bu yerda tuzatilmaydi."
+ ],
+ "iyul_meta": {
+  "gemini": {
+   "model": "gemini-2.5-flash",
+   "prompt": "neutral: Translate ... Output ONLY the translation",
+   "system": "gemini",
+   "temperature": 0.0
+  },
+  "s1": {
+   "commit": "e099ff4",
+   "system": "kkt_sentence_translator_v2"
+  },
+  "s2": {
+   "commit": "ebb9e1f",
+   "system": "kkt_sentence_translator_v2"
+  }
+ },
+ "kelishuv": {
+  "iyul": {
+   "KKT (s1+s2)": {
+    "mazmun": {
+     "juftlik": {
+      "iyul B–iyul C": {
+       "alfa": 0.1767322969271211,
+       "n": 144,
+       "spearman": 0.5289639310503493
+      }
+     },
+     "sd": {
+      "iyul B": 0.8129153734067204,
+      "iyul C": 1.3307266185559437
+     }
+    },
+    "n": 144,
+    "ravonlik": {
+     "juftlik": {
+      "iyul B–iyul C": {
+       "alfa": -0.21477225227992136,
+       "n": 144,
+       "spearman": 0.5122483971880839
+      }
+     },
+     "sd": {
+      "iyul B": 0.7335845003377605,
+      "iyul C": 1.3260798069199997
+     }
+    }
+   },
+   "gemini": {
+    "mazmun": {
+     "juftlik": {
+      "iyul B–iyul C": {
+       "alfa": -0.4390920851219593,
+       "n": 72,
+       "spearman": 0.030934094669114964
+      }
+     },
+     "sd": {
+      "iyul B": 0.7441904624788229,
+      "iyul C": 0.11702985796078279
+     }
+    },
+    "n": 72,
+    "ravonlik": {
+     "juftlik": {
+      "iyul B–iyul C": {
+       "alfa": -0.4737614873434959,
+       "n": 72,
+       "spearman": NaN
+      }
+     },
+     "sd": {
+      "iyul B": 0.7003912046179427,
+      "iyul C": 0.0
+     }
+    }
+   },
+   "hammasi": {
+    "mazmun": {
+     "juftlik": {
+      "iyul B–iyul C": {
+       "alfa": 0.4506793076184722,
+       "n": 216,
+       "spearman": 0.5300487567346696
+      }
+     },
+     "sd": {
+      "iyul B": 0.8318917572302292,
+      "iyul C": 1.6285705207374626
+     }
+    },
+    "n": 216,
+    "ravonlik": {
+     "juftlik": {
+      "iyul B–iyul C": {
+       "alfa": 0.31719610445514357,
+       "n": 216,
+       "spearman": 0.4868043948895346
+      }
+     },
+     "sd": {
+      "iyul B": 0.7632573146685597,
+      "iyul C": 1.9190582681326647
+     }
+    }
+   }
+  },
+  "okt B,C,D": {
+   "Gemini": {
+    "mazmun": {
+     "guruh_alfa": 0.12907118094161985,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.293708367841623,
+       "n": 71,
+       "spearman": 0.3250279422309938
+      },
+      "okt B–okt D": {
+       "alfa": -0.008075874602453403,
+       "n": 71,
+       "spearman": 0.19122438286406687
+      },
+      "okt C–okt D": {
+       "alfa": -0.030463938763119147,
+       "n": 72,
+       "spearman": 0.306005094860936
+      }
+     },
+     "sd": {
+      "okt B": 0.9893301030330109,
+      "okt C": 0.46626139809984746,
+      "okt D": 0.4192052297996268
+     }
+    },
+    "n": 72,
+    "ravonlik": {
+     "guruh_alfa": -0.09711388761576756,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.19941852334671217,
+       "n": 71,
+       "spearman": 0.2310551338068929
+      },
+      "okt B–okt D": {
+       "alfa": -0.3216393138533111,
+       "n": 71,
+       "spearman": 0.09612870055967329
+      },
+      "okt C–okt D": {
+       "alfa": -0.5671533526036876,
+       "n": 72,
+       "spearman": 0.07891029522416397
+      }
+     },
+     "sd": {
+      "okt B": 1.1047138902043705,
+      "okt C": 0.42943402315945284,
+      "okt D": 0.1643355495305448
+     }
+    }
+   },
+   "KKT": {
+    "mazmun": {
+     "guruh_alfa": 0.06209720060429191,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": -0.10797469904867274,
+       "n": 72,
+       "spearman": 0.6511570710596595
+      },
+      "okt B–okt D": {
+       "alfa": -0.3651343657131252,
+       "n": 72,
+       "spearman": 0.3732867195515438
+      },
+      "okt C–okt D": {
+       "alfa": 0.5135617212533148,
+       "n": 72,
+       "spearman": 0.5764547679887204
+      }
+     },
+     "sd": {
+      "okt B": 1.3607567565943899,
+      "okt C": 0.9537935951882992,
+      "okt D": 0.6211299937499419
+     }
+    },
+    "n": 72,
+    "ravonlik": {
+     "guruh_alfa": -0.14113916794647885,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": -0.20747295898583484,
+       "n": 72,
+       "spearman": 0.5876346991397555
+      },
+      "okt B–okt D": {
+       "alfa": -0.6142528209434013,
+       "n": 72,
+       "spearman": 0.19178250652646558
+      },
+      "okt C–okt D": {
+       "alfa": -0.07650483634028427,
+       "n": 72,
+       "spearman": 0.32182101901335763
+      }
+     },
+     "sd": {
+      "okt B": 1.2272623352430294,
+      "okt C": 0.9178233443087095,
+      "okt D": 0.6155144390600092
+     }
+    }
+   },
+   "hammasi": {
+    "mazmun": {
+     "guruh_alfa": 0.12222186906589394,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.20937470378094103,
+       "n": 358,
+       "spearman": 0.32212227614926897
+      },
+      "okt B–okt D": {
+       "alfa": -0.068631304350103,
+       "n": 358,
+       "spearman": 0.35744441920861264
+      },
+      "okt C–okt D": {
+       "alfa": 0.057459987924441513,
+       "n": 360,
+       "spearman": 0.33751811399576115
+      }
+     },
+     "sd": {
+      "okt B": 1.3958209841678586,
+      "okt C": 0.6268429618057714,
+      "okt D": 0.5096294950473552
+     }
+    },
+    "n": 360,
+    "ravonlik": {
+     "guruh_alfa": -0.0706907162856425,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.1865019209935077,
+       "n": 358,
+       "spearman": 0.29364880056344356
+      },
+      "okt B–okt D": {
+       "alfa": -0.34121701714125874,
+       "n": 357,
+       "spearman": 0.25396589155704635
+      },
+      "okt C–okt D": {
+       "alfa": -0.43717294122728156,
+       "n": 359,
+       "spearman": 0.18836092075310462
+      }
+     },
+     "sd": {
+      "okt B": 1.4360394690821177,
+      "okt C": 0.5953523699830598,
+      "okt D": 0.3351427574973831
+     }
+    }
+   },
+   "neyron": {
+    "mazmun": {
+     "guruh_alfa": 0.053341743434575206,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.21872383677974216,
+       "n": 286,
+       "spearman": 0.262348144379786
+      },
+      "okt B–okt D": {
+       "alfa": -0.15743497979533827,
+       "n": 286,
+       "spearman": 0.18054483513234484
+      },
+      "okt C–okt D": {
+       "alfa": -0.10099589562351685,
+       "n": 288,
+       "spearman": 0.2488350274023942
+      }
+     },
+     "sd": {
+      "okt B": 1.0558109025481093,
+      "okt C": 0.5038432540893637,
+      "okt D": 0.44612313184302815
+     }
+    },
+    "n": 288,
+    "ravonlik": {
+     "guruh_alfa": -0.12564670812074552,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.17937571689371745,
+       "n": 286,
+       "spearman": 0.21638984414409468
+      },
+      "okt B–okt D": {
+       "alfa": -0.40074819181141974,
+       "n": 285,
+       "spearman": 0.07107720509015915
+      },
+      "okt C–okt D": {
+       "alfa": -0.5646261595221906,
+       "n": 287,
+       "spearman": 0.08022191645684708
+      }
+     },
+     "sd": {
+      "okt B": 1.1444681409028346,
+      "okt C": 0.46862138153139765,
+      "okt D": 0.17428570035400434
+     }
+    }
+   }
+  },
+  "okt B,C,D,E": {
+   "Gemini": {
+    "mazmun": {
+     "guruh_alfa": 0.08350221830392279,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.293708367841623,
+       "n": 71,
+       "spearman": 0.3250279422309938
+      },
+      "okt B–okt D": {
+       "alfa": -0.008075874602453403,
+       "n": 71,
+       "spearman": 0.19122438286406687
+      },
+      "okt B–okt E": {
+       "alfa": -0.15788459019919343,
+       "n": 71,
+       "spearman": 0.2995967139072704
+      },
+      "okt C–okt D": {
+       "alfa": -0.030463938763119147,
+       "n": 72,
+       "spearman": 0.306005094860936
+      },
+      "okt C–okt E": {
+       "alfa": -0.2756523312078867,
+       "n": 72,
+       "spearman": 0.18708264339361202
+      },
+      "okt D–okt E": {
+       "alfa": 0.14683693563315348,
+       "n": 72,
+       "spearman": 0.1726971349730756
+      }
+     },
+     "sd": {
+      "okt B": 0.9893301030330109,
+      "okt C": 0.46626139809984746,
+      "okt D": 0.4192052297996268,
+      "okt E": 0.32274861218395134
+     }
+    },
+    "n": 72,
+    "ravonlik": {
+     "guruh_alfa": -0.05939201831265861,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.19941852334671217,
+       "n": 71,
+       "spearman": 0.2310551338068929
+      },
+      "okt B–okt D": {
+       "alfa": -0.3216393138533111,
+       "n": 71,
+       "spearman": 0.09612870055967329
+      },
+      "okt B–okt E": {
+       "alfa": -0.17247736354122334,
+       "n": 71,
+       "spearman": 0.21340942674304006
+      },
+      "okt C–okt D": {
+       "alfa": -0.5671533526036876,
+       "n": 72,
+       "spearman": 0.07891029522416397
+      },
+      "okt C–okt E": {
+       "alfa": -0.3996726037379972,
+       "n": 72,
+       "spearman": 0.1532004468576208
+      },
+      "okt D–okt E": {
+       "alfa": -0.059259259259259345,
+       "n": 72,
+       "spearman": -0.05547001962252292
+      }
+     },
+     "sd": {
+      "okt B": 1.1047138902043705,
+      "okt C": 0.42943402315945284,
+      "okt D": 0.1643355495305448,
+      "okt E": 0.296260125106966
+     }
+    }
+   },
+   "KKT": {
+    "mazmun": {
+     "guruh_alfa": 0.15093403338446076,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": -0.10797469904867274,
+       "n": 72,
+       "spearman": 0.6511570710596595
+      },
+      "okt B–okt D": {
+       "alfa": -0.3651343657131252,
+       "n": 72,
+       "spearman": 0.3732867195515438
+      },
+      "okt B–okt E": {
+       "alfa": 0.37629453288824366,
+       "n": 72,
+       "spearman": 0.6441268050933793
+      },
+      "okt C–okt D": {
+       "alfa": 0.5135617212533148,
+       "n": 72,
+       "spearman": 0.5764547679887204
+      },
+      "okt C–okt E": {
+       "alfa": 0.07234024619184731,
+       "n": 72,
+       "spearman": 0.5879152128576556
+      },
+      "okt D–okt E": {
+       "alfa": -0.19705648587906954,
+       "n": 72,
+       "spearman": 0.5083284442812542
+      }
+     },
+     "sd": {
+      "okt B": 1.3607567565943899,
+      "okt C": 0.9537935951882992,
+      "okt D": 0.6211299937499419,
+      "okt E": 1.224744871391589
+     }
+    },
+    "n": 72,
+    "ravonlik": {
+     "guruh_alfa": 0.010973330819570859,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": -0.20747295898583484,
+       "n": 72,
+       "spearman": 0.5876346991397555
+      },
+      "okt B–okt D": {
+       "alfa": -0.6142528209434013,
+       "n": 72,
+       "spearman": 0.19178250652646558
+      },
+      "okt B–okt E": {
+       "alfa": 0.6337788501504883,
+       "n": 72,
+       "spearman": 0.6325960101000669
+      },
+      "okt C–okt D": {
+       "alfa": -0.07650483634028427,
+       "n": 72,
+       "spearman": 0.32182101901335763
+      },
+      "okt C–okt E": {
+       "alfa": -0.08483611814648095,
+       "n": 72,
+       "spearman": 0.652575262754113
+      },
+      "okt D–okt E": {
+       "alfa": -0.5184229421716262,
+       "n": 72,
+       "spearman": 0.38819007521503324
+      }
+     },
+     "sd": {
+      "okt B": 1.2272623352430294,
+      "okt C": 0.9178233443087095,
+      "okt D": 0.6155144390600092,
+      "okt E": 1.2855290259434864
+     }
+    }
+   },
+   "hammasi": {
+    "mazmun": {
+     "guruh_alfa": 0.20709223059755255,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.20937470378094103,
+       "n": 358,
+       "spearman": 0.32212227614926897
+      },
+      "okt B–okt D": {
+       "alfa": -0.068631304350103,
+       "n": 358,
+       "spearman": 0.35744441920861264
+      },
+      "okt B–okt E": {
+       "alfa": 0.3046233641919319,
+       "n": 358,
+       "spearman": 0.5640117600032513
+      },
+      "okt C–okt D": {
+       "alfa": 0.057459987924441513,
+       "n": 360,
+       "spearman": 0.33751811399576115
+      },
+      "okt C–okt E": {
+       "alfa": 0.08813315685248602,
+       "n": 360,
+       "spearman": 0.19263590439685424
+      },
+      "okt D–okt E": {
+       "alfa": 0.35761927336389243,
+       "n": 360,
+       "spearman": 0.3881503065036364
+      }
+     },
+     "sd": {
+      "okt B": 1.3958209841678586,
+      "okt C": 0.6268429618057714,
+      "okt D": 0.5096294950473552,
+      "okt E": 1.1581401384318348
+     }
+    },
+    "n": 360,
+    "ravonlik": {
+     "guruh_alfa": 0.09048077884498196,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.1865019209935077,
+       "n": 358,
+       "spearman": 0.29364880056344356
+      },
+      "okt B–okt D": {
+       "alfa": -0.34121701714125874,
+       "n": 357,
+       "spearman": 0.25396589155704635
+      },
+      "okt B–okt E": {
+       "alfa": 0.3208345813169524,
+       "n": 358,
+       "spearman": 0.5792960431182232
+      },
+      "okt C–okt D": {
+       "alfa": -0.43717294122728156,
+       "n": 359,
+       "spearman": 0.18836092075310462
+      },
+      "okt C–okt E": {
+       "alfa": 0.026348828768824828,
+       "n": 360,
+       "spearman": 0.22124413573892723
+      },
+      "okt D–okt E": {
+       "alfa": 0.1521322896439955,
+       "n": 359,
+       "spearman": 0.3104755890870448
+      }
+     },
+     "sd": {
+      "okt B": 1.4360394690821177,
+      "okt C": 0.5953523699830598,
+      "okt D": 0.3351427574973831,
+      "okt E": 1.410211327303225
+     }
+    }
+   },
+   "neyron": {
+    "mazmun": {
+     "guruh_alfa": 0.03201091570444203,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.21872383677974216,
+       "n": 286,
+       "spearman": 0.262348144379786
+      },
+      "okt B–okt D": {
+       "alfa": -0.15743497979533827,
+       "n": 286,
+       "spearman": 0.18054483513234484
+      },
+      "okt B–okt E": {
+       "alfa": -0.20256661090802197,
+       "n": 286,
+       "spearman": 0.18308392213099306
+      },
+      "okt C–okt D": {
+       "alfa": -0.10099589562351685,
+       "n": 288,
+       "spearman": 0.2488350274023942
+      },
+      "okt C–okt E": {
+       "alfa": -0.24807161594148952,
+       "n": 288,
+       "spearman": 0.09079808262896795
+      },
+      "okt D–okt E": {
+       "alfa": 0.12236780093983934,
+       "n": 288,
+       "spearman": 0.12369920588182169
+      }
+     },
+     "sd": {
+      "okt B": 1.0558109025481093,
+      "okt C": 0.5038432540893637,
+      "okt D": 0.44612313184302815,
+      "okt E": 0.44323566088509503
+     }
+    },
+    "n": 288,
+    "ravonlik": {
+     "guruh_alfa": -0.0855696523836984,
+     "juftlik": {
+      "okt B–okt C": {
+       "alfa": 0.17937571689371745,
+       "n": 286,
+       "spearman": 0.21638984414409468
+      },
+      "okt B–okt D": {
+       "alfa": -0.40074819181141974,
+       "n": 285,
+       "spearman": 0.07107720509015915
+      },
+      "okt B–okt E": {
+       "alfa": -0.2551331974301756,
+       "n": 286,
+       "spearman": 0.1753738644003244
+      },
+      "okt C–okt D": {
+       "alfa": -0.5646261595221906,
+       "n": 287,
+       "spearman": 0.08022191645684708
+      },
+      "okt C–okt E": {
+       "alfa": -0.4196217102018811,
+       "n": 288,
+       "spearman": 0.09053433795903953
+      },
+      "okt D–okt E": {
+       "alfa": -0.009958772822383999,
+       "n": 287,
+       "spearman": 0.0075085908981605805
+      }
+     },
+     "sd": {
+      "okt B": 1.1444681409028346,
+      "okt C": 0.46862138153139765,
+      "okt D": 0.17428570035400434,
+      "okt E": 0.3458305443885755
+     }
+    }
+   }
+  }
+ },
+ "kirish_sha256": {
+  "iyul/blind_key.json": "fc12a95ca1dcc62d635dafe3b7c9f19757ce28a9fdaddd2d9c9b73784a3a5b6c",
+  "iyul/returns/rater_B_filled.xlsx": "ce785eeb8ded38c94c1149b477d4e4e1ea186feafe3e01642b7d1933062cda31",
+  "iyul/returns/rater_C_filled.xlsx": "8c03e9d4d50941e3dba46a15fd889ad0f4a2b2b7d94af3d2ddc05542cd00ee5d",
+  "iyul/s1_outputs.json": "f7b0420baafaa0e3149801d2cd8bb8d3131377fd5393d3dba636d51908f18ccf",
+  "iyul/s2_outputs.json": "5f2224f06b420213768c96f3ff4eccf49b03dbedf3ec085acbb34c8248835d1d",
+  "iyul/s3_gemini_outputs.json": "02b5cef4da50b692cc3e64122e704ae8b11e8e58dd92fb91e67f0e0545201b2b",
+  "iyul/sentences.json": "29cf6da34dbfa207a234bc08c25bd34b4171f5f5c1db9aca407c117140abf0ce"
+ },
+ "kkt_aynan": {
+  "flores": {
+   "n": 36,
+   "s1_okt_KKT": 0,
+   "s2_okt_KKT": 0
+  },
+  "gold": {
+   "n": 12,
+   "s1_okt_KKT": 11,
+   "s2_okt_KKT": 11
+  },
+  "hammasi": {
+   "n": 72,
+   "s1_okt_KKT": 11,
+   "s2_okt_KKT": 11
+  },
+  "train": {
+   "n": 24,
+   "s1_okt_KKT": 0,
+   "s2_okt_KKT": 0
+  }
+ },
+ "maqom": "natijadan keyingi, qo'shimcha, prereg'da yo'q; tadqiqotchi so'rovi 2026-10-28",
+ "mt": {
+  "flores": {
+   "iyul gemini": {
+    "bleu": 34.30037717079217,
+    "chrf2": 62.717196590869285,
+    "gap_bleu_ortacha_exp": 29.473218511266364,
+    "n": 36
+   },
+   "iyul s1 (KKT)": {
+    "bleu": 1.1840624950603145,
+    "chrf2": 36.50703733930263,
+    "gap_bleu_ortacha_exp": 3.913525093752997,
+    "n": 36
+   },
+   "okt Gemini": {
+    "bleu": 40.370926776531235,
+    "chrf2": 65.86841384050832,
+    "gap_bleu_ortacha_exp": 34.14202567808729,
+    "n": 36
+   },
+   "okt KKT": {
+    "bleu": 1.5991899787889943,
+    "chrf2": 39.65075512529217,
+    "gap_bleu_ortacha_exp": 4.921457796274801,
+    "n": 36
+   }
+  },
+  "gold": {
+   "iyul gemini": {
+    "bleu": 65.8270892067279,
+    "chrf2": 89.90698758800197,
+    "gap_bleu_ortacha_exp": 68.33202411101861,
+    "n": 12
+   },
+   "iyul s1 (KKT)": {
+    "bleu": 50.06999877139851,
+    "chrf2": 80.35961041874468,
+    "gap_bleu_ortacha_exp": 50.84538119922075,
+    "n": 12
+   },
+   "okt Gemini": {
+    "bleu": 52.28498882615261,
+    "chrf2": 83.89695898909804,
+    "gap_bleu_ortacha_exp": 52.3719247052301,
+    "n": 12
+   },
+   "okt KKT": {
+    "bleu": 50.06999877139851,
+    "chrf2": 80.90032910348697,
+    "gap_bleu_ortacha_exp": 50.84538119922075,
+    "n": 12
+   }
+  },
+  "hammasi": {
+   "iyul gemini": {
+    "bleu": 38.98546639537656,
+    "chrf2": 68.37543795211442,
+    "gap_bleu_ortacha_exp": 40.988869364629636,
+    "n": 72
+   },
+   "iyul s1 (KKT)": {
+    "bleu": 5.872963575873308,
+    "chrf2": 43.416234123678294,
+    "gap_bleu_ortacha_exp": 13.257565616742902,
+    "n": 72
+   },
+   "okt Gemini": {
+    "bleu": 44.97993562821502,
+    "chrf2": 70.56828168040732,
+    "gap_bleu_ortacha_exp": 42.41685297485938,
+    "n": 72
+   },
+   "okt KKT": {
+    "bleu": 6.5192883865680855,
+    "chrf2": 45.99203389281121,
+    "gap_bleu_ortacha_exp": 13.942981795343982,
+    "n": 72
+   }
+  },
+  "train": {
+   "iyul gemini": {
+    "bleu": 43.115959091260514,
+    "chrf2": 73.36581727470481,
+    "gap_bleu_ortacha_exp": 44.59076827148005,
+    "n": 24
+   },
+   "iyul s1 (KKT)": {
+    "bleu": 6.428895933859918,
+    "chrf2": 48.537841488093996,
+    "gap_bleu_ortacha_exp": 8.47971860998883,
+    "n": 24
+   },
+   "okt Gemini": {
+    "bleu": 51.28272101117945,
+    "chrf2": 75.27452093526212,
+    "gap_bleu_ortacha_exp": 49.85155805483216,
+    "n": 24
+   },
+   "okt KKT": {
+    "bleu": 6.767669048716307,
+    "chrf2": 50.564918188325834,
+    "gap_bleu_ortacha_exp": 9.024068092009374,
+    "n": 24
+   }
+  }
+ },
+ "tarqalish": {
+  "iyul B": {
+   "mazmun": {
+    "n": 216,
+    "ortacha": 3.759259259259259,
+    "sd": 0.8318917572302292,
+    "soni": {
+     "1": 0,
+     "2": 10,
+     "3": 77,
+     "4": 84,
+     "5": 45
+    },
+    "yoq": 0
+   },
+   "ravonlik": {
+    "n": 216,
+    "ortacha": 3.8055555555555554,
+    "sd": 0.7632573146685597,
+    "soni": {
+     "1": 0,
+     "2": 6,
+     "3": 70,
+     "4": 100,
+     "5": 40
+    },
+    "yoq": 0
+   }
+  },
+  "iyul C": {
+   "mazmun": {
+    "n": 216,
+    "ortacha": 3.2731481481481484,
+    "sd": 1.6285705207374626,
+    "soni": {
+     "1": 44,
+     "2": 44,
+     "3": 26,
+     "4": 13,
+     "5": 89
+    },
+    "yoq": 0
+   },
+   "ravonlik": {
+    "n": 216,
+    "ortacha": 2.759259259259259,
+    "sd": 1.9190582681326647,
+    "soni": {
+     "1": 110,
+     "2": 12,
+     "3": 2,
+     "4": 4,
+     "5": 88
+    },
+    "yoq": 0
+   }
+  },
+  "okt B": {
+   "mazmun": {
+    "n": 360,
+    "ortacha": 3.4972067039106145,
+    "sd": 1.3958209841678588,
+    "soni": {
+     "1": 61,
+     "2": 17,
+     "3": 67,
+     "4": 109,
+     "5": 104
+    },
+    "yoq": 2
+   },
+   "ravonlik": {
+    "n": 360,
+    "ortacha": 3.405027932960894,
+    "sd": 1.4360394690821172,
+    "soni": {
+     "1": 66,
+     "2": 25,
+     "3": 68,
+     "4": 96,
+     "5": 103
+    },
+    "yoq": 2
+   }
+  },
+  "okt C": {
+   "mazmun": {
+    "n": 360,
+    "ortacha": 4.261111111111111,
+    "sd": 0.6268429618057706,
+    "soni": {
+     "1": 4,
+     "2": 4,
+     "3": 0,
+     "4": 238,
+     "5": 114
+    },
+    "yoq": 0
+   },
+   "ravonlik": {
+    "n": 360,
+    "ortacha": 4.133333333333334,
+    "sd": 0.5953523699830606,
+    "soni": {
+     "1": 4,
+     "2": 5,
+     "3": 4,
+     "4": 273,
+     "5": 74
+    },
+    "yoq": 0
+   }
+  },
+  "okt D": {
+   "mazmun": {
+    "n": 360,
+    "ortacha": 4.75,
+    "sd": 0.5096294950473552,
+    "soni": {
+     "1": 0,
+     "2": 1,
+     "3": 10,
+     "4": 67,
+     "5": 282
+    },
+    "yoq": 0
+   },
+   "ravonlik": {
+    "n": 360,
+    "ortacha": 4.913649025069638,
+    "sd": 0.3351427574973819,
+    "soni": {
+     "1": 0,
+     "2": 0,
+     "3": 6,
+     "4": 19,
+     "5": 334
+    },
+    "yoq": 1
+   }
+  },
+  "okt E": {
+   "mazmun": {
+    "n": 360,
+    "ortacha": 4.3805555555555555,
+    "sd": 1.1581401384318342,
+    "soni": {
+     "1": 12,
+     "2": 37,
+     "3": 16,
+     "4": 32,
+     "5": 263
+    },
+    "yoq": 0
+   },
+   "ravonlik": {
+    "n": 360,
+    "ortacha": 4.263888888888889,
+    "sd": 1.4102113273032246,
+    "soni": {
+     "1": 46,
+     "2": 14,
+     "3": 5,
+     "4": 29,
+     "5": 266
+    },
+    "yoq": 0
+   }
+  }
+ }
+}

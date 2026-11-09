@@ -1,0 +1,469 @@
+{
+ "1_T1_sezgirlik": {
+  "a_same71": {
+   "asl": {
+    "bleu": {
+     "Claude": 56.641054330015095,
+     "GPT": 40.942978001966566,
+     "GT": 47.993540001167126,
+     "Gemini": 44.136583450238966,
+     "KKT": 6.552969187315424
+    },
+    "neyron_reyting": [
+     "Claude",
+     "GT",
+     "Gemini",
+     "GPT"
+    ]
+   },
+   "asl+T1": {
+    "bleu": {
+     "Claude": 67.17669554719411,
+     "GPT": 63.25751773310233,
+     "GT": 61.4419704412027,
+     "Gemini": 57.75577702328969,
+     "KKT": 7.952774722580667
+    },
+    "neyron_reyting": [
+     "Claude",
+     "GPT",
+     "GT",
+     "Gemini"
+    ]
+   },
+   "delta_aslT1_minus_asl": {
+    "Claude": 10.53564121717902,
+    "GPT": 22.314539731135767,
+    "GT": 13.448430440035573,
+    "Gemini": 13.619193573050723,
+    "KKT": 1.3998055352652434
+   },
+   "faqat_T1": {
+    "bleu": {
+     "Claude": 36.123416088644625,
+     "GPT": 46.46319070506468,
+     "GT": 37.316134397146506,
+     "Gemini": 37.128231425352546,
+     "KKT": 4.206633450258596
+    },
+    "neyron_reyting": [
+     "GPT",
+     "GT",
+     "Gemini",
+     "Claude"
+    ]
+   },
+   "n": 71
+  },
+  "b_aynan_T1_gaplari": {
+   "gaplar": [
+    {
+     "aynan_xom": [
+      "Gemini",
+      "GPT"
+     ],
+     "id": "flores-08",
+     "tizimlar": [
+      "Gemini",
+      "GPT"
+     ]
+    },
+    {
+     "aynan_xom": [
+      "GT"
+     ],
+     "id": "flores-09",
+     "tizimlar": [
+      "GT"
+     ]
+    },
+    {
+     "aynan_xom": [
+      "GPT"
+     ],
+     "id": "train-06",
+     "tizimlar": [
+      "GPT"
+     ]
+    },
+    {
+     "aynan_xom": [
+      "GPT"
+     ],
+     "id": "gold-05",
+     "tizimlar": [
+      "GPT"
+     ]
+    },
+    {
+     "aynan_xom": [
+      "Gemini",
+      "GPT"
+     ],
+     "id": "gold-06",
+     "tizimlar": [
+      "Gemini",
+      "Claude",
+      "GPT"
+     ]
+    },
+    {
+     "aynan_xom": [
+      "Gemini",
+      "GPT",
+      "GT"
+     ],
+     "id": "gold-07",
+     "tizimlar": [
+      "Gemini",
+      "Claude",
+      "GPT",
+      "GT"
+     ]
+    },
+    {
+     "aynan_xom": [
+      "KKT",
+      "Gemini",
+      "Claude",
+      "GPT"
+     ],
+     "id": "gold-08",
+     "tizimlar": [
+      "KKT",
+      "Gemini",
+      "Claude",
+      "GPT",
+      "GT"
+     ]
+    }
+   ],
+   "mezon": "ekspozitsiya_2.norm_tok bo'yicha teng (etalon_tekshir.py dagidek)",
+   "noyob_gap_soni": 7,
+   "tizim_boyicha": {
+    "Claude": 3,
+    "GPT": 6,
+    "GT": 3,
+    "Gemini": 4,
+    "KKT": 1
+   }
+  },
+  "c_minus_overlap": {
+   "asl": {
+    "bleu": {
+     "Claude": 56.478396462566366,
+     "GPT": 40.80374424182926,
+     "GT": 48.22360731369579,
+     "Gemini": 44.3029364753287,
+     "KKT": 5.477203545181947
+    },
+    "neyron_reyting": [
+     "Claude",
+     "GT",
+     "Gemini",
+     "GPT"
+    ]
+   },
+   "asl+T1": {
+    "bleu": {
+     "Claude": 66.82022300910295,
+     "GPT": 62.162822767345695,
+     "GT": 61.27919788235793,
+     "Gemini": 57.41345593199875,
+     "KKT": 6.739317545609773
+    },
+    "neyron_reyting": [
+     "Claude",
+     "GPT",
+     "GT",
+     "Gemini"
+    ]
+   },
+   "delta_aslT1_minus_asl": {
+    "Claude": 10.34182654653658,
+    "GPT": 21.359078525516438,
+    "GT": 13.05559056866214,
+    "Gemini": 13.110519456670048,
+    "KKT": 1.2621140004278262
+   },
+   "faqat_T1": {
+    "bleu": {
+     "Claude": 35.240971017709455,
+     "GPT": 44.74603830369986,
+     "GT": 36.32971755849385,
+     "Gemini": 36.036888621489695,
+     "KKT": 2.9956111537726247
+    },
+    "neyron_reyting": [
+     "GPT",
+     "GT",
+     "Gemini",
+     "Claude"
+    ]
+   },
+   "n": 64
+  },
+  "d_leave_one_out": {
+   "asos_reyting_aslT1": [
+    "Claude",
+    "GPT",
+    "GT",
+    "Gemini"
+   ],
+   "ozgarishlar": [],
+   "reyting_ozgargan_soni": 0,
+   "tashlashlar": 71
+  }
+ },
+ "2_P1_bonferroni": {
+  "izoh": "5 taqqoslash, oilaviy α 0,05 -> har biriga 0,01 (99 %); juftlashgan: bir xil gap qayta tanlash 1 va 2 etalon uchun; persentil; 72 gap (prereg P1)",
+  "tizim": {
+   "Claude": {
+    "ci95_shu_namunadan": [
+     7.309435116006714,
+     13.359244511530271
+    ],
+    "ci99_bonferroni": [
+     6.6054253897939486,
+     14.40721559964507
+    ],
+    "delta": 10.284692962703062,
+    "nol_ichidami_99": false
+   },
+   "GPT": {
+    "ci95_shu_namunadan": [
+     17.44326963507867,
+     26.120453866200883
+    ],
+    "ci99_bonferroni": [
+     16.283834180579646,
+     27.725818987849316
+    ],
+    "delta": 21.761751190906892,
+    "nol_ichidami_99": false
+   },
+   "GT": {
+    "ci95_shu_namunadan": [
+     9.952938106688281,
+     16.427944037710546
+    ],
+    "ci99_bonferroni": [
+     9.052545266965863,
+     17.503422955076882
+    ],
+    "delta": 13.142549092543092,
+    "nol_ichidami_99": false
+   },
+   "Gemini": {
+    "ci95_shu_namunadan": [
+     10.112088989195868,
+     16.899822696802346
+    ],
+    "ci99_bonferroni": [
+     9.22604738757509,
+     18.01669118205001
+    ],
+    "delta": 13.33410333063781,
+    "nol_ichidami_99": false
+   },
+   "KKT": {
+    "ci95_shu_namunadan": [
+     0.8033489641350332,
+     2.049573749137092
+    ],
+    "ci99_bonferroni": [
+     0.6669647012715991,
+     2.2880159688927213
+    ],
+    "delta": 1.3737988993466503,
+    "nol_ichidami_99": false
+   }
+  }
+ },
+ "3_BCa": {
+  "alfa_BCD": {
+   "mazmun": {
+    "alfa": 0.1150611870018956,
+    "bca95": [
+     0.030969053919673004,
+     0.20437122171228697
+    ]
+   },
+   "ravonlik": {
+    "alfa": -0.07930923555846325,
+    "bca95": [
+     -0.15092167775060675,
+     0.0017336878256008824
+    ]
+   }
+  },
+  "izoh": "scipy.stats.bootstrap, method='BCa', 10 000; α — gap-klaster (71 gap, har birida 5 element); ρ — tizim ichida har gapda bitta element, shuning uchun element = gap",
+  "tizim_ichi_rho": {
+   "Claude": {
+    "bca95": [
+     -0.3428137271812058,
+     0.1507532899059268
+    ],
+    "n": 71,
+    "persentil95_H4_1000": [
+     -0.3584387662990896,
+     0.14308778173139428
+    ],
+    "rho": -0.1094132923529904
+   },
+   "GPT": {
+    "bca95": [
+     -0.25580007381504516,
+     0.24844137369103902
+    ],
+    "n": 71,
+    "persentil95_H4_1000": [
+     -0.24994716061481712,
+     0.27425620871222256
+    ],
+    "rho": -0.006526518894412453
+   },
+   "GT": {
+    "bca95": [
+     -0.30828446544322385,
+     0.2011357001615924
+    ],
+    "n": 71,
+    "persentil95_H4_1000": [
+     -0.29773485811177564,
+     0.19771138324373685
+    ],
+    "rho": -0.06313069986009343
+   },
+   "Gemini": {
+    "bca95": [
+     -0.1212231900227859,
+     0.34735933588072393
+    ],
+    "n": 71,
+    "persentil95_H4_1000": [
+     -0.12666999752051414,
+     0.3586392198983612
+    ],
+    "rho": 0.1159392928428154
+   }
+  }
+ },
+ "4_pooled_neyron": {
+  "eta2_tizim": {
+   "hammasi_5_tizim_355": 0.29946858708762497,
+   "neyron_4_tizim_284": 0.005228559520567304
+  },
+  "izoh": "y — B,C,D mazmun o'rtachasi (yo'q kataklar chiqarilgan); η² = SS_tizim / SS_jami",
+  "n_element": 284,
+  "n_gap": 71,
+  "persentil95_gap_klaster": [
+   -0.19614919657662927,
+   0.15872046109261803
+  ],
+  "rho": -0.018724270337741787
+ },
+ "5_juftlik_rho": {
+  "element_toplami": "SEZGIRLIK 72 (360 element; yo'q kataklar juftlik bo'yicha chiqarilgan)",
+  "jadval": {
+   "mazmun": {
+    "B–C": {
+     "KKT": {
+      "n": 72,
+      "rho": 0.6511570710596595
+     },
+     "hammasi_H6": {
+      "n": 358,
+      "rho": 0.32212227614926897
+     },
+     "neyron": {
+      "n": 286,
+      "rho": 0.262348144379786
+     }
+    },
+    "B–D": {
+     "KKT": {
+      "n": 72,
+      "rho": 0.3732867195515438
+     },
+     "hammasi_H6": {
+      "n": 358,
+      "rho": 0.35744441920861264
+     },
+     "neyron": {
+      "n": 286,
+      "rho": 0.18054483513234484
+     }
+    },
+    "C–D": {
+     "KKT": {
+      "n": 72,
+      "rho": 0.5764547679887204
+     },
+     "hammasi_H6": {
+      "n": 360,
+      "rho": 0.33751811399576115
+     },
+     "neyron": {
+      "n": 288,
+      "rho": 0.2488350274023942
+     }
+    }
+   },
+   "ravonlik": {
+    "B–C": {
+     "KKT": {
+      "n": 72,
+      "rho": 0.5876346991397555
+     },
+     "hammasi_H6": {
+      "n": 358,
+      "rho": 0.29364880056344356
+     },
+     "neyron": {
+      "n": 286,
+      "rho": 0.21638984414409468
+     }
+    },
+    "B–D": {
+     "KKT": {
+      "n": 72,
+      "rho": 0.19178250652646558
+     },
+     "hammasi_H6": {
+      "n": 357,
+      "rho": 0.25396589155704635
+     },
+     "neyron": {
+      "n": 285,
+      "rho": 0.07107720509015915
+     }
+    },
+    "C–D": {
+     "KKT": {
+      "n": 72,
+      "rho": 0.32182101901335763
+     },
+     "hammasi_H6": {
+      "n": 359,
+      "rho": 0.18836092075310462
+     },
+     "neyron": {
+      "n": 287,
+      "rho": 0.08022191645684708
+     }
+    }
+   }
+  }
+ },
+ "6_alfa_implementatsiya": "Krippendorff α o'z kodi bilan hisoblangan (tahlil.kripp_alpha_ordinal, sof Python; tashqi paket yo'q). Birlik — element (gap × tizim chiqishi), qiymatlar — baholovchilar balli (1–5). Har birlikdagi mavjud baholar o'zaro juftlanib, koinsidensiya matritsasi 1/(m−1) vazni bilan to'planadi (m — birlikdagi baholar soni); m < 2 bo'lgan birlik tashlanadi. Masofa — ordinal (Krippendorff 2004/2011): δ²(c,k) = (Σ_{g=c..k} n_g − (n_c + n_k)/2)², n_g — qiymatning chegaraviy chastotasi. α = 1 − (n−1)·D_o / D_e. Bo'sh kataklar (B: E159, E219; D: E019) «yo'q ma'lumot» sifatida chiqariladi (tuzatish 10 (g)); juftlangan baholarda bitta qiymat qolsa D_e = 0 va α aniqlanmaydi (nan). Bootstrap (Q13, 3-band) gap darajasida qayta tanlaydi: tanlangan gapning barcha 5 elementi birga olinadi (gap-klaster), shuning uchun bir gapning tizimlar orasidagi bog'liqligi saqlanadi.",
+ "maqom": "natijadan keyingi, taqriz-asosli (Gemini 3 Pro va ChatGPT taqrizlari, 2026-11-06); EXPLORATORY; muzlatilgan natija/ va etalon/ fayllari o'zgarmagan",
+ "muhit": {
+  "numpy": "1.26.4",
+  "python": "3.9.6",
+  "sacrebleu": "2.6.0",
+  "scipy": "1.13.1"
+ },
+ "qayta_tanlash": 10000,
+ "seed": 20261106
+}

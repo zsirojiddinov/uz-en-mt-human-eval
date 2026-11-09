@@ -1,0 +1,116 @@
+{
+ "gt_01.docx": {
+  "sha256": "da4f798545eacaf10f27c39a3776cf9edfc8aab7c97c07b7f538ac3969092d99",
+  "paragraf": 25,
+  "manba": "gt_01.txt",
+  "manba_sha256": "4e82154cb849c1428dfc738706ab758210f75f68afde6c65658ae2eacbec3854"
+ },
+ "gt_02.docx": {
+  "sha256": "9b3d02ae015fbcda757dde4f9417cb86e4456f5a7287f535e4560573c7847aad",
+  "paragraf": 25,
+  "manba": "gt_02.txt",
+  "manba_sha256": "37b7a1da5839596295ec78cc6ab0e130abc0d9720a117317089afb813d5f43bb"
+ },
+ "gt_03.docx": {
+  "sha256": "b7e94835b330543a49a82becf6e50b6cdaca6b938979aa0076148e97d7759e5f",
+  "paragraf": 25,
+  "manba": "gt_03.txt",
+  "manba_sha256": "d24f6f235a14b635fc1fcaddca34a4630881e23d589af81f03b17c7cc74fff53"
+ },
+ "gt_04.docx": {
+  "sha256": "7580bf64673e48595479b38b284ab3f8d0c86df11e9187a6d6b858a9a3a96ac7",
+  "paragraf": 25,
+  "manba": "gt_04.txt",
+  "manba_sha256": "6c685f1563efc4d133321497e9a5493905f65aeeb1bf2d3a3964a3cdb0b5af1b"
+ },
+ "gt_05.docx": {
+  "sha256": "99540333edd92779ad1c86993437ac94621c033e0d74f0de57ee6843282095ca",
+  "paragraf": 25,
+  "manba": "gt_05.txt",
+  "manba_sha256": "17986630dc506de48a72b6bc5a867d62101451746fce66244747b5dd1a361d95"
+ },
+ "gt_06.docx": {
+  "sha256": "0c4857a2e02558271426eb77c22358f7c393ca1cfb2f9bb91d0c77885af1b568",
+  "paragraf": 25,
+  "manba": "gt_06.txt",
+  "manba_sha256": "f9ca35971ea3eec3a5eb8b3b3043a3984a89b7b41cddb54ab51bc2db078c2b1f"
+ },
+ "gt_07.docx": {
+  "sha256": "c6d7c09a527f5b95740303d1d64edbec16ceeef6f56548441dead21701ff7a2c",
+  "paragraf": 25,
+  "manba": "gt_07.txt",
+  "manba_sha256": "3f7d7a6fa61dd4e24d08957b47c2fe201ecd6db12a24f6b6d36bd979861d27a9"
+ },
+ "gt_08.docx": {
+  "sha256": "605c3241f3b0a5bb9d592551e141f1d7825a8dce3d67ca24ae831bfe06f80181",
+  "paragraf": 25,
+  "manba": "gt_08.txt",
+  "manba_sha256": "1541c2aecc5fbde80e54894915ceacf2fccf5458cbccd3dc10030a9c1bf3a1b2"
+ },
+ "gt_09.docx": {
+  "sha256": "6f8cc068e6132bcf67b182c9517b1725a18b89020606b6afcd0c912c3a068419",
+  "paragraf": 25,
+  "manba": "gt_09.txt",
+  "manba_sha256": "d1bac612b0ab1fa53664983d8aec57c18c7fcccad60bb5ded1b4ee3266a46267"
+ },
+ "gt_10.docx": {
+  "sha256": "4bb476f367919eed5e487ebce34c70f5d1b47e53899e522992cf2c0cd83d726c",
+  "paragraf": 25,
+  "manba": "gt_10.txt",
+  "manba_sha256": "13f263145b19d9bb8dfd2a685360b785e1a59118d8bba8b72d9a38510615e8c7"
+ },
+ "gt_11.docx": {
+  "sha256": "c6ec7b196774a68a97d6fa3a91a58480513295870a181147d8634e85ac57faee",
+  "paragraf": 25,
+  "manba": "gt_11.txt",
+  "manba_sha256": "093abed5840f380b39344e67bc8a823ee9fdc42fc46a2755f24b6cd0adc1b773"
+ },
+ "gt_12.docx": {
+  "sha256": "ee28df7958d88b664906d1cba6258780cbb2b66c8a7c12e08e7a965f40a47664",
+  "paragraf": 25,
+  "manba": "gt_12.txt",
+  "manba_sha256": "8163173bb116059b8c394073f9c5480d57848431fbef5eec6d7ec15260468b91"
+ },
+ "gt_13.docx": {
+  "sha256": "cc756561765832201475dab1682e4b8c084d743373773d32eb58157d0f99a357",
+  "paragraf": 25,
+  "manba": "gt_13.txt",
+  "manba_sha256": "bff362d6ba98f4cdf9f894254bc589535dc1ed2b02c1ce030386691bf793e800"
+ },
+ "gt_14.docx": {
+  "sha256": "133c2f31ef6bfb8cf04f3efd1430f87a08b481c66f9477c4b04ba60a404a318c",
+  "paragraf": 25,
+  "manba": "gt_14.txt",
+  "manba_sha256": "e8a20eac2815c0cd09b658929657547ddbe20aa7426f6916581729eee027c07c"
+ },
+ "gt_15.docx": {
+  "sha256": "05a104a76de46e75aa02e3ffd6e164b0fc508416e24e6abc14d9cb77b6c9254d",
+  "paragraf": 25,
+  "manba": "gt_15.txt",
+  "manba_sha256": "b2fc7b191ed2fa43dd81c8bc49de1a49a994b4ffd08805a6ca79f5252461b789"
+ },
+ "gt_16.docx": {
+  "sha256": "bfb150b561edfc04b534d766779d318eca91aac22b2513fa92b27c0e1d935afa",
+  "paragraf": 25,
+  "manba": "gt_16.txt",
+  "manba_sha256": "2ba51d4cc040b0261544f54b5c65439a4507318814b9473da4f56333b56253ef"
+ },
+ "gt_17.docx": {
+  "sha256": "bc1925dbc688fd90965947862caf36570a550cf7e93ecdb948992cda92b0dc2b",
+  "paragraf": 25,
+  "manba": "gt_17.txt",
+  "manba_sha256": "5629e570cd0d8b676ed234fdb684482222037ec61837061813f815ef57f0c5d5"
+ },
+ "gt_18.docx": {
+  "sha256": "90d4e291f2fd1e8e8b4848fa6d6e476f4200703211dffb4d2b327c3546abfea5",
+  "paragraf": 25,
+  "manba": "gt_18.txt",
+  "manba_sha256": "67e363c1e5fdfbd81752b5c1e4424a9b30ac0fa4c1ad6d292c70a8fcedc67459"
+ },
+ "gt_19.docx": {
+  "sha256": "6715171fab91b26b47320c43ed13e21bfa1ce959e6fa90298c16216741a3d30d",
+  "paragraf": 22,
+  "manba": "gt_19.txt",
+  "manba_sha256": "506241a9b1c37fe521e9aed0f28cb8aba200dfff7d7e78d1975486c0899de62a"
+ }
+}

@@ -1,0 +1,3999 @@
+{
+ "seed": 20261016,
+ "jami": 472,
+ "fayllar": {
+  "llm_01.txt": {
+   "sha256": "e3459dbe2c0ed9bf0316189828a42f004658e44a652f9cef0f039423fc07154a",
+   "qator_soni": 40,
+   "belgi": 5643,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-381"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-678"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-666"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-917"
+    },
+    "5": {
+     "toplam": "eval72",
+     "id": "flores-29"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-667"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-406"
+    },
+    "8": {
+     "toplam": "eval72",
+     "id": "flores-23"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-389"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-079"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-884"
+    },
+    "12": {
+     "toplam": "eval72",
+     "id": "flores-07"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-577"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-824"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-508"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-822"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-910"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-383"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-970"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-504"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-158"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-189"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-521"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-340"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-690"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-647"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-142"
+    },
+    "28": {
+     "toplam": "eval72",
+     "id": "gold-05"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-661"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-487"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-451"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-066"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-031"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-265"
+    },
+    "35": {
+     "toplam": "eval72",
+     "id": "flores-14"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-830"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-738"
+    },
+    "38": {
+     "toplam": "eval72",
+     "id": "train-02"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-203"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-683"
+    }
+   }
+  },
+  "llm_02.txt": {
+   "sha256": "5e365dcd9bfbfe4e0804822517c35468e8f57dec86f69d38bda5e4d0cd3276ac",
+   "qator_soni": 40,
+   "belgi": 5792,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-314"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-480"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-009"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-217"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-202"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-442"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-854"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-344"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-438"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-550"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-323"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-844"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-746"
+    },
+    "14": {
+     "toplam": "eval72",
+     "id": "flores-08"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-117"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-548"
+    },
+    "17": {
+     "toplam": "eval72",
+     "id": "flores-13"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-654"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-505"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-368"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-339"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-434"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-080"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-100"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-840"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-503"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-212"
+    },
+    "28": {
+     "toplam": "eval72",
+     "id": "gold-00"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-711"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-070"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-419"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-408"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-395"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-660"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-330"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-916"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-399"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-968"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-167"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-838"
+    }
+   }
+  },
+  "llm_03.txt": {
+   "sha256": "ad2611a9be4f90ec3f44eeea894f885db702e3fa7fe5b0ee4b29278190f1a703",
+   "qator_soni": 40,
+   "belgi": 6192,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-883"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-928"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-403"
+    },
+    "4": {
+     "toplam": "eval72",
+     "id": "train-21"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-023"
+    },
+    "6": {
+     "toplam": "eval72",
+     "id": "flores-32"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-154"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-608"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-648"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "gold-09"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-997"
+    },
+    "12": {
+     "toplam": "eval72",
+     "id": "train-01"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-564"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-865"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-609"
+    },
+    "16": {
+     "toplam": "eval72",
+     "id": "flores-17"
+    },
+    "17": {
+     "toplam": "eval72",
+     "id": "flores-30"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-105"
+    },
+    "19": {
+     "toplam": "eval72",
+     "id": "train-15"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-065"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-566"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-457"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-229"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-737"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-859"
+    },
+    "26": {
+     "toplam": "eval72",
+     "id": "flores-12"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-306"
+    },
+    "28": {
+     "toplam": "eval72",
+     "id": "flores-25"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-134"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-476"
+    },
+    "31": {
+     "toplam": "eval72",
+     "id": "train-17"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-054"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-057"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-709"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-018"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-893"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-309"
+    },
+    "38": {
+     "toplam": "eval72",
+     "id": "flores-35"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-516"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-788"
+    }
+   }
+  },
+  "llm_04.txt": {
+   "sha256": "ca1dd886879b680a393b102629cb47d2bef34bb96eac34d5f04516c1d2d6488e",
+   "qator_soni": 40,
+   "belgi": 5791,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-437"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-595"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-414"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-155"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-224"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-775"
+    },
+    "7": {
+     "toplam": "eval72",
+     "id": "flores-02"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-787"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-730"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-722"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-378"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-846"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-749"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-472"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-059"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-097"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-790"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-966"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-455"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-796"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-458"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-387"
+    },
+    "23": {
+     "toplam": "eval72",
+     "id": "gold-08"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-681"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-964"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-882"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-268"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-127"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-850"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-026"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-602"
+    },
+    "32": {
+     "toplam": "eval72",
+     "id": "flores-06"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-390"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-417"
+    },
+    "35": {
+     "toplam": "eval72",
+     "id": "flores-01"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-104"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-370"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-375"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-230"
+    },
+    "40": {
+     "toplam": "eval72",
+     "id": "flores-24"
+    }
+   }
+  },
+  "llm_05.txt": {
+   "sha256": "b426acfecedc5513822f459be42ff4dc4670ce7802f3e1de19c17b2c00f397d9",
+   "qator_soni": 40,
+   "belgi": 5547,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-146"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-933"
+    },
+    "3": {
+     "toplam": "eval72",
+     "id": "gold-11"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-174"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-658"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-266"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-994"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-702"
+    },
+    "9": {
+     "toplam": "eval72",
+     "id": "gold-02"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-187"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-991"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-099"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-210"
+    },
+    "14": {
+     "toplam": "eval72",
+     "id": "flores-03"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-885"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-714"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-108"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-290"
+    },
+    "19": {
+     "toplam": "eval72",
+     "id": "train-18"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-731"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-055"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-258"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-299"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-028"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-271"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-807"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-510"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-982"
+    },
+    "29": {
+     "toplam": "eval72",
+     "id": "flores-19"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-636"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-794"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-786"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-606"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-826"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-034"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-277"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-772"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-284"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-400"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-376"
+    }
+   }
+  },
+  "llm_06.txt": {
+   "sha256": "42f77853b274fea96f2be7707f046e8eff8475a6cd8ea8d7da2698cff92cf20b",
+   "qator_soni": 40,
+   "belgi": 5754,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-067"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-753"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-181"
+    },
+    "4": {
+     "toplam": "eval72",
+     "id": "gold-04"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-963"
+    },
+    "6": {
+     "toplam": "eval72",
+     "id": "flores-28"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-576"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-803"
+    },
+    "9": {
+     "toplam": "eval72",
+     "id": "train-13"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "gold-01"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-133"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-895"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-287"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-482"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-925"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-568"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-890"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-795"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-338"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-527"
+    },
+    "21": {
+     "toplam": "eval72",
+     "id": "train-22"
+    },
+    "22": {
+     "toplam": "eval72",
+     "id": "flores-31"
+    },
+    "23": {
+     "toplam": "eval72",
+     "id": "flores-10"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-249"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-190"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-918"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-124"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-470"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-600"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-759"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-058"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-847"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-443"
+    },
+    "34": {
+     "toplam": "eval72",
+     "id": "train-00"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-529"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-428"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-958"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-955"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-721"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-767"
+    }
+   }
+  },
+  "llm_07.txt": {
+   "sha256": "b5bb15d185edad455b12754552b4f1e1538cdd64c759c4ecb2d37320a8f1d5c4",
+   "qator_soni": 40,
+   "belgi": 5297,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-617"
+    },
+    "2": {
+     "toplam": "eval72",
+     "id": "flores-22"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-032"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-068"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-599"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-351"
+    },
+    "7": {
+     "toplam": "eval72",
+     "id": "flores-00"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-423"
+    },
+    "9": {
+     "toplam": "eval72",
+     "id": "gold-03"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "flores-20"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-294"
+    },
+    "12": {
+     "toplam": "eval72",
+     "id": "train-07"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-640"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-842"
+    },
+    "15": {
+     "toplam": "eval72",
+     "id": "flores-04"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-707"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-138"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-607"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-373"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-655"
+    },
+    "21": {
+     "toplam": "eval72",
+     "id": "flores-21"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-512"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-800"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-197"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-551"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-171"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-513"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-359"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-623"
+    },
+    "30": {
+     "toplam": "eval72",
+     "id": "flores-16"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-352"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-449"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-748"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-501"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-483"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-534"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-374"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-240"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-248"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-744"
+    }
+   }
+  },
+  "llm_08.txt": {
+   "sha256": "34ab018a2dab4f98988cc86c380e2b370ed8773a67801ad1848dda3ad5e9f1de",
+   "qator_soni": 40,
+   "belgi": 5613,
+   "qator": {
+    "1": {
+     "toplam": "eval72",
+     "id": "train-03"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-069"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-221"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-147"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-518"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-272"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-718"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-559"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-763"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-712"
+    },
+    "11": {
+     "toplam": "eval72",
+     "id": "gold-06"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-498"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-453"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-981"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-041"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-909"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-584"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-691"
+    },
+    "19": {
+     "toplam": "eval72",
+     "id": "flores-11"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-259"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-369"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-029"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-144"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-808"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-112"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-642"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-281"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-418"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-571"
+    },
+    "30": {
+     "toplam": "eval72",
+     "id": "train-23"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-719"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-327"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-745"
+    },
+    "34": {
+     "toplam": "eval72",
+     "id": "gold-07"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-751"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-341"
+    },
+    "37": {
+     "toplam": "eval72",
+     "id": "train-20"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-297"
+    },
+    "39": {
+     "toplam": "eval72",
+     "id": "train-05"
+    },
+    "40": {
+     "toplam": "eval72",
+     "id": "flores-33"
+    }
+   }
+  },
+  "llm_09.txt": {
+   "sha256": "cf2ad28592fd22f6a39dc74053fb1744a852d4af8650cec09d4f16a01eada410",
+   "qator_soni": 40,
+   "belgi": 6191,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-039"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-002"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-468"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-497"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-285"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-347"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-845"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-274"
+    },
+    "9": {
+     "toplam": "eval72",
+     "id": "flores-09"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-696"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-819"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-704"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-823"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-992"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-632"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-119"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-554"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "train-06"
+    },
+    "19": {
+     "toplam": "eval72",
+     "id": "train-12"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-061"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-570"
+    },
+    "22": {
+     "toplam": "eval72",
+     "id": "flores-27"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-873"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-652"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-598"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-045"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-820"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-987"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-289"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-444"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-780"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-876"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-768"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-677"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-169"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-927"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-583"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-941"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-436"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-356"
+    }
+   }
+  },
+  "llm_10.txt": {
+   "sha256": "40fb63184656366aaaa071afd5e46655f1a0d8a6611d29e284b946f75938551c",
+   "qator_soni": 40,
+   "belgi": 6162,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-789"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-426"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-262"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-157"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-668"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-539"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-170"
+    },
+    "8": {
+     "toplam": "eval72",
+     "id": "train-14"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-871"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "train-04"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-894"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-511"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-950"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-717"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-087"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-467"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-129"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-441"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-090"
+    },
+    "20": {
+     "toplam": "eval72",
+     "id": "train-16"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-969"
+    },
+    "22": {
+     "toplam": "eval72",
+     "id": "flores-18"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-769"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-462"
+    },
+    "25": {
+     "toplam": "eval72",
+     "id": "flores-26"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-148"
+    },
+    "27": {
+     "toplam": "eval72",
+     "id": "train-11"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-461"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-802"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-421"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-216"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-162"
+    },
+    "33": {
+     "toplam": "eval72",
+     "id": "flores-05"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-396"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-107"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-627"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-593"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-532"
+    },
+    "39": {
+     "toplam": "a_qavat",
+     "id": "dev-974"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-130"
+    }
+   }
+  },
+  "llm_11.txt": {
+   "sha256": "5b2baa39d77aab2066659a40abdd2a08999f873d693aa5088e828871c10680b7",
+   "qator_soni": 40,
+   "belgi": 5925,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-200"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-710"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-686"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-985"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-362"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-185"
+    },
+    "7": {
+     "toplam": "eval72",
+     "id": "train-09"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-199"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-971"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-431"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-669"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-720"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-319"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-628"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-053"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-887"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-831"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "train-19"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-774"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-665"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-083"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-466"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-557"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-806"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-569"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-159"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-610"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-517"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-766"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-479"
+    },
+    "31": {
+     "toplam": "eval72",
+     "id": "train-08"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-813"
+    },
+    "33": {
+     "toplam": "a_qavat",
+     "id": "dev-837"
+    },
+    "34": {
+     "toplam": "a_qavat",
+     "id": "dev-545"
+    },
+    "35": {
+     "toplam": "a_qavat",
+     "id": "dev-728"
+    },
+    "36": {
+     "toplam": "a_qavat",
+     "id": "dev-477"
+    },
+    "37": {
+     "toplam": "a_qavat",
+     "id": "dev-626"
+    },
+    "38": {
+     "toplam": "a_qavat",
+     "id": "dev-773"
+    },
+    "39": {
+     "toplam": "eval72",
+     "id": "train-10"
+    },
+    "40": {
+     "toplam": "a_qavat",
+     "id": "dev-004"
+    }
+   }
+  },
+  "llm_12.txt": {
+   "sha256": "d1c079c251f0e728c6e20d70cf721e79ba45dfac58d36e50a6cb2956dc93aa65",
+   "qator_soni": 32,
+   "belgi": 4414,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-857"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-086"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-825"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-816"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-804"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-980"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-960"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-801"
+    },
+    "9": {
+     "toplam": "eval72",
+     "id": "flores-15"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-979"
+    },
+    "11": {
+     "toplam": "eval72",
+     "id": "gold-10"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-228"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-071"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-377"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-698"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-336"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-693"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "flores-34"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-755"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-888"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-136"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-245"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-588"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-410"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-715"
+    },
+    "26": {
+     "toplam": "a_qavat",
+     "id": "dev-546"
+    },
+    "27": {
+     "toplam": "a_qavat",
+     "id": "dev-848"
+    },
+    "28": {
+     "toplam": "a_qavat",
+     "id": "dev-835"
+    },
+    "29": {
+     "toplam": "a_qavat",
+     "id": "dev-680"
+    },
+    "30": {
+     "toplam": "a_qavat",
+     "id": "dev-726"
+    },
+    "31": {
+     "toplam": "a_qavat",
+     "id": "dev-924"
+    },
+    "32": {
+     "toplam": "a_qavat",
+     "id": "dev-178"
+    }
+   }
+  },
+  "gt_01.txt": {
+   "sha256": "4e82154cb849c1428dfc738706ab758210f75f68afde6c65658ae2eacbec3854",
+   "qator_soni": 25,
+   "belgi": 3641,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-381"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-678"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-666"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-917"
+    },
+    "5": {
+     "toplam": "eval72",
+     "id": "flores-29"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-667"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-406"
+    },
+    "8": {
+     "toplam": "eval72",
+     "id": "flores-23"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-389"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-079"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-884"
+    },
+    "12": {
+     "toplam": "eval72",
+     "id": "flores-07"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-577"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-824"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-508"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-822"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-910"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-383"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-970"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-504"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-158"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-189"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-521"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-340"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-690"
+    }
+   }
+  },
+  "gt_02.txt": {
+   "sha256": "37b7a1da5839596295ec78cc6ab0e130abc0d9720a117317089afb813d5f43bb",
+   "qator_soni": 25,
+   "belgi": 3435,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-647"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-142"
+    },
+    "3": {
+     "toplam": "eval72",
+     "id": "gold-05"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-661"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-487"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-451"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-066"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-031"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-265"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "flores-14"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-830"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-738"
+    },
+    "13": {
+     "toplam": "eval72",
+     "id": "train-02"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-203"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-683"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-314"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-480"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-009"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-217"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-202"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-442"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-854"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-344"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-438"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-550"
+    }
+   }
+  },
+  "gt_03.txt": {
+   "sha256": "d24f6f235a14b635fc1fcaddca34a4630881e23d589af81f03b17c7cc74fff53",
+   "qator_soni": 25,
+   "belgi": 3197,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-323"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-844"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-746"
+    },
+    "4": {
+     "toplam": "eval72",
+     "id": "flores-08"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-117"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-548"
+    },
+    "7": {
+     "toplam": "eval72",
+     "id": "flores-13"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-654"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-505"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-368"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-339"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-434"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-080"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-100"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-840"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-503"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-212"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "gold-00"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-711"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-070"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-419"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-408"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-395"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-660"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-330"
+    }
+   }
+  },
+  "gt_04.txt": {
+   "sha256": "6c685f1563efc4d133321497e9a5493905f65aeeb1bf2d3a3964a3cdb0b5af1b",
+   "qator_soni": 25,
+   "belgi": 3649,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-916"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-399"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-968"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-167"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-838"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-883"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-928"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-403"
+    },
+    "9": {
+     "toplam": "eval72",
+     "id": "train-21"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-023"
+    },
+    "11": {
+     "toplam": "eval72",
+     "id": "flores-32"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-154"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-608"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-648"
+    },
+    "15": {
+     "toplam": "eval72",
+     "id": "gold-09"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-997"
+    },
+    "17": {
+     "toplam": "eval72",
+     "id": "train-01"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-564"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-865"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-609"
+    },
+    "21": {
+     "toplam": "eval72",
+     "id": "flores-17"
+    },
+    "22": {
+     "toplam": "eval72",
+     "id": "flores-30"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-105"
+    },
+    "24": {
+     "toplam": "eval72",
+     "id": "train-15"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-065"
+    }
+   }
+  },
+  "gt_05.txt": {
+   "sha256": "17986630dc506de48a72b6bc5a867d62101451746fce66244747b5dd1a361d95",
+   "qator_soni": 25,
+   "belgi": 3895,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-566"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-457"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-229"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-737"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-859"
+    },
+    "6": {
+     "toplam": "eval72",
+     "id": "flores-12"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-306"
+    },
+    "8": {
+     "toplam": "eval72",
+     "id": "flores-25"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-134"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-476"
+    },
+    "11": {
+     "toplam": "eval72",
+     "id": "train-17"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-054"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-057"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-709"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-018"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-893"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-309"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "flores-35"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-516"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-788"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-437"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-595"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-414"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-155"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-224"
+    }
+   }
+  },
+  "gt_06.txt": {
+   "sha256": "f9ca35971ea3eec3a5eb8b3b3043a3984a89b7b41cddb54ab51bc2db078c2b1f",
+   "qator_soni": 25,
+   "belgi": 3801,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-775"
+    },
+    "2": {
+     "toplam": "eval72",
+     "id": "flores-02"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-787"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-730"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-722"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-378"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-846"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-749"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-472"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-059"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-097"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-790"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-966"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-455"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-796"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-458"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-387"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "gold-08"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-681"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-964"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-882"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-268"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-127"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-850"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-026"
+    }
+   }
+  },
+  "gt_07.txt": {
+   "sha256": "3f7d7a6fa61dd4e24d08957b47c2fe201ecd6db12a24f6b6d36bd979861d27a9",
+   "qator_soni": 25,
+   "belgi": 2846,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-602"
+    },
+    "2": {
+     "toplam": "eval72",
+     "id": "flores-06"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-390"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-417"
+    },
+    "5": {
+     "toplam": "eval72",
+     "id": "flores-01"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-104"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-370"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-375"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-230"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "flores-24"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-146"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-933"
+    },
+    "13": {
+     "toplam": "eval72",
+     "id": "gold-11"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-174"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-658"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-266"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-994"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-702"
+    },
+    "19": {
+     "toplam": "eval72",
+     "id": "gold-02"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-187"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-991"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-099"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-210"
+    },
+    "24": {
+     "toplam": "eval72",
+     "id": "flores-03"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-885"
+    }
+   }
+  },
+  "gt_08.txt": {
+   "sha256": "1541c2aecc5fbde80e54894915ceacf2fccf5458cbccd3dc10030a9c1bf3a1b2",
+   "qator_soni": 25,
+   "belgi": 3743,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-714"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-108"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-290"
+    },
+    "4": {
+     "toplam": "eval72",
+     "id": "train-18"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-731"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-055"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-258"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-299"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-028"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-271"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-807"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-510"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-982"
+    },
+    "14": {
+     "toplam": "eval72",
+     "id": "flores-19"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-636"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-794"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-786"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-606"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-826"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-034"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-277"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-772"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-284"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-400"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-376"
+    }
+   }
+  },
+  "gt_09.txt": {
+   "sha256": "d1bac612b0ab1fa53664983d8aec57c18c7fcccad60bb5ded1b4ee3266a46267",
+   "qator_soni": 25,
+   "belgi": 3542,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-067"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-753"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-181"
+    },
+    "4": {
+     "toplam": "eval72",
+     "id": "gold-04"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-963"
+    },
+    "6": {
+     "toplam": "eval72",
+     "id": "flores-28"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-576"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-803"
+    },
+    "9": {
+     "toplam": "eval72",
+     "id": "train-13"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "gold-01"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-133"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-895"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-287"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-482"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-925"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-568"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-890"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-795"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-338"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-527"
+    },
+    "21": {
+     "toplam": "eval72",
+     "id": "train-22"
+    },
+    "22": {
+     "toplam": "eval72",
+     "id": "flores-31"
+    },
+    "23": {
+     "toplam": "eval72",
+     "id": "flores-10"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-249"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-190"
+    }
+   }
+  },
+  "gt_10.txt": {
+   "sha256": "13f263145b19d9bb8dfd2a685360b785e1a59118d8bba8b72d9a38510615e8c7",
+   "qator_soni": 25,
+   "belgi": 3155,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-918"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-124"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-470"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-600"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-759"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-058"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-847"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-443"
+    },
+    "9": {
+     "toplam": "eval72",
+     "id": "train-00"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-529"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-428"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-958"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-955"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-721"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-767"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-617"
+    },
+    "17": {
+     "toplam": "eval72",
+     "id": "flores-22"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-032"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-068"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-599"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-351"
+    },
+    "22": {
+     "toplam": "eval72",
+     "id": "flores-00"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-423"
+    },
+    "24": {
+     "toplam": "eval72",
+     "id": "gold-03"
+    },
+    "25": {
+     "toplam": "eval72",
+     "id": "flores-20"
+    }
+   }
+  },
+  "gt_11.txt": {
+   "sha256": "093abed5840f380b39344e67bc8a823ee9fdc42fc46a2755f24b6cd0adc1b773",
+   "qator_soni": 25,
+   "belgi": 3369,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-294"
+    },
+    "2": {
+     "toplam": "eval72",
+     "id": "train-07"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-640"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-842"
+    },
+    "5": {
+     "toplam": "eval72",
+     "id": "flores-04"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-707"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-138"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-607"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-373"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-655"
+    },
+    "11": {
+     "toplam": "eval72",
+     "id": "flores-21"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-512"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-800"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-197"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-551"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-171"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-513"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-359"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-623"
+    },
+    "20": {
+     "toplam": "eval72",
+     "id": "flores-16"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-352"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-449"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-748"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-501"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-483"
+    }
+   }
+  },
+  "gt_12.txt": {
+   "sha256": "8163173bb116059b8c394073f9c5480d57848431fbef5eec6d7ec15260468b91",
+   "qator_soni": 25,
+   "belgi": 3336,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-534"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-374"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-240"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-248"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-744"
+    },
+    "6": {
+     "toplam": "eval72",
+     "id": "train-03"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-069"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-221"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-147"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-518"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-272"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-718"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-559"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-763"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-712"
+    },
+    "16": {
+     "toplam": "eval72",
+     "id": "gold-06"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-498"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-453"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-981"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-041"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-909"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-584"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-691"
+    },
+    "24": {
+     "toplam": "eval72",
+     "id": "flores-11"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-259"
+    }
+   }
+  },
+  "gt_13.txt": {
+   "sha256": "bff362d6ba98f4cdf9f894254bc589535dc1ed2b02c1ce030386691bf793e800",
+   "qator_soni": 25,
+   "belgi": 3731,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-369"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-029"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-144"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-808"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-112"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-642"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-281"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-418"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-571"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "train-23"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-719"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-327"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-745"
+    },
+    "14": {
+     "toplam": "eval72",
+     "id": "gold-07"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-751"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-341"
+    },
+    "17": {
+     "toplam": "eval72",
+     "id": "train-20"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-297"
+    },
+    "19": {
+     "toplam": "eval72",
+     "id": "train-05"
+    },
+    "20": {
+     "toplam": "eval72",
+     "id": "flores-33"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-039"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-002"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-468"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-497"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-285"
+    }
+   }
+  },
+  "gt_14.txt": {
+   "sha256": "e8a20eac2815c0cd09b658929657547ddbe20aa7426f6916581729eee027c07c",
+   "qator_soni": 25,
+   "belgi": 3755,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-347"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-845"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-274"
+    },
+    "4": {
+     "toplam": "eval72",
+     "id": "flores-09"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-696"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-819"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-704"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-823"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-992"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-632"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-119"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-554"
+    },
+    "13": {
+     "toplam": "eval72",
+     "id": "train-06"
+    },
+    "14": {
+     "toplam": "eval72",
+     "id": "train-12"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-061"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-570"
+    },
+    "17": {
+     "toplam": "eval72",
+     "id": "flores-27"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-873"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-652"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-598"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-045"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-820"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-987"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-289"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-444"
+    }
+   }
+  },
+  "gt_15.txt": {
+   "sha256": "b2fc7b191ed2fa43dd81c8bc49de1a49a994b4ffd08805a6ca79f5252461b789",
+   "qator_soni": 25,
+   "belgi": 3634,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-780"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-876"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-768"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-677"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-169"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-927"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-583"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-941"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-436"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-356"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-789"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-426"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-262"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-157"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-668"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-539"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-170"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "train-14"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-871"
+    },
+    "20": {
+     "toplam": "eval72",
+     "id": "train-04"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-894"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-511"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-950"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-717"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-087"
+    }
+   }
+  },
+  "gt_16.txt": {
+   "sha256": "2ba51d4cc040b0261544f54b5c65439a4507318814b9473da4f56333b56253ef",
+   "qator_soni": 25,
+   "belgi": 3737,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-467"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-129"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-441"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-090"
+    },
+    "5": {
+     "toplam": "eval72",
+     "id": "train-16"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-969"
+    },
+    "7": {
+     "toplam": "eval72",
+     "id": "flores-18"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-769"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-462"
+    },
+    "10": {
+     "toplam": "eval72",
+     "id": "flores-26"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-148"
+    },
+    "12": {
+     "toplam": "eval72",
+     "id": "train-11"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-461"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-802"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-421"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-216"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-162"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "flores-05"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-396"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-107"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-627"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-593"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-532"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-974"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-130"
+    }
+   }
+  },
+  "gt_17.txt": {
+   "sha256": "5629e570cd0d8b676ed234fdb684482222037ec61837061813f815ef57f0c5d5",
+   "qator_soni": 25,
+   "belgi": 3741,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-200"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-710"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-686"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-985"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-362"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-185"
+    },
+    "7": {
+     "toplam": "eval72",
+     "id": "train-09"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-199"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-971"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-431"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-669"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-720"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-319"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-628"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-053"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-887"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-831"
+    },
+    "18": {
+     "toplam": "eval72",
+     "id": "train-19"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-774"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-665"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-083"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-466"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-557"
+    },
+    "24": {
+     "toplam": "a_qavat",
+     "id": "dev-806"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-569"
+    }
+   }
+  },
+  "gt_18.txt": {
+   "sha256": "67e363c1e5fdfbd81752b5c1e4424a9b30ac0fa4c1ad6d292c70a8fcedc67459",
+   "qator_soni": 25,
+   "belgi": 3301,
+   "qator": {
+    "1": {
+     "toplam": "a_qavat",
+     "id": "dev-159"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-610"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-517"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-766"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-479"
+    },
+    "6": {
+     "toplam": "eval72",
+     "id": "train-08"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-813"
+    },
+    "8": {
+     "toplam": "a_qavat",
+     "id": "dev-837"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-545"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-728"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-477"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-626"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-773"
+    },
+    "14": {
+     "toplam": "eval72",
+     "id": "train-10"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-004"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-857"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-086"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-825"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-816"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-804"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-980"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-960"
+    },
+    "23": {
+     "toplam": "a_qavat",
+     "id": "dev-801"
+    },
+    "24": {
+     "toplam": "eval72",
+     "id": "flores-15"
+    },
+    "25": {
+     "toplam": "a_qavat",
+     "id": "dev-979"
+    }
+   }
+  },
+  "gt_19.txt": {
+   "sha256": "506241a9b1c37fe521e9aed0f28cb8aba200dfff7d7e78d1975486c0899de62a",
+   "qator_soni": 22,
+   "belgi": 3026,
+   "qator": {
+    "1": {
+     "toplam": "eval72",
+     "id": "gold-10"
+    },
+    "2": {
+     "toplam": "a_qavat",
+     "id": "dev-228"
+    },
+    "3": {
+     "toplam": "a_qavat",
+     "id": "dev-071"
+    },
+    "4": {
+     "toplam": "a_qavat",
+     "id": "dev-377"
+    },
+    "5": {
+     "toplam": "a_qavat",
+     "id": "dev-698"
+    },
+    "6": {
+     "toplam": "a_qavat",
+     "id": "dev-336"
+    },
+    "7": {
+     "toplam": "a_qavat",
+     "id": "dev-693"
+    },
+    "8": {
+     "toplam": "eval72",
+     "id": "flores-34"
+    },
+    "9": {
+     "toplam": "a_qavat",
+     "id": "dev-755"
+    },
+    "10": {
+     "toplam": "a_qavat",
+     "id": "dev-888"
+    },
+    "11": {
+     "toplam": "a_qavat",
+     "id": "dev-136"
+    },
+    "12": {
+     "toplam": "a_qavat",
+     "id": "dev-245"
+    },
+    "13": {
+     "toplam": "a_qavat",
+     "id": "dev-588"
+    },
+    "14": {
+     "toplam": "a_qavat",
+     "id": "dev-410"
+    },
+    "15": {
+     "toplam": "a_qavat",
+     "id": "dev-715"
+    },
+    "16": {
+     "toplam": "a_qavat",
+     "id": "dev-546"
+    },
+    "17": {
+     "toplam": "a_qavat",
+     "id": "dev-848"
+    },
+    "18": {
+     "toplam": "a_qavat",
+     "id": "dev-835"
+    },
+    "19": {
+     "toplam": "a_qavat",
+     "id": "dev-680"
+    },
+    "20": {
+     "toplam": "a_qavat",
+     "id": "dev-726"
+    },
+    "21": {
+     "toplam": "a_qavat",
+     "id": "dev-924"
+    },
+    "22": {
+     "toplam": "a_qavat",
+     "id": "dev-178"
+    }
+   }
+  }
+ }
+}

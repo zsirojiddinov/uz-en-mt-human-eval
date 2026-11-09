@@ -1,0 +1,2192 @@
+{
+ "baholovchilar": [
+  "B",
+  "C",
+  "D"
+ ],
+ "maqom": "natijadan keyingi, qo'lyozma rasmi, 2026-10-29; yangi statistika yo'q",
+ "rho_manba": "qoshimcha/taqriz_qoshimcha.json 3-band (= natija H4 ASOSIY 71)",
+ "tizim": {
+  "Claude": {
+   "ci95": [
+    -0.3584387662990896,
+    0.14308778173139428
+   ],
+   "n": 71,
+   "nuqtalar": [
+    {
+     "element": "E006",
+     "gap_bleu": 14.25876976452075,
+     "id": "train-00",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E020",
+     "gap_bleu": 3.716499092256817,
+     "id": "flores-17",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E030",
+     "gap_bleu": 54.501074069657705,
+     "id": "flores-13",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E033",
+     "gap_bleu": 46.20176466124513,
+     "id": "train-12",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E046",
+     "gap_bleu": 26.65837681702885,
+     "id": "flores-00",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E052",
+     "gap_bleu": 73.57777961658122,
+     "id": "flores-15",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E053",
+     "gap_bleu": 76.11606003349888,
+     "id": "flores-09",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E056",
+     "gap_bleu": 86.33400213704509,
+     "id": "flores-08",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E058",
+     "gap_bleu": 68.76332928842052,
+     "id": "flores-28",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E059",
+     "gap_bleu": 26.34662787057601,
+     "id": "flores-20",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E062",
+     "gap_bleu": 24.94805048948416,
+     "id": "train-13",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E080",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-08",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E084",
+     "gap_bleu": 16.38286982589626,
+     "id": "train-16",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E092",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-08",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E097",
+     "gap_bleu": 27.610969152605097,
+     "id": "train-20",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E100",
+     "gap_bleu": 100.00000000000004,
+     "id": "gold-07",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E105",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-09",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E106",
+     "gap_bleu": 68.68616146336804,
+     "id": "train-15",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E116",
+     "gap_bleu": 50.710155574750786,
+     "id": "train-22",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E118",
+     "gap_bleu": 78.25422900366432,
+     "id": "flores-02",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E119",
+     "gap_bleu": 66.02703762983498,
+     "id": "flores-19",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E120",
+     "gap_bleu": 71.78970818142898,
+     "id": "flores-30",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E130",
+     "gap_bleu": 68.19759829120088,
+     "id": "flores-29",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E131",
+     "gap_bleu": 54.03223799486646,
+     "id": "train-18",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E132",
+     "gap_bleu": 15.148694266083963,
+     "id": "flores-06",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E149",
+     "gap_bleu": 54.06149861913043,
+     "id": "flores-10",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E151",
+     "gap_bleu": 61.000344570143675,
+     "id": "flores-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E161",
+     "gap_bleu": 54.11927503805856,
+     "id": "train-05",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E164",
+     "gap_bleu": 67.16833901993986,
+     "id": "train-14",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E165",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-07",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E172",
+     "gap_bleu": 41.410458078409256,
+     "id": "train-10",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E173",
+     "gap_bleu": 36.602298481299876,
+     "id": "flores-23",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E175",
+     "gap_bleu": 80.99750697620631,
+     "id": "flores-26",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E179",
+     "gap_bleu": 74.65919120871722,
+     "id": "flores-27",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E185",
+     "gap_bleu": 19.3576934939088,
+     "id": "gold-01",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E189",
+     "gap_bleu": 28.897857292098575,
+     "id": "train-19",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E193",
+     "gap_bleu": 19.156928817239653,
+     "id": "flores-11",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E199",
+     "gap_bleu": 65.58900381993463,
+     "id": "flores-35",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E200",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-01",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E202",
+     "gap_bleu": 80.91067115702207,
+     "id": "gold-03",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E204",
+     "gap_bleu": 25.947507140745756,
+     "id": "train-02",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E209",
+     "gap_bleu": 23.222434786286424,
+     "id": "flores-22",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E214",
+     "gap_bleu": 26.49268590278449,
+     "id": "flores-25",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E219",
+     "gap_bleu": 13.66926756730835,
+     "id": "train-06",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E220",
+     "gap_bleu": 59.230330720232516,
+     "id": "flores-03",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E223",
+     "gap_bleu": 23.287896954139942,
+     "id": "flores-05",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E234",
+     "gap_bleu": 31.66865830076672,
+     "id": "train-23",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E242",
+     "gap_bleu": 33.464494273746425,
+     "id": "train-11",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E252",
+     "gap_bleu": 36.15855225145533,
+     "id": "train-09",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E256",
+     "gap_bleu": 100.00000000000004,
+     "id": "gold-10",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E267",
+     "gap_bleu": 93.20024073195327,
+     "id": "flores-24",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E274",
+     "gap_bleu": 73.83583279879119,
+     "id": "flores-18",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E276",
+     "gap_bleu": 61.41797522526762,
+     "id": "flores-14",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E280",
+     "gap_bleu": 42.72870063962342,
+     "id": "gold-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E283",
+     "gap_bleu": 38.260042195869424,
+     "id": "train-17",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E287",
+     "gap_bleu": 70.78935411122904,
+     "id": "flores-34",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E289",
+     "gap_bleu": 45.38520603721475,
+     "id": "flores-21",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E292",
+     "gap_bleu": 43.63145848947843,
+     "id": "flores-32",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E295",
+     "gap_bleu": 71.31992424981136,
+     "id": "flores-31",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E296",
+     "gap_bleu": 65.31420255892324,
+     "id": "flores-12",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E300",
+     "gap_bleu": 72.41577342575832,
+     "id": "flores-01",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E304",
+     "gap_bleu": 34.98330125272253,
+     "id": "gold-02",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E312",
+     "gap_bleu": 31.369780804660614,
+     "id": "flores-16",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E322",
+     "gap_bleu": 92.9923845210929,
+     "id": "flores-33",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E323",
+     "gap_bleu": 100.00000000000004,
+     "id": "gold-11",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E327",
+     "gap_bleu": 56.11635827036788,
+     "id": "train-21",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E329",
+     "gap_bleu": 23.356898886410015,
+     "id": "train-04",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E332",
+     "gap_bleu": 35.49481056010054,
+     "id": "gold-05",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E334",
+     "gap_bleu": 61.04735835807847,
+     "id": "train-03",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E353",
+     "gap_bleu": 50.30989330530425,
+     "id": "flores-07",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E355",
+     "gap_bleu": 48.892302243490086,
+     "id": "gold-06",
+     "mazmun": 5.0
+    }
+   ],
+   "spearman": -0.1094132923529904
+  },
+  "GPT": {
+   "ci95": [
+    -0.24994716061481712,
+    0.27425620871222256
+   ],
+   "n": 71,
+   "nuqtalar": [
+    {
+     "element": "E010",
+     "gap_bleu": 37.5022891676693,
+     "id": "flores-03",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E021",
+     "gap_bleu": 61.04735835807847,
+     "id": "train-03",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E025",
+     "gap_bleu": 22.86867640176167,
+     "id": "flores-16",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E029",
+     "gap_bleu": 35.06059132958775,
+     "id": "flores-13",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E031",
+     "gap_bleu": 41.11336169005198,
+     "id": "gold-06",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E035",
+     "gap_bleu": 17.31111966258463,
+     "id": "train-22",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E036",
+     "gap_bleu": 59.343766256429596,
+     "id": "flores-35",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E037",
+     "gap_bleu": 29.982213893423374,
+     "id": "train-06",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E038",
+     "gap_bleu": 27.545321289806534,
+     "id": "flores-19",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E040",
+     "gap_bleu": 20.120150406405223,
+     "id": "flores-23",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E047",
+     "gap_bleu": 38.398171330793495,
+     "id": "flores-30",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E054",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-01",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E061",
+     "gap_bleu": 26.269098944241588,
+     "id": "gold-02",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E071",
+     "gap_bleu": 50.30989330530425,
+     "id": "flores-07",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E072",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-10",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E075",
+     "gap_bleu": 16.98619749062629,
+     "id": "flores-02",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E085",
+     "gap_bleu": 33.5547832843617,
+     "id": "flores-21",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E086",
+     "gap_bleu": 41.36817680097793,
+     "id": "flores-10",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E087",
+     "gap_bleu": 26.96255669423679,
+     "id": "flores-33",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E090",
+     "gap_bleu": 15.148694266083963,
+     "id": "flores-06",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E103",
+     "gap_bleu": 25.947507140745756,
+     "id": "train-02",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E108",
+     "gap_bleu": 15.911783110981515,
+     "id": "flores-20",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E109",
+     "gap_bleu": 2.8265205879007453,
+     "id": "flores-17",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E114",
+     "gap_bleu": 19.3576934939088,
+     "id": "gold-01",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E126",
+     "gap_bleu": 27.054113452696992,
+     "id": "train-00",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E140",
+     "gap_bleu": 72.03362668653467,
+     "id": "train-21",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E142",
+     "gap_bleu": 22.957488466614336,
+     "id": "gold-03",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E150",
+     "gap_bleu": 54.14646339701812,
+     "id": "train-10",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E153",
+     "gap_bleu": 31.700764910441084,
+     "id": "train-13",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E157",
+     "gap_bleu": 41.09873320110075,
+     "id": "flores-28",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E168",
+     "gap_bleu": 65.41249358573579,
+     "id": "flores-31",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E174",
+     "gap_bleu": 17.081757135480377,
+     "id": "flores-15",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E183",
+     "gap_bleu": 46.713797772819994,
+     "id": "flores-00",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E192",
+     "gap_bleu": 37.58610313819115,
+     "id": "train-16",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E196",
+     "gap_bleu": 44.40198678855148,
+     "id": "train-15",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E198",
+     "gap_bleu": 53.13936217176573,
+     "id": "flores-29",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E207",
+     "gap_bleu": 51.89501428149152,
+     "id": "flores-24",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E208",
+     "gap_bleu": 61.04735835807847,
+     "id": "flores-08",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E210",
+     "gap_bleu": 57.30574043798692,
+     "id": "train-05",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E228",
+     "gap_bleu": 46.20176466124513,
+     "id": "train-12",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E240",
+     "gap_bleu": 26.518122980477767,
+     "id": "flores-01",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E246",
+     "gap_bleu": 30.627820743065154,
+     "id": "train-20",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E248",
+     "gap_bleu": 24.116523939040327,
+     "id": "flores-32",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E255",
+     "gap_bleu": 31.751444361869975,
+     "id": "flores-18",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E257",
+     "gap_bleu": 11.678137925119039,
+     "id": "train-23",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E259",
+     "gap_bleu": 35.218565358232354,
+     "id": "flores-05",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E261",
+     "gap_bleu": 42.51587781855273,
+     "id": "train-18",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E262",
+     "gap_bleu": 56.062340430707636,
+     "id": "flores-34",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E263",
+     "gap_bleu": 43.50403810365718,
+     "id": "flores-14",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E269",
+     "gap_bleu": 61.62607099729587,
+     "id": "train-09",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E271",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-09",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E272",
+     "gap_bleu": 20.78060434846712,
+     "id": "flores-09",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E279",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-07",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E282",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-07",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E285",
+     "gap_bleu": 43.47208719449914,
+     "id": "gold-05",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E302",
+     "gap_bleu": 29.833778354838756,
+     "id": "flores-26",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E303",
+     "gap_bleu": 49.643853271687966,
+     "id": "flores-12",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E308",
+     "gap_bleu": 79.37559205024688,
+     "id": "train-14",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E313",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-08",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E314",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-08",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E316",
+     "gap_bleu": 41.60513173166676,
+     "id": "flores-27",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E320",
+     "gap_bleu": 31.02016197007,
+     "id": "train-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E324",
+     "gap_bleu": 14.949751774990691,
+     "id": "flores-04",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E326",
+     "gap_bleu": 33.96444099810251,
+     "id": "flores-22",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E335",
+     "gap_bleu": 15.89651999211257,
+     "id": "flores-25",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E346",
+     "gap_bleu": 13.05644290916736,
+     "id": "train-19",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E348",
+     "gap_bleu": 36.35834260378612,
+     "id": "train-17",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E352",
+     "gap_bleu": 19.156928817239653,
+     "id": "flores-11",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E354",
+     "gap_bleu": 42.72870063962342,
+     "id": "gold-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E358",
+     "gap_bleu": 55.745131911721316,
+     "id": "train-11",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E359",
+     "gap_bleu": 25.848657697858535,
+     "id": "gold-11",
+     "mazmun": 5.0
+    }
+   ],
+   "spearman": -0.006526518894412453
+  },
+  "GT": {
+   "ci95": [
+    -0.29773485811177564,
+    0.19771138324373685
+   ],
+   "n": 71,
+   "nuqtalar": [
+    {
+     "element": "E002",
+     "gap_bleu": 28.552619466205194,
+     "id": "train-13",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E003",
+     "gap_bleu": 49.76093899250716,
+     "id": "gold-04",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E007",
+     "gap_bleu": 61.04735835807847,
+     "id": "flores-08",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E011",
+     "gap_bleu": 50.66546237581824,
+     "id": "flores-10",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E017",
+     "gap_bleu": 46.24153990820557,
+     "id": "flores-28",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E018",
+     "gap_bleu": 34.38931217657844,
+     "id": "flores-05",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E019",
+     "gap_bleu": 11.417530270031051,
+     "id": "train-06",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E022",
+     "gap_bleu": 48.65085139702853,
+     "id": "flores-29",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E034",
+     "gap_bleu": 27.11160923635758,
+     "id": "train-20",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E042",
+     "gap_bleu": 41.94685158262138,
+     "id": "train-12",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E057",
+     "gap_bleu": 100.00000000000004,
+     "id": "gold-09",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E060",
+     "gap_bleu": 100.00000000000004,
+     "id": "gold-03",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E065",
+     "gap_bleu": 35.825892017892976,
+     "id": "flores-07",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E066",
+     "gap_bleu": 33.96444099810251,
+     "id": "flores-22",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E069",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-07",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E073",
+     "gap_bleu": 82.651681837938,
+     "id": "train-07",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E079",
+     "gap_bleu": 23.92702601822197,
+     "id": "flores-23",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E088",
+     "gap_bleu": 14.535768424205482,
+     "id": "gold-06",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E095",
+     "gap_bleu": 80.91067115702207,
+     "id": "gold-11",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E101",
+     "gap_bleu": 45.03303524166187,
+     "id": "train-03",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E107",
+     "gap_bleu": 72.82821124436853,
+     "id": "flores-24",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E110",
+     "gap_bleu": 10.04916995660316,
+     "id": "flores-06",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E111",
+     "gap_bleu": 52.555228600498,
+     "id": "flores-26",
+     "mazmun": 2.6666666666666665
+    },
+    {
+     "element": "E113",
+     "gap_bleu": 43.31017716700229,
+     "id": "flores-14",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E117",
+     "gap_bleu": 32.06376675380523,
+     "id": "flores-27",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E133",
+     "gap_bleu": 64.71755026606256,
+     "id": "train-17",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E137",
+     "gap_bleu": 2.8265205879007453,
+     "id": "flores-17",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E138",
+     "gap_bleu": 24.336789027338472,
+     "id": "flores-32",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E139",
+     "gap_bleu": 36.15855225145533,
+     "id": "train-09",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E141",
+     "gap_bleu": 47.68616292107688,
+     "id": "train-14",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E154",
+     "gap_bleu": 14.48435514408399,
+     "id": "flores-25",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E156",
+     "gap_bleu": 61.68186456860186,
+     "id": "train-23",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E163",
+     "gap_bleu": 19.156928817239653,
+     "id": "flores-11",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E177",
+     "gap_bleu": 41.4219273646435,
+     "id": "flores-19",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E180",
+     "gap_bleu": 16.097917484509626,
+     "id": "flores-02",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E190",
+     "gap_bleu": 68.0614878303051,
+     "id": "train-18",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E201",
+     "gap_bleu": 100.00000000000004,
+     "id": "gold-10",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E203",
+     "gap_bleu": 35.49481056010054,
+     "id": "gold-05",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E216",
+     "gap_bleu": 23.552074138496362,
+     "id": "flores-16",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E221",
+     "gap_bleu": 43.929751176084075,
+     "id": "flores-31",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E224",
+     "gap_bleu": 100.00000000000004,
+     "id": "gold-08",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E225",
+     "gap_bleu": 59.230330720232516,
+     "id": "flores-03",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E233",
+     "gap_bleu": 11.521590992286539,
+     "id": "gold-02",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E235",
+     "gap_bleu": 70.18491170272205,
+     "id": "flores-18",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E236",
+     "gap_bleu": 62.12508389523588,
+     "id": "flores-34",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E238",
+     "gap_bleu": 34.38931217657843,
+     "id": "flores-09",
+     "mazmun": 2.6666666666666665
+    },
+    {
+     "element": "E241",
+     "gap_bleu": 19.3576934939088,
+     "id": "gold-01",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E243",
+     "gap_bleu": 66.4019682617495,
+     "id": "flores-35",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E250",
+     "gap_bleu": 41.410458078409256,
+     "id": "train-10",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E251",
+     "gap_bleu": 15.909385168481824,
+     "id": "flores-04",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E260",
+     "gap_bleu": 38.989389329183524,
+     "id": "train-02",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E265",
+     "gap_bleu": 36.90239111198737,
+     "id": "flores-13",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E268",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-21",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E273",
+     "gap_bleu": 84.23626743789745,
+     "id": "train-08",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E284",
+     "gap_bleu": 28.78787818101128,
+     "id": "flores-01",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E291",
+     "gap_bleu": 58.29301885293051,
+     "id": "train-19",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E293",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-01",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E299",
+     "gap_bleu": 30.799978202617194,
+     "id": "flores-30",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E318",
+     "gap_bleu": 76.71043840794145,
+     "id": "train-22",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E319",
+     "gap_bleu": 45.38520603721475,
+     "id": "flores-21",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E328",
+     "gap_bleu": 19.2664685608602,
+     "id": "flores-15",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E330",
+     "gap_bleu": 29.2065824601084,
+     "id": "train-16",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E331",
+     "gap_bleu": 23.356898886410015,
+     "id": "train-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E333",
+     "gap_bleu": 15.106876986783844,
+     "id": "flores-00",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E336",
+     "gap_bleu": 9.6431097771848,
+     "id": "flores-20",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E339",
+     "gap_bleu": 55.745131911721316,
+     "id": "train-11",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E340",
+     "gap_bleu": 64.22727797927409,
+     "id": "train-05",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E341",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-00",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E342",
+     "gap_bleu": 47.574716693709235,
+     "id": "flores-33",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E349",
+     "gap_bleu": 59.06562901163929,
+     "id": "flores-12",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E357",
+     "gap_bleu": 87.25129388059685,
+     "id": "train-15",
+     "mazmun": 4.0
+    }
+   ],
+   "spearman": -0.06313069986009343
+  },
+  "Gemini": {
+   "ci95": [
+    -0.12666999752051414,
+    0.3586392198983612
+   ],
+   "n": 71,
+   "nuqtalar": [
+    {
+     "element": "E005",
+     "gap_bleu": 10.600313379512592,
+     "id": "flores-06",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E008",
+     "gap_bleu": 76.11606003349888,
+     "id": "train-08",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E009",
+     "gap_bleu": 50.66546237581824,
+     "id": "flores-10",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E012",
+     "gap_bleu": 14.252530659248798,
+     "id": "flores-25",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E014",
+     "gap_bleu": 46.59538415189962,
+     "id": "train-07",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E015",
+     "gap_bleu": 28.552619466205194,
+     "id": "train-13",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E026",
+     "gap_bleu": 20.255556775654846,
+     "id": "train-02",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E039",
+     "gap_bleu": 58.60013649524769,
+     "id": "flores-33",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E043",
+     "gap_bleu": 12.303973923740182,
+     "id": "train-16",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E044",
+     "gap_bleu": 23.356898886410015,
+     "id": "train-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E049",
+     "gap_bleu": 21.83862624080975,
+     "id": "flores-15",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E050",
+     "gap_bleu": 34.67735106324065,
+     "id": "train-20",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E051",
+     "gap_bleu": 62.888475353476544,
+     "id": "flores-35",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E055",
+     "gap_bleu": 15.007728487858982,
+     "id": "flores-20",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E063",
+     "gap_bleu": 79.94651238075208,
+     "id": "train-22",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E074",
+     "gap_bleu": 13.679192123121886,
+     "id": "flores-02",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E077",
+     "gap_bleu": 58.05313827884682,
+     "id": "flores-24",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E081",
+     "gap_bleu": 41.383778045345196,
+     "id": "flores-14",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E082",
+     "gap_bleu": 15.071676257541073,
+     "id": "flores-19",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E083",
+     "gap_bleu": 15.580105704117443,
+     "id": "flores-00",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E089",
+     "gap_bleu": 86.66415730847507,
+     "id": "train-01",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E091",
+     "gap_bleu": 61.18632547080081,
+     "id": "flores-28",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E093",
+     "gap_bleu": 30.22569428660236,
+     "id": "train-23",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E094",
+     "gap_bleu": 28.78787818101128,
+     "id": "flores-01",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E099",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-08",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E102",
+     "gap_bleu": 59.509221134368715,
+     "id": "train-11",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E115",
+     "gap_bleu": 24.71803676010997,
+     "id": "flores-30",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E122",
+     "gap_bleu": 44.48934985784412,
+     "id": "flores-26",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E124",
+     "gap_bleu": 31.27670021100431,
+     "id": "flores-18",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E125",
+     "gap_bleu": 19.156928817239653,
+     "id": "flores-11",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E129",
+     "gap_bleu": 21.444097124017667,
+     "id": "gold-01",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E136",
+     "gap_bleu": 52.07332064246719,
+     "id": "train-17",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E144",
+     "gap_bleu": 61.62607099729587,
+     "id": "train-09",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E146",
+     "gap_bleu": 56.85831588448429,
+     "id": "train-18",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E147",
+     "gap_bleu": 30.006595581138168,
+     "id": "flores-16",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E148",
+     "gap_bleu": 41.11336169005198,
+     "id": "gold-06",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E155",
+     "gap_bleu": 33.100591620904815,
+     "id": "flores-27",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E158",
+     "gap_bleu": 55.79745063955604,
+     "id": "train-12",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E159",
+     "gap_bleu": 35.825892017892976,
+     "id": "flores-07",
+     "mazmun": 4.5
+    },
+    {
+     "element": "E162",
+     "gap_bleu": 52.085344757872164,
+     "id": "flores-12",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E166",
+     "gap_bleu": 34.57207846419412,
+     "id": "gold-11",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E167",
+     "gap_bleu": 33.609969373444926,
+     "id": "flores-21",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E181",
+     "gap_bleu": 59.426181966133996,
+     "id": "flores-29",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E184",
+     "gap_bleu": 100.00000000000004,
+     "id": "train-00",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E186",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-07",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E188",
+     "gap_bleu": 36.08298537608548,
+     "id": "flores-23",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E195",
+     "gap_bleu": 57.30574043798692,
+     "id": "train-05",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E197",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-10",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E211",
+     "gap_bleu": 56.502135357020975,
+     "id": "train-15",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E213",
+     "gap_bleu": 17.915645938206772,
+     "id": "flores-05",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E215",
+     "gap_bleu": 61.04735835807847,
+     "id": "train-03",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E217",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-09",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E226",
+     "gap_bleu": 26.269098944241588,
+     "id": "gold-02",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E230",
+     "gap_bleu": 27.616109500255035,
+     "id": "flores-32",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E244",
+     "gap_bleu": 61.04735835807847,
+     "id": "flores-08",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E245",
+     "gap_bleu": 80.91067115702207,
+     "id": "gold-03",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E247",
+     "gap_bleu": 49.76093899250716,
+     "id": "gold-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E249",
+     "gap_bleu": 65.9692458566297,
+     "id": "flores-31",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E253",
+     "gap_bleu": 45.23791232712227,
+     "id": "train-14",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E266",
+     "gap_bleu": 59.492740187949,
+     "id": "flores-34",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E275",
+     "gap_bleu": 46.06992527764032,
+     "id": "train-19",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E277",
+     "gap_bleu": 33.96444099810251,
+     "id": "flores-22",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E297",
+     "gap_bleu": 15.727800941615351,
+     "id": "flores-09",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E306",
+     "gap_bleu": 16.40212036255558,
+     "id": "flores-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E309",
+     "gap_bleu": 80.43503119342873,
+     "id": "train-21",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E311",
+     "gap_bleu": 23.505204106959603,
+     "id": "flores-03",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E315",
+     "gap_bleu": 11.884631831419354,
+     "id": "train-06",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E343",
+     "gap_bleu": 37.37864949618809,
+     "id": "flores-13",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E345",
+     "gap_bleu": 37.99178428257963,
+     "id": "gold-05",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E347",
+     "gap_bleu": 13.39607095862375,
+     "id": "train-10",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E351",
+     "gap_bleu": 2.719665272174911,
+     "id": "flores-17",
+     "mazmun": 4.0
+    }
+   ],
+   "spearman": 0.1159392928428154
+  },
+  "KKT": {
+   "ci95": [
+    0.326588026633569,
+    0.7137166660183705
+   ],
+   "n": 71,
+   "nuqtalar": [
+    {
+     "element": "E001",
+     "gap_bleu": 4.406306339938217,
+     "id": "flores-07",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E004",
+     "gap_bleu": 23.397625978961173,
+     "id": "train-07",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E016",
+     "gap_bleu": 4.977587797754484,
+     "id": "flores-28",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E024",
+     "gap_bleu": 4.527091491040195,
+     "id": "flores-23",
+     "mazmun": 2.3333333333333335
+    },
+    {
+     "element": "E027",
+     "gap_bleu": 11.633270842295033,
+     "id": "flores-02",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E028",
+     "gap_bleu": 5.604233375480572,
+     "id": "train-06",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E032",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-09",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E041",
+     "gap_bleu": 4.444587794585869,
+     "id": "flores-04",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E045",
+     "gap_bleu": 6.17786518585955,
+     "id": "train-21",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E048",
+     "gap_bleu": 6.9536217213398395,
+     "id": "train-02",
+     "mazmun": 2.0
+    },
+    {
+     "element": "E064",
+     "gap_bleu": 4.8589719316429765,
+     "id": "train-12",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E067",
+     "gap_bleu": 16.233395773754953,
+     "id": "gold-11",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E068",
+     "gap_bleu": 2.159701133933343,
+     "id": "flores-17",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E070",
+     "gap_bleu": 6.384875295507791,
+     "id": "flores-19",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E076",
+     "gap_bleu": 5.063996506781411,
+     "id": "flores-08",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E078",
+     "gap_bleu": 4.9302519514605025,
+     "id": "train-19",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E096",
+     "gap_bleu": 4.368583925857938,
+     "id": "flores-11",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E098",
+     "gap_bleu": 3.4424512836655543,
+     "id": "flores-34",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E104",
+     "gap_bleu": 8.516593018819643,
+     "id": "train-04",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E112",
+     "gap_bleu": 3.4673571914671952,
+     "id": "flores-29",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E121",
+     "gap_bleu": 7.129384882260374,
+     "id": "train-00",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E123",
+     "gap_bleu": 5.595510806828872,
+     "id": "flores-22",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E128",
+     "gap_bleu": 2.502087684491276,
+     "id": "flores-18",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E134",
+     "gap_bleu": 5.024584978301581,
+     "id": "flores-09",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E135",
+     "gap_bleu": 5.919720809373671,
+     "id": "flores-24",
+     "mazmun": 2.0
+    },
+    {
+     "element": "E143",
+     "gap_bleu": 1.7910294929906738,
+     "id": "flores-25",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E145",
+     "gap_bleu": 41.11336169005198,
+     "id": "gold-06",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E152",
+     "gap_bleu": 13.612947115348515,
+     "id": "train-01",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E160",
+     "gap_bleu": 80.91067115702207,
+     "id": "gold-03",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E169",
+     "gap_bleu": 50.81327481546149,
+     "id": "gold-07",
+     "mazmun": 4.333333333333333
+    },
+    {
+     "element": "E170",
+     "gap_bleu": 33.34477432809603,
+     "id": "train-08",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E171",
+     "gap_bleu": 3.7199102928113716,
+     "id": "train-09",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E176",
+     "gap_bleu": 2.725024244507278,
+     "id": "flores-12",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E178",
+     "gap_bleu": 6.839596061560944,
+     "id": "train-05",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E182",
+     "gap_bleu": 4.899979871837547,
+     "id": "train-13",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E187",
+     "gap_bleu": 8.955425491618666,
+     "id": "train-17",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E191",
+     "gap_bleu": 3.604558701690077,
+     "id": "flores-35",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E194",
+     "gap_bleu": 3.493641888989307,
+     "id": "flores-16",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E205",
+     "gap_bleu": 7.768562846380172,
+     "id": "flores-03",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E206",
+     "gap_bleu": 3.2167339365373397,
+     "id": "flores-26",
+     "mazmun": 2.0
+    },
+    {
+     "element": "E212",
+     "gap_bleu": 6.968421672239422,
+     "id": "train-15",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E218",
+     "gap_bleu": 11.069333243807998,
+     "id": "train-22",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E222",
+     "gap_bleu": 12.35622127262679,
+     "id": "flores-10",
+     "mazmun": 2.6666666666666665
+    },
+    {
+     "element": "E227",
+     "gap_bleu": 5.189906102049057,
+     "id": "train-18",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E229",
+     "gap_bleu": 3.802351022611669,
+     "id": "flores-15",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E231",
+     "gap_bleu": 6.608973813188645,
+     "id": "flores-05",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E232",
+     "gap_bleu": 5.439330544349821,
+     "id": "flores-00",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E237",
+     "gap_bleu": 7.928399830171251,
+     "id": "train-16",
+     "mazmun": 2.0
+    },
+    {
+     "element": "E239",
+     "gap_bleu": 10.600313379512592,
+     "id": "flores-06",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E254",
+     "gap_bleu": 5.052692872671265,
+     "id": "flores-21",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E258",
+     "gap_bleu": 4.457304913937111,
+     "id": "flores-20",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E264",
+     "gap_bleu": 5.134877429943372,
+     "id": "flores-13",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E270",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-04",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E278",
+     "gap_bleu": 3.1565815411017497,
+     "id": "train-23",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E281",
+     "gap_bleu": 80.91067115702207,
+     "id": "gold-05",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E286",
+     "gap_bleu": 3.637499567096068,
+     "id": "flores-32",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E288",
+     "gap_bleu": 6.144443527712447,
+     "id": "train-10",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E290",
+     "gap_bleu": 4.33917260782892,
+     "id": "flores-33",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E294",
+     "gap_bleu": 3.784060259099577,
+     "id": "train-20",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E298",
+     "gap_bleu": 27.77619034011791,
+     "id": "gold-02",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E301",
+     "gap_bleu": 23.059473926004085,
+     "id": "train-03",
+     "mazmun": 4.666666666666667
+    },
+    {
+     "element": "E305",
+     "gap_bleu": 5.8713561115904,
+     "id": "train-11",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E310",
+     "gap_bleu": 30.739407647563215,
+     "id": "gold-10",
+     "mazmun": 5.0
+    },
+    {
+     "element": "E317",
+     "gap_bleu": 3.2808945250121386,
+     "id": "flores-14",
+     "mazmun": 3.3333333333333335
+    },
+    {
+     "element": "E321",
+     "gap_bleu": 3.5865478110384448,
+     "id": "flores-30",
+     "mazmun": 1.6666666666666667
+    },
+    {
+     "element": "E325",
+     "gap_bleu": 30.739407647563215,
+     "id": "gold-01",
+     "mazmun": 4.0
+    },
+    {
+     "element": "E337",
+     "gap_bleu": 4.444587794585869,
+     "id": "flores-01",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E338",
+     "gap_bleu": 6.3282409089137674,
+     "id": "flores-31",
+     "mazmun": 3.6666666666666665
+    },
+    {
+     "element": "E344",
+     "gap_bleu": 1.5862072096590967,
+     "id": "flores-27",
+     "mazmun": 2.6666666666666665
+    },
+    {
+     "element": "E350",
+     "gap_bleu": 4.464476787351278,
+     "id": "train-14",
+     "mazmun": 3.0
+    },
+    {
+     "element": "E360",
+     "gap_bleu": 75.98356856515926,
+     "id": "gold-08",
+     "mazmun": 5.0
+    }
+   ],
+   "spearman": 0.5457469168962422
+  }
+ },
+ "toplam": "ASOSIY 71 (gold-00 chiqarilgan)"
+}
