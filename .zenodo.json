@@ -1,0 +1,29 @@
+{
+  "title": "Uzbek–English MT: Pre-Registered Blind Human Evaluation (corpus, outputs, ratings, scripts)",
+  "upload_type": "dataset",
+  "version": "v2.0.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Sirojiddinov, Ziyoviddin",
+      "affiliation": "Kapital Insurance JSC, Innovation Development Center",
+      "orcid": "0000-0002-6249-032X"
+    },
+    {
+      "name": "Khakimov, Muftakh",
+      "affiliation": "National University of Uzbekistan named after Mirzo Ulugbek",
+      "orcid": "0000-0001-6937-800X"
+    }
+  ],
+  "description": "<p>Evaluation materials for two blind human evaluations of Uzbek–English machine translation on one frozen 72-sentence corpus.</p><p><strong>Wave 1 (July 2026, repository root):</strong> the frozen 72-sentence corpus (three stylistic layers), 216 system outputs, the blinding key, anonymized human ratings from two independent raters, per-item BLEU/chrF scores, the frozen primary analysis script, and the dated preregistration plan with amendments.</p><p><strong>Wave 2 (TOLQIN-2, October 2026, folder <code>wave2/</code>), added in version 2.0.0:</strong> five systems (a rule-based system, Gemini, Claude, GPT, Google Translate), a second human reference, a new rater panel, a 400-sentence held-out FLORES-200 layer scored automatically, the frozen scripts and results, the analysis plan and all fourteen dated amendments, and post-data supplementary analyses with their code. Accompanies the manuscript \"What Single-Reference BLEU and Small Rater Panels Can and Cannot Show: Two Blind Human Evaluations of Uzbek–English Machine Translation\" (Sirojiddinov &amp; Khakimov).</p><p>Licences: data, ratings and results CC BY 4.0; scripts MIT; FLORES-200 material under its original licence (CC BY-SA 4.0).</p>",
+  "keywords": [
+    "machine translation evaluation",
+    "Uzbek",
+    "low-resource languages",
+    "human evaluation",
+    "BLEU",
+    "preregistration",
+    "inter-rater agreement",
+    "multiple references"
+  ]
+}
